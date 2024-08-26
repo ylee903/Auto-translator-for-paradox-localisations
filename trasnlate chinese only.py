@@ -3,12 +3,49 @@ import os
 from openai import OpenAI
 from dotenv import load_dotenv
 
-# Load environment variables from .env file
-load_dotenv('keys.env')
+# Debug functions for loading .env and initializing OpenAI client
+def debug_load_dotenv(file_path):
+    if not os.path.exists(file_path):
+        raise FileNotFoundError(f"Error: Couldn't find the file at {file_path}")
+    try:
+        load_dotenv(file_path)
+        print(f"Loaded .env file from {file_path}")
+    except Exception as e:
+        raise Exception(f"Error: Couldn't load .env file. {str(e)}")
 
-# Set your OpenAI API key from environment variable
-api_key = os.getenv('OPENAI_API_KEY')
-client = OpenAI(api_key=api_key)
+def debug_get_api_key():
+    api_key = os.getenv("OPENAI_API_KEY")
+    if api_key is None:
+        raise ValueError("Error: Couldn't find the desired API key in the environment variables")
+    print("API key retrieved successfully")
+    return api_key
+
+def debug_openai_client(api_key):
+    try:
+        client = OpenAI(api_key=api_key)
+        print("OpenAI client initialized successfully")
+    except Exception as e:
+        raise Exception(f"Error: Couldn't initialize OpenAI client. {str(e)}")
+    return client
+
+# Path to the .env file
+file_path = r"D:\Documents\Self help websites and data for games etc\paradox\ck3\Auto-translator-for-paradox-localisations\keys.env"
+
+# Load environment variables from .env file
+debug_load_dotenv(file_path)
+
+# Get the OpenAI API key
+api_key = debug_get_api_key()
+
+# Print the API key for confirmation (remove in production)
+print(f"API Key: {api_key}")
+
+# Initialize OpenAI client
+client = debug_openai_client(api_key)
+
+
+
+
 
 def initialize_text_holder(file_path):
     text_holder_path = f"{file_path}_text_holder.txt"
