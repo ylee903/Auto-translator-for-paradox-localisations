@@ -1,8 +1,13 @@
 from openai import OpenAI
 import os
+from dotenv import load_dotenv
 
-# Instantiate the OpenAI client
-client = OpenAI(api_key='your-api-key-here')
+# Load environment variables from .env file
+load_dotenv('keys.env')
+
+# Set your OpenAI API key from environment variable
+api_key = os.getenv('OPENAI_API_KEY')
+client = OpenAI(api_key=api_key)
 
 def split_text(text, max_tokens=4000):
     """Splits the text into smaller chunks that fit within the token limit, without cutting through code."""
