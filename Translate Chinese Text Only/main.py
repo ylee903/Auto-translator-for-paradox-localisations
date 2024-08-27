@@ -5,7 +5,12 @@ from dotenv import load_dotenv
 from initialize_text_holder import initialize_text_holder
 from text_processing import extract_chinese_phrases
 from api_calls import translate_chinese_phrases
-from file_operations import replace_identifiers_with_translations, translate_file , translate_all_yml_files_in_directory
+from file_operations import (
+    replace_identifiers_with_translations,
+    translate_file,
+    translate_all_yml_files_in_directory,
+)
+
 
 # Debug functions for loading .env and initializing OpenAI client
 def debug_load_dotenv(file_path):
@@ -17,12 +22,16 @@ def debug_load_dotenv(file_path):
     except Exception as e:
         raise Exception(f"Error: Couldn't load .env file. {str(e)}")
 
+
 def debug_get_api_key():
     api_key = os.getenv("OPENAI_API_KEY")
     if api_key is None:
-        raise ValueError("Error: Couldn't find the desired API key in the environment variables")
+        raise ValueError(
+            "Error: Couldn't find the desired API key in the environment variables"
+        )
     print("API key retrieved successfully")
     return api_key
+
 
 def debug_openai_client(api_key):
     try:
@@ -31,6 +40,7 @@ def debug_openai_client(api_key):
     except Exception as e:
         raise Exception(f"Error: Couldn't initialize OpenAI client. {str(e)}")
     return client
+
 
 # Path to the .env file
 file_path = r"D:\Documents\Self help websites and data for games etc\paradox\ck3\Auto-translator-for-paradox-localisations\keys.env"
@@ -50,13 +60,10 @@ client = debug_openai_client(api_key)
 # Path to the directory that needs to be translated (function related to this to be implemented at a later time)
 directory_path = r""
 
-#Wait mode: determines whether program should wait for user input before continuing (function related to this to be implemented at a later time)
-#yes or no
+# Wait mode: determines whether program should wait for user input before continuing (function related to this to be implemented at a later time)
+# yes or no
 wait_mode = "no"
-
-
 
 
 # Example usage:
 translate_all_yml_files_in_directory(client)
-
