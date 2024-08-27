@@ -1,0 +1,28 @@
+UNIQUE_ID_00000000: Inner Court: The Emperor's Close Associates  
+UNIQUE_ID_00000001: Outer Court: The Central Secretariat and the Privy Council  
+UNIQUE_ID_00000002: Reform of the Flow Official System  
+UNIQUE_ID_00000003: Celestial Empire  
+UNIQUE_ID_00000004: Inner Court  
+UNIQUE_ID_00000005: Central Hub  
+UNIQUE_ID_00000006: Imperial Harem  
+UNIQUE_ID_00000007: Empire  
+UNIQUE_ID_00000008: Flow Official Management  
+UNIQUE_ID_00000009: Prince  
+UNIQUE_ID_00000010: Minister of Temples  
+UNIQUE_ID_00000011: Supervisor of Inner Eunuchs  
+UNIQUE_ID_00000012: Supervisor of Inner Eunuchs  
+UNIQUE_ID_00000013: Supervisor of Inner Eunuchs  
+UNIQUE_ID_00000014: Minister of Ecclesiastical Affairs  
+UNIQUE_ID_00000015: Minister of Ecclesiastical Affairs  
+UNIQUE_ID_00000016: Minister of Ecclesiastical Affairs  
+UNIQUE_ID_00000017: Hanlin Academic Scholar  
+UNIQUE_ID_00000018: Hanlin Academic Scholar  
+UNIQUE_ID_00000019: Co-Equal Chancellor  
+UNIQUE_ID_00000020: Co-Equal Chancellor  
+UNIQUE_ID_00000021: Co-Equal Chancellor  
+UNIQUE_ID_00000022: Privy Envoy  
+UNIQUE_ID_00000023: Privy Envoy  
+UNIQUE_ID_00000024: Privy Envoy  
+UNIQUE_ID_00000025: Deputy Chancellor  
+UNIQUE_ID_00000026: Deputy Chancellor  
+UNIQUE_ID_00000027: Deputy Chancellor
