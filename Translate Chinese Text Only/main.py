@@ -2,10 +2,10 @@ import re
 import os
 from openai import OpenAI
 from dotenv import load_dotenv
-from initialize_text_holder import initialize_text_Holder
+from initialize_text_holder import initialize_text_holder
 from text_processing import extract_chinese_phrases
 from api_calls import translate_chinese_phrases
-from file_operations import replace_identifiers_with_translations, translate_file, translate_all_yml_files_in_directory
+from file_operations import replace_identifiers_with_translations, translate_file , translate_all_yml_files_in_directory
 
 # Debug functions for loading .env and initializing OpenAI client
 def debug_load_dotenv(file_path):
@@ -55,5 +55,8 @@ directory_path = r""
 wait_mode = "no"
 
 
+
+
 # Example usage:
-translate_all_yml_files_in_directory()
+translate_all_yml_files_in_directory(client)
+

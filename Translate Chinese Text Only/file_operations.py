@@ -2,7 +2,6 @@ import os
 from initialize_text_holder import initialize_text_holder
 from text_processing import extract_chinese_phrases
 from api_calls import translate_chinese_phrases
-from file_operations import replace_identifiers_with_translations, translate_file, translate_all_yml_files_in_directory
 
 def replace_identifiers_with_translations(text, translated_holder_path):
     """Replaces unique identifiers in the original text with their corresponding translated phrases."""
@@ -43,12 +42,3 @@ def translate_file(file_path, client):
         file.write(final_translated_content)
 
     print(f"Translation complete. Translated file saved as {file_path}")
-
-def translate_all_yml_files_in_directory(client):
-    current_directory = os.path.dirname(os.path.abspath(__file__))
-    for file_name in os.listdir(current_directory):
-        if file_name.endswith('.yml'):
-            file_path = os.path.join(current_directory, file_name)
-            print(f"\nTranslating file: {file_name}")
-            translate_file(file_path, client)
-            print("\nWaiting a few seconds before moving to the next file...\n")
