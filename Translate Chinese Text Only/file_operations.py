@@ -49,16 +49,6 @@ def translate_file(file_path, client):
     print(f"Translation complete. Translated file saved as {file_path}")
 
 
-def translate_all_yml_files_in_directory(client):
-    current_directory = os.path.dirname(os.path.abspath(__file__))
-    for file_name in os.listdir(current_directory):
-        if file_name.endswith(".yml"):
-            file_path = os.path.join(current_directory, file_name)
-            print(f"\nTranslating file: {file_name}")
-            translate_file(file_path, client)
-            print("\nWaiting a few seconds before moving to the next file...\n")
-
-
 # added functions
 def read_yaml_content(file_path):
     """Reads the original YAML content from the file."""
