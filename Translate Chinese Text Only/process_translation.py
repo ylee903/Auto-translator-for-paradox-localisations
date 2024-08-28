@@ -1,4 +1,4 @@
-from text_processing import extract_chinese_phrases
+from extract_chinese_phrases import extract_chinese_phrases
 from api_calls import translate_chinese_phrases
 from file_operations import replace_identifiers_with_translations
 

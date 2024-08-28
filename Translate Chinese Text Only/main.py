@@ -1,7 +1,10 @@
 import os
 import time
-from initialize_text_holder import initialize_text_holder
-from translation_operations import process_translation
+from initialize_text_holder import (
+    initialize_untranslated_text_holder,
+    initialize_translated_holder,
+)
+from process_translation import process_translation
 from file_io import read_yaml_content, save_translated_content
 from api_key_loader import debug_load_dotenv, debug_get_api_key, debug_openai_client
 
@@ -49,20 +52,24 @@ def translate_file(file_path, client):
     print("Initializing text holders")
     wait_if_needed(wait_mode)
     """Main function to handle the translation of a YAML file."""
-    text_holder_path = initialize_text_holder(file_path)
-    translated_holder_path = f"{text_holder_path}_translated.txt"  # Assuming you want the translated holder initialized as well
-    with open(translated_holder_path, "w", encoding="utf-8") as file:
-        file.write("")  # Start with an empty file
+    untranslated_text_holder_path = initialize_untranslated_text_holder(file_path)
+
+    # Initialize the translated text holder using the new function
+    translated_holder_path = initialize_translated_holder(untranslated_text_holder_path)
 
     # Step 2: Read the original YAML content
     print("Reading the original YAML content")
     wait_if_needed(wait_mode)
     content = read_yaml_content(file_path)
 
-    # Step 3: Process the translation (extract, translate, replace)
-    print("Processing the translation (extract, translate, replace)")
+    # Step 3: Process the translation (extract and pair with key (replace extracted with key) translate, replace)
+    print(
+        "Processing the translation (extract and pair with key (replace extracted with key) translate, replace)"
+    )
     wait_if_needed(wait_mode)
-    final_translated_content = process_translation(content, text_holder_path, client)
+    final_translated_content = process_translation(
+        content, untranslated_text_holder_path, client
+    )
 
     # Step 4: Save the final translated content back to the original file
     print("Saving the final translated content back to the original file")
