@@ -1,0 +1,60 @@
+Chunk 1 sent to API:
+内廷：皇帝的身边人
+外朝：中书省和枢密院
+修订流官制度
+天朝帝国
+内廷
+中枢
+后宫
+帝国
+流官管理
+藩王
+寺监卿
+内侍监
+内侍监
+内侍监
+宗正卿
+宗正卿
+宗正卿
+翰林学士承旨
+翰林学士承旨
+同平章事
+同平章事
+同平章事
+枢密使
+枢密使
+枢密使
+参知政事
+参知政事
+参知政事
+
+Chunk 1 received from API:
+Inner Court: People around the Emperor
+Outer Court: Chancellery and Privy Council
+Revising the Roving Official System
+Celestial Empire
+Inner Court
+Central Government
+Harem
+Empire
+Roving Official Management
+Vassal King
+Temple Inspector
+Eunuch Director
+Eunuch Director
+Eunuch Director
+Minister of Rites
+Minister of Rites
+Minister of Rites
+Bachelor of Hanlin Serving Purpose
+Bachelor of Hanlin Serving Purpose
+Chancellor
+Chancellor
+Chancellor
+Privy Counselor
+Privy Counselor
+Privy Counselor
+Councilor
+Councilor
+Councilor
+

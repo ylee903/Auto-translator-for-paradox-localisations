@@ -1,0 +1,120 @@
+Chunk 1 sent to API:
+内廷：皇帝的身边人
+外朝：中书省和枢密院
+修订流官制度
+天朝帝国
+内廷
+中枢
+后宫
+帝国
+流官管理
+藩王
+寺监卿
+内侍监
+内侍监
+内侍监
+宗正卿
+宗正卿
+宗正卿
+翰林学士承旨
+翰林学士承旨
+同平章事
+同平章事
+同平章事
+枢密使
+枢密使
+枢密使
+参知政事
+参知政事
+参知政事
+
+Chunk 1 received from API:
+Inner Court: Those close to the Emperor
+Outer Court: Chancellery and Privy Council
+Reform the Stream Official System
+The Heavenly Empire
+Inner Court
+Central
+Harem
+Empire
+Stream Official Management
+Vassal King
+Temple Inspector
+Eunuch Supervisor
+Eunuch Supervisor
+Eunuch Supervisor
+Clan Affairs Commissioner
+Clan Affairs Commissioner
+Clan Affairs Commissioner
+Hanlin Bachelor Bearing the Imperial Mandate
+Hanlin Bachelor Bearing the Imperial Mandate
+Co-Chancellor
+Co-Chancellor
+Co-Chancellor
+Privy Councilor
+Privy Councilor
+Privy Councilor
+Councillor of State
+Councillor of State
+Councillor of State
+
+Chunk 1 sent to API:
+内廷：皇帝的身边人
+外朝：中书省和枢密院
+修订流官制度
+天朝帝国
+内廷
+中枢
+后宫
+帝国
+流官管理
+藩王
+寺监卿
+内侍监
+内侍监
+内侍监
+宗正卿
+宗正卿
+宗正卿
+翰林学士承旨
+翰林学士承旨
+同平章事
+同平章事
+同平章事
+枢密使
+枢密使
+枢密使
+参知政事
+参知政事
+参知政事
+
+Chunk 1 received from API:
+Inner Court: The Emperor's confidants
+Outer Court: The Secretariat and the Privy Council
+Revision of Roving Officials System
+Celestial Empire
+Inner Court
+Central Administration
+Imperial Harem
+Empire
+Roving Officials Management
+Vassal Kings
+Temple Inspectorate
+Palace Eunuch
+Palace Eunuch
+Palace Eunuch
+Head of Clan Affairs
+Head of Clan Affairs
+Head of Clan Affairs
+Imperial Scholar
+Imperial Scholar
+Co-Chancellor
+Co-Chancellor
+Co-Chancellor
+Privy Councillor
+Privy Councillor
+Privy Councillor
+Councillor of State
+Councillor of State
+Councillor of State
+
