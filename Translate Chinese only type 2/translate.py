@@ -29,7 +29,7 @@ model_name = (
     "gpt-4o-mini"  # Can be "gpt-4", "gpt-3.5-turbo", or any other supported model
 )
 
-# Parameter to determine if the program will ignore mismatches in the number of lines
+# Parameter to determine if the program will ignore mismatches in the number of lines/sub-IDs
 ignore_mismatch = True  # Set to True to ignore mismatches, False to raise an error
 
 # Retry configuration
@@ -179,54 +179,47 @@ async def translate_chunk_async(chunk, session, chunk_index, semaphore):
                             f"Chunk {chunk_index + 1} received from API:\n{translated_text}\n\n"
                         )
 
-                # Handle mismatches
+                # Remove sub-IDs before further processing
                 if enable_sub_ids:
-                    # Use sub-IDs to align phrases
-                    aligned_phrases = [None] * len(chunk)
-                    received_sub_ids = [
-                        phrase.split(" ", 1)[0] for phrase in translated_phrases
+                    translated_phrases = [
+                        phrase.split(" ", 1)[-1] for phrase in translated_phrases
                     ]
-                    for i, (unique_id, phrase) in enumerate(chunk):
-                        sub_id = f"{ID_FORMAT.format(i)}"
-                        if sub_id in received_sub_ids:
-                            aligned_phrases[i] = translated_phrases[
-                                received_sub_ids.index(sub_id)
-                            ]
-                        else:
-                            aligned_phrases[i] = "[MISSING]"
-                else:
-                    # Fallback to simpler logic if sub-IDs are not enabled
-                    if len(translated_phrases) != len(chunk):
-                        aligned_phrases = translated_phrases + ["[MISSING]"] * (
-                            len(chunk) - len(translated_phrases)
-                        )
+
+                # Check if the number of sub-IDs (or lines if sub-IDs are disabled) match
+                if enable_sub_ids:
+                    original_sub_ids = [i for i, _ in enumerate(chunk)]
+                    translated_sub_ids = [i for i in range(len(translated_phrases))]
+                    if original_sub_ids != translated_sub_ids:
+                        aligned_phrases = [None] * len(chunk)
+                        for i, (unique_id, _) in enumerate(chunk):
+                            if i < len(translated_phrases):
+                                aligned_phrases[i] = translated_phrases[i]
+                            else:
+                                aligned_phrases[i] = f"[MISSING]"
+                        if not ignore_mismatch:
+                            raise ValueError(
+                                f"Error: Mismatch in the number of sub-IDs sent and received "
+                                f"for chunk {chunk_index + 1}. "
+                                f"Sent {len(chunk)} sub-IDs, received {len(translated_phrases)} sub-IDs."
+                            )
                     else:
                         aligned_phrases = translated_phrases
-
-                mismatch_log_path = log_file_path.replace(
-                    "chunks_log.txt", f"mismatch_chunk_{chunk_index + 1}.txt"
-                )
-                if len(translated_phrases) != len(chunk):
-                    with open(mismatch_log_path, "w", encoding="utf-8") as mismatch_log:
-                        mismatch_log.write(
-                            f"Chunk {chunk_index + 1} sent to API:\n{text_to_translate}\n\n"
-                        )
-                        mismatch_log.write(
-                            f"Chunk {chunk_index + 1} received from API:\n{translated_text}\n\n"
-                        )
-                        if diagnostics:
-                            mismatch_log.write(
-                                f"Diagnostic information:\n{diagnostics}\n\n"
+                else:
+                    if len(translated_phrases) != len(chunk):
+                        aligned_phrases = [None] * len(chunk)
+                        for i, (unique_id, _) in enumerate(chunk):
+                            if i < len(translated_phrases):
+                                aligned_phrases[i] = translated_phrases[i]
+                            else:
+                                aligned_phrases[i] = f"[MISSING]"
+                        if not ignore_mismatch:
+                            raise ValueError(
+                                f"Error: Mismatch in the number of lines sent and received "
+                                f"for chunk {chunk_index + 1}. "
+                                f"Sent {len(chunk)} lines, received {len(translated_phrases)} lines."
                             )
-                    error_message = (
-                        f"Error: Mismatch in the number of lines sent and received "
-                        f"for chunk {chunk_index + 1}. "
-                        f"Sent {len(chunk)} lines, received {len(translated_phrases)} lines. "
-                        f"Details logged to {mismatch_log_path}."
-                    )
-                    print(error_message)
-                    if not ignore_mismatch:
-                        raise ValueError(error_message)
+                    else:
+                        aligned_phrases = translated_phrases
 
                 translated_chunk = {
                     unique_id: translated_phrase
