@@ -1,3 +1,4 @@
+# main
 import os
 import time
 from initialize_text_holder import initialize_text_holder
