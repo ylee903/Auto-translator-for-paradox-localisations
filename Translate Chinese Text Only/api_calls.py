@@ -114,3 +114,6 @@ def batch_openai_api_call(
     except requests.exceptions.RequestException as e:
         print(f"Batch API Request failed: {str(e)}")
         raise
+
+
+# this is nothing
