@@ -1,0 +1,109 @@
+Chunk 22 sent to API:
+ID000 巩固城防
+ID001 坚壁清野
+ID002 强制征兵
+ID003 协助城建
+ID004 驻军征税
+ID005 巡视牧场
+ID006 组织劫掠
+ID007 切舍御免
+ID008 征召兵包括牧民、游荡的猎人、当地佣兵以及落魄贵族——他们数量庞大，大多骑马作战，构成了军队的主体。
+ID009 征召兵包括农民兵、地痞、当地佣兵以及落魄贵族，装备着五花八门的工具和东拼西凑的武器——他们数量庞大，构成了大部分军队的主体。
+ID010 征召兵包括农民兵、地痞、当地佣兵以及落魄贵族，装备着五花八门的工具和东拼西凑的武器——他们数量庞大，构成了大部分军队的主体。
+ID011 圣战士
+ID012 圣战士
+ID013 劫掠者
+ID014 劫掠者
+ID015 部落冠军
+ID016 部落冠军
+ID017 农民领袖
+ID018 农民领袖
+ID019 百战老农
+ID020 牙兵派系
+ID021 牙兵[faction|E]的诉求是更多的[gold|E]，更广阔的[realm|E]以及更优越的地位。积极互动，与你的[knights|E]们保持良好#关系。\n\n#S 最后通牒#!\n所有派系成员获得[gold|E]，[prestige|E]，[army|E]以及[realm|E]\n[deposed|E]现任[liege|E]并推举一位新的[liege|E]。
+ID022 希望攫取更多利益
+ID023 你不是[knights|E]
+ID024 你[liege|E]的组织形式不是#V 军府#!
+ID025 你[liege|E]的[government|E]不是#V 军镇制#!
+ID026 牙兵叛乱
+ID027 渴望金钱：$VALUE|=+0$
+ID028 游牧ai发展方向：通用（文化交流，技术革新)(加buff，偷革新)
+ID029 游牧ai发展方向：通用（文化交流，技术革新)(加buff，偷革新)。
+ID030 文化交流，技术革新
+ID031 文化交流，技术革新
+ID032 游牧ai发展方向：通用（贸易通商)
+ID033 游牧ai发展方向：通用（贸易通商)。
+ID034 贸易通商
+ID035 贸易通商
+ID036 游牧ai发展方向：通用（征服/快速吃地)
+ID037 游牧ai发展方向：通用（征服/快速吃地)。
+ID038 征服/快速吃地
+ID039 征服/快速吃地
+ID040 游牧ai发展方向：帝国式征服者（加buff）
+ID041 这类政权以强大的军事力量和领导力为特征，往往通过征服周边地区来建立广大的帝国。\n蒙古帝国是典型的帝国式征服者。成吉思汗及其后继者统一了蒙古草原，迅速征服了亚洲和欧洲大片领土，建立了一个庞大的帝国。
+ID042 战争
+ID043 战争
+ID044 游牧ai发展方向：帝国式征服者（ai策略）
+ID045 这类政权以强大的军事力量和领导力为特征，往往通过征服周边地区来建立广大的帝国。\n蒙古帝国是典型的帝国式征服者。成吉思汗及其后继者统一了蒙古草原，迅速征服了亚洲和欧洲大片领土，建立了一个庞大的帝国。
+ID046 策略
+ID047 策略
+ID048 游牧ai发展方向：帝国式征服者（ai应对派系）
+ID049 这类政权以强大的军事力量和领导力为特征，往往通过征服周边地区来建立广大的帝国。\n蒙古帝国是典型的帝国式征服者。成吉思汗及其后继者统一了蒙古草原，迅速征服了亚洲和欧洲大片领土，建立了一个庞大的帝国。
+
+Chunk 22 received from API:
+ID000 Fortify the City Defense  
+ID001 Fortify the Plains  
+ID002 Forced Conscription  
+ID003 Assist in Construction  
+ID004 Garrison Taxation  
+ID005 Patrol the Pastures  
+ID006 Organize Raids  
+ID007 Exempt from Taxes  
+ID008 The conscripts include herders, wandering hunters, local mercenaries, and fallen nobles—numbering in large quantities, mostly fighting on horseback, making up the main body of the army.  
+ID009 The conscripts include militia farmers, ruffians, local mercenaries, and fallen nobles, equipped with an array of tools and makeshift weapons—numbering in large quantities, forming the bulk of the army.  
+ID010 The conscripts include militia farmers, ruffians, local mercenaries, and fallen nobles, equipped with an array of tools and makeshift weapons—numbering in large quantities, forming the bulk of the army.  
+ID011 Crusaders  
+ID012 Crusaders  
+ID013 Raiders  
+ID014 Raiders  
+ID015 Tribal Champions  
+ID016 Tribal Champions  
+ID017 Peasant Leaders  
+ID018 Peasant Leaders  
+ID019 Veteran Farmer  
+ID020 Spearmen Faction  
+ID021 The demands of the Spearmen [faction|E] are more [gold|E], a wider [realm|E], and superior status. Engage proactively to maintain good #relationships with your [knights|E].\n\n#S Ultimatum#!\nAll faction members gain [gold|E], [prestige|E], [army|E], and [realm|E]\n[deposed|E] the current [liege|E] and elect a new [liege|E].  
+ID022 Hope to seize more benefits  
+ID023 You are not [knights|E]  
+ID024 Your [liege|E] organization is not #V military government#!  
+ID025 Your [liege|E]'s [government|E] is not #V military settlement#!  
+ID026 Spearmen Revolt  
+ID027 Desire for Money: $VALUE|=+0$  
+ID028 Nomadic AI Development Path: General (Cultural Exchange, Technological Innovation) (Add buffs, steal innovation)  
+ID029 Nomadic AI Development Path: General (Cultural Exchange, Technological Innovation) (Add buffs, steal innovation).  
+ID030 Cultural Exchange, Technological Innovation  
+ID031 Cultural Exchange, Technological Innovation  
+ID032 Nomadic AI Development Path: General (Trade and Commerce)  
+ID033 Nomadic AI Development Path: General (Trade and Commerce).  
+ID034 Trade and Commerce  
+ID035 Trade and Commerce  
+ID036 Nomadic AI Development Path: General (Conquest/Rapid Expansion)  
+ID037 Nomadic AI Development Path: General (Conquest/Rapid Expansion).  
+ID038 Conquest/Rapid Expansion  
+ID039 Conquest/Rapid Expansion  
+ID040 Nomadic AI Development Path: Imperial Conqueror (Add buffs)  
+ID041 This type of regime is characterized by strong military power and leadership, often establishing vast empires through the conquest of surrounding territories.\nThe Mongol Empire is a typical example of an imperial conqueror. Genghis Khan and his successors unified the Mongolian steppe and rapidly conquered large territories in Asia and Europe, establishing a massive empire.  
+ID042 War  
+ID043 War  
+ID044 Nomadic AI Development Path: Imperial Conqueror (AI Strategy)  
+ID045 This type of regime is characterized by strong military power and leadership, often establishing vast empires through the conquest of surrounding territories.\nThe Mongol Empire is a typical example of an imperial conqueror. Genghis Khan and his successors unified the Mongolian steppe and rapidly conquered large territories in Asia and Europe, establishing a massive empire.  
+ID046 Strategy  
+ID047 Strategy  
+ID048 Nomadic AI Development Path: Imperial Conqueror (AI Response Factions)  
+ID049 This type of regime is characterized by strong military power and leadership, often establishing vast empires through the conquest of surrounding territories.\nThe Mongol Empire is a typical example of an imperial conqueror. Genghis Khan and his successors unified the Mongolian steppe and rapidly conquered large territories in Asia and Europe, establishing a massive empire.  
+
+
+
+Diagnostic information:
+All lines were successfully translated, and no translation issues were encountered. The number of lines and IDs in the input matched perfectly with the output.
+

@@ -1,0 +1,109 @@
+Chunk 13 sent to API:
+ID000 边境劫掠者
+ID001 为防御周边穆斯林，本军区稍有作战能力的即可入伍，包括强盗与不法分子。他们毫无道德可言，以灵活多变的战斗方式和缺饷后对平民做出的恶行而闻名。
+ID002 投石步兵
+ID003 掷出石块骚扰敌人的轻装投石手，手法娴熟，一击脱离。
+ID004 轻装标枪手
+ID005 轻装出击的投枪手，装备简陋但行动迅速。
+ID006 先锋轻骑
+ID007 以速度和灵活著称的拜占庭轻骑兵，装备有弓箭、标枪，尤其擅长一击脱离的游击战术。
+ID008 营堡护卫
+ID009 长期驻扎在边境堡垒中的重装要塞守卫。
+ID010 长桌游士
+ID011 边境巡逻的轻装骑士，发现敌情即刻向上汇报并密切监视其动向。
+ID012 边境掠骑
+ID013 防备敌军骑兵的快速反应部队，能在第一时间做出反应并上前游击骚扰。
+ID014 安萨尔轻骑
+ID015 这些往来于朝圣之路的骑兵护卫着一批又一批虔诚的信徒。
+ID016 迅捷卫队
+ID017 他们是穆斯林征服叙利亚期间拉什顿军团的一支精锐轻骑兵部队，在大马士革围城战中以惊人的速度扭转了攻势，大败不可一世的拜占庭军队。
+ID018 炉卫
+ID019 徘徊于皇帝陛下身周，戒备森严的超重型装甲骑兵。
+ID020 炉卫
+ID021 徘徊于皇帝陛下身周，戒备森严的超重型装甲骑兵。
+ID022 马穆鲁克重骑兵
+ID023 这些经过长期训练的奴隶战士组成了我们强大的重骑兵部队，我预感他们将在未来的某场战斗中大放异彩。
+ID024 马穆鲁克骑射手
+ID025 我们的马穆鲁克奴隶战士极富战斗力，其中佼佼者的骑射技术甚至不逊于那些从小在马背上长大的游牧民族射手。
+ID026 铁甲骆驼骑兵
+ID027 为骆驼制作盔甲不是容易的工作，但回报非常值得。骇人的全甲骆驼一次冲锋就能让骑马的军队夹着尾巴逃跑。
+ID028 阿萨维拉
+ID029 这些皈依吾主的波斯武士人马具甲，他们的铁骑在几个世纪前曾立下不世之功。
+ID030 乌古斯雇佣骑兵
+ID031 乌古斯骑兵是优秀的侦察兵与突击手，他们远赴伊比利亚地区，为一切出得起价钱的雇主卖命。
+ID032 阿布纳
+ID033 我们千锤百炼的战士能在长矛与大刀下稳步推进，他们熟练地使用短矛与标枪，杀死任何敢于正面来犯的敌人。超强的纪律性使得他们丝毫不惧贴身肉搏，他们手中的短剑和匕首将给予敌人致命一击。
+ID034 古拉姆重骑兵
+ID035 这些常年战斗在一线的重装奴隶骑兵既忠诚又强大，他们以悍不畏死的战斗风格而闻名于世。
+ID036 古拉姆重骑兵
+ID037 这些常年战斗在一线的重装奴隶骑兵既忠诚又强大，他们以悍不畏死的战斗风格而闻名于世。
+ID038 库尔德掷矛手
+ID039 这些古老的山间战士能用简易的投矛对敌人造成大量伤害。
+ID040 伊克塔剑士
+ID041 穆斯林统治者征募的青壮年战士，用于维护地区秩序。
+ID042 古扎特圣战志愿军
+ID043 狂热的宗教战军，一切异端都将被碾为齑粉。
+ID044 奴隶战士
+ID045 难堪大用的奴兵，装备破烂，纪律涣散，只能用作填线的炮灰。
+ID046 奴隶战士
+ID047 难堪大用的奴兵，装备破烂，纪律涣散，只能用作填线的炮灰
+ID048 奴隶战士
+ID049 难堪大用的奴兵，装备破烂，纪律涣散，只能用作填线的炮灰
+
+Chunk 13 received from API:
+ID000 Border Raiders  
+ID001 To defend against nearby Muslims, any military zone that has slight combat capability can enlist, including bandits and outlaws. They are known for their lack of morals, flexible and varied combat methods, and atrocities against civilians when lacking pay.  
+ID002 Stone-Throwing Infantry  
+ID003 Light infantry throwers who disturb the enemy with stones, skilled in their craft, capable of a quick retreat.  
+ID004 Light Javelin Thrower  
+ID005 A javelin thrower who strikes quickly with simple equipment.  
+ID006 Vanguard Light Cavalry  
+ID007 Byzantine light cavalry known for speed and agility, equipped with bows and javelins, particularly excelling in quick hit-and-run guerrilla tactics.  
+ID008 Barracks Guardians  
+ID009 Heavily armored fortress guards stationed for a long time in border fortifications.  
+ID010 Long Table Knights  
+ID011 Lightly armored knights patrolling the borders, reporting enemy situations immediately and closely monitoring their movements.  
+ID012 Border Raiders  
+ID013 Quick response troops prepared against enemy cavalry, capable of responding immediately and launching hit-and-run harassment.  
+ID014 Ansar Light Cavalry  
+ID015 These cavalry patrol the pilgrimage routes, guarding batches of pious believers.  
+ID016 Swift Guard  
+ID017 They are an elite light cavalry unit of the Rashidun army during the Muslim conquest of Syria, who turned the tide with remarkable speed during the Siege of Damascus, decisively defeating the formidable Byzantine army.  
+ID018 Imperial Guard  
+ID019 Heavily armored cavalry, vigilantly roaming around His Majesty the Emperor.  
+ID020 Imperial Guard  
+ID021 Heavily armored cavalry, vigilantly roaming around His Majesty the Emperor.  
+ID022 Mamluk Heavy Cavalry  
+ID023 These slave soldiers trained over a long period make up our powerful heavy cavalry unit, and I sense they will shine brightly in an upcoming battle.  
+ID024 Mamluk Mounted Archers  
+ID025 Our Mamluk slave soldiers are highly combat-effective, with the best among them having archery skills that rival those of nomadic archers raised on horseback.  
+ID026 Armored Camel Cavalry  
+ID027 Making armor for camels is no easy task, but the rewards are well worth it. A terrifyingly armored camel can send a mounted army fleeing with its charge.  
+ID028 Asawira  
+ID029 These Persian warriors who have turned to our Lord are heavily armored; their iron cavalry achieved extraordinary feats centuries ago.  
+ID030 Uğur Mercenary Cavalry  
+ID031 Uğur cavalry are excellent scouts and shock troops, traveling to the Iberian region to serve any employer who can pay the price.  
+ID032 Abnaa  
+ID033 Our battle-hardened warriors can advance steadily under the thrust of spears and broadswords, skillfully wielding short spears and javelins to kill anyone who dares to approach. Their extreme discipline makes them unafraid of close combat, with the shortswords and daggers in their hands delivering deadly blows to the enemy.  
+ID034 Ghulam Heavy Cavalry  
+ID035 These heavy slave cavalry, who frequently battle on the front lines, are both loyal and powerful, known for their fearless fighting style.  
+ID036 Ghulam Heavy Cavalry  
+ID037 These heavy slave cavalry, who frequently battle on the front lines, are both loyal and powerful, known for their fearless fighting style.  
+ID038 Kurdish Spearmen  
+ID039 These ancient mountain warriors can inflict significant damage to the enemy using simple throwing spears.  
+ID040 Ikhtiyar Swordsmen  
+ID041 Young men recruited by Muslim rulers to maintain regional order.  
+ID042 Ghuzat Crusader Volunteers  
+ID043 Fanatical religious warriors, all heretics will be crushed to dust.  
+ID044 Slave Warriors  
+ID045 Unreliable slave soldiers, poorly equipped and lacking discipline, only useful as cannon fodder.  
+ID046 Slave Warriors  
+ID047 Unreliable slave soldiers, poorly equipped and lacking discipline, only useful as cannon fodder.  
+ID048 Slave Warriors  
+ID049 Unreliable slave soldiers, poorly equipped and lacking discipline, only useful as cannon fodder.  
+
+
+
+Diagnostic information:
+- Each line from the original text has been translated to English, and the number of lines matches. No lines were missing, and all translations were completed accurately.
+

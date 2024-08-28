@@ -1,0 +1,110 @@
+Chunk 9 sent to API:
+ID000 发动一揆（ai）
+ID001 发动一揆
+ID002 蜂起は成功するだろう
+ID003 僧侶や兵士を動員する
+ID004 僧侶の連隊が武装している
+ID005 组建羽林军
+ID006 天命在此！
+ID007 天下请伏
+ID008 盛世当用强兵，组建羽林军！
+ID009 组建羽林军
+ID010 大唐盛世时，通过由长安直抵地中海沿岸的丝绸之路，将古老而灿烂的中华文明传播四海，世界各国的国君、使臣、客商、僧侣、学生、工匠、医生、胡姬纷至沓而来。他们进入大唐帝国的领土，看到那些车水马龙的繁华都市，无不由衷的惊叹。\n今日！\n再造盛唐！
+ID011 我的威名将传遍四海。
+ID012 组建龙武军
+ID013 天命在此！
+ID014 天下请伏
+ID015 盛世当用强兵，组建龙武军！
+ID016 组建龙武军
+ID017 大唐盛世时，通过由长安直抵地中海沿岸的丝绸之路，将古老而灿烂的中华文明传播四海，世界各国的国君、使臣、客商、僧侣、学生、工匠、医生、胡姬纷至沓而来。他们进入大唐帝国的领土，看到那些车水马龙的繁华都市，无不由衷的惊叹。\n今日！\n再造盛唐！
+ID018 我的威名将传遍四海。
+ID019 龙武军
+ID020 振兴马政（ai）
+ID021 振兴马政
+ID022 推行保马法，泽披后世！
+ID023 推行保马法......
+ID024 颁布保马法，泽披后世！
+ID025 颁布保马法！
+ID026 规定河北、河东、陕西、京东、西五路及开封府界诸县保甲养马，户一匹，物力高而自愿者二匹，给以官马，或官给钱自买。养马户可减免部分赋税。三等以上户十户为一保，四等以下户十户为一社。保户马病死，由养马户单独赔偿；社户马病死，由养马户与其他九户共偿其半。\n\n传朕旨意：颁布保马法！
+ID027 善！
+ID028 你解锁了[GetMaA('majun').GetName][men_at_arms|E]。\n你解锁了[GetMaA('jingsaitieqi').GetName][men_at_arms|E]。
+ID029 地区测试（ai）
+ID030 招募奴兵（ai）
+ID031 招募奴兵（ai）
+ID032 补充奴兵（ai）
+ID033 奴兵
+ID034 仁者爱人（ai）
+ID035 仁者爱人（ai）
+ID036 蒙古军团
+ID037 成吉思汗火星兵（ai）
+ID038 成吉思汗火星兵（ai）
+ID039 统一女真诸部（ai）
+ID040 组建铁鹞子（ai）
+ID041 组建铁鹞子（ai）
+ID042 组建禁军（ai）
+ID043 组建禁军（ai）
+ID044 扩充弩手（ai）
+ID045 扩充陌刀手（ai）
+ID046 扩充牙兵（ai）
+ID047 训练铁浮图（ai）
+ID048 训练铁浮图（ai）
+ID049 扩充马军（ai）
+
+Chunk 9 received from API:
+ID000 Launch a rebellion (ai)  
+ID001 Launch a rebellion  
+ID002 The uprising will succeed  
+ID003 Mobilize monks and soldiers  
+ID004 The monk regiment is armed  
+ID005 Form the Imperial Guard  
+ID006 The mandate is here!  
+ID007 The world, please bow!  
+ID008 In times of prosperity, strong troops should be used; form the Imperial Guard!  
+ID009 Form the Imperial Guard  
+ID010 During the prosperous Tang Dynasty, the ancient and brilliant Chinese civilization spread across the seas through the Silk Road that went directly from Chang'an to the Mediterranean coast. Rulers, envoys, merchants, monks, students, craftsmen, doctors, and courtesans from various countries came in droves. They entered the territory of the Tang Empire and were in awe of the bustling cities filled with busy traffic.\nToday!\nRecreate the glorious Tang!  
+ID011 My reputation will spread across the seas.  
+ID012 Form the Dragon Troops  
+ID013 The mandate is here!  
+ID014 The world, please bow!  
+ID015 In times of prosperity, strong troops should be used; form the Dragon Troops!  
+ID016 Form the Dragon Troops  
+ID017 During the prosperous Tang Dynasty, the ancient and brilliant Chinese civilization spread across the seas through the Silk Road that went directly from Chang'an to the Mediterranean coast. Rulers, envoys, merchants, monks, students, craftsmen, doctors, and courtesans from various countries came in droves. They entered the territory of the Tang Empire and were in awe of the bustling cities filled with busy traffic.\nToday!\nRecreate the glorious Tang!  
+ID018 My reputation will spread across the seas.  
+ID019 Dragon Troops  
+ID020 Revitalize the horse policy (ai)  
+ID021 Revitalize the horse policy  
+ID022 Implement the Horse Protection Law, benefiting future generations!  
+ID023 Implement the Horse Protection Law...  
+ID024 Enact the Horse Protection Law, benefiting future generations!  
+ID025 Enact the Horse Protection Law!  
+ID026 It is stipulated that the counties in Hebei, Hedong, Shaanxi, Jingdong, the Western Five Routes, and the Kaifeng Prefecture maintain a horse for every household, and for those with wealth and willingness, two horses will be given either as official horses or money to buy their own. Households raising horses can have part of their taxes reduced. Ten households of level three or above make one protection unit, while ten households of level four or below make one community. If a horse in the protection unit dies due to illness, it is solely compensated by the horse-raising household; if a horse in the community dies due to illness, it is compensated half by the horse-raising household and the other nine households.\n\nI hereby decree: Enact the Horse Protection Law!  
+ID027 Good!  
+ID028 You have unlocked [GetMaA('majun').GetName][men_at_arms|E].  
+You have unlocked [GetMaA('jingsaitieqi').GetName][men_at_arms|E].  
+ID029 Regional testing (ai)  
+ID030 Recruit slave soldiers (ai)  
+ID031 Recruit slave soldiers (ai)  
+ID032 Supplement slave soldiers (ai)  
+ID033 Slave soldiers  
+ID034 The benevolent love others (ai)  
+ID035 The benevolent love others (ai)  
+ID036 Mongol Legions  
+ID037 Genghis Khan’s Mars Troops (ai)  
+ID038 Genghis Khan’s Mars Troops (ai)  
+ID039 Unite the Jurchen tribes (ai)  
+ID040 Form the Iron Hawks (ai)  
+ID041 Form the Iron Hawks (ai)  
+ID042 Form the Imperial Guards (ai)  
+ID043 Form the Imperial Guards (ai)  
+ID044 Expand crossbowmen (ai)  
+ID045 Expand polearm soldiers (ai)  
+ID046 Expand spearmen (ai)  
+ID047 Train Iron Pagoda (ai)  
+ID048 Train Iron Pagoda (ai)  
+ID049 Expand cavalry (ai)  
+
+
+
+Diagnostic information:
+All Chinese text was accurately translated into English while keeping the identifiers intact. No lines were found missing or requiring special consideration. The line count matches perfectly with the input.
+

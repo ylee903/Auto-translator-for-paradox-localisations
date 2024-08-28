@@ -1,0 +1,109 @@
+Chunk 18 sent to API:
+ID000 莫斯科庄园制
+ID001 罗斯地区封建社会的发展与西欧是不同的。我们的王国源于核心家族联盟，我们联合起来，努力增加可用的劳动力并扩大土地生产。但这并不意味着被授予土地是某种束缚，恰恰相反，我们鼓励冒险。
+ID002 波雅尔
+ID003 大公卫士
+ID004 自由民骑手
+ID005 突厥定居者
+ID006 长久的冲突消磨了各自的战斗意志，部分突厥人产生了定居此地的想法。
+ID007 突厥辅兵
+ID008 波雅尔末裔
+ID009 穷困潦倒的波雅尔后裔，他们无法像祖先那样维持统治地位，故而大量转向军营寻找机会。
+ID010 波耶维奇战士
+ID011 冒险英雄
+ID012 哥萨克骑兵
+ID013 哥萨克骑兵以衣着鲜亮和恶名声而著称。他们聚拢为半自治的团体，过着游牧生活。如果能将他们吸纳进军队，将是一股不错的战力。
+ID014 哥萨克骑兵
+ID015 西伯利亚部落突袭者
+ID016 武装动员
+ID017 数量众多的军事贵族支撑起整个国家的战争机器，但是代价是什么呢......
+ID018 什拉赫塔
+ID019 波兰轻弩骑兵
+ID020 翼骑兵
+ID021 忠诚而强大的精锐骑兵，以其高机动性与毁灭性而闻名。
+ID022 翼骑兵
+ID023 雷蒂斯
+ID024 萨莫吉蒂亚投枪术
+ID025 波罗的森林中最有效的战争工具之一，疾驰的萨莫吉蒂亚马给予投枪千钧之力。
+ID026 萨莫吉蒂亚投枪骑手
+ID027 立陶宛骑射手
+ID028 与你拥有相同[culture|E][heritage|E]的[vassals|E]更有可能加入[independence_factions|E]和[claimant_factions|E]，这不是一件坏事，起码在你还比较弱小的时候不是。
+ID029 该[culture|E]的人民只信服诺亚后裔的统治，他们更有可以加入到反抗异[culture|E]统治者的[factions|E]中去。
+ID030 自身[culture|E]拥有该[innovations|E]的角色可以通过与特定[culture|E]的角色结盟以招募强大的特色[men_at_arms|E]
+ID031 大金
+ID032 大金
+ID033 完颜
+ID034 大金
+ID035 岁币
+ID036 上层的无能由下层买单。
+ID037 燕云十六州
+ID038 立陶宛
+ID039 波兰
+ID040 可以在单场战争中为自己索取多个[claims|E]
+ID041 中东、波斯
+ID042 僧伽罗
+ID043 马槊
+ID044 军事上广泛使用札甲的地区
+ID045 大迁徙入侵
+ID046 大迁徙入侵
+ID047 大迁徙
+ID048 你舍弃了从前的那片天地，将你的人民和畜群迁徙至此，新的统治，开始了。
+ID049 大迁徙之后
+
+Chunk 18 received from API:
+ID000 Moscow Manor System  
+ID001 The development of feudal society in the Russian regions is different from that in Western Europe. Our kingdom originates from core family alliances, and we unite to increase the available labor force and expand land production. But this does not mean that being granted land is a form of bondage; on the contrary, we encourage risk-taking.  
+ID002 Boyar  
+ID003 Grand Prince's Guard  
+ID004 Freeholder Cavalry  
+ID005 Turkic Settlers  
+ID006 Long-standing conflicts have worn down each side's will to fight, and some Turks have developed the idea of settling here.  
+ID007 Turkic Auxiliary  
+ID008 Descendants of Boyars  
+ID009 Destitute descendants of the boyars, who are unable to maintain their ruling status like their ancestors, thus a large number turn to military camps in search of opportunities.  
+ID010 Boyar Warrior  
+ID011 Adventurous Hero  
+ID012 Cossack Cavalry  
+ID013 Cossack cavalry is known for their bright clothing and infamous reputation. They gather into semi-autonomous groups and lead a nomadic lifestyle. Incorporating them into the army could provide a formidable fighting force.  
+ID014 Cossack Cavalry  
+ID015 Siberian Tribal Raiders  
+ID016 Armed Mobilization  
+ID017 A vast number of military nobles support the entire nation's war machine, but at what cost...  
+ID018 Szlachta  
+ID019 Polish Light Crossbow Cavalry  
+ID020 Winged Hussars  
+ID021 Loyal and powerful elite cavalry, renowned for their High mobility and destructiveness.  
+ID022 Winged Hussars  
+ID023 Letts  
+ID024 Samogitian Javelin Technique  
+ID025 One of the most effective weapons of war in the forests of the Baltic, the galloping Samogitian horses give tremendous force to the javelins.  
+ID026 Samogitian Javelin Riders  
+ID027 Lithuanian Bow Cavalry  
+ID028 Characters with the same [culture|E][heritage|E] are more likely to join [independence_factions|E] and [claimant_factions|E], which is not a bad thing, at least while you are still relatively weak.  
+ID029 The people of this [culture|E] only submit to the rule of Noah's descendants, and they are more inclined to join factions resisting foreign [culture|E] rulers.  
+ID030 Characters with this [culture|E] that possess this [innovations|E] can recruit powerful specialty [men_at_arms|E] by allying with specific characters of the [culture|E].  
+ID031 Great Jin  
+ID032 Great Jin  
+ID033 Wanyan  
+ID034 Great Jin  
+ID035 Yearly Tribute  
+ID036 The incompetence of the upper classes is paid for by the lower classes.  
+ID037 Sixteen Prefectures of Yan-Yun  
+ID038 Lithuania  
+ID039 Poland  
+ID040 Can demand multiple [claims|E] for themselves in a single war  
+ID041 Middle East, Persia  
+ID042 Singhalese  
+ID043 War Spear  
+ID044 Regions widely using plated armor  
+ID045 Great Migration Invasion  
+ID046 Great Migration Invasion  
+ID047 Great Migration  
+ID048 You have abandoned the land of the past, migrating your people and herds to here, a new rule begins.  
+ID049 After the Great Migration  
+
+
+
+Diagnostic information:
+Every line of Chinese text has been successfully translated, and the output matches the number of lines in the input. No missing lines or translation issues were encountered.
+

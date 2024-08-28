@@ -1,0 +1,109 @@
+Chunk 5 sent to API:
+ID000 陆上商队
+ID001 驼铃声声，岁月悠悠，陆路的贯通催生出了大批的商人，他们走在荒渺的黄沙之间，带来无数异域珍宝。
+ID002 陆上商队
+ID003 驼铃声声，岁月悠悠，陆路的贯通催生出了大批的商人，他们走在荒渺的黄沙之间，带来无数异域珍宝。
+ID004 冰海战士
+ID005 冰洋翻涌，带来了可怕的毁灭者。
+ID006 可以招募[GetMaA('lushangshangdui').GetName]作为[men_at_arms|E]
+ID007 可以招募[GetMaA('binghaizhanshi').GetName]作为[men_at_arms|E]
+ID008 斯拉夫扩张主义
+ID009 斯拉夫人特有的开拓精神，地处苦寒所以向往温软，矛盾重重所以需要扩张。
+ID010 冰海战记
+ID011 血与冰的赞歌，冰海永存。
+ID012 猛安谋克
+ID013 这些原始社会后期由于征掠、围猎的需要而设的军事首领，随着时间的推移逐渐发展为了固定的军事组织。
+ID014 甲骑具装
+ID015 人马具甲的武士是战争的主宰，他们以摧枯拉朽之势横扫万钧。
+ID016 可以招募[GetMaA('jiaqijuzhuang').GetName][men_at_arms|E]
+ID017 该[culture|E]的[knights|E]有资格获得[GetAccoladeType('dfbz_xinzeng_0005_attribute').GetName][accolades|E]
+ID018 甲骑军头
+ID019 甲骑军头
+ID020 先锋具装甲骑
+ID021 先锋具装甲骑
+ID022 亲卫具装甲骑
+ID023 横冲都将
+ID024 横冲都将
+ID025 横冲都
+ID026 横冲都
+ID027 横冲都
+ID028 长剑都将
+ID029 长剑都将
+ID030 长剑都
+ID031 长剑都
+ID032 长剑都
+ID033 长剑都
+ID034 牙将
+ID035 牙将
+ID036 契丹
+ID037 可以招募[GetMaA('nvzhen_mouke').GetName]作为[men_at_arms|E]
+ID038 赐予你手下的$jurchen$[knights|E]土地将大幅增加他们的战斗意志，\n但长期的安逸生活亦会很快将他们腐蚀。
+ID039 谋克
+ID040 经过精挑细选、层层选拔的精英战士，他们无不是各个部族中征掠、围猎的好手。
+ID041 谋克
+ID042 经过精挑细选、层层选拔的精英战士，他们无不是各个部族中征掠、围猎的好手。
+ID043 你必须拥有[feudal|E][government|E]
+ID044 苏丹卫队
+ID045 一支由苏丹亲信组成的可靠卫队，平日里也为苏丹做些见不得光的工作 
+ID046 骑士传统
+ID047 法国广袤的平原是骑士的主战场，这里孕育了整个中世纪最最凶悍的骑士兵团
+ID048 亲卫队
+ID049 强大的统治者往往需要一支可靠的亲卫队应对各种突发状况，并且这些人最好值得信赖。
+
+Chunk 5 received from API:
+ID000 Land Caravan  
+ID001 The sound of camel bells echoes through the ages, as the land routes give rise to a large number of merchants who walk through the vast yellow sands, bringing countless exotic treasures.  
+ID002 Land Caravan  
+ID003 The sound of camel bells echoes through the ages, as the land routes give rise to a large number of merchants who walk through the vast yellow sands, bringing countless exotic treasures.  
+ID004 Ice Sea Warriors  
+ID005 The surging Arctic Ocean brings terrible destroyers.  
+ID006 You can recruit [GetMaA('lushangshangdui').GetName] as [men_at_arms|E]  
+ID007 You can recruit [GetMaA('binghaizhanshi').GetName] as [men_at_arms|E]  
+ID008 Slavic Expansionism  
+ID009 The unique pioneering spirit of the Slavs, yearning for warmth in its bitter cold, needs expansion amidst its contradictions.  
+ID010 Ice Sea War Chronicles  
+ID011 A song of blood and ice, the Arctic Ocean endures forever.  
+ID012 Mongol Khans  
+ID013 These military leaders established during the late primitive society for the needs of plundering and hunting gradually developed into a fixed military organization over time.  
+ID014 Armored Cavalry Gear  
+ID015 Knights clad in armor on horseback dominate the battlefield, sweeping through enemies with overwhelming force.  
+ID016 You can recruit [GetMaA('jiaqijuzhuang').GetName][men_at_arms|E]  
+ID017 Knights of this [culture|E] are eligible to receive [GetAccoladeType('dfbz_xinzeng_0005_attribute').GetName][accolades|E]  
+ID018 Armored Cavalry Commander  
+ID019 Armored Cavalry Commander  
+ID020 Vanguard Armored Cavalry  
+ID021 Vanguard Armored Cavalry  
+ID022 Royal Guard Armored Cavalry  
+ID023 Rush-Attack General  
+ID024 Rush-Attack General  
+ID025 Rush-Attack  
+ID026 Rush-Attack  
+ID027 Rush-Attack  
+ID028 Longsword General  
+ID029 Longsword General  
+ID030 Longsword  
+ID031 Longsword  
+ID032 Longsword  
+ID033 Longsword  
+ID034 Fang General  
+ID035 Fang General  
+ID036 Khitan  
+ID037 You can recruit [GetMaA('nvzhen_mouke').GetName] as [men_at_arms|E]  
+ID038 Granting land to your $jurchen$ [knights|E] will significantly increase their combat morale, \n but a prolonged life of ease will quickly erode them.  
+ID039 Khans  
+ID040 Elite warriors selected through careful selection and multiple rounds of elimination, each one is a skilled plunderer and hunter from their tribe.  
+ID041 Khans  
+ID042 Elite warriors selected through careful selection and multiple rounds of elimination, each one is a skilled plunderer and hunter from their tribe.  
+ID043 You must have [feudal|E][government|E]  
+ID044 Sultan's Guard  
+ID045 A reliable guard composed of the Sultan's confidants, who also handles some unspeakable tasks for the Sultan.  
+ID046 Knightly Tradition  
+ID047 The vast plains of France are the main battlefield for knights, nurturing the fiercest knightly factions of the entire Middle Ages.  
+ID048 Royal Guard  
+ID049 Powerful rulers often need a reliable royal guard to deal with various emergencies, and these individuals should preferably be trustworthy.  
+
+
+
+Diagnostic information:
+All Chinese text was translated into English, and the output matches the number of lines/IDs from the input. No lines were missing.
+

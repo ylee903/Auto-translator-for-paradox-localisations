@@ -1,0 +1,109 @@
+Chunk 4 sent to API:
+ID000 陌刀队
+ID001 陌刀队。
+ID002 乡勇
+ID003 临时招募的地方乡兵，随军战守，各自成营。
+ID004 苗人武士
+ID005 苗人全民皆兵，遇到突发的战事，苗人武士便会自发携带武器粮食在他们的“老虎汉”（武士首领）的率领下奔赴战场。
+ID006 水步师
+ID007 由擅长水战的南方步兵组成，负责水陆并进，保卫河道交通。必要时沿河网密道穿插深入，给予敌军意外打击。
+ID008 象甲士
+ID009 身披厚重象皮战甲的精英战士，不惧敌人的连天箭雨。
+ID010 乌鲁米软剑
+ID011 达嚫印度的传统武术之一，以其迅捷的速度和高超的技巧而闻名。
+ID012 乌鲁米剑士
+ID013 善用软剑的达罗毗荼战士，以极快的速度突入敌阵，对范围内敌人造成巨额伤害。
+ID014 罗阇普特战士
+ID015 骑马作战的刹帝利战士，拉其普特人的弯刀会准确落到敌人头顶。
+ID016 纳亚尔步兵
+ID017 长期修习卡拉里帕亚特武术的达嚫印度战士，手持长矛、默契配合。
+ID018 僧伽罗近卫军
+ID019 忠勇无畏的僧伽罗近卫军团，竭力护卫领主周全。
+ID020 丛林之爪
+ID021 我们模仿丛林之王老虎的爪子制成了这一强大武器——爪刃。
+ID022 爪刃战士
+ID023 南岛茂密丛林中潜伏的魅影，使用迅捷的爪刃割开敌人的咽喉。
+ID024 草原游骑
+ID025 草原游骑
+ID026 回鹘轻骑
+ID027 赞普卫戍部
+ID028 桂
+ID029 赞普卫戍部
+ID030 桂
+ID031 五茹桂骑兵
+ID032 桂
+ID033 庸东岱护持
+ID034 庸
+ID035 可以招募[GetMaA('wushi').GetName]作为[men_at_arms|E]
+ID036 可以招募[GetMaA('zuqing').GetName]作为[men_at_arms|E]
+ID037 悍勇无双
+ID038 只有强者才配活下去。
+ID039 战争艺术
+ID040 战争是门艺术，赢家通吃，输家一无所有。
+ID041 安闲自得
+ID042 生命很重要，快乐更重要。
+ID043 该[culture|E]有$ethos_courtly_name$的[ethos|E]
+ID044 骑士收容
+ID045 骄傲的骑士总是不善于经营自家地产，落魄的他们选择了完全依附于其他富裕的统治者。
+ID046 落魄骑士
+ID047 落魄到除了一身武力别无所有的封建骑士，带领一小队侍从依附在富裕的统治者治下，奢望着再次发迹的一天。
+ID048 可以招募[GetMaA('luopoqishi').GetName]作为[men_at_arms|E]
+ID049 该[culture|E]没有$ethos_spiritual_name$的[ethos|E]
+
+Chunk 4 received from API:
+ID000 Iron Knife Brigade  
+ID001 Iron Knife Brigade.  
+ID002 Militia  
+ID003 Locally recruited soldiers who serve with the army and set up their own camps.  
+ID004 Miao Warriors  
+ID005 Miao people are all soldiers; when sudden warfare arises, the Miao warriors will spontaneously carry weapons and food under the leadership of their "Tiger Han" (warrior leader) to the battlefield.  
+ID006 Water Infantry  
+ID007 Composed of southern infantry skilled in naval warfare, responsible for both land and water operations, safeguarding river transport. When necessary, they infiltrate and deliver unexpected strikes deep into enemy lines along river networks.  
+ID008 Elephant Warriors  
+ID009 Elite warriors clad in heavy elephant hide armor, unafraid of the enemy's rain of arrows.  
+ID010 Urumi Sword  
+ID011 One of the traditional martial arts of southern India, known for its swift speed and superb techniques.  
+ID012 Urumi Swordsman  
+ID013 A Daravida warrior proficient in the Urumi, swiftly piercing through enemy lines and dealing massive damage to foes within range.  
+ID014 Rajput Warriors  
+ID015 Kshatriya warriors fighting on horseback, the Rajput's curved swords will accurately strike down upon the enemies' heads.  
+ID016 Nayal Infantry  
+ID017 Daravida warriors who have long practiced Kalaripayattu martial arts, wielding long spears and operating in perfect coordination.  
+ID018 Sinhalese Guard  
+ID019 The loyal and fearless Sinhalese guard, doing their utmost to protect their lord.  
+ID020 Jungle Claw  
+ID021 We have crafted this powerful weapon—the Claw Blade—by imitating the claws of the king of the jungle, the tiger.  
+ID022 Claw Blade Warriors  
+ID023 Shadows lurking in the dense jungles of the South Seas, using swift Claw Blades to cut the throats of their enemies.  
+ID024 Prairie Raiders  
+ID025 Prairie Raiding Cavalry  
+ID026 Uyghur Light Cavalry  
+ID027 Zampu Garrison  
+ID028 Gui  
+ID029 Zampu Garrison  
+ID030 Gui  
+ID031 Wu Ru Gui Cavalry  
+ID032 Gui  
+ID033 Yong Dong Dai Protection  
+ID034 Yong  
+ID035 You can recruit [GetMaA('wushi').GetName] as [men_at_arms|E]  
+ID036 You can recruit [GetMaA('zuqing').GetName] as [men_at_arms|E]  
+ID037 Fierce and Undaunted  
+ID038 Only the strong deserve to survive.  
+ID039 The Art of War  
+ID040 War is an art; the winner takes all, and the loser has nothing.  
+ID041 Living in Peace  
+ID042 Life is important, but happiness is more important.  
+ID043 The [culture|E] should have $ethos_courtly_name$'s [ethos|E]  
+ID044 Knightly Refuge  
+ID045 Proud knights are always poor managers of their own estates, and in their ruin, they choose to rely entirely on wealthier rulers.  
+ID046 Fallen Knights  
+ID047 Knights who have fallen so low that they possess nothing but their martial prowess, leading a small retinue of attendants under the rule of wealthy rulers, yearning for the day they can rise again.  
+ID048 You can recruit [GetMaA('luopoqishi').GetName] as [men_at_arms|E]  
+ID049 The [culture|E] does not have $ethos_spiritual_name$'s [ethos|E]  
+
+
+
+Diagnostic information:
+All lines have been successfully translated with the original identifiers preserved. There are no missing translations to fill in, so the output perfectly matches the input in terms of line IDs.
+

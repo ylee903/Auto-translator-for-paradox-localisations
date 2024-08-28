@@ -1,0 +1,108 @@
+Chunk 17 sent to API:
+ID000 拉丁骑兵
+ID001 这些非东正教的骑兵战士经过长期训练逐渐适应了与成群的突厥骑兵作战，他们是无畏的草原奔袭者。
+ID002 锐骑兵
+ID003 经过长期的训练，我们的骑兵个个都是战场多面手。
+ID004 飞骑
+ID005 熟练使用一切马上武器，破阵只在瞬息之间。
+ID006 鲜卑铁骑
+ID007 鲜卑传统之一，自北魏孝文帝起，历任统治者都会悉心组建重装骑兵部队以震慑周边宵小。
+ID008 鲜卑具装骑兵
+ID009 人马具甲的鲜卑武士，杀人技艺深深的刻入了他们的骨子里。
+ID010 盾女
+ID011 这些女性违背其社会的常态，与其他战士一样组成盾墙参与战斗。
+ID012 波罗的战士
+ID013 世代的森林沼地生活催生了波罗的人民的剽悍风气，他们结伴而行不停扫荡着这片区域。
+ID014 波罗的战士
+ID015 活跃于波罗的海沿岸森林沼地的彪悍战士，借助森林与雪色发动突袭。
+ID016 法兰克封建制
+ID017 查理曼大帝及其先辈为我们打造了优越的封建社会体系，我们的王国稳定而强大，并且这种优势将一直延续下去。
+ID018 斯卡拉骑兵
+ID019 他们是加洛林王朝的王牌骑兵部队，常被用来执行需要高机动性作战的任务。
+ID020 加洛林铁卫
+ID021 他们是王公贵族派到领地各处的亲信之人，平日里负责片区治安，战时则充当精锐步兵抗线冲锋。
+ID022 骑士之花
+ID023 每一名骑士都是法兰西人民的骄傲。
+ID024 该[culture|E]的角色建造#V $一级军团训练场$#!时速度更快，强度更高，且建造完成后将获得少许[prestige_i][prestige|E]
+ID025 谢瓦利埃
+ID026 骄傲的法兰西人民有骄傲的法兰西骑兵。
+ID027 剑盾士
+ID028 全副武装的步兵集群，手中的坚盾使其免于流矢之威胁。
+ID029 钩斧
+ID030 我们开发的这种新式长杆兵器可以很好的克制无甲单位和骑兵。
+ID031 钩斧手
+ID032 我们的步兵列装了新式钩斧，可以很好的克制无甲单位和骑兵。
+ID033 弩骑兵
+ID034 弩骑兵
+ID035 我们的社会形态注定了我们无法拥有大量的优质弓骑兵，但弩骑兵或许是个不错的选择。
+ID036 武功歌
+ID037 我们的骑士拥有无可匹敌的坚定信念，我们的人民亦将长久传颂他们的伟大事迹。
+ID038 重装枪骑兵
+ID039 重装枪骑兵的集团冲锋无人可挡，即便是最坚固的战阵也将顷刻间化为飞灰。
+ID040 步行封建骑士
+ID041 在那些无法投入骑兵的战场上，依旧有我们无畏的骑士在顽强战斗。
+ID042 轻装枪骑兵
+ID043 来自勃艮第的轻装枪骑兵，兼具爆发力与机动性，是绝佳的侧翼突袭部队。
+ID044 法郎弓手
+ID045 每个教区应从擅长使用武器的人中选出一名弓箭手，他将免于税务，在星期天和节日里练习弓箭，并在有需要时准备上战场。
+ID046 法郎弓手
+ID047 用于防卫边境的弓箭手，他们无需缴税，但必须上战场。
+ID048 民会
+ID049 沃希那散兵
+
+Chunk 17 received from API:
+ID000 Latin Cavalry  
+ID001 These non-Orthodox cavalry warriors have gradually adapted to fighting against groups of Turkic cavalry after long training; they are fearless raiders of the steppe.  
+ID002 Lancer  
+ID003 After long training, our cavalry are all versatile on the battlefield.  
+ID004 Horse Archer  
+ID005 Proficient in using all mounted weapons, they break formations in an instant.  
+ID006 Hunnic Heavy Cavalry  
+ID007 One of the Hunnic traditions, since Emperor Xiaowen of Northern Wei, every ruler has carefully organized heavy cavalry units to deter surrounding marauders.  
+ID008 Hunnic Armored Cavalry  
+ID009 Armored Hunnic warriors, skilled in the art of killing, have it deeply engraved in their bones.  
+ID010 Shield Maiden  
+ID011 These women defy their society's norms, forming shield walls to fight alongside other warriors.  
+ID012 Baltic Warrior  
+ID013 Generations of living in forest swamps have fostered a fierce spirit among the Baltic people, who roam together continuously raiding this area.  
+ID014 Baltic Warrior  
+ID015 Fierce warriors active in the forest swamps of the Baltic Sea, launching ambushes using the cover of the forest and snow.  
+ID016 Frankish Feudal System  
+ID017 Charlemagne and his ancestors created a superior feudal social system for us, making our kingdom stable and strong, and this advantage will continue forever.  
+ID018 Skara Cavalry  
+ID019 They are the elite cavalry of the Carolingian dynasty, often used for tasks requiring high mobility on the battlefield.  
+ID020 Carolingian Iron Guard  
+ID021 They are trusted individuals sent by lords to various territories, responsible for local security in peace and serving as elite infantry during wartime.  
+ID022 Flower of Knighthood  
+ID023 Every knight is a pride of the French people.  
+ID024 The [culture|E] character builds the #V $Level I Barracks$#! faster and with higher intensity, and upon completion will receive a small amount of [prestige_i][prestige|E]  
+ID025 Chevalier  
+ID026 The proud people of France have proud French cavalry.  
+ID027 Sword and Shield Man  
+ID028 Fully armed infantry clusters, with sturdy shields in hand, are protected from the threat of flying arrows.  
+ID029 Hooked Axe  
+ID030 The new type of polearm we've developed can effectively counter unarmored units and cavalry.  
+ID031 Hooked Axeman  
+ID032 Our infantry is equipped with new hooked axes, effectively countering unarmored units and cavalry.  
+ID033 Crossbow Cavalry  
+ID034 Crossbow Cavalry  
+ID035 Our societal structure dictates that we cannot possess many quality mounted archers, but crossbow cavalry may be a good choice.  
+ID036 Martial Song  
+ID037 Our knights possess an unmatched steadfast belief, and our people will long celebrate their great deeds.  
+ID038 Heavy Lancer  
+ID039 The charge of heavy lancers is unstoppable, even the most fortified formations will be turned to ash in an instant.  
+ID040 Foot Knight  
+ID041 On battlefields where cavalry cannot be deployed, our fearless knights continue to fight bravely.  
+ID042 Light Lancer  
+ID043 Light lancers from Burgundy, possessing both explosive power and maneuverability, are excellent for flanking raids.  
+ID044 Frankish Archer  
+ID045 Each parish should select a bowman from among those proficient with weapons, who will be exempt from taxes, practice archery on Sundays and holidays, and be prepared for battle when needed.  
+ID046 Frankish Archer  
+ID047 Archers used to defend the borders; they do not need to pay taxes, but must go to war.  
+ID048 People's Assembly  
+ID049 [MISSING]  
+
+
+Diagnostic information:
+- Line ID049 contains Chinese text that is missing the corresponding English translation. Therefore, it has been filled with the placeholder '[MISSING]'.
+

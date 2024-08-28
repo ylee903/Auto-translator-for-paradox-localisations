@@ -1,0 +1,109 @@
+Chunk 8 sent to API:
+ID000 统一女真诸部
+ID001 全军整备！
+ID002 统一女真诸部准备征服世界
+ID003 女真大军
+ID004 女真征服战争（一阶段）
+ID005 女真征服战争
+ID006 女真征服战争（二阶段）
+ID007 女真征服战争（三阶段）
+ID008 交出你的土地！
+ID009 你腐朽的统治是时候结束了，我，[nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName]，给你三天时间交出你的地盘，否则后果自负！
+ID010 我的大人，我愿意放弃我的土地并臣服于您......
+ID011 臣服于[nvzhenzhengfuzhe.GetTitledFirstName]
+ID012 与[nvzhenzhengfuzhe.GetTitledFirstName]开战
+ID013 向[demand_recipient.GetTitledFirstName]开战
+ID014 滚！
+ID015 致愚蠢的[nvzhenzhengfuzhe.GetFirstName]
+ID016 收回你的威胁！愚蠢的[nvzhenzhengfuzhe.GetFirstName]！\n\n你的威胁比三岁小孩还无力，你以为你是谁？你这妄想染指我的领土的猪猡。
+ID017 狗东西，我要把你碾的连渣都不剩！
+ID018 征服伊始
+ID019 我和我的族人们被召集于[nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName]帐前，女真人的每一个氏族首领和封臣都汇聚于此。我们都知道为何，并在烟雾缭绕的穹庐内进行了整夜的商议，其间没有产生任何怀疑。\n\n[nvzhenzhengfuzhe.GetFirstName]高声呼喊着祖先的姓名，他走过每一位女真战士的面前并与之亲切交流，我能感受到战士们的热血在沸腾。\n\n从现在开始，世界将在征服者[nvzhenzhengfuzhe.GetFirstName]脚下颤抖!
+ID020 为了女真人的荣耀！为了[nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName]！
+ID021 你击退了[attacker.GetShortUIName|U]，但下一次呢......
+ID022 玩家增加地产格子
+ID023 撞令郎
+ID024 准备出发！
+ID025 行动很顺利
+ID026 又到迫害异族的时候了
+ID027 撞令郎
+ID028 从丝路贸易中攫取利润
+ID029 金钱就是正义！
+ID030 金钱就是正义！
+ID031 你赚了笔大的
+ID032 组建银枪效节都
+ID033 我意已决！
+ID034 组建很成功
+ID035 组建银枪效节都
+ID036 组建鸦儿军（ai）小规模
+ID037 组建鸦儿军（ai）大规模
+ID038 组建鸦儿军
+ID039 我意已决！
+ID040 组建很成功
+ID041 组建鸦儿军
+ID042 鸦儿军
+ID043 藩镇兵（ai）小规模
+ID044 藩镇兵（ai）大规模
+ID045 扩充牙兵
+ID046 我意已决！
+ID047 你感觉倍有面子
+ID048 我需要一支可靠的私人卫队
+ID049 藩帅卫队
+
+Chunk 8 received from API:
+ID000  Unify the Jurchen Tribes  
+ID001  Prepare the whole army!  
+ID002  The unified Jurchen tribes are ready to conquer the world  
+ID003  Jurchen Army  
+ID004  Jurchen Conquest War (Phase One)  
+ID005  Jurchen Conquest War  
+ID006  Jurchen Conquest War (Phase Two)  
+ID007  Jurchen Conquest War (Phase Three)  
+ID008  Surrender your lands!  
+ID009  Your decaying rule is coming to an end. I, [nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName], give you three days to hand over your territory, or bear the consequences!  
+ID010  My lord, I am willing to give up my lands and submit to you...  
+ID011  Submit to [nvzhenzhengfuzhe.GetTitledFirstName]  
+ID012  Go to war with [nvzhenzhengfuzhe.GetTitledFirstName]  
+ID013  Go to war against [demand_recipient.GetTitledFirstName]  
+ID014  Get lost!  
+ID015  To the foolish [nvzhenzhengfuzhe.GetFirstName]  
+ID016  Take back your threats! Foolish [nvzhenzhengfuzhe.GetFirstName]! \n\nYour threats are weaker than a three-year-old child. Who do you think you are? You pig, dreaming of encroaching on my territory.  
+ID017  You dog, I will crush you to dust!  
+ID018  The Beginning of Conquest  
+ID019  My tribesmen and I gathered before the tent of [nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName], every clan leader and vassal of the Jurchens assembled here. We all knew why, and we spent the entire night discussing amidst swirling smoke, with no doubts arising. \n\n[nvzhenzhengfuzhe.GetFirstName] shouted the names of our ancestors, walking before each Jurchen warrior and speaking warmly with them. I could feel the warriors' blood boiling. \n\nFrom this moment on, the world will tremble beneath the conqueror [nvzhenzhengfuzhe.GetFirstName]!  
+ID020  For the glory of the Jurchens! For [nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName]!  
+ID021  You repelled [attacker.GetShortUIName|U], but what about next time...  
+ID022  Player increases land slots  
+ID023  Crash into the Young Master  
+ID024  Ready to depart!  
+ID025  The operation went smoothly  
+ID026  It's time to persecute the foreign races again  
+ID027  Crash into the Young Master  
+ID028  Extract profits from the Silk Road trade  
+ID029  Money is justice!  
+ID030  Money is justice!  
+ID031  You made a big profit  
+ID032  Form a Silver Spear Efficiency Corps  
+ID033  I am determined!  
+ID034  The formation was very successful  
+ID035  Form a Silver Spear Efficiency Corps  
+ID036  Form a Small-Scale Crow Army (AI)  
+ID037  Form a Large-Scale Crow Army (AI)  
+ID038  Form a Crow Army  
+ID039  I am determined!  
+ID040  The formation was very successful  
+ID041  Form a Crow Army  
+ID042  Crow Army  
+ID043  Local Garrison (AI) Small Scale  
+ID044  Local Garrison (AI) Large Scale  
+ID045  Expand the Tooth Soldiers  
+ID046  I am determined!  
+ID047  You feel very proud  
+ID048  I need a reliable personal guard  
+ID049  Local Lord's Guard
+
+
+
+Diagnostic information:
+All lines translated successfully, and the number of lines match the original input.
+

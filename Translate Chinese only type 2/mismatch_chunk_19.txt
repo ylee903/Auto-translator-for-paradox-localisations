@@ -1,0 +1,109 @@
+Chunk 19 sent to API:
+ID000 这片土地上的部分资源随着一次大迁徙被人为转移走了。
+ID001 商议同盟
+ID002 通过陈述利害关系来与[recipient.GetTitledFirstNameNoTooltip]铸就同盟——草原势力需要整合！
+ID003 相同[cultural|E]：$VALUE|=+0$
+ID004 商议同盟
+ID005 商议同盟（游牧臣属）
+ID006 通过陈述利害关系来与[recipient.GetTitledFirstNameNoTooltip]铸就同盟——促进某些共同目标的达成！
+ID007 部落联盟
+ID008 通过陈述利害关系来与[recipient.GetTitledFirstNameNoTooltip]铸就臣属关系——促进某些共同目标的达成！
+ID009 你们的军力差异：$VALUE|=+0$
+ID010 外交与同盟者：$VALUE|=+0$
+ID011 有重大外部威胁：$VALUE|=+0$
+ID012 势单力薄：$VALUE|=+0$
+ID013 野心家：$VALUE|=+0$
+ID014 召集封臣参战
+ID015 召集[recipient.GetUINameNoTooltip]参战，以履行其身为臣属的义务。
+ID016 防御[war|E]：$VALUE|=+0$
+ID017 是[powerful_vassals|E]：$VALUE|=+0$
+ID018 临近封臣同僚：$VALUE|=+0$
+ID019 草场：$VALUE|=+0$
+ID020 松散部落：$VALUE|=+0$
+ID021 有限部落权威：$VALUE|=+0$
+ID022 高部落权威：$VALUE|=+0$
+ID023 绝对部落权威：$VALUE|=+0$
+ID024 好战[ethos|E]：$VALUE|=+0$
+ID025 集体[ethos|E]：$VALUE|=+0$
+ID026 同[dynasty|E]：$VALUE|=+0$
+ID027 是你的[close_family_member|E]：$VALUE|=+0$
+ID028 好战：$VALUE|=+0$
+ID029 封臣立场：追名逐利：$VALUE|=+0$
+ID030 封臣立场：本乡本土：$VALUE|=+0$
+ID031 召集加入战争（游牧同盟）
+ID032 头人
+ID033 额外税款
+ID034 头人完成了你的任务并成功上缴税款
+ID035 威严广布
+ID036 头人成功散播了你之威严
+ID037 头人的征召兵
+ID038 头人为你召集了一队征召兵
+ID039 头人的轻骑兵
+ID040 头人为你召集了一队轻骑兵
+ID041 头人的弓骑兵
+ID042 头人为你召集了一队弓骑兵
+ID043 头人的重骑兵
+ID044 头人为你召集了一队重骑兵
+ID045 玩家[regiment|E][stationed_holding|E]修正率
+ID046 百分之六十
+ID047 玩家获得[GetModifier('xinzeng_zhujun_xiuzheng_001_modifier').GetNameWithTooltip]修正，最大程度防止数据膨胀，变相调整ai难度，优化游戏竞技体验，与ai斗，其乐无穷。
+ID048 百分之四十
+ID049 玩家获得[GetModifier('xinzeng_zhujun_xiuzheng_002_modifier').GetNameWithTooltip]修正，对兵种叠叠乐影响不大，但也能适度减少数据膨胀速率。
+
+Chunk 19 received from API:
+ID000 Some resources on this land were artificially moved away due to a large migration.  
+ID001 Discussing Alliances  
+ID002 Forge an alliance with [recipient.GetTitledFirstNameNoTooltip] by stating interests— the nomadic powers need to consolidate!  
+ID003 Same[cultural|E]: $VALUE|=+0$  
+ID004 Discussing Alliances  
+ID005 Discussing Alliances (Nomadic Vassals)  
+ID006 Forge an alliance with [recipient.GetTitledFirstNameNoTooltip] by stating interests— to promote the achievement of certain common goals!  
+ID007 Tribal Alliance  
+ID008 Forge a vassal relationship with [recipient.GetTitledFirstNameNoTooltip] by stating interests— to promote the achievement of certain common goals!  
+ID009 Your military strength difference: $VALUE|=+0$  
+ID010 Diplomacy and Allies: $VALUE|=+0$  
+ID011 Major external threat: $VALUE|=+0$  
+ID012 Weak position: $VALUE|=+0$  
+ID013 Ambitious: $VALUE|=+0$  
+ID014 Call vassals to war  
+ID015 Call [recipient.GetUINameNoTooltip] to war to fulfill their obligations as a vassal.  
+ID016 Defense[war|E]: $VALUE|=+0$  
+ID017 Is[powerful_vassals|E]: $VALUE|=+0$  
+ID018 Nearby vassal colleagues: $VALUE|=+0$  
+ID019 Grassland: $VALUE|=+0$  
+ID020 Loose tribes: $VALUE|=+0$  
+ID021 Limited tribal authority: $VALUE|=+0$  
+ID022 High tribal authority: $VALUE|=+0$  
+ID023 Absolute tribal authority: $VALUE|=+0$  
+ID024 Belligerent[ethos|E]: $VALUE|=+0$  
+ID025 Collective[ethos|E]: $VALUE|=+0$  
+ID026 Same[dynasty|E]: $VALUE|=+0$  
+ID027 Is your[close_family_member|E]: $VALUE|=+0$  
+ID028 Belligerent: $VALUE|=+0$  
+ID029 Vassal stance: Seeking fame and profit: $VALUE|=+0$  
+ID030 Vassal stance: Native land: $VALUE|=+0$  
+ID031 Call to join the war (Nomadic Alliance)  
+ID032 Chieftain  
+ID033 Additional taxes  
+ID034 The chieftain has completed your task and successfully paid the taxes.  
+ID035 Prestige widely spread  
+ID036 The chieftain successfully spread your prestige.  
+ID037 The chieftain's raised troops  
+ID038 The chieftain has gathered a troop of raised soldiers for you.  
+ID039 The chieftain's light cavalry  
+ID040 The chieftain has gathered a troop of light cavalry for you.  
+ID041 The chieftain's archers  
+ID042 The chieftain has gathered a troop of archers for you.  
+ID043 The chieftain's heavy cavalry  
+ID044 The chieftain has gathered a troop of heavy cavalry for you.  
+ID045 Player[regiment|E][stationed_holding|E] correction rate  
+ID046 Sixty percent  
+ID047 The player receives [GetModifier('xinzeng_zhujun_xiuzheng_001_modifier').GetNameWithTooltip] correction, maximizing the prevention of data inflation, indirectly adjusting AI difficulty, optimizing the competitive gaming experience, and enjoying the thrill of fighting against AI.  
+ID048 Forty percent  
+ID049 The player receives [GetModifier('xinzeng_zhujun_xiuzheng_002_modifier').GetNameWithTooltip] correction, which has minimal impact on troop stacking but can also moderately reduce the rate of data inflation.  
+
+
+
+Diagnostic information:
+No missing lines were identified in the input, and all Chinese text has been translated accurately to match the identifiers and formatting provided.
+

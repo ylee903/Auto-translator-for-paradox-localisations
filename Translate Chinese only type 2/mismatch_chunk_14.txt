@@ -1,0 +1,109 @@
+Chunk 14 sent to API:
+ID000 奴隶战士
+ID001 难堪大用的奴兵，装备破烂，纪律涣散，只能用作填线的炮灰
+ID002 奴隶战士
+ID003 难堪大用的奴兵，装备破烂，纪律涣散，只能用作填线的炮灰
+ID004 凯尔特人
+ID005 凯尔特人为上古欧洲一个由共同语言和文化传统凝合起来的松散族群，属古代型民族集团。他们一次又一次的反抗侵略，不屈服于外来者，仿佛这一切就刻在他们骨子里。
+ID006 盎格鲁—撒克逊精选民兵
+ID007 早先在迁徙和定居期间的混乱时期战争是由少量的亲卫军战士主导的，而到了8世纪，盎格鲁—撒克逊人的领袖们已经有了自己的既定王国。所以从某种意义上说，需要付出更大的后勤努力来保护自己的土地和进行战争。作为一种解决方案，盎格鲁-撒克逊人开始实施所谓的“选拔的自由民兵（select fyrd）”。
+ID008 组织亲卫
+ID009 在日耳曼人大规模迁徙到英国的混乱领域时，部落首领和国王们会召集他们选拔出来的强大战士，这些人拥有最好的武器与装备，同时他们也是国王和王公们的家兵，要为战争进行专门的训练。
+ID010 威尔士长弓
+ID011 威尔士长弓的材料选用紫杉木进行制作，这种木材重量较轻而且弹性极佳，这让长弓的杀伤力十分惊人。
+ID012 投石索
+ID013 投石索是人类文明的活化石，快速飞出的石块甚至能击倒一头野牛。将它用于战争亦能发挥很大作用。
+ID014 高地氏族
+ID015 苏格兰北部高地上生活着大量彪悍的高地氏族，他们保留着原始的凯尔特生活方式以及部落联盟制度，他们是天生的战士，呼啸于群山之间。
+ID016 雇佣外乡勇士
+ID017 苏格兰北部高地的盖尔人凶悍无比，他们是无可匹敌的战斗狂热分子，并且乐于为金钱卖命。最重要的是他们几乎不掺和我们本地的政治斗争，只要价钱合适，他们就会乖乖听话。
+ID018 勇士之家
+ID019 苏格兰北部高地自古以来就是盖尔人的家园，我们的勇士很乐意为家国而战。
+ID020 面包与蜜酒
+ID021 领主将面包分给他的追随者，象征着领主和他的战士之间的联系与忠诚。当然，即使在隐藏的意义和象征意义之外，这些娱乐活动更多的时候也是作为一种磨合练习，高级军人之间以更自由的语气进行交流，从而在实战中更好地规划和协调。
+ID022 温彻斯特之书
+ID023 温彻斯特之书也被称为末日审判书，是一本英格兰全国土地调查情况的汇编。目的在于了解王田及国王的直接封臣的地产情况，以便收取租税，加强财政管理，并确定封臣的封建义务。
+ID024 征服者姿态
+ID025 我们征服了不列颠群岛，这些土著理应效忠于我。
+ID026 阿莫利卡
+ID027 我们是日耳曼大迁徙时期被迫流亡至此的海岛凯尔特人，罗马人称此地为
+ID028 伊比利亚城市民兵
+ID029 伊比利亚城市民兵在中世纪中期所起的作用值得重视，诞生于边境纷争的地方民兵为半岛上的君主们效力，一旦遇到各种紧迫的形势，他们可以迅速扩充自己的实力，无论在军事上还是在经济上，亦或是在制约地方贵族势力上，城市民兵都可以给国王的决策提供更多的灵活性。
+ID030 西班牙大乡绅
+ID031 随着伊比利亚地区的逐渐解放，我们将土地保有权赐予手下忠诚的领主并免除其一部分赋税，他们则负责提供接下来一系列光复战争所需的骑兵部队。
+ID032 土地授予
+ID033 收复失地运动如火如荼的展开，我们需要大量的士兵才能长久的压制住那些异教徒，只要能给出大量的征召兵，非贵族也能获得一定的土地。
+ID034 西哥特战法
+ID035 我们继承了西哥特时期的作战方式，以骑兵部队为主力，着眼于马上战斗的精通。
+ID036 加泰罗尼亚雇佣兵
+ID037 收复失地运动的军事需求刺激了伊比利亚地区精锐步兵的形成，我们的战士在战后并不打算就此隐没，他们结成一支又一支的战团以雇佣兵的形式继续活跃于世界各处大大小小的战场之上。
+ID038 西班牙大方阵
+ID039 为了巩固伊比利亚陆上霸权，我们必须进行一场步兵革命，历史已经证明————组织严密的步兵战法完全可以胜任所有战场环境。
+ID040 西班牙方阵枪兵
+ID041 借助长而密集的枪阵和严密配合的战法，我们的军队在陆上无人能挡！
+ID042 西班牙圆盾剑士
+ID043 优质的钢盾和长剑组成了这支军队的獠牙，凭借长枪手的掩护，他们能够迅速给敌方枪阵撕开一个缺口，刹那间扭转战局。
+ID044 双手剑士
+ID045 挥舞着巨剑的精锐步兵，凭借其高超的剑术能很快将敌方枪阵撕开一个口子。
+ID046 王公卫士
+ID047 王公贵族的贴身护卫，由身经百战的国土佣仆老兵组成，战斗力惊人。
+ID048 旧瑞士山民
+ID049 严酷的生存环境和长久的外敌入侵让这片土地上的居民随时准备战斗以捍卫自己的生存。
+
+Chunk 14 received from API:
+ID000 Slave Warrior  
+ID001 A slave soldier that is not very useful, equipped with tattered gear, poorly disciplined, and can only be used as cannon fodder.  
+ID002 Slave Warrior  
+ID003 A slave soldier that is not very useful, equipped with tattered gear, poorly disciplined, and can only be used as cannon fodder.  
+ID004 Celtic  
+ID005 The Celts are a loose group of ancient European people bound together by a common language and cultural traditions, belonging to the ancient ethnic groups. They have repeatedly resisted invasions and have not yielded to outsiders, as if all of this is ingrained in their bones.  
+ID006 Anglo-Saxon Select Militia  
+ID007 In the chaotic period of migration and settlement, wars were led by a few prestigious warrior guards, and by the 8th century, the leaders of the Anglo-Saxons had established their own kingdoms. Therefore, in a sense, there was a need for greater logistical efforts to protect their lands and engage in warfare. As a solution, the Anglo-Saxons began to implement the so-called "select fyrd".  
+ID008 Organize Guards  
+ID009 During the chaos of the Germanic people's massive migration to England, tribal leaders and kings would summon their selected strong warriors, who possessed the best weapons and equipment, and who were also the king's household soldiers, trained specifically for warfare.  
+ID010 Welsh Longbow  
+ID011 The Welsh longbow is made from yew wood, which is lightweight and has excellent elasticity, giving the longbow a remarkable killing power.  
+ID012 Sling  
+ID013 The sling is a living fossil of human civilization, and a quickly propelled stone can even take down a wild buffalo. It can also play a significant role in warfare.  
+ID014 Highland Clans  
+ID015 Numerous fierce highland clans inhabit the northern Highlands of Scotland, preserving the original Celtic way of life and the tribal alliance system. They are born warriors, howling among the mountains.  
+ID016 Hire Foreign Warriors  
+ID017 The Gales of the northern Highlands of Scotland are incredibly fierce; they are unmatched combat zealots who are willing to fight for money. Most importantly, they seldom involve themselves in our local political struggles; as long as the price is right, they will obediently follow orders.  
+ID018 House of Warriors  
+ID019 The northern Highlands of Scotland have always been the home of the Gales, and our warriors are more than willing to fight for their homeland.  
+ID020 Bread and Mead  
+ID021 The lord distributes bread to his followers, symbolizing the connection and loyalty between the lord and his warriors. Of course, beyond the hidden and symbolic meanings, these entertainments often serve as a kind of practice for camaraderie, allowing senior military men to communicate in a freer tone, thus better planning and coordinating in actual combat.  
+ID022 Winchester Book  
+ID023 The Winchester Book, also known as the Domesday Book, is a compilation of a nationwide land survey in England. Its purpose is to understand the land situation of royal demesne and the lands of the king's immediate vassals, so as to collect taxes, strengthen fiscal management, and define the vassals' feudal obligations.  
+ID024 Conqueror's Stance  
+ID025 We have conquered the British Isles, and these natives should be loyal to me.  
+ID026 Amolika  
+ID027 We are the island Celts who were forced to flee here during the Germanic migration period; the Romans called this place  
+ID028 Iberian City Militia  
+ID029 The role of the Iberian city militia in the mid-Middle Ages is worth noting. Born out of local militias in border disputes, they serve the monarchs of the peninsula and can rapidly expand their strength in various urgent situations. Whether in military or economic matters, or in constraining local nobility, city militias provide greater flexibility for the king's decisions.  
+ID030 Spanish Grand Landowners  
+ID031 As the Iberian region gradually gains liberation, we grant land ownership rights to loyal lords under our command while exempting them from certain taxes; in return, they are responsible for providing cavalry forces needed for the subsequent series of recovery wars.  
+ID032 Land Grants  
+ID033 The Reconquista is in full swing, and we need a large number of soldiers to suppress those pagans for the long term. As long as a large number of recruits can be provided, non-nobles can also obtain land.  
+ID034 Visigothic Warfare  
+ID035 We have inherited the combat methods of the Visigoths, focusing on cavalry as the main force and excelling in mounted combat.  
+ID036 Catalonia Mercenaries  
+ID037 The military demands of the Reconquista stimulated the formation of elite infantry in the Iberian region. Our warriors do not intend to fade into obscurity after the war; they form various warbands and continue to be active on battlefields around the world as mercenaries.  
+ID038 Spanish Phalanx  
+ID039 To consolidate Iberian land dominance, we must conduct an infantry revolution; history has proven that organized infantry tactics can competently handle all combat environments.  
+ID040 Spanish Pike Infantry  
+ID041 With long and dense pike formations and closely coordinated tactics, our army can sweep away any resistance on land!  
+ID042 Spanish Round Shield Swordsmen  
+ID043 Quality steel shields and long swords make up the fangs of this army. With the cover of pikemen, they can quickly tear open a gap in the enemy's formation, turning the tide of battle in an instant.  
+ID044 Two-Handed Swordsmen  
+ID045 Elite infantry wielding massive swords can quickly create a hole in the enemy's formation with their superb swordsmanship.  
+ID046 Duke's Guard  
+ID047 Personal bodyguards of the noble duces composed of seasoned veterans, with astonishing combat power.  
+ID048 Old Swiss Mountaineers  
+ID049 Harsh living conditions and prolonged foreign invasions have left the residents of this land always ready to fight to defend their survival.  
+
+
+
+Diagnostic information:
+Each ID number matches the given source input, and all Chinese text has been translated into English accurately. There are no missing lines, and no issues were encountered during the translation process.
+

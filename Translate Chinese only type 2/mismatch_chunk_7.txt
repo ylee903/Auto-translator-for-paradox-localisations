@@ -1,0 +1,109 @@
+Chunk 7 sent to API:
+ID000 铁鹞子
+ID001 铁鹞子
+ID002 铁鹞子
+ID003 横山步跋子
+ID004 横山步跋子
+ID005 横山步跋子
+ID006 横山步跋子
+ID007 党项武士
+ID008 党项武士
+ID009 党项武士
+ID010 御围内六班具装直
+ID011 劲弩士
+ID012 蒙古重骑兵
+ID013 蒙古重骑兵
+ID014 忙古歹
+ID015 神臂弓手
+ID016 秦地悍卒
+ID017 白毦兵
+ID018 归义老兵
+ID019 安西军
+ID020 抬头见日，却不见长安。
+ID021 牙兵
+ID022 良家子牙兵
+ID023 牙兵
+ID024 牙兵
+ID025 牙兵
+ID026 马军
+ID027 马军
+ID028 马军
+ID029 朴刀手
+ID030 刀牌手
+ID031 河朔轻骑
+ID032 白马义从
+ID033 步人甲
+ID034 静塞铁骑
+ID035 背嵬重骑兵
+ID036 浪人
+ID037 僧兵
+ID038 连弩士
+ID039 连弩士
+ID040 丛林猎手
+ID041 银枪效节都
+ID042 鸦儿军
+ID043 契丹武士
+ID044 粟特牙兵
+ID045 女真征服（ai）
+ID046 大金
+ID047 统一女真诸部
+ID048 氏族首领们聚拢在我身边，铁浮图，拐子马，所有强者都为我的大业欢呼。\n\n战士们向我致意，让我们冲出森林，将世界牢牢纂于掌中。
+ID049 我的征服自此而始。
+
+Chunk 7 received from API:
+ID000 Iron Hawk  
+ID001 Iron Hawk  
+ID002 Iron Hawk  
+ID003 Hengshan Step Rider  
+ID004 Hengshan Step Rider  
+ID005 Hengshan Step Rider  
+ID006 Hengshan Step Rider  
+ID007 Tangut Warrior  
+ID008 Tangut Warrior  
+ID009 Tangut Warrior  
+ID010 Inner Six-Class Armored Infantry  
+ID011 Crossbowman  
+ID012 Mongol Heavy Cavalry  
+ID013 Mongol Heavy Cavalry  
+ID014 Manggu Dais  
+ID015 Divine Arm Archers  
+ID016 Qin-region Brave Soldiers  
+ID017 White Wool Troops  
+ID018 Old Soldiers of Guoyi  
+ID019 Anxi Army  
+ID020 Raise your head to see the sun, yet do not see Chang'an.  
+ID021 Tooth Soldier  
+ID022 Good Family Tooth Soldier  
+ID023 Tooth Soldier  
+ID024 Tooth Soldier  
+ID025 Tooth Soldier  
+ID026 Cavalry  
+ID027 Cavalry  
+ID028 Cavalry  
+ID029 Broadsword Hand  
+ID030 Sword and Shield Hand  
+ID031 He-Shuo Light Cavalry  
+ID032 White Horse Righteous Troops  
+ID033 Infantry Armor  
+ID034 Quiet Fortress Iron Cavalry  
+ID035 Back Wei Heavy Cavalry  
+ID036 Ronin  
+ID037 Monk Soldier  
+ID038 Repeating Crossbowman  
+ID039 Repeating Crossbowman  
+ID040 Jungle Hunter  
+ID041 Silver Spear Efficient Remnant  
+ID042 Crow Army  
+ID043 Khitan Warrior  
+ID044 Sogdian Tooth Soldier  
+ID045 Jurchen Conquest (ai)  
+ID046 Great Golden  
+ID047 Unify the Jurchen Tribes  
+ID048 Clansmen gather around me, with iron pagodas, and horse thieves, all the strong are cheering for my grand cause.\n\nThe warriors salute me, let us charge out of the forest and firmly grasp the world in our hands.  
+ID049 My conquest begins from here.  
+
+
+
+Diagnostic information:
+All Chinese text was translated accurately. There were no lines missing, and the number of lines in the output matched the input.
+

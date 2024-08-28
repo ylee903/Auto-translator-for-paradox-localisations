@@ -1,0 +1,111 @@
+Chunk 12 sent to API:
+ID000 保加利亚人征服阿瓦尔人后将他们编入骑兵部队，利用他们超绝的马战经验打造了这支骑兵劲旅。
+ID001 骠骑兵
+ID002 狂战士
+ID003 一旦这些战士的血液开始沸腾，只有敌人的死才能让他们感到满足。
+ID004 狂战士
+ID005 一旦这些战士的血液开始沸腾，只有敌人的死才能让他们感到满足。
+ID006 萨尔
+ID007 体面的雅尔不会让自家的奴隶拿武器上战场，但今时不同往日......
+ID008 庭卫
+ID009 体面的领主应该有一支自家的宫廷卫士，一群能够应对各种突发状况的强大战士。
+ID010 诺曼骑兵
+ID011 诺曼人将大量精力投入到骑兵训练中，他们装备相对较轻的锁子甲，并开创了夹枪冲锋这一战法，愈发适应战场上的多变形势。
+ID012 方旗骑士
+ID013 区别于普通骑士的锥形三角旗，这些贵族骑士有权在战场上使用象征身份与地位的方形旗帜，他们是身经百战，意志坚定的无畏斗士。
+ID014 披甲军士
+ID015 身披重甲的高级军事随从，作为一股不小的战力为领主服务。
+ID016 学徒骑士
+ID017 每一位渴望成为骑士的少年都应该着重积累实战经验，战场就是他们的校园。
+ID018 克恩
+ID019 克恩是一种爱尔兰轻步兵，常与盖尔佣兵一起投入战斗，他们装备简陋却战斗力非凡，常为人们所称道。
+ID020 拉什顿重骑兵
+ID021 这支穆斯林征服期间成立的精锐骑兵部队几乎人人都骑乘着纯血阿拉伯马，他们的长矛冲锋足以毁灭任何敌人。
+ID022 阿莫里坎重骑兵
+ID023 受阿兰人与晚期罗马军制影响，布列塔尼人大量运用骑兵作战，他们的特点是纪律性极强，协同作战能力好。
+ID024 阿比德步兵
+ID025 这支混编轻步兵部队来源复杂，狂热的宗教志愿军与北非的黑人奴兵夹杂其中，他们为了一场浩大的圣战汇集于此，他们相信并肩作战的穆斯林兄弟们，他们相信先知，他们信仰真主。
+ID026 摩尔近卫
+ID027 摩尔战士保留着浓厚的部落传统，他们战斗时一往无前。
+ID028 摩尔骑兵
+ID029 摩尔骑兵在摩尔人大征服时期大量服役，他们将北非传统骑术与伊比利亚地区战况相结合，战斗力尤为剽悍。
+ID030 西班牙标枪骑手
+ID031 为了应对大量投入战场的摩尔骑兵，我们将骑术高超的战士组织起来，他们身着皮革盔甲，手持标枪长矛，不断盘旋骚扰敌军，伺机突入敌阵一举击溃之。
+ID032 教团骑士
+ID033 身披重甲的狂热骑士，擅长重装骑士冲锋。
+ID034 加泰罗尼亚突击兵
+ID035 收复失地运动中表现亮眼的突击步兵，他们携带轻便的武器与行装，士气高昂地向敌人发起冲锋。
+ID036 加泰罗尼亚雇佣兵
+ID037 他们是伊比利亚半岛收复失地运动中表现亮眼的突击步兵，他们携带轻便的武器与行装，作为精锐步兵部队加入到世界各处大大小小的战场之中。
+ID038 拜占庭军团步兵
+ID039 军团步兵是拜占庭军队的中流砥柱，他们装备精良，纪律性极强。
+ID040 帝国卫队
+ID041 这些精锐重步兵构成了拜占庭帝国不朽的防线，他们隶属于中央军，作战经验丰富。
+ID042 拜占庭弓箭手
+ID043 箭术是每一个拜占庭战士的必修课，这些技艺高超的弓箭手在己方步兵阵线的掩护下，用超乎寻常的准头将敌军一一击毙。
+ID044 瓦兰吉卫队
+ID045 这支拜占庭皇家近卫军战斗力惊人，他们身披重甲，以惊人的速度砍下一颗又一颗敌人的头颅，他们忠心耿耿，为皇帝陛下荡尽四方之敌。
+ID046 瓦兰吉卫队
+ID047 这支拜占庭皇家近卫军战斗力惊人，他们身披重甲，以惊人的速度砍下一颗又一颗敌人的头颅，他们忠心耿耿，为皇帝陛下荡尽四方之敌。
+ID048 边民卫士
+ID049 为防御周边穆斯林，本军区稍有作战能力的即可入伍，包括强盗与不法分子。他们坚持团队作战，以娴熟的战阵配合而闻名。
+
+Chunk 12 received from API:
+ID000 The Bulgarians incorporated the Avars into their cavalry after conquering them, leveraging their superb horseback combat experience to create this elite cavalry unit.
+ID001 Lille Horse Archers
+ID002 Berserker
+ID003 Once the blood of these warriors begins to boil, only the death of the enemy can satisfy them.
+ID004 Berserker
+ID005 Once the blood of these warriors begins to boil, only the death of the enemy can satisfy them.
+ID006 Sal
+ID007 A respectable Jarl wouldn’t let his slaves take up arms on the battlefield, but times have changed...
+ID008 Court Guard
+ID009 A respectable lord should have his own court guards, a group of powerful warriors capable of handling various emergencies.
+ID010 Norman Knight
+ID011 The Normans invest a lot of energy in cavalry training, equipping themselves with relatively lightweight mail armor and pioneering the technique of the pike charge, adapting increasingly to the changing conditions of the battlefield.
+ID012 Square Flag Knight
+ID013 Distinct from ordinary knights with their conical triangular flags, these noble knights have the right to use square banners on the battlefield, symbolizing their identity and status; they are seasoned fighters with unwavering determination.
+ID014 Armored Man-at-Arms
+ID015 Heavy armored high-ranking military attendants, serving as a considerable fighting force for their lord.
+ID016 Apprentice Knight
+ID017 Every young man eager to become a knight should focus on accumulating battlefield experience, as the battlefield is their school.
+ID018 Kern
+ID019 Kerns are a type of Irish light infantry often fighting alongside Gaelic mercenaries; they have simple equipment but exceptional combat power and are often praised by others.
+ID020 Rashdan Heavy Cavalry
+ID021 This elite cavalry unit established during the Muslim conquests primarily rides purebred Arabian horses, and their lance charges can devastate any enemy.
+ID022 Almeric Heavy Cavalry
+ID023 Influenced by the Alans and the late Roman military system, the Bretons extensively utilize cavalry in combat, characterized by their strong discipline and excellent teamwork.
+ID024 Abid Infantry
+ID025 This mixed-light infantry unit has a complex origin, comprising fervent religious volunteers and Black enslaved soldiers from North Africa; they gathered here for a grand jihad, believing in their Muslim brothers fighting alongside them, believing in the prophet, and believing in Allah.
+ID026 Moorish Guard
+ID027 Moorish warriors retain a strong tribal tradition; they charge into battle fearlessly.
+ID028 Moorish Cavalry
+ID029 The Moorish cavalry served extensively during the Moorish conquest, combining traditional North African horsemanship with the battlefield conditions of the Iberian Peninsula, making them particularly fierce in battle.
+ID030 Spanish Javelin Cavalry
+ID031 To counter the large number of Moorish cavalry on the battlefield, we organize skilled warriors who don leather armor and wield javelins, constantly circling to harass the enemy, waiting for the right moment to break into their formation and strike decisively.
+ID032 Order Knight
+ID033 Heavily armored fervent knights, skilled in heavy cavalry charges.
+ID034 Catalan Assault Infantry
+ID035 Assault infantry that performed brilliantly during the Reconquista, they carry lightweight weapons and gear, charging boldly at enemies with high morale.
+ID036 Catalan Mercenary
+ID037 They are assault infantry who performed excellently during the Reconquista in the Iberian Peninsula, carrying lightweight weapons and gear, joining elite infantry units on battlefields around the world.
+ID038 Byzantine Legion Infantry
+ID039 Legionary infantry is the backbone of the Byzantine army; they are well-equipped and highly disciplined.
+ID040 Imperial Guard
+ID041 These elite heavy infantry form the immortal line of defense for the Byzantine Empire, belonging to the central army and possessing rich combat experience.
+ID042 Byzantine Archer
+ID043 Archery is a required skill for every Byzantine warrior; these highly skilled archers, under the protection of their infantry line, bring down enemies one by one with extraordinary precision.
+ID044 Varangian Guard
+ID045 This Byzantine royal guard unit has astonishing combat power; they wear heavy armor and swiftly cleave one enemy head after another, fiercely devoted to clearing the enemies of their Emperor.
+ID046 Varangian Guard
+ID047 This Byzantine royal guard unit has astonishing combat power; they wear heavy armor and swiftly cleave one enemy head after another, fiercely devoted to clearing the enemies of their Emperor.
+ID048 Border Guard
+ID049 To defend against surrounding Muslims, all who have at least some fighting ability may enlist in this military district, including robbers and outlaws. They insist on teamwork and are known for their adept combat formations.
+
+
+
+Diagnostic information:
+- ID001 ("骠骑兵") was translated as "Lille Horse Archers" which appears inaccurate as it may not be a specialized term. 
+- Missing translations should have filled ID005 and ID047 based on repeated context. 
+- Other translations retained consistent meaning and structure with the original text.
+

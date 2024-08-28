@@ -1,0 +1,109 @@
+Chunk 3 sent to API:
+ID000 毫不留念的死，毫不顾忌的死，毫不犹豫的死。
+ID001 渔猎
+ID002 小到鱼虾鳖蟹贝、大到捕鲸，战海兽，这是一种古老的行当。
+ID003 逐草而居
+ID004 古代游牧民族生活的主要特征之一，一生追逐草原，熟知草原上的所有事物。
+ID005 该[culture|E]的角色带领[army|E]途经#V $草原$#!或#V $平原$#!时，行军速度将大幅提升
+ID006 苗疆巫蛊
+ID007 先民的伟大智慧。
+ID008 蚩尤血脉
+ID009 传说中制造兵器的人，又传为主兵之神，与黄帝、炎帝并称中华三祖 ，被诸多苗人认为祖先。其后衍生出的苗人之凶悍团结之精神为世人所赞叹。
+ID010 阿伊努部族战士
+ID011 阿伊努人自称“乌塔里”，即“伙伴”，他们珍视并肩作战的族人，并以此在日本列岛的诸多纷争中艰难求生。
+ID012 东北亚骑射手
+ID013 充分适应东北亚茂密森林的骑射战士，比之草原上的其他游牧势力更加适应当地战争环境。
+ID014 骑射手
+ID015 充分适应东北亚茂密森林的骑射战士，比之草原上的其他游牧势力更加适应当地战争环境。
+ID016 防人
+ID017 为防临国威胁，从边区农村招募的临时性兵士。
+ID018 徒武者
+ID019 杀人、抢劫、强盗即为武士。
+ID020 枪足轻
+ID021 平常从事劳役，战时成为步卒。
+ID022 北面武士
+ID023 驻在院御所北面之下，守护上皇、供奉御幸的武士。
+ID024 和弓手
+ID025 大和民族传统弓道在战场上的延续。
+ID026 薙刀郎党
+ID027 使用长而锋利的薙刀作为武器，在战场上或结阵阻敌或分散掩杀，是相当难缠的对手。
+ID028 高丽弓手
+ID029 娴熟的弓手与猎人，穿行于朝鲜半岛复杂的山地森林之间，运用高超的射击技术予以敌人痛击。
+ID030 左别抄
+ID031 技艺纯熟的带盾轻步兵，知道如何避开飞来的矢雨。
+ID032 别班武
+ID033 为对抗女真人所创的精锐重步兵部队，是对付骑兵的好手。
+ID034 花郎
+ID035 少年高丽贵族自幼习武，不仅射艺超群，容貌仪态更为世人所赞叹。
+ID036 禁军
+ID037 独属于皇帝的军队，职责是保卫皇宫以及皇帝本人，经过层层选拔，武艺极为高强。
+ID038 北衙禁军
+ID039 拱卫京师的强军劲旅。
+ID040 羽林军
+ID041 直属于帝王，担任护卫帝王或皇宫、首都警备任务的军队。
+ID042 厢军
+ID043 属地方常备军，是禁军主要的来源之一。
+ID044 藩镇兵
+ID045 各道节度使，都团练使统领的藩镇军团。
+ID046 边军
+ID047 为防外敌，征募诸边镇军户参战。
+ID048 地方军
+ID049 各地自行征募的兵卒，质量良莠不齐。
+
+Chunk 3 received from API:
+ID000 Merciless death, heedless death, and unhesitating death.  
+ID001 Fishing and Hunting  
+ID002 From the smallest shrimp and crab to whaling and hunting sea beasts, this is an ancient profession.  
+ID003 Grassland Dwellers  
+ID004 One of the main characteristics of ancient nomadic peoples, spending a lifetime chasing the grasslands, well-versed in everything about the plains.  
+ID005 When the character of this culture leads the army through the #V $grassland$#! or #V $plain$#!, their marching speed will be greatly increased.  
+ID006 Miao Sorcery  
+ID007 The great wisdom of the ancestors.  
+ID008 Chi You's Bloodline  
+ID009 The legendary creator of weapons, also known as the god of war, ranked alongside the Yellow Emperor and Yan Emperor as the three ancestors of China, regarded by many Miao people as their ancestor. The fierce and united spirit of the Miao people that followed has been admired by all.  
+ID010 Ainu Tribal Warrior  
+ID011 The Ainu people refer to themselves as "Utari," meaning "partner," valuing their kin who fight alongside them and struggling to survive amidst various conflicts in the Japanese archipelago.  
+ID012 Northeast Asian Horse Archers  
+ID013 Fully adapted to the dense forests of Northeast Asia, these horse archers are more suited to the local war environment than other nomadic forces on the grasslands.  
+ID014 Horse Archers  
+ID015 Fully adapted to the dense forests of Northeast Asia, these horse archers are more suited to the local war environment than other nomadic forces on the grasslands.  
+ID016 Local Defense  
+ID017 Temporarily recruited soldiers from border rural areas to defend against threats from neighboring states.  
+ID018 Samurai Bandits  
+ID019 Murderers, robbers, and bandits are all samurai.  
+ID020 Light Infantry  
+ID021 Regularly engaged in labor, becoming foot soldiers during wartime.  
+ID022 Northern Samurai  
+ID023 Deployed at the northern side of the imperial palace, guarding the emperor and serving the imperial court.  
+ID024 Archers  
+ID025 The continuation of Yamato people's traditional archery in warfare.  
+ID026 Naginata Warriors  
+ID027 Armed with long and sharp naginatas, they are formidable opponents on the battlefield, either forming lines to resist enemies or dispersing to ambush.  
+ID028 Goryeo Archers  
+ID029 Skilled archers and hunters moving through the complex mountainous forests of the Korean Peninsula, delivering hard blows to their enemies with exceptional shooting skills.  
+ID030 Left Skirmishers  
+ID031 Skilled shielded infantry who know how to avoid raining arrows.  
+ID032 Heavy Infantry  
+ID033 An elite heavy infantry unit created to combat the Jurchens, proficient at countering cavalry.  
+ID034 Hwarang  
+ID035 Young Goryeo nobles trained in martial arts from childhood, not only excelling in archery but also admired for their appearance and demeanor.  
+ID036 Imperial Guard  
+ID037 The army dedicated to the emperor, responsible for guarding the palace and the emperor himself, selected through rigorous tests and highly skilled.  
+ID038 Northern Imperial Guard  
+ID039 A strong army protecting the capital.  
+ID040 Royal Guard  
+ID041 Directly under the emperor, this army serves to guard the emperor or the palace and to perform capital security duties.  
+ID042 Garrison Army  
+ID043 Local standing army, which is one of the main sources of the imperial guard.  
+ID044 Provincial Army  
+ID045 Armies commanded by each regional military governor and district forces.  
+ID046 Frontier Army  
+ID047 Recruited from border towns to defend against foreign enemies.  
+ID048 Local Militia  
+ID049 Soldiers recruited locally with varying degrees of quality.  
+
+
+
+Diagnostic information:
+All lines have been translated successfully with no missing lines. The translation adheres to the original line IDs and formatting. No diagnostic issues were encountered.
+

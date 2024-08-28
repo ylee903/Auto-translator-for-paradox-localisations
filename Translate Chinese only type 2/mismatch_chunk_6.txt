@@ -1,0 +1,110 @@
+Chunk 6 sent to API:
+ID000 持斧近卫
+ID001 伏特加
+ID002 生命之水，罗斯民族的骄傲
+ID003 民风彪悍
+ID004 文明蒙昧，民风彪悍，原始的欲望充斥在每个人心中
+ID005 瘊子甲
+ID006 羌人善锻甲，凡锻甲之法，其始甚厚，不用火，冷锻之，比元厚三分减二乃成。其末留箸头许不锻，隐然如瘊子，欲以验未锻时厚薄，如浚河留土笋也，谓之“瘊子甲”。强弩射之，不能入.
+ID007 横山羌
+ID008 广泛存在于西北山区的羌人部族，以卓绝的越野能力纵横于群山之间。
+ID009 党项马
+ID010 党项族居住的地斤泽、横山、天都山一带都是著名产马地区。马多而品种优良，唐代诗人元稹有“北买党项马，西擒吐蕃鹦”之句。宋人更是称誉党项马为天下之最。
+ID011 冷锻钢
+ID012 党项人的锻钢技术超绝于世，世人以得到一把夏国剑为无上荣光。宋钦宗本人随身佩带的宝剑就是‘夏国剑’。苏东坡曾得到一把西夏剑，作诗云：‘红妆拥坐花照酒，青萍拔鞘堂生风。螺旋铓锷波起脊，白蛟双挟三蛟龙。试人一缕立褫魄，戏客三招森动容。’。
+ID013 浪人
+ID014 为恢复昔日的权威而疯狂冒险，以天皇亲兵自居，到处以
+ID015 神臂弓
+ID016 神臂弓一人可开,最大射程达四百米,能贯重甲。
+ID017 马政废弛
+ID018 上层统治者的忽视加上下层官员的错误施政已经让中原马政陷入了积重难返的困境。
+ID019 保马法
+ID020 中原无马可用的局面正式扭转，强有效的马政政策施行了起来，如果整套体系运转良好的话将泽披万世。
+ID021 商业民族
+ID022 粟特人通过漫长的丝绸之路频繁往来于中亚与中国之间，从中世纪东西方贸易中攫取了大量财富。
+ID023 和弓
+ID024 日本弓道所使用的一类长弓。标准的和弓长度约为七尺三寸。
+ID025 薙刀
+ID026 薙刀是古代日本使用的一种长柄兵器，其刀幅较宽，刀刃部分有很大弧度。
+ID027 占城稻
+ID028 出产于中南半岛的高产、早熟、耐旱的稻种，造福甚广。
+ID029 引进占城稻
+ID030 引进出产于中南半岛高产、早熟、耐旱的占城稻，造福天下百姓。
+ID031 地大物博
+ID032 生吾炎黄，育我华夏。待之有为，必报中华。
+ID033 河朔轻骑
+ID034 自古燕地多武人，又处边塞，马匹贸易颇多，长期胡汉交杂下，良家子人人得骑。
+ID035 西南马
+ID036 西南马性情灵敏而温驯，善于爬山，适于山地驮运，为高原山地的重要运输工具。
+ID037 百保鲜卑骑
+ID038 燕云十八骑
+ID039 西凉铁骑
+ID040 翁牛特
+ID041 兀良哈
+ID042 乌济业特
+ID043 怯薛军
+ID044 拐子马
+ID045 拐子马
+ID046 铁浮图
+ID047 铁浮图
+ID048 虎步卫
+ID049 铁鹞子
+
+Chunk 6 received from API:
+ID000 Ax-guard  
+ID001 Vodka  
+ID002 Water of Life, pride of the Ross people  
+ID003 Fierce folk customs  
+ID004 Civilization is ignorant, fierce folk customs prevail, primal desires fill every heart  
+ID005 Wart-covered armor  
+ID006 The Qiang people are skilled in armor forging. The initial forging of armor is very thick, done without fire, and cold-forging reduces its thickness by a third. A small part is left un-forged, resembling a wart, to test the thickness before forging, similar to leaving soil in a riverbed; this is called "wart-covered armor." It cannot be penetrated by strong crossbows.  
+ID007 Qiang of Hengshan  
+ID008 Qiang tribes, widely present in the northwestern mountainous regions, traverse the mountains with exceptional off-road abilities.  
+ID009 Dangxiang Horse  
+ID010 The regions inhabited by the Dangxiang people, such as Jinzey, Hengshan, and Tiandu Mountain, are famous horse-producing areas. There are many horses of excellent quality. The Tang dynasty poet Yuan Zhen wrote, "In the north, I buy Dangxiang horses; in the west, I capture Tibetan parrots." The Song people praised the Dangxiang horses as the best in the world.  
+ID011 Cold-forged Steel  
+ID012 The Dangxiang people’s forging technology is renowned worldwide; it is considered a great honor to obtain a "Xia Kingdom sword." The sword carried by Song Qinzong himself was the 'Xia Kingdom sword.' Su Dongpo once received a Xixia sword and wrote a poem saying: 'Red makeup sits around the flower reflecting the wine, blue duckweed pulls out the blade, the spiral grooves raise waves, and the white dragon embraces the three dragons.'  
+ID013 Ronin  
+ID014 Crazy adventures to restore former authority, posing as the Emperor's personal army, anywhere they go  
+ID015 Divine Bow  
+ID016 The divine bow can be drawn by one person, with a maximum range of four hundred meters, capable of penetrating heavy armor.  
+ID017 Equestrian Policy Neglect  
+ID018 The neglect of the upper rulers and the mistakes of lower officials have plunged the equestrian policy of the Central Plains into a dire situation.  
+ID019 Horse Protection Law  
+ID020 The situation of having no horses available in the Central Plains has officially turned around; strong and effective equestrian policies have been implemented, which will benefit future generations if the entire system operates well.  
+ID021 Commercial Ethnic Group  
+ID022 The Sogdian people frequently traveled along the Silk Road between Central Asia and China, extracting significant wealth from medieval Eastern and Western trade.  
+ID023 Japanese Bow  
+ID024 A type of long bow used in Japanese kyudo. The standard length of a Japanese bow is approximately seven feet three inches.  
+ID025 Naginata  
+ID026 The naginata is a long-handled weapon used in ancient Japan, with a wide blade and a significant curvature in the blade part.  
+ID027 Champa Rice  
+ID028 A high-yield, early-maturing, drought-resistant rice variety produced in the Southeast Asian Peninsula, benefiting many.  
+ID029 Introducing Champa Rice  
+ID030 Introducing the high-yield, early-maturing, drought-resistant Champa rice from the Southeast Asian Peninsula, benefiting the people of the world.  
+ID031 Vast Land Rich Resources  
+ID032 Born of Flame and Yellow, nurtured in Huaxia. If treated with merit, it will surely repay Zhonghua.  
+ID033 He Shuo Light Cavalry  
+ID034 Historically, Yan territory has had many warriors, being located at the border, and horse trade is prevalent. Under the long-term integration of Hu and Han, anyone from a good family can ride.  
+ID035 Southwest Horse  
+ID036 Southwest horses are agile and docile, good at climbing mountains, suitable for mountain transport, and serve as important transportation tools in highland areas.  
+ID037 Baobao Xianbei Cavalry  
+ID038 Yanyun Eighteen Riders  
+ID039 Xiliang Iron Cavalry  
+ID040 Wengniute  
+ID041 Wulengha  
+ID042 Wu Jiyete  
+ID043 Qiexue Army  
+ID044 Guaizi Horse  
+ID045 Guaizi Horse  
+ID046 Iron Pagoda  
+ID047 Iron Pagoda  
+ID048 Tiger Step Guard  
+ID049 Iron Harrier  
+
+
+
+Diagnostic information:
+- All lines were successfully translated; no missing lines were encountered.  
+- Context of lines refers to a historical or cultural description, which was maintained in translation.
+

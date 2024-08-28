@@ -1,0 +1,109 @@
+Chunk 2 sent to API:
+ID000 足轻是日本古代最低等的步兵之称呼，他们平常从事劳役，战时成为步卒。
+ID001 高丽参
+ID002 大补元气，生津安神，上国独爱之。
+ID003 高丽弓
+ID004 古高丽的最强战力，少有的亮点之一。
+ID005 别班武
+ID006 高丽为对抗女真入侵而精心打造的对骑兵部队。
+ID007 蒙古马
+ID008 蒙古马体形矮小，其貌不扬，头大颈短，体魄强健，胸宽鬃长，皮厚毛粗，能吃苦，适应能力强，能抵御西伯利亚暴雪；能扬蹄踢碎狐狼的脑袋。
+ID009 回鹘轻骑
+ID010 回鹘人虽与突厥各部不和，但仍保有传统的牧居生活，他们借由当地所产的哈萨克马组成了强有力的骑兵部队，用以护卫陆上商队的安全。
+ID011 哈萨克马
+ID012 产于天山北坡、准噶尔西部山地和阿尔泰山西段一带的马种。骨骼粗实、皮厚毛密，鬃、鬣、尾毛浓密，体型较粗重。外貌匀称，有良好的兼用型结构。是在粗放的群牧饲养条件下形成的一个古老地方马种。
+ID013 喜马拉雅战士
+ID014 我们早已适应高原山地间崎岖的地形与稀薄的空气，外来者难以忍受这里的环境，更不足以对我们造成威胁。我们的战士穿梭于群山之间，俯瞰着入侵者一个个倒下。高原是上天赐予的屏障，外来者入藏举步维艰，但同时，我们的战士下到低地也会有严重的不良反应。
+ID015 河曲马
+ID016 河曲马是一个古老而优良的地方马种，体形高大，背脊平坦，挽乘兼顾，持久耐劳，并且适应当地地理与生态环境和抗病能力强，早在秦汉时期就被作为战马使用，在历史上常用它作为贡礼。
+ID017 鲜卑铁骑
+ID018 吐谷浑保留下来的鲜卑传统之一，自北魏孝文帝起，历任统治者都会悉心组建重装骑兵部队以震慑周边宵小。
+ID019 吐谷浑甲骑具装
+ID020 人马具甲的吐谷浑武士，保留着良好的鲜卑传统，是冲阵杀敌的好手。
+ID021 具装甲骑
+ID022 人马具甲的重装武士，依照古老的战斗传统冲阵杀敌。
+ID023 突厥重骑兵
+ID024 西突厥是马背上的民族，自突厥崛起时代保留下来的冶铁铸造工艺遇上中亚地区丰富的铁矿资源造就了这支名噪一时的重装骑兵部队，他们是草原上的恶狼，是周边文明的噩梦。
+ID025 突厥重骑兵
+ID026 西突厥是马背上的民族，自突厥崛起时代保留下来的冶铁铸造工艺遇上中亚地区丰富的铁矿资源造就了这支名噪一时的重装骑兵部队，他们是草原上的恶狼，是周边文明的噩梦。
+ID027 库曼部落
+ID028 库曼人的联合之法无比强大，各个部族的强大骑兵均为我所用。
+ID029 库曼基普切克
+ID030 来自各个部族的轻装库曼骑兵，以其高机动性而著称。
+ID031 木制围栏
+ID032 我们就地取材在定居点附近大量部署木制围栏，这能很好的阻拦入侵者的步伐。
+ID033 阿克速
+ID034 人马具甲的保加尔武士，以密集阵型发起冲锋，最大程度地发挥他们的力量和速度。
+ID035 昆诺
+ID036 轻装上阵的马扎尔战士，他们乘马踏来之时整个潘诺尼亚都为之颤抖。
+ID037 洛沃什
+ID038 英勇的披甲马扎尔骑士，既能在远处配合轻骑发射箭雨，又能在战阵焦灼时发起冲锋。
+ID039 武装民兵
+ID040 稍加训练，拥有简易武备的轮班民兵，队伍中混有少量弓箭手，但战斗力依旧不佳。
+ID041 塞凯伊弓骑兵
+ID042 久居潘诺尼亚的塞凯伊弓骑兵，是侧翼扰敌和追杀溃军的好手。
+ID043 伽色尼战象
+ID044 引进自印度的战争巨兽，经过长期的驯养与磨合逐渐适应了战场上的噪音与长矛，厚实的象皮配上全身防护的铁甲，他们能够无视猛烈的攻击并以万钧之势冲垮敌军。
+ID045 伽色尼战象
+ID046 引进自印度的战争巨兽，经过长期的驯养与磨合逐渐适应了战场上的噪音与长矛，厚实的象皮配上全身防护的铁甲，他们能够无视猛烈的攻击并以万钧之势冲垮敌军。
+ID047 伽色尼战象
+ID048 引进自印度的战争巨兽，经过长期的驯养与磨合逐渐适应了战场上的噪音与长矛，厚实的象皮配上全身防护的铁甲，他们能够无视猛烈的攻击并以万钧之势冲垮敌军。
+ID049 武士道
+
+Chunk 2 received from API:
+ID000 Ashigaru is the term for the lowest class of infantry in ancient Japan, typically engaged in labor but becoming foot soldiers during wartime.  
+ID001 Korean Ginseng  
+ID002 A great supplement for energy, refreshing, and calming; loved by the upper echelons of the nation.  
+ID003 Korean Bow  
+ID004 The strongest military strength of ancient Goryeo, one of the rare highlights.  
+ID005 Biebanwu  
+ID006 The cavalry unit carefully crafted by Goryeo to combat Jurchen invasions.  
+ID007 Mongolian Horse  
+ID008 The Mongolian horse is small in stature, unremarkable in appearance, has a large head and short neck, a strong build, wide chest, long mane, thick skin, and coarse hair, able to endure hardship, strong adaptability, and resistance to Siberian blizzards; it can kick and crush the heads of foxes and wolves.  
+ID009 Uyghur Light Cavalry  
+ID010 Although the Uyghurs are not on good terms with the various Turkic factions, they still preserve their traditional pastoral lifestyle. They have formed a powerful cavalry unit using the locally produced Kazakh horses to ensure the safety of overland trade caravans.  
+ID011 Kazakh Horse  
+ID012 A breed originating from the northern Tianshan Mountains, western Dzungaria, and the western section of the Altai Mountains. It has solid bones, thick skin, dense hair, a robust build, and is well-balanced with good general-purpose structure. This is an ancient local horse breed formed under extensive free-range pastoral conditions.  
+ID013 Himalayan Warrior  
+ID014 We have long adapted to the rugged terrain and thin air of the plateau mountains; outsiders find it difficult to endure this environment and cannot pose a threat to us. Our warriors move through the mountains, watching as invaders fall one by one. The plateau is a divine barrier granted by heaven; outsiders struggle to enter our land, but at the same time, our warriors suffer severe adverse reactions when descending to lower grounds.  
+ID015 Hequ Horse  
+ID016 The Hequ horse is an ancient and excellent local breed, large in stature with a flat back, suitable for both pulling and riding, durable, and well-suited to the local geography and ecology, with strong disease resistance. It was used as a warhorse as early as the Qin and Han dynasties and was often used as tribute in history.  
+ID017 Xianbei Iron Cavalry  
+ID018 One of the preserved Xianbei traditions from the Tuyuhun, since the reign of Emperor Xiaowen of the Northern Wei, successive rulers have carefully built heavy cavalry units to deter nearby marauders.  
+ID019 Tuyuhun Armored Cavalry  
+ID020 Tuyuhun warriors in armored mounts, preserving excellent Xianbei traditions, are skilled at charging into battle and defeating enemies.  
+ID021 Armored Cavalry  
+ID022 Heavily armored warriors in both horse and rider, charging into battles according to ancient combat traditions.  
+ID023 Turkic Heavy Cavalry  
+ID024 The Western Turkic people are a horseback nation. The iron smelting techniques preserved since the rise of the Turks, combined with the abundant iron ore resources in Central Asia, have created this renowned heavy cavalry force, feared as the wolves of the grasslands and nightmares for neighboring civilizations.  
+ID025 Turkic Heavy Cavalry  
+ID026 The Western Turkic people are a horseback nation. The iron smelting techniques preserved since the rise of the Turks, combined with the abundant iron ore resources in Central Asia, have created this renowned heavy cavalry force, feared as the wolves of the grasslands and nightmares for neighboring civilizations.  
+ID027 Cumans Tribe  
+ID028 The alliance of the Cumans is incredibly powerful, with the strong cavalry of each tribe at our disposal.  
+ID029 Cuman Kipchak  
+ID030 Lightly armored Cuman cavalry from various tribes, known for their high mobility.  
+ID031 Wooden Fence  
+ID032 We locally source materials to heavily deploy wooden fences near our settlements, effectively hindering the advancement of intruders.  
+ID033 Achievements  
+ID034 Armored Bulgarian warriors on horseback, charging in dense formations to maximize their power and speed.  
+ID035 Kuno  
+ID036 Lightly armed Magyar warriors, causing the entirety of Pannonia to tremble as they approach on horseback.  
+ID037 Lovrosh  
+ID038 Brave armored Magyar knights, capable of coordinating with light cavalry to rain down arrows from a distance, as well as charging into battle when the situation becomes critical.  
+ID039 Armed Militia  
+ID040 Slightly trained militia with basic equipment, consisting of a few archers, but their combat effectiveness remains poor.  
+ID041 Szekler Horse Archers  
+ID042 The Szekler bowmen, long-time residents of Pannonia, excel at flanking the enemy and pursuing retreating forces.  
+ID043 Gallic War Elephant  
+ID044 The enormous war beasts introduced from India, having adapted to the noise and javelins of the battlefield after long-term training, with thick elephant skin and full-body protective armor, they can ignore fierce attacks and charge through enemy lines with immense force.  
+ID045 Gallic War Elephant  
+ID046 The enormous war beasts introduced from India, having adapted to the noise and javelins of the battlefield after long-term training, with thick elephant skin and full-body protective armor, they can ignore fierce attacks and charge through enemy lines with immense force.  
+ID047 Gallic War Elephant  
+ID048 The enormous war beasts introduced from India, having adapted to the noise and javelins of the battlefield after long-term training, with thick elephant skin and full-body protective armor, they can ignore fierce attacks and charge through enemy lines with immense force.  
+ID049 Bushido  
+
+
+
+Diagnostic information:
+- All lines were able to be translated accurately without any missing lines. The total count of IDs matches the original count.
+
