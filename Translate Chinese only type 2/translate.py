@@ -22,12 +22,15 @@ overwrite_original = True  # Set to True to overwrite, False to save as _transla
 enable_sub_ids = True  # Set to True to add sub-IDs, False to disable
 
 # Parameter to control the maximum number of concurrent asynchronous requests
-max_concurrent_requests = 5  # Adjust this value to control concurrency
+max_concurrent_requests = 3  # Adjust this value to control concurrency
 
 # Parameter to select the model to use for both tokenization and API calls
 model_name = (
     "gpt-4o-mini"  # Can be "gpt-4", "gpt-3.5-turbo", or any other supported model
 )
+
+# Parameter to determine if the program will ignore mismatches in the number of lines
+ignore_mismatch = True  # Set to True to ignore mismatches, False to raise an error
 
 # Path to the .env file
 file_path = r"D:\Documents\Self help websites and data for games etc\paradox\ck3\Auto-translator-for-paradox-localisations\keys.env"
@@ -58,8 +61,8 @@ LINE_LIMIT = 999  # Maximum number of lines or IDs in a chunk
 ID_FORMAT = "ID{:03d}"
 
 # Retry configuration
-max_retries = 999  # Maximum number of retries for rate limit errors
-initial_wait_time = 10  # Initial wait time before retrying (in seconds)
+max_retries = 5  # Maximum number of retries for rate limit errors
+initial_wait_time = 5  # Initial wait time before retrying (in seconds)
 
 
 def extract_chinese_phrases(file_content):
@@ -148,6 +151,13 @@ async def translate_chunk_async(chunk, session, chunk_index, semaphore):
                 ].strip()
                 translated_phrases = translated_text.split("\n")
 
+                # Log the received chunk before checking for mismatch
+                if log_chunks:
+                    with open(log_file_path, "a", encoding="utf-8") as log_file:
+                        log_file.write(
+                            f"Chunk {chunk_index + 1} received from API:\n{translated_text}\n\n"
+                        )
+
                 # Remove sub-IDs before further processing
                 if enable_sub_ids:
                     translated_phrases = [
@@ -156,19 +166,27 @@ async def translate_chunk_async(chunk, session, chunk_index, semaphore):
 
                 # Check if the number of lines sent matches the number of lines received
                 if len(translated_phrases) != len(chunk):
+                    # Log the mismatch for debugging
+                    mismatch_log_path = log_file_path.replace(
+                        "chunks_log.txt", f"mismatch_chunk_{chunk_index + 1}.txt"
+                    )
+                    with open(mismatch_log_path, "w", encoding="utf-8") as mismatch_log:
+                        mismatch_log.write(
+                            f"Chunk {chunk_index + 1} sent to API:\n{text_to_translate}\n\n"
+                        )
+                        mismatch_log.write(
+                            f"Chunk {chunk_index + 1} received from API:\n{translated_text}\n\n"
+                        )
+
                     error_message = (
                         f"Error: Mismatch in the number of lines sent and received "
                         f"for chunk {chunk_index + 1}. "
-                        f"Sent {len(chunk)} lines, received {len(translated_phrases)} lines."
+                        f"Sent {len(chunk)} lines, received {len(translated_phrases)} lines. "
+                        f"Details logged to {mismatch_log_path}."
                     )
                     print(error_message)
-                    raise ValueError(error_message)
-
-                if log_chunks:
-                    with open(log_file_path, "a", encoding="utf-8") as log_file:
-                        log_file.write(
-                            f"Chunk {chunk_index + 1} received from API:\n{translated_text}\n\n"
-                        )
+                    if not ignore_mismatch:
+                        raise ValueError(error_message)
 
                 translated_chunk = {
                     unique_id: translated_phrase
