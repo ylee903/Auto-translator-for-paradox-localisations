@@ -1,11 +1,26 @@
-def read_yaml_content(file_path):
-    """Reads the original YAML content from the file."""
+# file_io.py
+import os
+
+
+def read_file(file_path):
+    """Reads the content of a file and returns it."""
     with open(file_path, "r", encoding="utf-8") as file:
-        content = file.read()
-    return content
+        return file.read()
 
 
-def save_translated_content(file_path, final_translated_content):
-    """Saves the final translated content back to the original file."""
+def write_file(file_path, content):
+    """Writes the given content to a file."""
     with open(file_path, "w", encoding="utf-8") as file:
-        file.write(final_translated_content)
+        file.write(content)
+
+
+def append_to_file(file_path, content):
+    """Appends the given content to a file."""
+    with open(file_path, "a", encoding="utf-8") as file:
+        file.write(content)
+
+
+def create_directory(directory_path):
+    """Creates a directory if it doesn't exist."""
+    if not os.path.exists(directory_path):
+        os.makedirs(directory_path)

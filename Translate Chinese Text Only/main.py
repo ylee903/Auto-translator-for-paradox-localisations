@@ -73,6 +73,41 @@ def translate_file(file_path, client):
     wait_if_needed(wait_mode)
 
 
+import os
+from initialize_text_holder import (
+    initialize_text_holder,
+    initialize_translated_text_holder,
+)
+from translation_operations import process_translation
+from api_key_loader import load_api_key
+from api_calls import initialize_openai_client
+
+
+def main():
+    api_key = load_api_key(".env")
+    client = initialize_openai_client(api_key)
+
+    current_directory = os.getcwd()
+    print(f"Current directory path: {current_directory}")
+
+    for root, dirs, files in os.walk(current_directory):
+        for file_name in files:
+            if file_name.endswith(".yml"):
+                file_path = os.path.join(root, file_name)
+                print(f"Translating file: {file_name}")
+                text_holder_path = file_path + "_text_holder.txt"
+                initialize_text_holder(text_holder_path)
+                translated_text_holder_path = file_path + "_translated_text_holder.txt"
+                initialize_translated_text_holder(translated_text_holder_path)
+                process_translation(
+                    file_path, client, text_holder_path, translated_text_holder_path
+                )
+
+
+if __name__ == "__main__":
+    main()
+
+
 # This function will order the translation of all files with the extension .yml in the current directory
 def manage_translation_tasks(client):
 

@@ -1,6 +1,15 @@
+# initialize_text_Holder.py
+
+import os
+
+
 def initialize_text_holder(file_path):
-    text_holder_path = f"{file_path}_text_holder.txt"
-    with open(text_holder_path, 'w', encoding='utf-8') as file:
-        file.write("")  # Start with an empty file
-    print(f"Initialized text holder file: {text_holder_path}")
-    return text_holder_path
+    """Initializes an empty text holder file."""
+    with open(file_path, "w", encoding="utf-8") as file:
+        pass
+
+
+def initialize_translated_text_holder(file_path):
+    """Initializes an empty translated text holder file."""
+    with open(file_path, "w", encoding="utf-8") as file:
+        pass
