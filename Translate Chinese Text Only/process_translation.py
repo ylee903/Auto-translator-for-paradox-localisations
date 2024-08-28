@@ -3,7 +3,9 @@ from api_calls import translate_chinese_phrases
 from file_operations import replace_identifiers_with_translations
 
 
-def process_translation(content, text_holder_path, client):
+def process_translation(
+    content, text_holder_path, client, model, endpoint, payload, max_tokens
+):
     """Handles the processing steps: extract, translate, and replace."""
     # Step 1: Extract Chinese phrases and replace them with unique identifiers
     content_with_placeholders = extract_chinese_phrases(content, text_holder_path)
