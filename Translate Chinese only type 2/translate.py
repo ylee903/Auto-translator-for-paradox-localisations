@@ -22,7 +22,12 @@ overwrite_original = True  # Set to True to overwrite, False to save as _transla
 enable_sub_ids = True  # Set to True to add sub-IDs, False to disable
 
 # Parameter to control the maximum number of concurrent asynchronous requests
-max_concurrent_requests = 6  # Adjust this value to control concurrency
+max_concurrent_requests = 5  # Adjust this value to control concurrency
+
+# Parameter to select the model to use for both tokenization and API calls
+model_name = (
+    "gpt-4o-mini"  # Can be "gpt-4", "gpt-3.5-turbo", or any other supported model
+)
 
 # Path to the .env file
 file_path = r"D:\Documents\Self help websites and data for games etc\paradox\ck3\Auto-translator-for-paradox-localisations\keys.env"
@@ -39,20 +44,22 @@ print(f"API Key: {api_key}")
 # Load your OpenAI API key
 openai.api_key = api_key
 
-# Initialize tiktoken encoding
-encoding = tiktoken.encoding_for_model("gpt-4")
+# Initialize tiktoken encoding based on the selected model
+encoding = tiktoken.encoding_for_model(model_name)
 
 # Define regular expression for extracting Chinese text
 chinese_text_regex = r'"([\u4e00-\u9fff]+[^"]*)"'
 
 # Define token limit and line limit
-TOKEN_LIMIT = 3500
+TOKEN_LIMIT = (
+    3500  # This is generally safe for GPT-4; adjust if necessary for other models
+)
 LINE_LIMIT = 999  # Maximum number of lines or IDs in a chunk
 ID_FORMAT = "ID{:03d}"
 
 # Retry configuration
-max_retries = 5  # Maximum number of retries for rate limit errors
-initial_wait_time = 5  # Initial wait time before retrying (in seconds)
+max_retries = 999  # Maximum number of retries for rate limit errors
+initial_wait_time = 10  # Initial wait time before retrying (in seconds)
 
 
 def extract_chinese_phrases(file_content):
@@ -119,7 +126,7 @@ async def translate_chunk_async(chunk, session, chunk_index, semaphore):
                 response = await session.post(
                     "https://api.openai.com/v1/chat/completions",
                     json={
-                        "model": "gpt-4",
+                        "model": model_name,
                         "messages": [
                             {
                                 "role": "system",
