@@ -35,6 +35,9 @@ def translate_chinese_phrases(text_holder_path, client):
     return translated_holder_path
 
 
+import requests
+
+
 def generic_openai_api_call(
     model, endpoint, payload, client, max_tokens=None, **kwargs
 ):
@@ -72,9 +75,6 @@ def generic_openai_api_call(
     except requests.exceptions.RequestException as e:
         print(f"API Request failed: {str(e)}")
         raise
-
-
-import requests
 
 
 def batch_openai_api_call(
