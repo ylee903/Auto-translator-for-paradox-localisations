@@ -1,0 +1,244 @@
+Chunk 6 sent to API:
+ID000 塔盾
+ID001 圆盾
+ID002 维京圆盾
+ID003 器形盾
+ID004 筝形盾
+ID005 扇形盾
+ID006 椭圆盾
+ID007 旁牌
+ID008 旁牌
+ID009 已选择
+ID010 冲锋
+ID011 负重
+ID012 追猎
+ID013 掩护
+ID014 繁育战马
+ID015 旋风砲
+ID016 披甲战象
+ID017 箭塔
+ID018 训练强度:Ⅰ
+ID019 训练强度:Ⅱ
+ID020 训练强度:Ⅲ
+ID021 戒严
+ID022 巩固城防
+ID023 坚壁清野
+ID024 强制征兵
+ID025 协助城建
+ID026 驻军征税
+ID027 巡视牧场
+ID028 组织劫掠
+ID029 切舍御免
+ID030 征召兵包括牧民、游荡的猎人、当地佣兵以及落魄贵族——他们数量庞大，大多骑马作战，构成了军队的主体。
+ID031 征召兵包括农民兵、地痞、当地佣兵以及落魄贵族，装备着五花八门的工具和东拼西凑的武器——他们数量庞大，构成了大部分军队的主体。
+ID032 征召兵包括农民兵、地痞、当地佣兵以及落魄贵族，装备着五花八门的工具和东拼西凑的武器——他们数量庞大，构成了大部分军队的主体。
+ID033 圣战士
+ID034 圣战士
+ID035 劫掠者
+ID036 劫掠者
+ID037 部落冠军
+ID038 部落冠军
+ID039 农民领袖
+ID040 农民领袖
+ID041 百战老农
+ID042 牙兵派系
+ID043 牙兵[faction|E]的诉求是更多的[gold|E]，更广阔的[realm|E]以及更优越的地位。积极互动，与你的[knights|E]们保持良好#关系。\n\n#S 最后通牒#!\n所有派系成员获得[gold|E]，[prestige|E]，[army|E]以及[realm|E]\n[deposed|E]现任[liege|E]并推举一位新的[liege|E]。
+ID044 希望攫取更多利益
+ID045 你不是[knights|E]
+ID046 你[liege|E]的组织形式不是#V 军府#!
+ID047 你[liege|E]的[government|E]不是#V 军镇制#!
+ID048 牙兵叛乱
+ID049 渴望金钱：$VALUE|=+0$
+ID050 游牧ai发展方向：通用（文化交流，技术革新)(加buff，偷革新)
+ID051 游牧ai发展方向：通用（文化交流，技术革新)(加buff，偷革新)。
+ID052 文化交流，技术革新
+ID053 文化交流，技术革新
+ID054 游牧ai发展方向：通用（贸易通商)
+ID055 游牧ai发展方向：通用（贸易通商)。
+ID056 贸易通商
+ID057 贸易通商
+ID058 游牧ai发展方向：通用（征服/快速吃地)
+ID059 游牧ai发展方向：通用（征服/快速吃地)。
+ID060 征服/快速吃地
+ID061 征服/快速吃地
+ID062 游牧ai发展方向：帝国式征服者（加buff）
+ID063 这类政权以强大的军事力量和领导力为特征，往往通过征服周边地区来建立广大的帝国。\n蒙古帝国是典型的帝国式征服者。成吉思汗及其后继者统一了蒙古草原，迅速征服了亚洲和欧洲大片领土，建立了一个庞大的帝国。
+ID064 战争
+ID065 战争
+ID066 游牧ai发展方向：帝国式征服者（ai策略）
+ID067 这类政权以强大的军事力量和领导力为特征，往往通过征服周边地区来建立广大的帝国。\n蒙古帝国是典型的帝国式征服者。成吉思汗及其后继者统一了蒙古草原，迅速征服了亚洲和欧洲大片领土，建立了一个庞大的帝国。
+ID068 策略
+ID069 策略
+ID070 游牧ai发展方向：帝国式征服者（ai应对派系）
+ID071 这类政权以强大的军事力量和领导力为特征，往往通过征服周边地区来建立广大的帝国。\n蒙古帝国是典型的帝国式征服者。成吉思汗及其后继者统一了蒙古草原，迅速征服了亚洲和欧洲大片领土，建立了一个庞大的帝国。
+ID072 应对派系
+ID073 应对派系
+ID074 游牧ai发展方向：帝国式征服者（ai迫害封臣）
+ID075 这类政权以强大的军事力量和领导力为特征，往往通过征服周边地区来建立广大的帝国。\n蒙古帝国是典型的帝国式征服者。成吉思汗及其后继者统一了蒙古草原，迅速征服了亚洲和欧洲大片领土，建立了一个庞大的帝国。
+ID076 迫害封臣
+ID077 迫害封臣
+ID078 游牧ai发展方向：帝国式征服者（征服/快速吃地)
+ID079 游牧ai发展方向：帝国式征服者（征服/快速吃地)。
+ID080 征服/快速吃地
+ID081 征服/快速吃地
+ID082 游牧ai发展方向：文化传承者（加buff）
+ID083 这类政权在征服过程中，通常会保留并传承原有的文化、语言和宗教，促使不同文化的融合。\n突厥汗国是一个文化传承#者。突厥汗国在征服中亚地区时，保留了原有的突厥文化和语言，并在统治地区推广突厥文化。
+ID084 传承
+ID085 传承
+ID086 游牧ai发展方向：外交与同盟者（加buff）
+ID087 这类政权可能更倾向于通过外交手段，与周边政权建立同盟关系，以维护自身的利益和稳定。\n花刺子模汗国在中亚地区采取了灵活的外交政策，通过与伊斯兰教国家建立同盟来维护自身的地位。
+ID088 外交
+ID089 外交
+ID090 游牧ai发展方向：外交与同盟者（ai外交策略）
+ID091 这类政权可能更倾向于通过外交手段，与周边政权建立同盟关系，以维护自身的利益和稳定。\n花刺子模汗国在中亚地区采取了灵活的外交政策，通过与伊斯兰教国家建立同盟来维护自身的地位。
+ID092 外交
+ID093 外交
+ID094 疲惫行军
+ID095 内里被雨水和泥浆浸透，沉重的铠甲令战士们不堪重负。长时间的跋涉使他们双眼发红，两腿打颤。士兵们脸上满了疲惫和焦虑，眼神浑浊，不再闪烁出昔日的锐利。武器也变得沉重笨拙，剑刃上沾满了泥土与污渍。每一步都如同提着千斤重担，战马气喘吁吁，阵阵喘息声伴随着个行军队伍。#!
+ID096 加速，你们这群懒猪！
+ID097 动起来！你们这群懒猪！掉队的人今晚可没有饭吃！
+ID098 你出色的军事素养告诉你如何有效调动整支军队
+ID099 士兵大声抱怨着行军的艰苦并无视了你的催促
+ID100 好吧，原地整顿。
+ID101 敌袭
+ID102 天色渐昏，乌云密布，视野变得愈发模糊，士兵们的铁甲摩擦声不断回响。\n\n突然，一声嘹亮的呐喊划破死寂，几道暗影飞速闪出，刀剑和长矛闪烁着寒光。\n\n\n“敌袭！”#!
+ID103 保持阵型！
+ID104 想个法子抓住来袭的斥候，迟滞敌军的下一步行动
+ID105 你冷静得出奇，找准时机一举擒获了敌人的斥候
+ID106 你手足无措，敌军一击脱离，接下来的路上将危机四伏
+ID107 出城迎敌
+ID108 远处的要塞映入眼帘。\n城墙高筑，其上鲜明的旗帜告诉我前方的凶险。\n\n突然，城塞大门缓缓打开，从中涌出一队人马，摆出严密军阵，宛如一堵钢铁之墙，静静等待着我军的到来。\n\n
+ID109 杀过去！
+ID110 相信我的士兵们，掩杀过去！
+ID111 守军
+ID112 弓骑兵
+ID113 掩杀
+ID114 外交博弈：停战协议
+ID115 以外交手段与[recipient.GetTitledFirstName]商定预防性[truce|E]
+ID116 外交博弈：$VALUE|=+0$
+
+Chunk 6 received from API:
+```plaintext
+ID000 Tower Shield
+ID001 Round Shield
+ID002 Viking Round Shield
+ID003 Buckler
+ID004 Kite Shield
+ID005 Fan Shield
+ID006 Oval Shield
+ID007 Sideboard
+ID008 Sideboard
+ID009 Selected
+ID010 Charge
+ID011 Burden
+ID012 Hunt
+ID013 Cover
+ID014 Breed War Horses
+ID015 Whirlwind Cannon
+ID016 Armored War Elephant
+ID017 Arrow Tower
+ID018 Training Intensity: I
+ID019 Training Intensity: II
+ID020 Training Intensity: III
+ID021 Martial Law
+ID022 Fortify Defenses
+ID023 Strengthen Walls and Clear Land
+ID024 Forced Conscription
+ID025 Assist in Construction
+ID026 Garrison Taxation
+ID027 Inspect Pastures
+ID028 Organize Raids
+ID029 Concession Immunity
+ID030 The conscripts include herders, roaming hunters, local mercenaries, and fallen nobles— they are numerous, predominantly fighting on horseback, constituting the backbone of the army.
+ID031 The conscripts include peasant soldiers, ruffians, local mercenaries, and fallen nobles, armed with a hodgepodge of tools and makeshift weapons — they are numerous, constituting the main body of most armies.
+ID032 The conscripts include peasant soldiers, ruffians, local mercenaries, and fallen nobles, armed with a hodgepodge of tools and makeshift weapons — they are numerous, constituting the main body of most armies.
+ID033 Crusader
+ID034 Crusader
+ID035 Raider
+ID036 Raider
+ID037 Tribal Champion
+ID038 Tribal Champion
+ID039 Peasant Leader
+ID040 Peasant Leader
+ID041 Battle-Hardened Farmer
+ID042 Spearmen Faction
+ID043 The demands of the Spearmen [faction|E] are more [gold|E], a broader [realm|E], and a superior status. Interact positively and maintain a good # relationship with your [knights|E].\n\n#S Ultimatum#!\nAll faction members receive [gold|E], [prestige|E], [army|E], and [realm|E]\n[deposed|E] the current [liege|E] and elect a new [liege|E].
+ID044 Hope to gain more benefits
+ID045 You are not [knights|E]
+ID046 Your [liege|E] is not organized as a #V Military House#!
+ID047 Your [liege|E]'s [government|E] is not #V Military Settlement#!
+ID048 Spearmen Rebellion
+ID049 Desire for Money: $VALUE|=+0$
+ID050 Nomadic AI Development Direction: General (Cultural Exchange, Technological Innovation) (Adding Buff, Stealing Innovations)
+ID051 Nomadic AI Development Direction: General (Cultural Exchange, Technological Innovation) (Adding Buff, Stealing Innovations).
+ID052 Cultural Exchange, Technological Innovation
+ID053 Cultural Exchange, Technological Innovation
+ID054 Nomadic AI Development Direction: General (Trade)
+ID055 Nomadic AI Development Direction: General (Trade).
+ID056 Trade
+ID057 Trade
+ID058 Nomadic AI Development Direction: General (Conquest/Rapid Acquisition)
+ID059 Nomadic AI Development Direction: General (Conquest/Rapid Acquisition).
+ID060 Conquest/Rapid Acquisition
+ID061 Conquest/Rapid Acquisition
+ID062 Nomadic AI Development Direction: Imperial Conqueror (Adding Buff)
+ID063 Such regimes are characterized by strong military power and leadership, often establishing vast empires through the conquest of surrounding areas.\nThe Mongol Empire is a typical example of an Imperial Conqueror. Genghis Khan and his successors unified the Mongolian steppes and rapidly conquered large territories in Asia and Europe, establishing a vast empire.
+ID064 War
+ID065 War
+ID066 Nomadic AI Development Direction: Imperial Conqueror (AI Strategy)
+ID067 Such regimes are characterized by strong military power and leadership, often establishing vast empires through the conquest of surrounding areas.\nThe Mongol Empire is a typical example of an Imperial Conqueror. Genghis Khan and his successors unified the Mongolian steppes and rapidly conquered large territories in Asia and Europe, establishing a vast empire.
+ID068 Strategy
+ID069 Strategy
+ID070 Nomadic AI Development Direction: Imperial Conqueror (AI Response to Factions)
+ID071 Such regimes are characterized by strong military power and leadership, often establishing vast empires through the conquest of surrounding areas.\nThe Mongol Empire is a typical example of an Imperial Conqueror. Genghis Khan and his successors unified the Mongolian steppes and rapidly conquered large territories in Asia and Europe, establishing a vast empire.
+ID072 Response to Factions
+ID073 Response to Factions
+ID074 Nomadic AI Development Direction: Imperial Conqueror (AI Persecution of Vassals)
+ID075 Such regimes are characterized by strong military power and leadership, often establishing vast empires through the conquest of surrounding areas.\nThe Mongol Empire is a typical example of an Imperial Conqueror. Genghis Khan and his successors unified the Mongolian steppes and rapidly conquered large territories in Asia and Europe, establishing a vast empire.
+ID076 Persecution of Vassals
+ID077 Persecution of Vassals
+ID078 Nomadic AI Development Direction: Imperial Conqueror (Conquest/Rapid Acquisition)
+ID079 Nomadic AI Development Direction: Imperial Conqueror (Conquest/Rapid Acquisition).
+ID080 Conquest/Rapid Acquisition
+ID081 Conquest/Rapid Acquisition
+ID082 Nomadic AI Development Direction: Cultural Preserver (Adding Buff)
+ID083 Such regimes often preserve and transmit existing cultures, languages, and religions during the conquest process, facilitating the integration of different cultures.\nThe Turkic Khaganate is a cultural preserver. During its conquests in Central Asia, it retained the original Turkic culture and language, promoting Turkic culture in the region it ruled.
+ID084 Heritage
+ID085 Heritage
+ID086 Nomadic AI Development Direction: Diplomacy and Allies (Adding Buff)
+ID087 Such regimes may be more inclined to establish alliances with surrounding powers through diplomatic means in order to safeguard their interests and stability.\nThe Khwarazmian Empire adopted a flexible diplomatic policy in Central Asia, establishing alliances with Islamic countries to maintain its status.
+ID088 Diplomacy
+ID089 Diplomacy
+ID090 Nomadic AI Development Direction: Diplomacy and Allies (AI Diplomatic Strategy)
+ID091 Such regimes may be more inclined to establish alliances with surrounding powers through diplomatic means in order to safeguard their interests and stability.\nThe Khwarazmian Empire adopted a flexible diplomatic policy in Central Asia, establishing alliances with Islamic countries to maintain its status.
+ID092 Diplomacy
+ID093 Diplomacy
+ID094 Exhausting March
+ID095 The interior is soaked with rain and mud, heavy armor burdens the soldiers. Prolonged marching has reddened their eyes and weakened their legs. The soldiers' faces are filled with fatigue and anxiety, their gazes dull and no longer sharp as in the past. Weapons have become heavy and clumsy, blades caked with dirt and grime. Each step feels like carrying a heavy load, the horses breathe heavily, with the sound of wheezing accompanying the marching army. #!
+ID096 Speed up, you lazy pigs!
+ID097 Move it! You lazy pigs! Those lagging behind won't have dinner tonight!
+ID098 Your excellent military training tells you how to effectively mobilize the entire army
+ID099 The soldiers loudly complain about the hardships of the march, ignoring your prompting
+ID100 Alright, regroup here.
+ID101 Enemy Attack
+ID102 The sky is turning dark, clouds thickening, with visibility becoming increasingly blurred, the clanking of soldiers' iron armor echoes continuously.\n\nSuddenly, a loud shout breaks the silence, several shadows quickly dart out, swords and spears shimmering with cold light.\n\n\n"Enemy attack!" #!
+ID103 Maintain formation!
+ID104 Find a way to capture the incoming scouts, to delay the enemy's next move
+ID105 You remain surprisingly calm, seizing the opportunity to capture the enemy scouts in one swift move
+ID106 You are at a loss, the enemy has slipped away, and the road ahead is fraught with danger
+ID107 Go out to meet the enemy
+ID108 The distant fortress comes into view.\nThe walls are tall, with bright banners warning of the dangers ahead.\n\nSuddenly, the castle gates slowly open, a troop emerges, forming a tight military formation, like a wall of steel, quietly awaiting our arrival.\n\n
+ID109 Charge over there!
+ID110 Trust my soldiers, cut them down!
+ID111 Garrison
+ID112 Cavalry Archer
+ID113 Ambush
+ID114 Diplomatic Game: Truce Agreement
+ID115 Use diplomatic means to negotiate a preventive [truce|E] with [recipient.GetTitledFirstName]
+ID116 Diplomatic Game: $VALUE|=+0$
+```
+
+
+Diagnostic information:
+All Chinese text has been successfully translated into English. The output matches the input line/ID structure exactly with no missing lines.
+

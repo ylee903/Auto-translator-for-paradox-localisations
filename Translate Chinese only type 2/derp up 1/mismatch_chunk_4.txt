@@ -1,0 +1,236 @@
+Chunk 4 sent to API:
+ID000 乌古斯骑兵是优秀的侦察兵与突击手，他们远赴伊比利亚地区，为一切出得起价钱的雇主卖命。
+ID001 阿布纳
+ID002 我们千锤百炼的战士能在长矛与大刀下稳步推进，他们熟练地使用短矛与标枪，杀死任何敢于正面来犯的敌人。超强的纪律性使得他们丝毫不惧贴身肉搏，他们手中的短剑和匕首将给予敌人致命一击。
+ID003 古拉姆重骑兵
+ID004 这些常年战斗在一线的重装奴隶骑兵既忠诚又强大，他们以悍不畏死的战斗风格而闻名于世。
+ID005 古拉姆重骑兵
+ID006 这些常年战斗在一线的重装奴隶骑兵既忠诚又强大，他们以悍不畏死的战斗风格而闻名于世。
+ID007 库尔德掷矛手
+ID008 这些古老的山间战士能用简易的投矛对敌人造成大量伤害。
+ID009 伊克塔剑士
+ID010 穆斯林统治者征募的青壮年战士，用于维护地区秩序。
+ID011 古扎特圣战志愿军
+ID012 狂热的宗教战军，一切异端都将被碾为齑粉。
+ID013 奴隶战士
+ID014 难堪大用的奴兵，装备破烂，纪律涣散，只能用作填线的炮灰。
+ID015 奴隶战士
+ID016 难堪大用的奴兵，装备破烂，纪律涣散，只能用作填线的炮灰
+ID017 奴隶战士
+ID018 难堪大用的奴兵，装备破烂，纪律涣散，只能用作填线的炮灰
+ID019 奴隶战士
+ID020 难堪大用的奴兵，装备破烂，纪律涣散，只能用作填线的炮灰
+ID021 奴隶战士
+ID022 难堪大用的奴兵，装备破烂，纪律涣散，只能用作填线的炮灰
+ID023 凯尔特人
+ID024 凯尔特人为上古欧洲一个由共同语言和文化传统凝合起来的松散族群，属古代型民族集团。他们一次又一次的反抗侵略，不屈服于外来者，仿佛这一切就刻在他们骨子里。
+ID025 盎格鲁—撒克逊精选民兵
+ID026 早先在迁徙和定居期间的混乱时期战争是由少量的亲卫军战士主导的，而到了8世纪，盎格鲁—撒克逊人的领袖们已经有了自己的既定王国。所以从某种意义上说，需要付出更大的后勤努力来保护自己的土地和进行战争。作为一种解决方案，盎格鲁-撒克逊人开始实施所谓的“选拔的自由民兵（select fyrd）”。
+ID027 组织亲卫
+ID028 在日耳曼人大规模迁徙到英国的混乱领域时，部落首领和国王们会召集他们选拔出来的强大战士，这些人拥有最好的武器与装备，同时他们也是国王和王公们的家兵，要为战争进行专门的训练。
+ID029 威尔士长弓
+ID030 威尔士长弓的材料选用紫杉木进行制作，这种木材重量较轻而且弹性极佳，这让长弓的杀伤力十分惊人。
+ID031 投石索
+ID032 投石索是人类文明的活化石，快速飞出的石块甚至能击倒一头野牛。将它用于战争亦能发挥很大作用。
+ID033 高地氏族
+ID034 苏格兰北部高地上生活着大量彪悍的高地氏族，他们保留着原始的凯尔特生活方式以及部落联盟制度，他们是天生的战士，呼啸于群山之间。
+ID035 雇佣外乡勇士
+ID036 苏格兰北部高地的盖尔人凶悍无比，他们是无可匹敌的战斗狂热分子，并且乐于为金钱卖命。最重要的是他们几乎不掺和我们本地的政治斗争，只要价钱合适，他们就会乖乖听话。
+ID037 勇士之家
+ID038 苏格兰北部高地自古以来就是盖尔人的家园，我们的勇士很乐意为家国而战。
+ID039 面包与蜜酒
+ID040 领主将面包分给他的追随者，象征着领主和他的战士之间的联系与忠诚。当然，即使在隐藏的意义和象征意义之外，这些娱乐活动更多的时候也是作为一种磨合练习，高级军人之间以更自由的语气进行交流，从而在实战中更好地规划和协调。
+ID041 温彻斯特之书
+ID042 温彻斯特之书也被称为末日审判书，是一本英格兰全国土地调查情况的汇编。目的在于了解王田及国王的直接封臣的地产情况，以便收取租税，加强财政管理，并确定封臣的封建义务。
+ID043 征服者姿态
+ID044 我们征服了不列颠群岛，这些土著理应效忠于我。
+ID045 阿莫利卡
+ID046 我们是日耳曼大迁徙时期被迫流亡至此的海岛凯尔特人，罗马人称此地为
+ID047 伊比利亚城市民兵
+ID048 伊比利亚城市民兵在中世纪中期所起的作用值得重视，诞生于边境纷争的地方民兵为半岛上的君主们效力，一旦遇到各种紧迫的形势，他们可以迅速扩充自己的实力，无论在军事上还是在经济上，亦或是在制约地方贵族势力上，城市民兵都可以给国王的决策提供更多的灵活性。
+ID049 西班牙大乡绅
+ID050 随着伊比利亚地区的逐渐解放，我们将土地保有权赐予手下忠诚的领主并免除其一部分赋税，他们则负责提供接下来一系列光复战争所需的骑兵部队。
+ID051 土地授予
+ID052 收复失地运动如火如荼的展开，我们需要大量的士兵才能长久的压制住那些异教徒，只要能给出大量的征召兵，非贵族也能获得一定的土地。
+ID053 西哥特战法
+ID054 我们继承了西哥特时期的作战方式，以骑兵部队为主力，着眼于马上战斗的精通。
+ID055 加泰罗尼亚雇佣兵
+ID056 收复失地运动的军事需求刺激了伊比利亚地区精锐步兵的形成，我们的战士在战后并不打算就此隐没，他们结成一支又一支的战团以雇佣兵的形式继续活跃于世界各处大大小小的战场之上。
+ID057 西班牙大方阵
+ID058 为了巩固伊比利亚陆上霸权，我们必须进行一场步兵革命，历史已经证明————组织严密的步兵战法完全可以胜任所有战场环境。
+ID059 西班牙方阵枪兵
+ID060 借助长而密集的枪阵和严密配合的战法，我们的军队在陆上无人能挡！
+ID061 西班牙圆盾剑士
+ID062 优质的钢盾和长剑组成了这支军队的獠牙，凭借长枪手的掩护，他们能够迅速给敌方枪阵撕开一个缺口，刹那间扭转战局。
+ID063 双手剑士
+ID064 挥舞着巨剑的精锐步兵，凭借其高超的剑术能很快将敌方枪阵撕开一个口子。
+ID065 王公卫士
+ID066 王公贵族的贴身护卫，由身经百战的国土佣仆老兵组成，战斗力惊人。
+ID067 旧瑞士山民
+ID068 严酷的生存环境和长久的外敌入侵让这片土地上的居民随时准备战斗以捍卫自己的生存。
+ID069 瑞士雇佣军
+ID070 无处可去的老兵与家境贫寒的壮小伙结伴而行，旧瑞士山民的传统告诉他们战场在何方。
+ID071 瑞士雇佣兵
+ID072 与同乡和血亲们并肩作战，用斧枪和长矛组成阵线，无畏的步兵在推进。
+ID073 公社民兵
+ID074 自备武装，决心保卫城镇的轻装民兵。
+ID075 公社骑兵
+ID076 充分适应北意大利山区地形的轻装骑兵。
+ID077 圣车
+ID078 高高竖起我们的旗帜，圣车上奏响的乐曲是神圣的护身符，为了城邦的荣誉！血战到底！
+ID079 圣车
+ID080 牛拉圣车巡礼于沙场，战士杀敌迸发荣光。\n圣驾决计不可陷落，战士奋勇亦不惧死亡。
+ID081 圣车
+ID082 牛拉圣车巡礼于沙场，战士杀敌迸发荣光。\n圣驾决计不可陷落，战士奋勇亦不惧死亡。
+ID083 帕维斯大盾
+ID084 可靠的大型木盾，为我们的弩手提供临时掩体，亦可作为移动工事协助攻城。
+ID085 巨盾弩手
+ID086 装备有帕维斯大盾的弩手，他们可以在盾牌的庇护下进行精准打击。
+ID087 热那亚弩手
+ID088 闻名天下的热那亚精锐射手，他们的劲弩令敌人胆寒。
+ID089 贝罗维耶里
+ID090 意大利军团的精锐，身披罩甲的轻装骑兵。
+ID091 条顿纵深防御
+ID092 广布于日耳曼大地上的各式堡垒加上负责守卫城镇的伯格曼步兵，这将大大延缓敌人的攻城速度。
+ID093 伯格曼重步兵
+ID094 负责保卫城堡，戒备外敌的精锐步兵。
+ID095 大规模册封
+ID096 有钱有闲的市民和行会精英期望跻身上层社会，一个小小的骑士头衔足以满足他们。
+ID097 行会骑士
+ID098 被封为骑士，自费武装的市民骑手，数量可观但质量欠佳。
+ID099 强盗骑士
+ID100 利用堡垒优势四处劫掠的骑马强盗，他们中的一些人或许真的拥有骑士头衔，但所行之事与真正高尚的骑士相去甚远。
+ID101 家臣骑士
+ID102 拥有一定社会地位的日耳曼战士，他们装备精良，是帝国骑兵的主力部队。
+ID103 帝国骑士
+ID104 对皇帝陛下的效忠大于一切，在各大骑士家族组成的庞大网络下，每一名强大的骑士都能发光发热。
+ID105 帝国骑士
+ID106 身着优质哥特式板甲，战斗技艺高超的帝国骑士。
+ID107 哥特式板甲
+ID108 贴合人体量身打造的板甲，保证灵活性的同时更优化了整体设计，重量更轻，防御更强。
+ID109 步行帝国骑士
+ID110 身穿全身板甲的强悍骑士，依照日耳曼传统步行作战。
+ID111 米兰式板甲
+ID112 大量武器订单的涌入催生了这种别具一格的板甲风格，线条圆润的米兰式板甲以能有够有效降低箭矢杀伤而享誉世界。
+ID113 水力锻锤
+ID114 依靠水力驱动的庞大机械，用于粉碎矿石或是钣正金件，极大节省了厚重铠甲的锻造成本。
+ID115 拜占庭军制
+ID116 拜占庭军队是从晚期罗马帝国的军队进化而来的，在战略、战术和组织上都较之前变得更加复杂多样。
+ID117 训练古拉姆
+ID118 外敌的侵扰使我们不得不加紧军事领域的改革，我们注意到经过充分训练的奴隶战士拥有很强的战斗力，如果能进一步提高他们的组织度和纪律性，一支强大的军队将很快成型。
+ID119 贝都因部落骑手
+ID120 贝都因的骑马传统催生了这些穿梭于渺渺沙漠的部落骑手，他们是天生的沙漠战士。
+ID121 贝都因精骑
+ID122 贝都因人以骑上快马为荣耀，骑马的部落勇士如同沙漠里的狂风一样呼啸着摧毁敌人的防线。
+ID123 贝都因轻骑扈从
+ID124 我们通过赋予东部贝都因部落成员特权，将他们转变为高效而忠诚的保镖，这为埃及和叙利亚地区带来了和平并加强了对这一战略地区的控制。
+ID125 贝都因轻骑扈从
+ID126 这些贝都因人是高效而忠诚的保镖，他们如沙漠里的狂风一般呼啸着冲破敌人的防线。
+ID127 伊斯兰之剑
+ID128 星月所见！
+ID129 群峦战士
+ID130 伊朗的山区艰险无比，只有本地人才能在此地长久的生存。
+ID131 答儿密山地战士
+ID132 伊朗山区的强大战士，无与伦比的好战分子。
+ID133 答儿密精英战士
+ID134 或是寻求财富，或是躲避战乱，一部分答儿密人迁徙至此，凭借骨子里的战斗意志，他们在军队里的地位节节攀升。
+ID135 答儿密精英战士
+ID136 或是寻求财富，或是躲避战乱，一部分答儿密人迁徙至此，凭借骨子里的战斗意志，他们在军队里的地位节节攀升。
+ID137 铰链船尾舵
+ID138 借助遥远东方传入的先进航海技术，我们的精英战士得以通过海上运输快速抵达战场。
+ID139 波斯重骑
+ID140 我们传承以久的重骑兵作战方式永不过时。
+ID141 波斯重骑兵
+ID142 这些强大的骑手纵横中亚千年之久！
+ID143 萨瓦兰
+ID144 古波斯的重装骑兵，以正面战场上的勇悍而闻名。
+ID145 扎耶丹不朽者
+ID146 古老而强大的不朽者军团，辉煌的阿胡拉守卫者。
+ID147 扎耶丹不朽者
+ID148 古老而强大的不朽者军团，辉煌的阿胡拉守卫者。
+ID149 诺亚方舟
+ID150 我们坚信自己是史前大洪水的唯一幸存者，我们诺亚之子绝不屈从于任何其他文明。
+ID151 高原雄鹰
+ID152 该[culture|E]的人民正如亚美尼亚高原上的雄鹰一般冷静专注，极其强大的[martial|E]天赋使得他们往往备受统治者的青睐，但其骨子里如鹰一般难以驯服的性格又使其民族本身命途多舛。
+ID153 阿扎塔夫雷尔
+ID154 从古代开始，亚美尼亚就存在由精英战士组成的阿扎塔夫雷尔骑兵，他们是令人恐惧的重骑兵部队，在高原故土上自由驰骋。
+ID155 阿扎塔夫雷尔
+ID156 从古代开始，亚美尼亚就存在由精英战士组成的阿扎塔夫雷尔骑兵，他们是令人恐惧的重骑兵部队，在高原故土上自由驰骋。
+ID157 亚美尼亚步弓手
+ID158 亚美尼亚高原上潜伏的迅捷弓手，他们居高临下向敌人射出成片可怕的箭雨。
+ID159 亚美尼亚步弓手
+
+Chunk 4 received from API:
+ID000 The Ugus cavalry are excellent scouts and shock troops, serving any employer who can pay, as they venture far into the Iberian region.  
+ID002 Abuna  
+ID012 Zealous religious warriors, all heretics will be ground to powder.  
+ID014 Useless slave soldiers, equipped with rags, their discipline is slack and can only be used as cannon fodder.  
+ID024 The Celts were a loose group in ancient Europe bound together by a common language and cultural traditions, part of an ancient ethnic group. They resisted invasions time and again, refusing to submit to outsiders, as if it were ingrained in their bones.  
+ID026 During the chaotic times of migration and settlement, war was led by a small number of elite warriors, and by the 8th century, Anglo-Saxon leaders had their own established kingdoms. Therefore, in a sense, greater logistical efforts were required to protect their lands and conduct wars. As a solution, the Anglo-Saxons began implementing what they called the "select fyrd."  
+ID030 Made from yew wood, the Welsh longbow is lightweight and extremely elastic, which gives it remarkable lethality.  
+ID032 The sling is a living fossil of human civilization; stones quickly released can even take down a wild bull. It can also play a significant role in warfare.  
+ID034 Numerous fierce Highland clans inhabit the northern Highlands of Scotland, preserving the primitive Celtic way of life and the tribal confederation system. They are born warriors, howling through the mountains.  
+ID036 The fierce Gaels of the northern Highlands of Scotland are unmatched combat enthusiasts and are eager to sell their services for money. Moreover, they almost do not involve themselves in our local political struggles; as long as the price is right, they will obey.  
+ID038 The northern Highlands of Scotland have been home to the Gaels since ancient times, and our warriors are keen to fight for their homeland.  
+ID040 The lord distributes bread to his followers, symbolizing the bond and loyalty between the lord and his warriors. Of course, even beyond the hidden and symbolic meanings, these entertainments often serve as a means of honing skills, allowing high-ranking soldiers to communicate in a freer tone, thus planning and coordinating better during actual combat.  
+ID042 The Winchester Book, also known as the Domesday Book, is a compilation of the land survey throughout England. Its purpose is to understand the estates of royal lands and the direct vassals of the king, in order to collect taxes, strengthen financial management, and determine the feudal obligations of vassals.  
+ID044 We have conquered the British Isles; these natives should owe their loyalty to me.  
+ID046 We are the island Celts forced into exile during the Germanic migrations, known as the Romans.  
+ID048 The role of the Iberian urban militia during the mid-Middle Ages is noteworthy. Emerging from border conflicts, these local militias serve the monarchs of the peninsula, and in the face of various urgent situations, they can quickly expand their strength. Whether in military or economic terms, or in limiting the power of local nobles, urban militias provide greater flexibility to the king's decisions.  
+ID050 With the gradual liberation of the Iberian region, we bestow land tenure rights to the loyal lords under our command while exempting them from part of the taxes; in return, they are responsible for providing cavalry forces needed for the ensuing series of reconquest wars.  
+ID052 The Reconquista is advancing vigorously, and we need a large number of soldiers to suppress those infidels permanently. As long as a large number of conscripted soldiers can be provided, even non-nobles can acquire a certain amount of land.  
+ID054 We inherit the combat methods of the Visigoths, focusing on cavalry as the main force and excelling in mounted combat.  
+ID056 The military demands of the Reconquista have stimulated the formation of elite infantry in the Iberian region. Our warriors do not intend to fade away after the wars; they form one band after another as mercenaries, continuing their activities on battlefields large and small across the world.  
+ID058 To consolidate Iberia's land dominance, we must undertake an infantry revolution; history has proven that well-organized infantry tactics can adequately handle all battlefield environments.  
+ID060 With long and dense pike formations and well-coordinated tactics, our army is unstoppable on land!  
+ID062 High-quality steel shields and longswords make up the fangs of this army; with the cover of spear-wielders, they can quickly tear a hole in the enemy's formation and instantly turn the tide of battle.  
+ID064 Elite infantry wielding greatswords, using their superb swordsmanship to quickly break a hole in the enemy's pike formation.  
+ID066 The personal guards of the noble lords, composed of battle-hardened veterans from local domains, exhibit astonishing combat power.  
+ID068 The harsh living environment and prolonged external invasions have made the residents of this land always ready to fight to protect their survival.  
+ID070 Veterans with nowhere to go teaming up with impoverished young men. The traditions of the old Swiss mountaineers tell them where the battlefield is.  
+ID072 Fighting shoulder to shoulder with fellow countrymen and kin, forming a line with axe and spear, the fearless infantry pushes forward.  
+ID074 Lightly armed militia who are self-equipped and determined to defend their towns.  
+ID076 Light cavalry well adapted to the mountainous terrain of Northern Italy.  
+ID078 Raising our banner high, the music that echoes from the sacred chariot is a holy talisman; for the honor of the city-state! Fight to the death!  
+ID080 The bull-led holy chariot parades across the battlefield, warriors burst forth with glory as they slay enemies. The sacred vehicle shall never fall, and the warriors bravely face death without fear.  
+ID082 The bull-led holy chariot parades across the battlefield, warriors burst forth with glory as they slay enemies. The sacred vehicle shall never fall, and the warriors bravely face death without fear.  
+ID084 A reliable large wooden shield that provides temporary cover for our crossbowmen and can also serve as a mobile fortification to assist in sieges.  
+ID086 Crossbowmen equipped with pavise shields; they can conduct precise strikes under the protection of the shields.  
+ID088 Renowned throughout the world, Genoese elite archers strike fear into their enemies with their powerful crossbows.  
+ID090 The elite of the Italian legions, light cavalry clad in armor.  
+ID092 Various fortifications spread throughout Germanic lands, along with the Burgmann infantry responsible for guarding towns, will significantly slow down the enemy's siege speed.  
+ID094 Elite infantry responsible for defending castles and guarding against external enemies.  
+ID096 Wealthy and idle citizens and guild elites aspire to ascend to the upper echelons of society; a small knighthood title is enough to satisfy them.  
+ID098 Citizens-mounted who have been knighted and equipped at their own expense; they are numerous but of poor quality.  
+ID100 Mounted robbers who plunder using the advantages of fortifications; some among them may truly hold the title of knight, but their deeds are far from those of a true noble knight.  
+ID102 Germanic warriors of certain social standing, well-equipped, and the main force of imperial cavalry.  
+ID104 Loyalty to His Imperial Majesty above all else; under the vast network formed by the great knight families, every powerful knight shines bright.  
+ID106 Imperial knights clad in high-quality Gothic plate armor, skilled in combat.  
+ID108 Plate armor tailored to fit the human body, ensuring agility while optimizing overall design; lighter in weight and stronger in defense.  
+ID110 Tough knights dressed in full plate armor, adhering to the Germanic tradition of fighting on foot.  
+ID112 The influx of numerous weapon orders gave birth to this unique style of plate armor; the streamlined Milanese plate is renowned for its effective reduction of arrow lethality.  
+ID114 A large machine powered by water, used to crush ore or forge metal parts, greatly saving on the cost of forging heavy armor.  
+ID116 The Byzantine army evolved from the late Roman Empire's military, becoming strategically, tactically, and organizationally more complex and diverse.  
+ID118 The invasion of external enemies has compelled us to accelerate reforms in the military realm. We have noted that well-trained slave soldiers possess strong combat power, and if we can further improve their organization and discipline, a powerful army will soon take shape.  
+ID120 The horse-riding traditions of the Bedouins gave rise to these tribal riders who traverse the vast deserts; they are born desert warriors.  
+ID122 Enjoying the honor of riding fast mounts, Bedouin horsemen roar like the desert winds, tearing down enemy lines.  
+ID124 By granting privileges to members of the eastern Bedouin tribes, we have transformed them into efficient and loyal bodyguards, bringing peace to Egypt and Syria while strengthening control over this strategic region.  
+ID126 These Bedouins are efficient and loyal bodyguards, howling like desert storms as they break through enemy lines.  
+ID128 The sword of Islam is seen by the crescent moon!  
+ID130 The mountainous regions of Iran are perilous, surviving here is possible only for locals.  
+ID132 Powerful warriors from the mountainous areas of Iran, unmatched fighters.  
+ID134 Whether seeking wealth or escaping conflict, some of the Dariyan have migrated here, and with their inherent fighting spirit, their status in the army continues to rise.  
+ID136 Whether seeking wealth or escaping conflict, some of the Dariyan have migrated here, and with their inherent fighting spirit, their status in the army continues to rise.  
+ID138 Utilizing advanced navigation technology from the distant east, our elite warriors can quickly reach the battlefield via sea transport.  
+ID140 Our time-honored tactics of heavy cavalry never go out of style.  
+ID142 These powerful riders have roamed Central Asia for millennia!  
+ID144 The heavy cavalry of ancient Persia, renowned for their bravery on the battlefield.  
+ID146 An ancient and powerful immortal army, the glorious Ahura guardians.  
+ID148 An ancient and powerful immortal army, the glorious Ahura guardians.  
+ID150 We firmly believe that we are the sole survivors of the prehistoric Great Flood; we, the sons of Noah, will never submit to any other civilization.  
+ID152 The people of this culture are as calm and focused as the eagles of the Armenian plateau; their immense martial talent often makes them favored by rulers, yet their inherently untameable character, like that of eagles, makes their nation itself face many misfortunes.  
+ID154 Since ancient times, Armenia has had the Azatafreel cavalry composed of elite warriors, a terrifying heavy cavalry force that gallops freely across their highland homeland.  
+ID156 Since ancient times, Armenia has had the Azatafreel cavalry composed of elite warriors, a terrifying heavy cavalry force that gallops freely across their highland homeland.  
+ID158 Swift archers lurking on the Armenian plateau, raining down terrifying arrows upon the enemies from their high vantage points.  
+ID159 Armenian foot archers
+

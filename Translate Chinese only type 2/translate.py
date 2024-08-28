@@ -32,6 +32,10 @@ model_name = (
 # Parameter to determine if the program will ignore mismatches in the number of lines
 ignore_mismatch = True  # Set to True to ignore mismatches, False to raise an error
 
+# Retry configuration
+max_retries = 999  # Maximum number of retries for rate limit errors (customizable)
+initial_wait_time = 5  # Initial wait time before retrying (in seconds)
+
 # Path to the .env file
 file_path = r"D:\Documents\Self help websites and data for games etc\paradox\ck3\Auto-translator-for-paradox-localisations\keys.env"
 
@@ -57,12 +61,8 @@ chinese_text_regex = r'"([\u4e00-\u9fff]+[^"]*)"'
 TOKEN_LIMIT = (
     3500  # This is generally safe for GPT-4; adjust if necessary for other models
 )
-LINE_LIMIT = 999  # Maximum number of lines or IDs in a chunk
+LINE_LIMIT = 50  # Maximum number of lines or IDs in a chunk
 ID_FORMAT = "ID{:03d}"
-
-# Retry configuration
-max_retries = 5  # Maximum number of retries for rate limit errors
-initial_wait_time = 5  # Initial wait time before retrying (in seconds)
 
 
 def extract_chinese_phrases(file_content):
@@ -136,7 +136,10 @@ async def translate_chunk_async(chunk, session, chunk_index, semaphore):
                                 "content": (
                                     "You are a professional translator with expertise in translating video game localization files. "
                                     "You are given text extracted from .YML files from a Crusader Kings 3 mod. "
-                                    "Translate only the Chinese text into English while preserving the identifiers and formatting."
+                                    "Translate only the Chinese text into English while maintaining the identifiers and formatting. "
+                                    "Ensure that the number of lines/IDs in the translated output matches the number of lines/IDs in the input. "
+                                    "If a perfect match cannot be achieved, fill the missing translated lines with the placeholder text '[MISSING]'. "
+                                    "If you encounter any issues or have difficulties translating certain lines, include diagnostic information at the end of the response, clearly separated by '===DIAGNOSTIC===' without affecting the translation."
                                 ),
                             },
                             {"role": "user", "content": text_to_translate},
@@ -149,6 +152,24 @@ async def translate_chunk_async(chunk, session, chunk_index, semaphore):
                 translated_text = response_json["choices"][0]["message"][
                     "content"
                 ].strip()
+
+                # Split the response into translation and diagnostics
+                if "===DIAGNOSTIC===" in translated_text:
+                    translated_text, diagnostics = translated_text.split(
+                        "===DIAGNOSTIC==="
+                    )
+                    diagnostics = diagnostics.strip()
+                    print(
+                        f"Diagnostic information for chunk {chunk_index + 1}:\n{diagnostics}"
+                    )
+                    if log_chunks:
+                        with open(log_file_path, "a", encoding="utf-8") as log_file:
+                            log_file.write(
+                                f"Diagnostic for chunk {chunk_index + 1}:\n{diagnostics}\n\n"
+                            )
+                else:
+                    diagnostics = None
+
                 translated_phrases = translated_text.split("\n")
 
                 # Log the received chunk before checking for mismatch
@@ -166,7 +187,14 @@ async def translate_chunk_async(chunk, session, chunk_index, semaphore):
 
                 # Check if the number of lines sent matches the number of lines received
                 if len(translated_phrases) != len(chunk):
-                    # Log the mismatch for debugging
+                    # If mismatch, align using placeholders and original IDs
+                    aligned_phrases = [None] * len(chunk)
+                    for i, (unique_id, _) in enumerate(chunk):
+                        if i < len(translated_phrases):
+                            aligned_phrases[i] = translated_phrases[i]
+                        else:
+                            aligned_phrases[i] = f"[MISSING]"
+
                     mismatch_log_path = log_file_path.replace(
                         "chunks_log.txt", f"mismatch_chunk_{chunk_index + 1}.txt"
                     )
@@ -177,6 +205,10 @@ async def translate_chunk_async(chunk, session, chunk_index, semaphore):
                         mismatch_log.write(
                             f"Chunk {chunk_index + 1} received from API:\n{translated_text}\n\n"
                         )
+                        if diagnostics:
+                            mismatch_log.write(
+                                f"Diagnostic information:\n{diagnostics}\n\n"
+                            )
 
                     error_message = (
                         f"Error: Mismatch in the number of lines sent and received "
@@ -187,12 +219,12 @@ async def translate_chunk_async(chunk, session, chunk_index, semaphore):
                     print(error_message)
                     if not ignore_mismatch:
                         raise ValueError(error_message)
+                else:
+                    aligned_phrases = translated_phrases
 
                 translated_chunk = {
                     unique_id: translated_phrase
-                    for (unique_id, _), translated_phrase in zip(
-                        chunk, translated_phrases
-                    )
+                    for (unique_id, _), translated_phrase in zip(chunk, aligned_phrases)
                 }
                 return translated_chunk
 
