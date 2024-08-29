@@ -1,0 +1,103 @@
+Chunk 3 received from API:
+ID000107 The [GetTrait('blademaster_2').GetName( GetNullCharacter )][trait|E] is more common
+ID000108 The [GetTrait('blademaster_3').GetName( GetNullCharacter )][trait|E] is more common
+ID000109 The [GetTrait('physique_good_1').GetName( GetNullCharacter )][trait|E] is more common
+ID000110 The [GetTrait('physique_good_2').GetName( GetNullCharacter )][trait|E] is more common
+ID000111 The [GetTrait('physique_good_3').GetName( GetNullCharacter )][trait|E] is more common
+ID000112 The [GetTrait('content').GetName( GetNullCharacter )][trait|E] is more common
+ID000113 The [GetTrait('ambitious').GetName( GetNullCharacter )][trait|E] is more common
+ID000114 Art of War
+ID000115 War is an art, the winner takes all, the loser gets nothing.
+ID000116 Leisurely Content
+ID000117 Life is important, happiness is even more important.
+ID000118 This [culture|E] has $ethos_courtly_name$ [ethos|E]
+ID000119 Knight Asylum
+ID000120 Proud knights are often not good at managing their estates, and in their fallen state, they completely rely on wealthy rulers.
+ID000121 Disgraced Knight
+ID000122 A feudal knight fallen to nothing but martial prowess leads a small retinue and depends on a wealthy ruler, hoping for a day to rise again.
+ID000123 Can recruit [GetMaA('luopoqishi').GetName] as [men_at_arms|E]
+ID000124 This [culture|E] does not have $ethos_spiritual_name$ [ethos|E]
+ID000125 Land Caravan
+ID000126 The sound of camel bells, the passage of time, the opening of land routes spawned a large number of merchants, who travel through desolate sands, bringing countless exotic treasures.
+ID000127 Land Caravan
+ID000128 The sound of camel bells, the passage of time, the opening of land routes spawned a large number of merchants, who travel through desolate sands, bringing countless exotic treasures.
+ID000129 Ice Sea Warriors
+ID000130 The icy seas surge, bringing forth terrifying destroyers.
+ID000131 Can recruit [GetMaA('lushangshangdui').GetName] as [men_at_arms|E]
+ID000132 Can recruit [GetMaA('binghaizhanshi').GetName] as [men_at_arms|E]
+ID000133 Slavic Expansionism
+ID000134 The unique pioneering spirit of the Slavs, yearning for warmth due to harsh conditions, and needing to expand due to contradictions.
+ID000135 Ice Sea Saga
+ID000136 A hymn of blood and ice, the ice sea is eternal.
+ID000137 Meng'an Mouke
+ID000138 These military leaders, initially set up in late primitive society for plundering and hunting, gradually developed into permanent military organizations over time.
+ID000139 [casus_belli|E] cost: [prestige_i]#P -30%#!
+
+ tradition_jiaqijuzhuang_name:0 
+ID000140 The armored knights dominate the battlefield, sweeping through with unstoppable force.
+ID000141 Can recruit [GetMaA('jiaqijuzhuang').GetName][men_at_arms|E]
+ID000142 The [knights|E] of this [culture|E] are eligible for [GetAccoladeType('dfbz_xinzeng_0005_attribute').GetName][accolades|E]
+ID000143 Armored Cavalry Leader
+ID000144 Armored Cavalry Leader
+ID000145 Vanguards
+ID000146 The elite armored cavalry following the head leader, charging straight into the enemy's heart.
+ID000147 Vanguards
+ID000148 The elite armored cavalry following the head leader, charging straight into the enemy's heart.
+ID000149 Elite Armored Guard
+ID000150 The elite armored guard protecting the core of the battle formation, if necessary, can also deal devastating blows to the enemy.
+ID000151 Charge Division Leader
+ID000152 Charge Division Leader
+ID000153 Charge Division
+ID000154 The heavily armored cavalry that exploits the fleeting weaknesses of the enemy, launching fierce attacks to defeat the enemy in a single blow.
+ID000155 Charge Division
+ID000156 The heavily armored cavalry that exploits the fleeting weaknesses of the enemy, launching fierce attacks to defeat the enemy in a single blow.
+ID000157 Charge Division
+ID000158 The heavily armored cavalry that exploits the fleeting weaknesses of the enemy, launching fierce attacks to defeat the enemy in a single blow.
+ID000159 Longsword Division Leader
+ID000160 Longsword Division Leader
+ID000161 Longsword Division
+ID000162 The unparalleled warriors wielding massive Mo-Dao, slashing enemies off their mounts in an instant.
+ID000163 Longsword Division
+ID000164 The unparalleled warriors wielding massive Mo-Dao, slashing enemies off their mounts in an instant.
+ID000165 Longsword Division
+ID000166 The unparalleled warriors wielding massive Mo-Dao, slashing enemies off their mounts in an instant.
+ID000167 Longsword Division
+ID000168 The unparalleled warriors wielding massive Mo-Dao, slashing enemies off their mounts in an instant.
+ID000169 Tooth General
+ID000170 Tooth General
+ID000171 $EFFECT_LIST_BULLET$ Unlocks #V some#! Tooth General tasks [decision|E]\n$EFFECT_LIST_BULLET$ Slightly increases task completion rate
+ID000172 $EFFECT_LIST_BULLET$ Unlocks #V most#! Tooth General tasks [decision|E]\n$EFFECT_LIST_BULLET$ Moderately increases task completion rate
+ID000173 $EFFECT_LIST_BULLET$ Unlocks #V all#! Tooth General tasks [decision|E]\n$EFFECT_LIST_BULLET$ Greatly increases task completion rate
+ID000174 Khitan
+ID000175 Can recruit [GetMaA('nvzhen_mouke').GetName] as [men_at_arms|E]
+ID000176 Granting land to your subordinate $jurchen$ [knights|E] will greatly increase their combat will,\nbut long-term leisurely life will quickly corrupt them.
+ID000177 Mouke
+ID000178 Elite warriors, carefully selected and picked through multiple rounds, are excellent plunderers and hunters in their tribes.
+ID000179 Mouke
+ID000180 Elite warriors, carefully selected and picked through multiple rounds, are excellent plunderers and hunters in their tribes.
+ID000181 You must have [feudal|E][government|E]
+ID000182 [casus_belli|E] cost: [prestige_i]#P -40%#!
+ID000183 [casus_belli|E] cost: [prestige_i]#P -40%#!
+ID000184 Sultan's Guard
+ID000185 A loyal guard composed of the Sultan's confidants, who also do some unsavory tasks for the Sultan.
+ID000186 Knightly Tradition
+ID000187 The vast plains of France are the main battlefield of knights, nurturing the fiercest knight regiments in the entire medieval period.
+ID000188 Bodyguard
+ID000189 Powerful rulers often need a reliable bodyguard team to handle various emergencies, and these people should preferably be trustworthy.
+ID000190 Ax Guards
+ID000191 The long axe is a symbol of power and strength. This guard belongs to a powerful ruler.
+ID000192 Vodka
+ID000193 The water of life, pride of the Rus.
+ID000194 Ferocious Folkways
+ID000195 Primitive desires fill everyone's hearts, in a culture that's both uncivilized and fierce.
+ID000196 Wart Charm Armor
+ID000197 The Qiang people excel in forging armor. Their forging method starts thick without fire and uses cold forging; it's completed after grinding the initial thickness three times and leaving a bit un-forged, resembling warts (hence the name). Even powerful crossbows cannot penetrate it.
+ID000198 Hengshan Qiang
+ID000199 The Qiang tribes widely scattered in the northwestern mountains navigate the rugged terrain with their exceptional off-road capabilities.
+ID000200 Dangxiang Horses
+ID000201 The Dangxiang people reside in regions like Dijingze, Hengshan, and Tiandu Mountain, known for producing superior-quality horses. Poet Yuan Zhen from the Tang dynasty once wrote, "Buy Dangxiang horses in the north, capture Tibetan falcons in the west.” During the Song dynasty, people praised Dangxiang horses as the best in the world.
+ID000202 Cold Forged Steel
+ID000203 The Dangxiang people's steel forging techniques are unparalleled worldwide. Possessing a sword from the Xia Kingdom is considered a supreme honor. The Song Emperor Qinzong carried a 'Xia Kingdom Sword' as a treasured possession. The famous poet Su Dongpo once received a Western Xia sword and composed a poem: 'Red makeup surrounds the seat with flowers and wine, unsheathed, the sword hall turns windy. The blade edge with spiral ridges, like white dragons holding three dragons aloft. Cutting off a strand with a trial leaves one in awe, and wielders instill fear with a mere show.'
+ID000204 Ronin
+ID000205 For the restoration of former glory, they recklessly adventure, claim to be the Emperor's soldiers, appearing all over with astonishing power due to their unique skills.
+

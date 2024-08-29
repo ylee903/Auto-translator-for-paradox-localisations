@@ -1,0 +1,28 @@
+Chunk 16 received from API:
+ID001411 Soaked in rain and mud, the heavy armor overwhelmed the warriors. The long trek left their eyes bloodshot and legs trembling. Their faces were full of fatigue and anxiety, with eyes dull, no longer showing the sharpness of the past. The weapons became heavy and clumsy, with blades covered in dirt and stains. Every step felt like carrying a thousand-pound burden, and the warhorses were gasping, with heaving breaths accompanying the marching troupe. #!
+ID001412 Hurry up, you lazy pigs!
+ID001413 Move it! You lazy pigs! Those who fall behind won't get dinner tonight!
+ID001414 Your excellent military training tells you how to efficiently mobilize the entire army
+ID001415 The soldiers loudly complain about the hardships of the march and ignore your urgings
+ID001416 Fine, let's regroup on the spot.
+ID001417 Enemy attack
+ID001418 The sky grew darker, clouds thickened, and visibility became increasingly blurred, with the sound of soldiers' armor rubbing constantly echoing.\n\nSuddenly, a loud shout pierced the silence, a few shadows swiftly darted out, swords and spears gleaming coldly.\n\n\n"Enemy attack!" #!
+ID001419 Hold the formation!
+ID001420 Think of a way to catch the incoming scouts and hinder the enemy's next move
+ID001421 You remain exceptionally calm, seizing the moment to capture the enemy scout in one go
+ID001422 You are at a loss, the enemy hits and retreats, leaving the road ahead fraught with peril
+ID001423 Go out and meet the enemy
+ID001424 The distant fortress comes into view.\nThe high walls, with its distinct flags, foretold the peril ahead.\n\nSuddenly, the fortress gates slowly opened, a team of troops flowed out, forming a tight military formation, like a wall of steel, quietly awaiting our army's arrival.\n\n
+ID001425 Charge forward!
+ID001426 Trust my soldiers, charge and kill!
+ID001427 Garrison
+ID001428 A small garrison appears at [shoujun_location.GetName]
+ID001429 A large garrison appears at [shoujun_location.GetName]
+ID001430 An elite garrison appears at [shoujun_location.GetName]
+ID001431 Mounted archers
+ID001432 Slash and kill
+ID001433 Diplomatic Maneuver: Truce Agreement
+ID001434 Negotiate a preventive [truce|E] with [recipient.GetTitledFirstName] through diplomatic means
+ID001435 [recipient.GetShortUIName|U] is an imperial-style conqueror: $VALUE|=+0$
+ID001436 Diplomatic Maneuver: $VALUE|=+0$
+

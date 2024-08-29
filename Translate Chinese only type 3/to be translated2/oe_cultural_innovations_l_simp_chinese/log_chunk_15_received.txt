@@ -1,0 +1,124 @@
+Chunk 15 received from API:
+ID001311 #T Consolidate Castle Defense#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('006_xinzeng_zhuangbei_006_001_modifier').GetNameWithTooltip] modifier for #V 5 years#!\n[regiment|E][stationed_holding|E] located in [county|E]#N #EMP probability#!#! gains the [GetModifier('006_xinzeng_zhuangbei_006_002_modifier').GetNameWithTooltip] modifier for a random duration#!\n[regiment|E][stationed_holding|E] located in [county|E][development|E] #N #EMP - 2#!#!\nYou: @stress_icon! #N #EMP increased#!#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$You are at [war|lE]\n\nhold the barricades, preventing the enemy from breaking through; and clear out the food houses in the outskirts, making it impossible for the enemy to fight for long due to lack of food and shelter.
+ID001312 Forced Conscription
+ID001313 #T Forced Conscription#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('006_xinzeng_zhuangbei_007_001_modifier').GetNameWithTooltip] modifier for #V 5 years#!\n[regiment|E][stationed_holding|E] located in [county|E] gains the [GetModifier('006_xinzeng_zhuangbei_007_002_modifier').GetNameWithTooltip] modifier for #V 15 years#!\nYou gain the [GetModifier('006_xinzeng_zhuangbei_007_003_modifier').GetNameWithTooltip] modifier for #V 10 years#!\n\nTo expand war mobilization, it is reasonable to slightly lower the conscription threshold.
+ID001314 Assist Urban Construction
+ID001315 #T Assist Urban Construction#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('006_xinzeng_zhuangbei_008_modifier').GetNameWithTooltip] modifier for #V 5 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$You are not at [war|lE]\n$EFFECT_LIST_BULLET$[prestige_level|E]#V greater than or equal to#!$prestige_level_2$\n\nInstead of having troops train all day, it is better to mobilize some members to participate in estate construction.
+ID001316 Military Taxation
+ID001317 #T Military Taxation#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('006_xinzeng_zhuangbei_009_001_modifier').GetNameWithTooltip] modifier for #V 5 years#!\n[regiment|E][stationed_holding|E] located in [county|E] gains the [GetModifier('006_xinzeng_zhuangbei_009_002_modifier').GetNameWithTooltip] modifier for #V 10 years#!\n\nBlades and swords are more effective than benevolent tax officials, and the extra profits can fill someone's belly.
+ID001318 Patrol Pastures
+ID001319 #T Patrol Pastures#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('006_xinzeng_zhuangbei_010_modifier').GetNameWithTooltip] modifier for #V 5 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$[regiment|E][stationed_holding|E] located in [barony|E] is #V grassland#![terrain|lE]\n$EFFECT_LIST_BULLET$You are not at [war|lE]\n\nTo ensure the perfect condition of the pastures, we need to dispatch cavalry to patrol the area repeatedly.
+ID001320 Organized Raiding
+ID001321 #T Organized Raiding#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('006_xinzeng_zhuangbei_011_001_modifier').GetNameWithTooltip] modifier for #V 10 years#!\nYou gain the [GetModifier('006_xinzeng_zhuangbei_011_002_modifier').GetNameWithTooltip] modifier for #V 15 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$[regiment|E][stationed_holding|E] has [GetBuilding('war_camps_01').GetName] or its upgrade\n$EFFECT_LIST_BULLET$[government|E] is [GetGovernment( 'tribal_government' ).GetName]\n\nPassing down raiding skills to the next generation is crucial for the tribe's survival and prosperity.
+ID001322 Right of Retribution
+ID001323 #T Right of Retribution#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('006_xinzeng_zhuangbei_012_001_modifier').GetNameWithTooltip] modifier for #V 20 years#!\nYou gain the [GetModifier('006_xinzeng_zhuangbei_012_002_modifier').GetNameWithTooltip] modifier for #V 20 years#!\n[regiment|E][stationed_holding|E] located in [county|E] gains the [GetModifier('006_xinzeng_zhuangbei_012_003_modifier').GetNameWithTooltip] modifier for #V 20 years#!\nAll your [knights|E]: @dread_icon! + 5\n\nWhen civilians have unbearably offensive behavior towards the warriors, the latter can kill them without guilt.
+ID001324 The recruits include herdsmen, roaming hunters, local mercenaries, and destitute nobles—they are numerous, mostly fighting on horseback, forming the main body of the army.
+ID001325 The recruits include peasant soldiers, local bullies, local mercenaries, and destitute nobles, equipped with diverse tools and patched-up weapons—they are numerous, forming the main body of the army.
+ID001326 The recruits include peasant soldiers, local bullies, local mercenaries, and destitute nobles, equipped with diverse tools and patched-up weapons—they are numerous, forming the main body of the army.
+ID001327 Crusaders
+ID001328 Crusaders
+ID001329 Raiders
+ID001330 Raiders
+ID001331 Tribal Champions
+ID001332 Tribal Champions
+ID001333 $EFFECT_LIST_BULLET$The [acclaimed_knight|E] gains [GetModifier('accolade_dfbz_xinzeng_0003_buff_modifier').GetNameWithTooltip], and a random non-ruler [knights|E] under their lord gains the [GetTrait('wounded_2').GetName( GetNullCharacter )]
+ID001334 Peasant Leader
+ID001335 Peasant Leader
+ID001336 Veteran Peasants
+ID001337 [retinue_maa|E]\n#F Gathered under the peasant leader, these veteran peasants are rich in battle experience.#!
+ID001338 #color_red Unavailable: [GetMaA#('accolade_maa_0004_attribute_nongmin_jun').#GetName] (requires primary [accolade_type|E])#!
+ID001339 Militia Faction
+ID001340 The demands of the Militia [faction|E] are for more [gold|E], broader [realm|E], and higher status. Actively interact and maintain good #relations with your [knights|E].\n\n#S Ultimatum#!\nAll faction members gain [gold|E], [prestige|E], [army|E], and [realm|E]\n[deposed|E] the current [liege|E] and appoint a new [liege|E].
+ID001341 Seeking More Benefits
+ID001342 You are not a [knights|E]
+ID001343 Your [liege|E]'s organization is not #V military prefecture#!
+ID001344 Your [liege|E]'s [government|E] is not #V military garrison system#!
+ID001345 Militia Rebellion
+ID001346 Longing for Money: $VALUE|=+0$
+ID001347  #Ambitious
+#DFBZ_XINGEE_DISLOYAL:0 
+ID001348  #Cunning
+#DFBZ_XINGEE_ARROGANT:0 
+ID001349  #Arrogant
+#DFBZ_XINGEE_PARANOID:0 
+ID001350  #Paranoid
+#DFBZ_XINGEE_FICKLE:0 
+ID001351  #Fickle
+#DFBZ_XINGEE_ARBITRARY:0 
+ID001352  #Arbitrary
+#DFBZ_XINGEE_LOYAL:0 
+ID001353  #Loyal
+#DFBZ_XINGEE_TRUSTING:0 
+ID001354  #Trusting
+#DFBZ_XINGEE_CRAVEN:0 
+ID001355  #Craven
+#DFBZ_XINGEE_LAZY:0 
+ID001356  #Lazy
+#DFBZ_XINGEE_CONTENT:0 
+ID001357  #Content
+#DFBZ_XINGEE_GREEDY:0 
+ID001358  #Greedy
+#DFBZ_XINGEE_TEMPERATE:0 
+ID001359  #Temperate
+#DFBZ_XINGEE_WRATHFUL:0 
+ID001360  #Wrathful
+#DFBZ_XINGEE_HUMBLE:0 
+ID001361  #Humble
+#DFBZ_XINGEE_COMPASSIONATE:0 
+ID001362  #Compassionate
+#DFBZ_XINGEE_CALLOUS:0 
+ID001363  #Callous
+#DFBZ_XINGEE_SADISTIC:0 
+ID001364  #Sadistic
+#DFBZ_XINGEE_VENGEFUL:0 
+ID001365  #Vengeful
+#DFBZ_XINGEE_FORGIVING:0 
+ID001366  #Forgiving
+
+
+xinzeng_youmu_ai_000_001_decision:0 
+ID001367 Nomadic AI Development Direction: General (Cultural Exchange, Technological Innovation) (Add buff, steal innovation).
+ID001368 Cultural Exchange, Technological Innovation
+ID001369 Cultural Exchange, Technological Innovation
+ID001370 Nomadic AI Development Direction: General (Trade and Commerce)
+ID001371 Nomadic AI Development Direction: General (Trade and Commerce).
+ID001372 Trade and Commerce
+ID001373 Trade and Commerce
+ID001374 Nomadic AI Development Direction: General (Conquest/Rapid Expansion)
+ID001375 Nomadic AI Development Direction: General (Conquest/Rapid Expansion).
+ID001376 Conquest/Rapid Expansion
+ID001377 Conquest/Rapid Expansion
+ID001378 Nomadic AI Development Direction: Imperial Conqueror (Add buff)
+ID001379 This type of regime is characterized by strong military force and leadership, often establishing vast empires through the conquest of surrounding areas.\nThe Mongol Empire is a typical example of an imperial conqueror. Genghis Khan and his successors unified the Mongolian steppe and quickly conquered large areas of Asia and Europe, establishing a vast empire.
+ID001380 War
+ID001381 War
+ID001382 Nomadic AI Development Direction: Imperial Conqueror (AI Strategy)
+ID001383 This type of regime is characterized by strong military force and leadership, often establishing vast empires through the conquest of surrounding areas.\nThe Mongol Empire is a typical example of an imperial conqueror. Genghis Khan and his successors unified the Mongolian steppe and quickly conquered large areas of Asia and Europe, establishing a vast empire.
+ID001384 Strategy
+ID001385 Strategy
+ID001386 Nomadic AI Development Direction: Imperial Conqueror (AI Response to Factions)
+ID001387 This type of regime is characterized by strong military force and leadership, often establishing vast empires through the conquest of surrounding areas.\nThe Mongol Empire is a typical example of an imperial conqueror. Genghis Khan and his successors unified the Mongolian steppe and quickly conquered large areas of Asia and Europe, establishing a vast empire.
+ID001388 Response to Factions
+ID001389 Response to Factions
+ID001390 Nomadic AI Development Direction: Imperial Conqueror (AI Persecution of Vassals)
+ID001391 This type of regime is characterized by strong military force and leadership, often establishing vast empires through the conquest of surrounding areas.\nThe Mongol Empire is a typical example of an imperial conqueror. Genghis Khan and his successors unified the Mongolian steppe and quickly conquered large areas of Asia and Europe, establishing a vast empire.
+ID001392 Persecution of Vassals
+ID001393 Persecution of Vassals
+ID001394 Nomadic AI Development Direction: Imperial Conqueror (Conquest/Rapid Expansion)
+ID001395 Nomadic AI Development Direction: Imperial Conqueror (Conquest/Rapid Expansion).
+ID001396 Conquest/Rapid Expansion
+ID001397 Conquest/Rapid Expansion
+ID001398 Nomadic AI Development Direction: Cultural Inheritor (Add buff)
+ID001399 This type of regime usually retains and passes down the original culture, language, and religion during the process of conquest, promoting the integration of different cultures.\nThe Turkic Khaganate is a prime example of a cultural inheritor. During their conquest of Central Asia, the Turkic Khaganate preserved the original Turkic culture and language and promoted it in the ruling regions.
+ID001400 Inheritance
+ID001401 Inheritance
+ID001402 Nomadic AI Development Direction: Diplomat and Ally (Add buff)
+ID001403 This type of regime may be more inclined to build alliances with surrounding regimes through diplomatic means to maintain its own interests and stability.\nThe Khwarazmian Empire in Central Asia adopted flexible diplomatic policies, maintaining its position through alliances with Islamic states.
+ID001404 Diplomacy
+ID001405 Diplomacy
+ID001406 Nomadic AI Development Direction: Diplomat and Ally (AI Diplomatic Strategy)
+ID001407 This type of regime may be more inclined to build alliances with surrounding regimes through diplomatic means to maintain its own interests and stability.\nThe Khwarazmian Empire in Central Asia adopted flexible diplomatic policies, maintaining its position through alliances with Islamic states.
+ID001408 Diplomacy
+ID001409 Diplomacy
+ID001410 Fatigued March
+

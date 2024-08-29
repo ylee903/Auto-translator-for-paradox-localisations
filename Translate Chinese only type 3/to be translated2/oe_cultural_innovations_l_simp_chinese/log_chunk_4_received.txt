@@ -1,0 +1,102 @@
+Chunk 4 received from API:
+ID000300 Shenbi Bow
+ID000301 A single person can draw the Shenbi Bow, with a maximum range of up to 400 meters, capable of piercing heavy armor.
+ID000302 Horse Policy Laxity
+ID000303 The neglect of the upper rulers combined with the mismanagement of lower officials has plunged the horse policy of Central Plains into a deep quagmire.
+ID000304 Horse Preservation Law
+ID000305 The situation of no usable horses in the Central Plains has been officially reversed. Effective horse policy measures have been implemented, which, if well operated, will benefit future generations.
+ID000306 Commercial People
+ID000307 The Sogdians frequently traveled between Central Asia and China along the long Silk Road, amassing great wealth from medieval East-West trade.
+ID000308 Yumi Bow
+ID000309 A type of longbow used in Japanese archery. The standard length of a yumi bow is about seven shaku, three sun.
+ID000310 Naginata
+ID000311 The naginata is a type of long-handled weapon used in ancient Japan, with a relatively wide blade and a significant curvature on the edge.
+ID000312 Champa Rice
+ID000313 A high-yield, early-maturing, and drought-resistant variety of rice from the Indochina Peninsula, benefiting many.
+ID000314 Introduce Champa Rice
+ID000315 Introducing high-yield, early-maturing, and drought-resistant Champa rice from the Indochina Peninsula to benefit the people under heaven.
+ID000316 Vast Land and Abundant Resources
+ID000317 Born of the Yan and Huang people, nurtured by Huaxia. When capable, surely repay China.
+ID000318 Heshuo Light Cavalry
+ID000319 Since ancient times, Yan lands have been home to many warriors. Being on the frontier, there was significant horse trade, and due to long-term mixing of Hu and Han, every good family’s son knew how to ride.
+ID000320 Southwestern Horse
+ID000321 The southwestern horse is intelligent and docile, adept at climbing mountains, and suitable for mountainous transport, serving as an important transport tool in highland and mountainous areas.
+ID000322 Elite Xianbei Cavalry
+ID000323 #F A standout among armored cavalry, often winning great victories against overwhelming numbers, composed of mighty Xianbei warriors capable of fighting a hundred foes.#
+ID000324 Yen Yun Eighteen Horsemen
+ID000325 ##Yen Yun Eighteen Horsemen# are a legendary unit under Sui General Luo Yi, who would ride a thousand miles deep into the Turkic territory and annihilate twenty thousand Turks in one night.#
+ID000326 Xiliang Iron Cavalry
+ID000327 ##Xiliang Iron Cavalry# are known for their ferocity and prowess in combat, especially suited for long-distance raids in the desert and Gobi regions.#
+ID000328 Ongniud
+ID000329 ##Ongniud# means "people of the king" and is the direct tribe of Temuge Otchigin.#
+ID000330 Uriankhai
+ID000331 ##Uriankhai# is the tribe led by the descendants of Genghis Khan’s general, Jebe.#
+ID000332 Ujiyat
+ID000333 ##Ujiyat# likely originated from Mongolized Jurchens.#
+ID000334 Keshik Guards
+ID000335 ##Keshik Guards# are the elite guard appointed by Genghis Khan, evolving from a hundred personal bodyguards to a powerful army of ten thousand, including 1,000 bodyguards, 1,000 archers, and 8,000 regular soldiers.#
+ID000336 Kuaizi Horse
+ID000337 ##Kuaizi Horse# is usually positioned on the flanks, utilizing their high mobility and the tremendous impact of their group charges to outflank and then assault the enemy army.#
+ID000338 Kuaizi Horse
+ID000339 ##Kuaizi Horse# is usually positioned on the flanks, utilizing their high mobility and the tremendous impact of their group charges to outflank and then assault the enemy army.#
+ID000340 Tieluotu
+ID000341 ##Tieluotu# are heavily armored troops with both horses and men clad in heavy armor, advancing like a wall. Besides long spears, they carry long knives and iron rods on their backs, fighting fiercely even on foot.#
+ID000342 Tieluotu
+ID000343 ##Tieluotu# are heavily armored troops with both horses and men clad in heavy armor, advancing like a wall. Besides long spears, they carry long knives and iron rods on their backs, fighting fiercely even on foot.#
+ID000344 Tiger Infantry Guard
+ID000345 ##Tiger Infantry Guard# are heavily armored Tieluotu warriors, wielding maces, and excelling in foot combat.#
+ID000346 Iron Harriers
+ID000347 ##Iron Harriers# were initially the personal guards of the founding emperor of Western Xia, Li Yuanhao. They were composed of close noble relatives, riding fine horses and clad in heavy armor, very effective against infantry.#
+ID000348 Iron Harriers
+ID000349 ##Iron Harriers# were initially the personal guards of the founding emperor of Western Xia, Li Yuanhao. They were composed of close noble relatives, riding fine horses and clad in heavy armor, very effective against infantry.#
+ID000350 Iron Harriers
+ID000351 ##Iron Harriers# were initially the personal guards of the founding emperor of Western Xia, Li Yuanhao. They were composed of close noble relatives, riding fine horses and clad in heavy armor, very effective against infantry.#
+ID000352 Iron Harriers
+ID000353 ##Iron Harriers# were initially the personal guards of the founding emperor of Western Xia, Li Yuanhao. They were composed of close noble relatives, riding fine horses and clad in heavy armor, very effective against infantry.#
+ID000354 Hengshan Infantry
+ID000355 ##Hengshan Infantry# mainly comprised of Qiang people from Hengshan, with endurance and cold resistance superior to Han people of the same era. Active in specific areas like streams and valleys where cavalry mobility is hindered, they possess high maneuverability and can swiftly traverse the battlefield.#
+ID000356 Hengshan Infantry
+ID000357 ##Hengshan Infantry# mainly comprised of Qiang people from Hengshan, with endurance and cold resistance superior to Han people of the same era. Active in specific areas like streams and valleys where cavalry mobility is hindered, they possess high maneuverability and can swiftly traverse the battlefield.#
+ID000358 Hengshan Infantry
+ID000359 ##Hengshan Infantry# mainly comprised of Qiang people from Hengshan, with endurance and cold resistance superior to Han people of the same era. Active in specific areas like streams and valleys where cavalry mobility is hindered, they possess high maneuverability and can swiftly traverse the battlefield.#
+ID000360 Hengshan Infantry
+ID000361 ##Hengshan Infantry# mainly comprised of Qiang people from Hengshan, with endurance and cold resistance superior to Han people of the same era. Active in specific areas like streams and valleys where cavalry mobility is hindered, they possess high maneuverability and can swiftly traverse the battlefield.#
+ID000362 Tangut Warriors
+ID000363 ##Tangut Warriors# clad in heavy hauberk armor, possessing high martial skills, impervious to blades and spears.#
+ID000364 Tangut Warriors
+ID000365 ##Tangut Warriors# clad in heavy hauberk armor, possessing high martial skills, impervious to blades and spears.#
+ID000366 Tangut Warriors
+ID000367 ##Tangut Warriors# clad in heavy hauberk armor, possessing high martial skills, impervious to blades and spears.#
+ID000368 Six Class Guards of the Imperial Enclosure
+ID000369 ##Six Class Guards of the Imperial Enclosure# are the heavily armored personal guards of Western Xia, stationed at the central defense.#
+ID000370 Strong Crossbowmen
+ID000371 ##Strong Crossbowmen# are crucial for building defense lines when facing disturbances from external nomadic powers, utilizing their skilled archers.#
+ID000372 Mongolian Heavy Cavalry
+ID000373 ##Mongolian Heavy Cavalry# are the formidable beasts of destruction for countless civilizations, wielded by the world conquerors as their surud.#
+ID000374 Mongolian Heavy Cavalry
+ID000375 ##Mongolian Heavy Cavalry# are the formidable beasts of destruction for countless civilizations, wielded by the world conquerors as their surud.#
+ID000376 Manguda
+ID000377 ##Manguda# are unmatched Mongolian heavily armored bow cavalry.#
+ID000378 Shenbi Bowmen
+ID000379 ##Shenbi Bowmen# are elite archers equipped with the Shenbi Bow, inflicting significant damage on heavily armored enemies.#
+ID000380 Qin Fierce Soldiers
+ID000381 ##Qin Fierce Soldiers# come from the harsh lands of Qin, known for their fierce and brave nature, forming strong fighting units capable of breaking formations.#
+ID000382 White Feather Soldiers
+ID000383 ##White Feather Soldiers# were elite troops organized by the Shu State during the Three Kingdoms period, mainly consisting of non-Han ethnic groups who ran between the mountains and forests of Shu.#
+ID000384 Guiyi Veterans
+ID000385 Anxi Troops
+ID000386 Raising their heads to see the sun, yet not Chang'an.
+ID000387 Tooth Soldiers
+ID000388 ##Tooth Soldiers#, also known as Yamen Soldiers, are the most elite personal guards of the local governor, tasked with defending the yamen and the local lord, forming the core strength of the local army.#
+ID000389 High-born Yamen Soldiers
+ID000390 ##High-born Yamen Soldiers# are high-quality heavy infantry with no worries about the future.#
+ID000391 Tooth Soldiers
+ID000392 ##Tooth Soldiers#, also known as Yamen Soldiers, are the most elite personal guards of the local governor, tasked with defending the yamen and the local lord, forming the core strength of the local army.#
+ID000393 Tooth Soldiers
+ID000394 ##Tooth Soldiers#, also known as Yamen Soldiers, are the most elite personal guards of the local governor, tasked with defending the yamen and the local lord, forming the core strength of the local army.#
+ID000395 Tooth Soldiers
+ID000396 ##Tooth Soldiers#, also known as Yamen Soldiers, are the most elite personal guards of the local governor, tasked with defending the yamen and the local lord, forming the core strength of the local army.#
+ID000397 Cavalry Troops
+ID000398 ##Cavalry Troops# are elite mounted units of agrarian civilizations.#
+ID000399 Cavalry Troops
+

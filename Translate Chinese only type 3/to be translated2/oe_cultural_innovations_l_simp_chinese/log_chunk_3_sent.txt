@@ -1,0 +1,104 @@
+Chunk 3 sent to API:
+ID000200 [GetTrait('blademaster_2').GetName( GetNullCharacter )][trait|E]更加常见
+ID000201 [GetTrait('blademaster_3').GetName( GetNullCharacter )][trait|E]更加常见
+ID000202 [GetTrait('physique_good_1').GetName( GetNullCharacter )][trait|E]更加常见
+ID000203 [GetTrait('physique_good_2').GetName( GetNullCharacter )][trait|E]更加常见
+ID000204 [GetTrait('physique_good_3').GetName( GetNullCharacter )][trait|E]更加常见
+ID000205 [GetTrait('content').GetName( GetNullCharacter )][trait|E]更加常见
+ID000206 [GetTrait('ambitious').GetName( GetNullCharacter )][trait|E]更加常见
+ID000207 战争艺术
+ID000208 战争是门艺术，赢家通吃，输家一无所有。
+ID000209 安闲自得
+ID000210 生命很重要，快乐更重要。
+ID000211 该[culture|E]有$ethos_courtly_name$的[ethos|E]
+ID000212 骑士收容
+ID000213 骄傲的骑士总是不善于经营自家地产，落魄的他们选择了完全依附于其他富裕的统治者。
+ID000214 落魄骑士
+ID000215 落魄到除了一身武力别无所有的封建骑士，带领一小队侍从依附在富裕的统治者治下，奢望着再次发迹的一天。
+ID000216 可以招募[GetMaA('luopoqishi').GetName]作为[men_at_arms|E]
+ID000217 该[culture|E]没有$ethos_spiritual_name$的[ethos|E]
+ID000218 陆上商队
+ID000219 驼铃声声，岁月悠悠，陆路的贯通催生出了大批的商人，他们走在荒渺的黄沙之间，带来无数异域珍宝。
+ID000220 陆上商队
+ID000221 驼铃声声，岁月悠悠，陆路的贯通催生出了大批的商人，他们走在荒渺的黄沙之间，带来无数异域珍宝。
+ID000222 冰海战士
+ID000223 冰洋翻涌，带来了可怕的毁灭者。
+ID000224 可以招募[GetMaA('lushangshangdui').GetName]作为[men_at_arms|E]
+ID000225 可以招募[GetMaA('binghaizhanshi').GetName]作为[men_at_arms|E]
+ID000226 斯拉夫扩张主义
+ID000227 斯拉夫人特有的开拓精神，地处苦寒所以向往温软，矛盾重重所以需要扩张。
+ID000228 冰海战记
+ID000229 血与冰的赞歌，冰海永存。
+ID000230 猛安谋克
+ID000231 这些原始社会后期由于征掠、围猎的需要而设的军事首领，随着时间的推移逐渐发展为了固定的军事组织。
+ID000232 [casus_belli|E]花费：[prestige_i]#P -30%#!
+
+ tradition_jiaqijuzhuang_name:0 
+ID000233 人马具甲的武士是战争的主宰，他们以摧枯拉朽之势横扫万钧。
+ID000234 可以招募[GetMaA('jiaqijuzhuang').GetName][men_at_arms|E]
+ID000235 该[culture|E]的[knights|E]有资格获得[GetAccoladeType('dfbz_xinzeng_0005_attribute').GetName][accolades|E]
+ID000236 甲骑军头
+ID000237 甲骑军头
+ID000238 先锋具装甲骑
+ID000239 [retinue_maa|E]\n#F 跟随军头陷阵冲锋的精锐甲骑，作为矛头直插敌军要害。#!
+ID000240 先锋具装甲骑
+ID000241 [retinue_maa|E]\n#F 跟随军头陷阵冲锋的精锐甲骑，作为矛头直插敌军要害。#!
+ID000242 亲卫具装甲骑
+ID000243 [retinue_maa|E]\n#F 护卫战阵核心的精锐甲骑，若有必要，亦可对敌军进行毁灭性 击。  #!
+ID000244 横冲都将
+ID000245 横冲都将
+ID000246 横冲都
+ID000247 [retinue_maa|E]\n#F 运用重装甲骑抓住敌军转瞬之间的破绽并发起猛烈冲击，以此达到一击制敌的效果。#!
+ID000248 横冲都
+ID000249 [retinue_maa|E]\n#F 运用重装甲骑抓住敌军转瞬之间的破绽并发起猛烈冲击，以此达到一击制敌的效果。#!
+ID000250 横冲都
+ID000251 [retinue_maa|E]\n#F 运用重装甲骑抓住敌军转瞬之间的破绽并发起猛烈冲击，以此达到一击制敌的效果。#!
+ID000252 长剑都将
+ID000253 长剑都将
+ID000254 长剑都
+ID000255 [retinue_maa|E]\n#F 手持巨型陌刀的无双悍将，顷刻间斩敌于马下。#!
+ID000256 长剑都
+ID000257 [retinue_maa|E]\n#F 手持巨型陌刀的无双悍将，顷刻间斩敌于马下。#!
+ID000258 长剑都
+ID000259 [retinue_maa|E]\n#F 手持巨型陌刀的无双悍将，顷刻间斩敌于马下。#!
+ID000260 长剑都
+ID000261 [retinue_maa|E]\n#F 手持巨型陌刀的无双悍将，顷刻间斩敌于马下。#!
+ID000262 牙将
+ID000263 牙将
+ID000264 $EFFECT_LIST_BULLET$解锁#V 部分#!牙将任务[decision|E]\n$EFFECT_LIST_BULLET$小幅提升任务完成度
+ID000265 $EFFECT_LIST_BULLET$解锁#V 多数#!牙将任务[decision|E]\n$EFFECT_LIST_BULLET$中幅提升任务完成度
+ID000266 $EFFECT_LIST_BULLET$解锁#V 全部#!牙将任务[decision|E]\n$EFFECT_LIST_BULLET$大幅提升任务完成度
+ID000267 契丹
+ID000268 可以招募[GetMaA('nvzhen_mouke').GetName]作为[men_at_arms|E]
+ID000269 赐予你手下的$jurchen$[knights|E]土地将大幅增加他们的战斗意志，\n但长期的安逸生活亦会很快将他们腐蚀。
+ID000270 谋克
+ID000271 经过精挑细选、层层选拔的精英战士，他们无不是各个部族中征掠、围猎的好手。
+ID000272 谋克
+ID000273 经过精挑细选、层层选拔的精英战士，他们无不是各个部族中征掠、围猎的好手。
+ID000274 你必须拥有[feudal|E][government|E]
+ID000275 [casus_belli|E]花费：[prestige_i]#P -40%#! 
+ID000276 [casus_belli|E]花费：[prestige_i]#P -40%#! 
+ID000277 苏丹卫队
+ID000278 一支由苏丹亲信组成的可靠卫队，平日里也为苏丹做些见不得光的工作 
+ID000279 骑士传统
+ID000280 法国广袤的平原是骑士的主战场，这里孕育了整个中世纪最最凶悍的骑士兵团
+ID000281 亲卫队
+ID000282 强大的统治者往往需要一支可靠的亲卫队应对各种突发状况，并且这些人最好值得信赖。
+ID000283 持斧近卫
+ID000284 #F 长斧是权力的象征，亦是力量的象征。这支近卫军属于一位强大的统治者#。
+ID000285 伏特加
+ID000286 生命之水，罗斯民族的骄傲
+ID000287 民风彪悍
+ID000288 文明蒙昧，民风彪悍，原始的欲望充斥在每个人心中
+ID000289 瘊子甲
+ID000290 羌人善锻甲，凡锻甲之法，其始甚厚，不用火，冷锻之，比元厚三分减二乃成。其末留箸头许不锻，隐然如瘊子，欲以验未锻时厚薄，如浚河留土笋也，谓之“瘊子甲”。强弩射之，不能入.
+ID000291 横山羌
+ID000292 广泛存在于西北山区的羌人部族，以卓绝的越野能力纵横于群山之间。
+ID000293 党项马
+ID000294 党项族居住的地斤泽、横山、天都山一带都是著名产马地区。马多而品种优良，唐代诗人元稹有“北买党项马，西擒吐蕃鹦”之句。宋人更是称誉党项马为天下之最。
+ID000295 冷锻钢
+ID000296 党项人的锻钢技术超绝于世，世人以得到一把夏国剑为无上荣光。宋钦宗本人随身佩带的宝剑就是‘夏国剑’。苏东坡曾得到一把西夏剑，作诗云：‘红妆拥坐花照酒，青萍拔鞘堂生风。螺旋铓锷波起脊，白蛟双挟三蛟龙。试人一缕立褫魄，戏客三招森动容。’。
+ID000297 浪人
+ID000298 为恢复昔日的权威而疯狂冒险，以天皇亲兵自居，到处以
+ID000299  的面目出现，因有一技之长而能量惊人。
+

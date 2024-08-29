@@ -14,13 +14,13 @@ delay_time = 1  # Delay between requests (in seconds)
 log_chunks = True  # Log chunks sent/received for debugging
 overwrite_original = True  # Overwrite original YAML files
 max_concurrent_requests = 3  # Control concurrency of asynchronous requests
-model_name = "gpt-4o-mini"  # Model for both tokenization and API calls
+model_name = "gpt-4o"  # Model for both tokenization and API calls
 ignore_mismatch = (
     True  # Ignore mismatches in line counts between sent and received chunks
 )
 
 # Retry configuration
-max_retries = 999  # Max retries for rate limit errors
+max_retries = 99999999  # Max retries for rate limit errors
 initial_wait_time = 5  # Initial wait time before retrying (in seconds)
 
 # Paths
@@ -176,7 +176,7 @@ async def translate_chunk_async(chunk, session, chunk_index, semaphore, log_dir)
                     )
                     await asyncio.sleep(wait_time)
                     retries += 1
-                    wait_time *= 2  # Exponential backoff
+                    wait_time += 1  # Exponential backoff changed to additional 1 second
                 else:
                     print(
                         f"An error occurred while translating chunk {chunk_index + 1}: {e}"
@@ -251,14 +251,22 @@ async def translate_yaml_file(file_path):
 
     # Save reassembled chunks to file and pause for manual review
     reassembled_file_path = save_reassembled_chunks(translated_chunks, file_path)
-    pause_for_input_or_time(mode, delay_time)
+    pause_for_input_or_time()
 
     # Re-read the reassembled chunks after modification
     modified_chunks = {}
     with open(reassembled_file_path, "r", encoding="utf-8") as file:
-        for line in file:
-            uid, translation = line.strip().split(": ", 1)
-            modified_chunks[uid] = translation
+        for line_number, line in enumerate(file, start=1):
+            line = line.strip()
+            if not line or ": " not in line:
+                print(f"Warning: Skipping malformed line at {line_number}: {line}")
+                continue
+            try:
+                uid, translation = line.split(": ", 1)
+                modified_chunks[uid] = translation
+            except ValueError:
+                print(f"Warning: Failed to unpack line at {line_number}: {line}")
+                continue
 
     # Reassemble the text with the modified chunks
     translated_content = reassemble_text(file_content, [modified_chunks])
