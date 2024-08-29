@@ -14,7 +14,7 @@ delay_time = 1  # Delay between requests (in seconds)
 log_chunks = True  # Log chunks sent/received for debugging
 overwrite_original = True  # Overwrite original YAML files
 max_concurrent_requests = 3  # Control concurrency of asynchronous requests
-model_name = "gpt-4o"  # Model for both tokenization and API calls
+model_name = "gpt-4o-mini"  # Model for both tokenization and API calls
 ignore_mismatch = (
     True  # Ignore mismatches in line counts between sent and received chunks
 )
@@ -119,6 +119,7 @@ async def translate_chunk_async(chunk, session, chunk_index, semaphore, log_dir)
                                 "content": (
                                     "You are a professional translator with expertise in translating video game localization files. "
                                     "Translate only the Chinese text into English while preserving the identifiers and formatting. "
+                                    "You are given a chunk of text to translate containing extracts from a chinese Crusader kings 3 mod. "
                                     "If you encounter any issues or have difficulties translating certain lines, include diagnostic information at the end of the response, clearly separated by '===DIAGNOSTIC===' without affecting the translation."
                                 ),
                             },
@@ -217,7 +218,7 @@ def reassemble_text(file_content, translated_chunks):
     return file_content
 
 
-def pause_for_input_or_time():
+def pause_for_input_or_time(mode, delay_time):
     if mode == "input":
         input("Press Enter to continue...")
     elif mode == "pause":
@@ -250,7 +251,7 @@ async def translate_yaml_file(file_path):
 
     # Save reassembled chunks to file and pause for manual review
     reassembled_file_path = save_reassembled_chunks(translated_chunks, file_path)
-    pause_for_input_or_time()
+    pause_for_input_or_time(mode, delay_time)
 
     # Re-read the reassembled chunks after modification
     modified_chunks = {}
