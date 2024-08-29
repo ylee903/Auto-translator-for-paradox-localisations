@@ -1,0 +1,3 @@
+Diagnostic for chunk 12:
+- Line IDs and count match; all lines were successfully translated.
+

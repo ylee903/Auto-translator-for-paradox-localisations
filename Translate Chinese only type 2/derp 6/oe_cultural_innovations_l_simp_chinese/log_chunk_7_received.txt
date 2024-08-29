@@ -1,0 +1,54 @@
+Chunk 7 received from API:
+ID000 Iron Hawk  
+ID001 Iron Hawk  
+ID002 Iron Hawk  
+ID003 Hengshan Foot Soldier  
+ID004 Hengshan Foot Soldier  
+ID005 Hengshan Foot Soldier  
+ID006 Hengshan Foot Soldier  
+ID007 Tangut Warrior  
+ID008 Tangut Warrior  
+ID009 Tangut Warrior  
+ID010 Imperial Guards with Six Units  
+ID011 Crossbowman  
+ID012 Mongolian Heavy Cavalry  
+ID013 Mongolian Heavy Cavalry  
+ID014 Mangquda  
+ID015 Divine Bow Archer  
+ID016 Qin Land Braveman  
+ID017 White Cloak Soldier  
+ID018 Veterans of Guiyi  
+ID019 Anxi Army  
+ID020 Raise your head to see the sun, but do not see Chang'an.  
+ID021 Elite Troops  
+ID022 Elite Troops from Good Families  
+ID023 Elite Troops  
+ID024 Elite Troops  
+ID025 Elite Troops  
+ID026 Cavalry  
+ID027 Cavalry  
+ID028 Cavalry  
+ID029 Broadsword Soldier  
+ID030 Sword and Shield Soldier  
+ID031 Hebei Light Cavalry  
+ID032 White Horse Companions  
+ID033 Infantry Armor  
+ID034 Quiet Border Iron Cavalry  
+ID035 Beihai Heavy Cavalry  
+ID036 Ronin  
+ID037 Monk Soldier  
+ID038 Repeating Crossbowman  
+ID039 Repeating Crossbowman  
+ID040 Jungle Hunter  
+ID041 Silver Spear Auxiliary Troops  
+ID042 Crow Army  
+ID043 Khitan Warrior  
+ID044 Sogdian Elite Troops  
+ID045 Jurchen Conquest (AI)  
+ID046 Great Jin  
+ID047 Unified Jurchen Tribes  
+ID048 Clan leaders gather around me, Iron Pagoda, Striding Horse, all the strong cheer for my great cause.  
+ID049 My conquest begins here.  
+
+
+

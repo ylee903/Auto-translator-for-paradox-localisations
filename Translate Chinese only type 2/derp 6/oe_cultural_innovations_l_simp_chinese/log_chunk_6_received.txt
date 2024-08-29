@@ -1,0 +1,54 @@
+Chunk 6 received from API:
+ID000 Axe Guard  
+ID001 Vodka  
+ID002 Water of Life, Pride of the Ross People  
+ID003 Fierce National Character  
+ID004 Civilization is ignorant, and the fierce national character reveals that primitive desires flood the hearts of everyone.  
+ID005 Warty Armor  
+ID006 The Qiang people's skill in forging armor is unmatched in the world. The process of forging such armor starts with a very thick base, and is done without fire, ensuring cold working is applied, making it three points thicker than the original. The end of the armor is left unworked for about a chopstick's length, remaining hidden like a wart, to exemplify the thickness before forging, just as soil is left unmoved at the riverbed. It is known as “Warty Armor.” It cannot be penetrated even by strong crossbows.  
+ID007 Qiang of Hengshan  
+ID008 The Qiang tribes, widely present in the northwestern mountainous areas, traverse the mountains with outstanding off-road capabilities.  
+ID009 Dangxiang Horse  
+ID010 The regions of Di Jinzhe, Hengshan, and Tiandu Mountain, where the Dangxiang people live, are renowned horse-producing areas. There are many horses of excellent quality; the Tang poet Yuan Zhen even wrote, “In the north, one buys Dangxiang horses, and in the west, one captures the Tibetan parrot.” The Song dynasty praised the Dangxiang horse as the best in the world.  
+ID011 Cold Forged Steel  
+ID012 The Dangxiang people's steel forging technology excels in the world; obtaining a Xia Country sword is regarded as a supreme honor. The sword personally carried by Song Emperor Qinzhong was the 'Xia Country Sword.' Su Dongpo once received a Western Xia sword and composed a poem: “A red-clad lady sits in a flower-lit tavern, the green blade drawn in the hall creates wind. Spiral blades create ripples, the white dragon embraces three dragons.”  
+ID013 Ronin  
+ID014 Frantically taking risks to restore past authority, considering themselves the imperial army, everywhere they go.  
+ID015 Divine Bow  
+ID016 The Divine Bow can be drawn by one person, with a maximum range of four hundred meters, capable of penetrating heavy armor.  
+ID017 Decline of Horse Administration  
+ID018 The neglect by upper rulers and the flawed governance by lower officials have plunged the horse administration in the Central Plains into an irreversible quagmire.  
+ID019 Horse Preservation Law  
+ID020 The situation of having no horses available in the Central Plains is formally reversed, and strong, effective horse administration policies have been implemented. If the complete system operates well, it will benefit the world for generations.  
+ID021 Commercial Nation  
+ID022 The Sogdian people frequently traveled between Central Asia and China via the long Silk Road, extracting great wealth from medieval Eastern and Western trade.  
+ID023 Japanese Bow  
+ID024 A type of longbow used in Japanese Kyudo. The standard length of a Japanese bow is about seven feet three inches.  
+ID025 Naginata  
+ID026 The naginata is a type of long-handed weapon used in ancient Japan, characterized by a wide blade with a significant curve.  
+ID027 Champa Rice  
+ID028 A high-yield, early-maturing, and drought-resistant rice variety produced in the Southeast Asian Peninsula, benefiting many.  
+ID029 Introduction of Champa Rice  
+ID030 Introducing the high-yield, early-maturing, and drought-resistant Champa rice from the Southeast Asian Peninsula, benefiting the people of the world.  
+ID031 Abundant Land and Resources  
+ID032 Born from Yan and Huang, nurtured by Huaxia. If one serves with purpose, they will surely repay China.  
+ID033 He Shuo Light Cavalry  
+ID034 Since ancient times, Yan has had many warriors, and being located at the border, horse trading has flourished. With a long history of Hu and Han interactions, every noble-born child can ride.  
+ID035 Southwestern Horses  
+ID036 Southwestern horses are responsive and gentle, good at climbing mountains, making them vital transport tools in hilly terrain.  
+ID037 Hundred Bay Xianbei Cavalry  
+ID038 Eighteen Riding of Yan and Cloud  
+ID039 Western Liang Iron Cavalry  
+ID040 Wengniute  
+ID041 Wulangka  
+ID042 Ujianbut  
+ID043 Qiexue Army  
+ID044 Guizi Horse  
+ID045 Guizi Horse  
+ID046 Iron Pagoda  
+ID047 Iron Pagoda  
+ID048 Tiger Step Guard  
+ID049 Iron Falcon  
+
+
+

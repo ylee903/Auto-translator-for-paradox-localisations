@@ -1,0 +1,54 @@
+Chunk 19 received from API:
+ID000 Some of the resources on this land have been artificially relocated due to a great migration.  
+ID001 Discussing Alliances  
+ID002 Forge an alliance with [recipient.GetTitledFirstNameNoTooltip] by stating mutual interests — the powers of the steppe need to consolidate!  
+ID003 Same[cultural|E]：$VALUE|=+0$  
+ID004 Discussing Alliances  
+ID005 Discussing Alliances (Nomadic Vassal)  
+ID006 Forge an alliance with [recipient.GetTitledFirstNameNoTooltip] by stating mutual interests — promote the achievement of certain common goals!  
+ID007 Tribal Alliance  
+ID008 Forge a vassal relationship with [recipient.GetTitledFirstNameNoTooltip] by stating mutual interests — promote the achievement of certain common goals!  
+ID009 Your military power difference: $VALUE|=+0$  
+ID010 Diplomacy and Allies: $VALUE|=+0$  
+ID011 Significant external threat: $VALUE|=+0$  
+ID012 Isolated: $VALUE|=+0$  
+ID013 Ambitious: $VALUE|=+0$  
+ID014 Call vassals to battle  
+ID015 Call [recipient.GetUINameNoTooltip] to battle to fulfill their duties as a vassal.  
+ID016 Defense[war|E]：$VALUE|=+0$  
+ID017 Is[powerful_vassals|E]：$VALUE|=+0$  
+ID018 Nearby Vassals' Peers: $VALUE|=+0$  
+ID019 Pasture: $VALUE|=+0$  
+ID020 Loose Tribe: $VALUE|=+0$  
+ID021 Limited Tribal Authority: $VALUE|=+0$  
+ID022 High Tribal Authority: $VALUE|=+0$  
+ID023 Absolute Tribal Authority: $VALUE|=+0$  
+ID024 Warlike[ethos|E]：$VALUE|=+0$  
+ID025 Collective[ethos|E]：$VALUE|=+0$  
+ID026 Same[dynasty|E]：$VALUE|=+0$  
+ID027 Is your[close_family_member|E]：$VALUE|=+0$  
+ID028 Warlike: $VALUE|=+0$  
+ID029 Vassal Position: Pursuit of Fame and Profit: $VALUE|=+0$  
+ID030 Vassal Position: Local: $VALUE|=+0$  
+ID031 Call to join the war (Nomadic Alliance)  
+ID032 Chieftain  
+ID033 Additional Tax  
+ID034 The chieftain has completed your task and successfully paid the taxes.  
+ID035 Prestige Widely Known  
+ID036 The chieftain successfully spread your prestige.  
+ID037 Chieftain's Levy  
+ID038 The chieftain has summoned a group of levies for you.  
+ID039 Chieftain's Light Cavalry  
+ID040 The chieftain has summoned a group of light cavalry for you.  
+ID041 Chieftain's Bow Cavalry  
+ID042 The chieftain has summoned a group of bow cavalry for you.  
+ID043 Chieftain's Heavy Cavalry  
+ID044 The chieftain has summoned a group of heavy cavalry for you.  
+ID045 Player [regiment|E][stationed_holding|E] correction rate  
+ID046 Sixty percent  
+ID047 The player receives a [GetModifier('xinzeng_zhujun_xiuzheng_001_modifier').GetNameWithTooltip] correction, maximizing the prevention of data inflation, effectively adjusting AI difficulty, optimizing game competitive experience, and enjoying the fun of competing against AI.  
+ID048 Forty percent  
+ID049 The player receives a [GetModifier('xinzeng_zhujun_xiuzheng_002_modifier').GetNameWithTooltip] correction, with little impact on troop stacking, but can moderately reduce the rate of data inflation.  
+
+
+

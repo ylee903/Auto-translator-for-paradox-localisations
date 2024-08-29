@@ -1,0 +1,54 @@
+Chunk 3 received from API:
+ID000 No hesitation in death, no concern in death, no doubt in death.
+ID001 Hunting and Fishing
+ID002 From small fish and shrimp to large whales and sea monsters, this is an ancient trade.
+ID003 Grass Grazing
+ID004 One of the main characteristics of the life of ancient nomadic peoples, living a life in pursuit of the grasslands, well acquainted with everything on the prairie.
+ID005 The characters of this [culture|E] will have their [army|E] marching speed greatly increased when crossing #V $grasslands$#! or #V $plains$#!.
+ID006 Miao Witches
+ID007 The great wisdom of the ancestors.
+ID008 Bloodline of Chi You
+ID009 The legendary maker of weapons, also known as the god of soldiers, along with the Yellow Emperor and the Yan Emperor, regarded as the three ancestors of China and considered by many Miao people to be their ancestor. The fierce and united spirit derived from the Miao people is admired by the world.
+ID010 Ainu Tribal Warrior
+ID011 The Ainu people refer to themselves as "Utari," meaning "partners." They cherish their warriors who fight side by side and strive to survive through many conflicts in the Japanese archipelago.
+ID012 Northeast Asian Horse Archer
+ID013 Fully adapted to the dense forests of Northeast Asia, these mounted archers are better suited to the local warfare environment than other nomadic forces on the grasslands.
+ID014 Horse Archer
+ID015 Fully adapted to the dense forests of Northeast Asia, these mounted archers are better suited to the local warfare environment than other nomadic forces on the grasslands.
+ID016 Defensive Troops
+ID017 Temporary soldiers recruited from rural border regions to guard against threats from neighboring countries.
+ID018 Warriors
+ID019 Killers, robbers, and bandits are what samurai are.
+ID020 Light Gunner
+ID021 Generally engaged in manual labor but become foot soldiers in wartime.
+ID022 Northern Samurai
+ID023 Stationed in the courtyard to the north, guarding the emperor and attending to his travels.
+ID024 Bowmen
+ID025 The continuation of the Yamato people's traditional archery on the battlefield.
+ID026 Naginata Warriors
+ID027 Using long and sharp naginatas as weapons, they can either form a line to block enemies or scatter to ambush, making them quite a difficult opponent.
+ID028 Goryeo Bowmen
+ID029 Skilled archers and hunters navigating the complex mountainous forests of the Korean Peninsula, using their excellent shooting skills to strike enemies heavily.
+ID030 Left Flank
+ID031 Skilled shielded infantry who know how to avoid the rain of arrows.
+ID032 Bieban Warriors
+ID033 Elite heavy infantry created to counter the Jurchens, adept at dealing with cavalry.
+ID034 Hwarang
+ID035 Young Goryeo nobles who practiced martial arts from a young age, excelling in archery and noted for their appearance and demeanor.
+ID036 Imperial Guards
+ID037 The army exclusive to the emperor, tasked with protecting the palace and the emperor himself, selected through layers of scrutiny and extremely skilled in martial arts.
+ID038 Northern Imperial Guards
+ID039 A strong army that guards the capital.
+ID040 Palace Guards
+ID041 Directly under the emperor, responsible for the tasks of guarding the emperor or the palace, and maintaining the capital's security.
+ID042 Auxiliary Troops
+ID043 Local regular troops, which are one of the main sources of the imperial guards.
+ID044 Local Militia
+ID045 Armies led by various regional governors and militia leaders.
+ID046 Frontier Troops
+ID047 Recruited from the local military households to fight against foreign enemies.
+ID048 Local Forces
+ID049 Soldiers recruited locally, with varying quality.
+
+
+

@@ -1,0 +1,54 @@
+Chunk 8 received from API:
+ID000  United Jurchen Tribes  
+ID001  Ready the army!  
+ID002  United Jurchen Tribes prepare to conquer the world  
+ID003  Jurchen army  
+ID004  Jurchen Conquest War (Phase One)  
+ID005  Jurchen Conquest War  
+ID006  Jurchen Conquest War (Phase Two)  
+ID007  Jurchen Conquest War (Phase Three)  
+ID008  Hand over your land!  
+ID009  Your decaying rule must end now. I, [nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName], give you three days to surrender your territory, or face the consequences!  
+ID010  My lord, I am willing to give up my land and submit to you...  
+ID011  Submit to [nvzhenzhengfuzhe.GetTitledFirstName]  
+ID012  Go to war with [nvzhenzhengfuzhe.GetTitledFirstName]  
+ID013  Go to war with [demand_recipient.GetTitledFirstName]  
+ID014  Get lost!  
+ID015  To the foolish [nvzhenzhengfuzhe.GetFirstName]  
+ID016  Take back your threats! Silly [nvzhenzhengfuzhe.GetFirstName]! \n\nYour threats are weaker than a three-year-old child. Who do you think you are? You pig dreaming of laying hands on my territory.  
+ID017  You dog, I will crush you to dust!  
+ID018  At the beginning of the conquest  
+ID019  I and my clansmen were summoned before [nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName], where every clan leader and vassal of the Jurchens gathered. We all knew why and held discussions through the night in the smoke-filled tent, with no doubts arising. \n\n[nvzhenzhengfuzhe.GetFirstName] loudly called upon the names of our ancestors, walking in front of each Jurchen warrior and exchanging words warmly; I could feel the warriors' blood boiling. \n\nFrom now on, the world shall tremble before the conqueror [nvzhenzhengfuzhe.GetFirstName]!  
+ID020  For the glory of the Jurchens! For [nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName]!  
+ID021  You repelled [attacker.GetShortUIName|U], but what about next time...  
+ID022  Player gains property slots  
+ID023  Collide with the young lord  
+ID024  Ready to depart!  
+ID025  The operation went smoothly  
+ID026  Time to persecute the other races again  
+ID027  Collide with the young lord  
+ID028  Extracting profits from the Silk Road trade  
+ID029  Money is justice!  
+ID030  Money is justice!  
+ID031  You made a huge profit  
+ID032  Form the Silver Spear Corps  
+ID033  My mind is made up!  
+ID034  Formation was a success  
+ID035  Form the Silver Spear Corps  
+ID036  Form the Crow Army (AI) small scale  
+ID037  Form the Crow Army (AI) large scale  
+ID038  Form the Crow Army  
+ID039  My mind is made up!  
+ID040  Formation was a success  
+ID041  Form the Crow Army  
+ID042  Crow Army  
+ID043  Fanzhen Soldiers (AI) small scale  
+ID044  Fanzhen Soldiers (AI) large scale  
+ID045  Expand the Tooth Soldiers  
+ID046  My mind is made up!  
+ID047  You feel incredibly proud  
+ID048  I need a reliable personal guard  
+ID049  Fanzhuai Guard  
+
+
+

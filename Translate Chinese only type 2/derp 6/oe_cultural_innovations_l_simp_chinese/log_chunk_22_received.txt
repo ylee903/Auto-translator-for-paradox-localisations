@@ -1,0 +1,53 @@
+Chunk 22 received from API:
+ID000 Fortify City Defense  
+ID001 Secure the Land  
+ID002 Forced Conscription  
+ID003 Assist in Construction  
+ID004 Garrison Taxation  
+ID005 Inspect the Pastures  
+ID006 Organize Raids  
+ID007 Exemption from Serfdom  
+ID008 Conscripts include herdsmen, wandering hunters, local mercenaries, and destitute nobles - they are numerous, primarily mounted, and make up the backbone of the army.  
+ID009 Conscripts consist of peasant soldiers, ruffians, local mercenaries, and destitute nobles, armed with assorted tools and makeshift weapons - they are numerous, forming the majority of the army's backbone.  
+ID010 Conscripts consist of peasant soldiers, ruffians, local mercenaries, and destitute nobles, armed with assorted tools and makeshift weapons - they are numerous, forming the majority of the army's backbone.  
+ID011 Crusader  
+ID012 Crusader  
+ID013 Raider  
+ID014 Raider  
+ID015 Tribal Champion  
+ID016 Tribal Champion  
+ID017 Peasant Leader  
+ID018 Peasant Leader  
+ID019 Veteran Farmer  
+ID020 Men-at-arms faction's demands include more gold, broader realm, and superior status. Engage actively and maintain good relations with your knights.  
+ID021 The hope to seize more benefits  
+ID022 You are not knights  
+ID023 Your liege's organization is not Military Court!  
+ID024 Your liege's government is not Military District!  
+ID025 Men-at-arms Rebellion  
+ID026 Desire for Money: $VALUE|=+0$  
+ID027 Nomadic AI development direction: General (Cultural Exchange, Technological Innovation) (Add buff, steal innovation)  
+ID028 Nomadic AI development direction: General (Cultural Exchange, Technological Innovation).  
+ID029 Cultural exchange, technological innovation  
+ID030 Cultural exchange, technological innovation  
+ID031 Nomadic AI development direction: General (Trade and Commerce)  
+ID032 Nomadic AI development direction: General (Trade and Commerce).  
+ID033 Trade and Commerce  
+ID034 Trade and Commerce  
+ID035 Nomadic AI development direction: General (Conquest/Quick Land Grabbing)  
+ID036 Nomadic AI development direction: General (Conquest/Quick Land Grabbing).  
+ID037 Conquest/Quick Land Grabbing  
+ID038 Conquest/Quick Land Grabbing  
+ID039 Nomadic AI development direction: Imperial Conqueror (Add buff)  
+ID040 This type of regime is characterized by strong military power and leadership, often establishing vast empires through the conquest of surrounding areas. The Mongol Empire is a typical example of an imperial conqueror. Genghis Khan and his successors unified the Mongolian steppe and quickly conquered vast territories in Asia and Europe, creating a large empire.  
+ID041 War  
+ID042 War  
+ID043 Nomadic AI development direction: Imperial Conqueror (AI strategy)  
+ID044 This type of regime is characterized by strong military power and leadership, often establishing vast empires through the conquest of surrounding areas. The Mongol Empire is a typical example of an imperial conqueror. Genghis Khan and his successors unified the Mongolian steppe and quickly conquered vast territories in Asia and Europe, creating a large empire.  
+ID045 Strategy  
+ID046 Strategy  
+ID047 Nomadic AI development direction: Imperial Conqueror (AI response to factions)  
+ID048 This type of regime is characterized by strong military power and leadership, often establishing vast empires through the conquest of surrounding areas. The Mongol Empire is a typical example of an imperial conqueror. Genghis Khan and his successors unified the Mongolian steppe and quickly conquered vast territories in Asia and Europe, creating a large empire.  
+
+
+

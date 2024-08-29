@@ -1,0 +1,3 @@
+Diagnostic for chunk 17:
+There is a missing translation for ID049. The source text does not provide enough information for an accurate translation.
+

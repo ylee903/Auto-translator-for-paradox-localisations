@@ -1,0 +1,54 @@
+Chunk 1 received from API:
+ID000 Hundred Yue Ambitions  
+ID001 The Hundred Yue refers to the groups that dwell along the East Asian coastal areas, specifically near the great rivers; they were among the earliest settlers on the East Asian continent.  
+ID002 King of a Thousand Islands  
+ID003 The Austronesian tribes traverse countless islands, accompanied by tides and storms, ruling over the waters under the sun.  
+ID004 Bai Mountain and Black Water  
+ID005 The regions of the Greater Khingan Range, Changbai Mountain, Nen River, and Heilong River nurture numerous tribes, and under the protection of the Lady of Willows, they flourish and venture out of the forests in waves.  
+ID006 Lord of the Jungle  
+ID007 From Ailao Mountain to Wuyi Mountain, brave hunting tribes are scattered, and the tales of Chiyou contending for the Central Plains have become legend, yet they have never lost their glory.  
+ID008 Martial Prosperity  
+ID009 The Yamato people firmly believe that since the mythological era, they have been ordained by heaven; in the fleeting instant of falling blossoms, grief and joy come in cycles, playing the zither for a thousand days, uniting sword and heart.  
+ID010 High Mountains and Beautiful Waters  
+ID011 Unlike the categorization of the Malgal by the Central Plains historians, the various tribes of Goguryeo claim descent from Dangun, having been revitalized from the descendants of Buyeo.  
+ID012 Blue Wolf and White Deer  
+ID013 In Chikele River, beneath Yin Mountain. The sky resembles a felt tent, covering all directions. The heavens are azure and the wilderness is vast. The wind blows low over the grass, revealing cattle and sheep.  
+ID014 Clan Tradition  
+ID015 For large-scale, intensive labor, people gather in clans to reproduce, fostering life and valuing death, living under clan constraints; the ancestors hold supreme authority, practicing the system of primogeniture inheritance, preserving the integrity of the body, first honoring one's kin and then extending to others; those who violate clan laws may be despised by all.  
+ID016 Implement the primogeniture inheritance system for identifiable heirs  
+ID017 Journey of Cars and Books  
+ID018 Vehicles on the same tracks, written words in common language, actions aligned with ethics. The early-maturing centralized governance system can organize large-scale production, while the supreme imperial power owns and directs all.  
+ID019 Can recruit [GetMaA('mangudai').GetName][men_at_arms|E]  
+ID020 Can recruit [GetMaA('asia_tunguse_ss').GetName][men_at_arms|E]  
+ID021 Can recruit [GetMaA('samurai').GetName][men_at_arms|E]  
+ID022 Can recruit [GetMaA('java_warrior').GetName][men_at_arms|E]  
+ID023 Can recruit [GetMaA('china_east_ms').GetName][men_at_arms|E]  
+ID024 Can recruit [GetMaA('china_south_wd').GetName][men_at_arms|E]  
+ID025 Khitan Military System  
+ID026 Taizong selected 300,000 of the best armored men from the realm for the Pishi Army. Initially, Taizu used the mobile camp as the palace, selecting over a thousand strong men from various tribes to form the core… thus, the Pishi Army has existed since the time of Taizu, serving as the core forces, which Taizong later expanded to 300,000.  
+ID027 Ships and Battle Vessels  
+ID028 A thousand fathoms of iron chains sunk to the riverbed, a banner of surrender rises from the stones.  
+ID029 Canoe  
+ID030 If the way does not work, float on a raft in the sea.  
+ID031 Imperial Guards of the Two Capitals  
+ID032 Pausing the purification to attend to the Grand Minister, I carry only a poetry scroll to Gantang. \nThe official has ties in the court, and Sima is wild after wine. \nThe documents come only with a signature, and smoky winds turn interest into verses. \nThe main road of the two capitals is frequented by travelers, encountering poets in battle each time.  
+ID033 Wu Hook  
+ID034 The Han cauldron does not boil Cao Cao's flesh, the Wu hook futilely cuts off Wu Yuan's head.  
+ID035 Fine Steeds of Youzhou  
+ID036 Clever captains entice cavalry, swiftly following with silver falcon bows and swords.  
+ID037 Goryeo Hunters  
+ID038 In Goryeo's lands, mountains are broad and forests are rich; its people are adept at creating hunting tools, especially excel at crafting bows for military use, many are skilled bowmen.  
+ID039 Crossbow of Western Shu  
+ID040 Once heard heavenly soldiers entered Western Shu, drums and gongs clashed and split the rocky valleys.  
+ID041 Military System of the Central Plains  
+ID042 Drunkenly lying on the battlefield, do not laugh, how many have returned from ancient battles?  
+ID043 Rebellion  
+ID044 Frost spear and snow armor cold as water, how can the waiting soldiers know the beginning and the end?  
+ID045 Upstart  
+ID046 Using various means within the existing system to replace superiors.  
+ID047 Rise of the Samurai  
+ID048 The samurai appeared amidst the chaos of society and the decline of imperial power.  
+ID049 Ashigaru  
+
+
+

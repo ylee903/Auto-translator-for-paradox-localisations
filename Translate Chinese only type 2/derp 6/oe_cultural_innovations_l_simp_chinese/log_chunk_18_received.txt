@@ -1,0 +1,54 @@
+Chunk 18 received from API:
+ID000 Moscow Manor System  
+ID001 The development of feudal society in the Ros region is different from that in Western Europe. Our kingdom originates from core family alliances, as we come together to increase available labor and expand land production. But this does not mean that being granted land is some sort of bondage; on the contrary, we encourage taking risks.  
+ID002 Boyar  
+ID003 Grand Duke's Guards  
+ID004 Free Men Riders  
+ID005 Turkic Settlers  
+ID006 Long-standing conflicts have worn down the fighting spirit of both sides, leading some Turkic people to consider settling in this land.  
+ID007 Turkic Auxiliary  
+ID008 Descendants of Boyars  
+ID009 Destitute descendants of the Boyars, unable to maintain the ruling position like their ancestors, thus turning en masse to the military for opportunities.  
+ID010 Boyevich Warriors  
+ID011 Adventurous Heroes  
+ID012 Cossack Cavalry  
+ID013 Cossack cavalry are known for their bright attire and notorious reputation. They gather into semi-autonomous groups, living a nomadic life. If they can be incorporated into the army, they will make a good fighting force.  
+ID014 Cossack Cavalry  
+ID015 Siberian Tribal Raiders  
+ID016 Armed Mobilization  
+ID017 A multitude of military nobles underpins the war machine of the entire nation, but what is the cost...  
+ID018 Szlachta  
+ID019 Polish Light Crossbowmen  
+ID020 Winged Hussars  
+ID021 Loyal and powerful elite cavalry, renowned for their high mobility and destructiveness.  
+ID022 Winged Hussars  
+ID023 Lettis  
+ID024 Samogitian Javelin Technique  
+ID025 One of the most effective war tools in the forests of the Baltic, the galloping Samogitian horse grants immense power to the javelin throw.  
+ID026 Samogitian Javelin Riders  
+ID027 Lithuanian Mounted Archers  
+ID028 Characters with the same [culture|E][heritage|E] as your [vassals|E] are more likely to join [independence_factions|E] and [claimant_factions|E]; this is not a bad thing, at least not when you are still relatively weak.  
+ID029 The people of this [culture|E] only submit to the rule of Noah’s descendants, and they are more able to join factions resisting foreign [culture|E] rulers.  
+ID030 Characters of the same [culture|E] possessing this [innovations|E] can recruit powerful unique [men_at_arms|E] by allying with specific [culture|E] characters.  
+ID031 Great Jin  
+ID032 Great Jin  
+ID033 Wanyan  
+ID034 Great Jin  
+ID035 Yearly Currency  
+ID036 The incompetence of the upper class is paid for by the lower class.  
+ID037 Sixteen Prefectures of Yan Yun  
+ID038 Lithuania  
+ID039 Poland  
+ID040 You can claim multiple [claims|E] for yourself in a single war.  
+ID041 Middle East, Persia  
+ID042 Singhalese  
+ID043 Horse Lancer  
+ID044 Regions where armor is widely used militarily  
+ID045 Migration Invasion  
+ID046 Migration Invasion  
+ID047 The Great Migration  
+ID048 You have abandoned your previous land, migrating your people and herds here; a new rule has begun.  
+ID049 After the Great Migration  
+
+
+

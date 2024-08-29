@@ -1,0 +1,66 @@
+Chunk 20 received from API:
+ID000 Twenty percent  
+ID001 The player receives [GetModifier('xinzeng_zhujun_xiuzheng_003_modifier').GetNameWithTooltip] modifier, which slightly adjusts the number of soldiers stationed, and it is almost certain that your general will soon experience the thrill of slaughtering the AI.  
+ID002 None  
+ID003 Berserk Sage AI!!!  
+ID004 Equipment system: #P #EMP On#!#!  
+ID005 Equipment system: #N #EMP Off#!#!  
+ID006 Extra military expenditure system switch (increases game difficulty)  
+ID007 Extra military expenditure system: #P #EMP On#!#!  
+ID008 Extra military expenditure system: #N #EMP Off#!#!  
+ID009 Choose #P #EMP Armor#!#! for this [regiment|E]'s [men_at_arms|E]!  
+ID010 Choose #P #EMP Main Weapon#!#! for this [regiment|E]'s [men_at_arms|E]!  
+ID011 Choose #P #EMP Secondary Weapon#!#! for this [regiment|E]'s [men_at_arms|E]!  
+ID012 Choose #P #EMP Shield#!#! for this [regiment|E]'s [men_at_arms|E]!  
+ID013 Choose #P #EMP Mount#!#! or #P #EMP Related#!#! for this [regiment|E]'s [men_at_arms|E]!  
+ID014 Choose #P #EMP Garrison Strategy#!#! for this [regiment|E]'s [men_at_arms|E]!  
+ID015 Click to equip #P #EMP Armor#!#! for this [regiment|E]'s [men_at_arms|E]!  
+[regiment|E] takes time to adapt to new armor, and other options are not available until the previous adjustment is completed.  
+All options are #N #EMP unavailable#!#! when the [tax|E] of [regiment|E][stationed_holding|E] is less than or equal to zero#!#!  
+ID016 Click to equip #P #EMP Main Weapon#!#! for this [regiment|E]'s [men_at_arms|E]!  
+[regiment|E] takes time to adapt to new weapons, and other options are not available until the previous adjustment is completed.  
+All options are #N #EMP unavailable#!#! when the [tax|E] of [regiment|E][stationed_holding|E] is less than or equal to zero#!#!  
+ID017 Click to equip #P #EMP Secondary Weapon#!#! for this [regiment|E]'s [men_at_arms|E]!  
+[regiment|E] takes time to adapt to new weapons, and other options are not available until the previous adjustment is completed.  
+All options are #N #EMP unavailable#!#! when the [tax|E] of [regiment|E][stationed_holding|E] is less than or equal to zero#!#!  
+ID018 Click to equip #P #EMP Shield#!#! for this [regiment|E]'s [men_at_arms|E]!  
+[regiment|E] takes time to adapt to new armor, and other options are not available until the previous adjustment is completed.  
+All options are #N #EMP unavailable#!#! when the [tax|E] of [regiment|E][stationed_holding|E] is less than or equal to zero#!#!  
+ID019 Click to choose #P #EMP Mount#!#! or #P #EMP Related#!#! for this [regiment|E]'s [men_at_arms|E]!  
+[regiment|E] takes time to adapt to new mounts and related items, and other options are not available until the previous adjustment is completed.  
+All options are #N #EMP unavailable#!#! when the [tax|E] of [regiment|E][stationed_holding|E] is less than or equal to zero#!#!  
+ID020 Click to choose #P #EMP Garrison Strategy#!#! for this [regiment|E]'s [men_at_arms|E]!  
+[regiment|E] takes time to adapt to new garrison strategies, and other options are not available until the previous adjustment is completed.  
+All options are #N #EMP unavailable#!#! when the [tax|E] of [regiment|E][stationed_holding|E] is less than or equal to zero#!#!  
+ID021 Forced Change  
+ID022 Chain Mail  
+ID023 Plate Armor  
+ID024 Brigandine  
+ID025 Heavy Brigandine  
+ID026 Leather Armor  
+ID027 Bamboo Armor  
+ID028 Rattan Armor  
+ID029 Forced Change  
+ID030 Pike  
+ID031 War Sword  
+ID032 Dane Axe  
+ID033 Heavy War Axe  
+ID034 War Staff  
+ID035 Falchion  
+ID036 Sabre  
+ID037 Longsword  
+ID038 Heavy Flail  
+ID039 Spear  
+ID040 Javelin  
+ID041 Iron Chain Club  
+ID042 Hand Staff  
+ID043 Guercai  
+ID044 Lance  
+ID045 Horse Spear  
+ID046 Bow  
+ID047 Long Bow  
+ID048 Crossbow  
+ID049 Repeating Crossbow  
+
+
+

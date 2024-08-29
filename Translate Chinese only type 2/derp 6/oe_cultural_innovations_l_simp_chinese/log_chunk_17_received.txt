@@ -1,0 +1,53 @@
+Chunk 17 received from API:
+ID000 Latin Cavalry  
+ID001 These non-Orthodox cavalry warriors have adapted over time to fighting against large groups of Turkic cavalry; they are fearless raiders of the plains.  
+ID002 Elite Cavalry  
+ID003 After long training, our cavalry are all versatile soldiers on the battlefield.  
+ID004 Horse Archers  
+ID005 Proficient in the use of all horse-mounted weapons, breaking formations in an instant.  
+ID006 Sarmatian Heavy Cavalry  
+ID007 A Sarmatian tradition, since the reign of Emperor Xiaowen of Northern Wei, all rulers have carefully formed heavy cavalry units to intimidate local ruffians.  
+ID008 Sarmatian Armored Cavalry  
+ID009 Sarmatian warriors in full armor, the skill of killing is deeply ingrained in their bones.  
+ID010 Shieldmaiden  
+ID011 These women defy the norms of their society, forming shield walls and participating in battles just like other warriors.  
+ID012 Baltic Warriors  
+ID013 Generations of living in forest swamps have fostered a fierce spirit among the Baltic people, who roam in groups, continuously plundering the area.  
+ID014 Baltic Warriors  
+ID015 Fierce warriors active in the forests and swamps of the Baltic Sea, launching raids from the cover of trees and snow.  
+ID016 Frankish Feudalism  
+ID017 Charlemagne and his ancestors have created an advantageous feudal society system for us; our kingdom is stable and strong, and this advantage will continue long into the future.  
+ID018 Skirmish Cavalry  
+ID019 They are the elite cavalry unit of the Carolingian dynasty, often tasked with high-mobility operations.  
+ID020 Carolingian Iron Guard  
+ID021 They are trusted aides sent by nobility to various territories, responsible for local security in peacetime and acting as elite infantry during wartime.  
+ID022 Flower of Knighthood  
+ID023 Every knight is a source of pride for the French people.  
+ID024 The characters of this culture build *Level V Legion Training Grounds* faster and stronger, and will gain a small amount of [prestige_i][prestige|E] upon completion.  
+ID025 Chevalier  
+ID026 The proud French people have proud French knights.  
+ID027 Sword and Shield Warriors  
+ID028 Fully armed infantry clusters, their sturdy shields protect them from the threat of flying arrows.  
+ID029 Hook Axe  
+ID030 This new long pole weapon we've developed can effectively counter unarmored units and cavalry.  
+ID031 Hook Axe Infantry  
+ID032 Our infantry is equipped with new hook axes, which can effectively counter unarmored units and cavalry.  
+ID033 Crossbow Cavalry  
+ID034 Crossbow Cavalry  
+ID035 Our societal structure dictates that we cannot have a large number of high-quality archers, but crossbow cavalry might be a good choice.  
+ID036 Ballad of Arms  
+ID037 Our knights possess an unbeatable steadfast faith, and our people will long sing their great deeds.  
+ID038 Heavy Lance Cavalry  
+ID039 The charge of heavy lance cavalry is unstoppable; even the most solid battle formations will be reduced to ashes in an instant.  
+ID040 Foot Knights  
+ID041 On battlefields where cavalry cannot be deployed, our fearless knights continue to fight hard.  
+ID042 Light Lance Cavalry  
+ID043 Light lance cavalry from Burgundy, combining explosiveness and mobility, are excellent for flanking raids.  
+ID044 French Archers  
+ID045 Each parish should select an archer from among those skilled with weapons, who will be exempt from taxes, practice archery on Sundays and holidays, and prepare for battle when needed.  
+ID046 French Archers  
+ID047 Archers used for defending the borders; they are tax-exempt, but must go to battle.  
+ID048 Folk Assembly  
+ID049 [MISSING]  
+
+

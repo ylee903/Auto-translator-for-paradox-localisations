@@ -1,0 +1,54 @@
+Chunk 21 received from API:
+ID000 Divine Arm Bow  
+ID001 Harmonious Bow  
+ID002 Cavalry Crossbow  
+ID003 Long Spear  
+ID004 Horn Bow  
+ID005 Goryeo Bow  
+ID006 Katana  
+ID007 Naginata  
+ID008 Greatsword  
+ID009 Broadsword  
+ID010 Sling  
+ID011 Forced Outfit Change  
+ID012 Horn Bow  
+ID013 Mace  
+ID014 Short Sword  
+ID015 Bone Bud  
+ID016 Sickle  
+ID017 Javelin  
+ID018 Dagger  
+ID019 Hand Crossbow  
+ID020 Shovel  
+ID021 Hand Axe  
+ID022 Stone  
+ID023 Saber  
+ID024 Short Spear  
+ID025 Forced Outfit Change  
+ID026 Small Round Shield  
+ID027 Tower Shield  
+ID028 Tower Shield  
+ID029 Round Shield  
+ID030 Viking Round Shield  
+ID031 Kite Shield  
+ID032 Circled Shield  
+ID033 Fan Shield  
+ID034 Oval Shield  
+ID035 Sideboard  
+ID036 Sideboard  
+ID037 Selected  
+ID038 Charge  
+ID039 Load  
+ID040 Hunt  
+ID041 Cover  
+ID042 Breeding Warhorses  
+ID043 Whirlwind Cannon  
+ID044 Armored War Elephant  
+ID045 Arrow Tower  
+ID046 Training Intensity: I  
+ID047 Training Intensity: II  
+ID048 Training Intensity: III  
+ID049 Martial Law  
+
+
+

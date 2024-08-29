@@ -1,0 +1,61 @@
+Chunk 9 received from API:
+ID000 Raise a Rebellion (ai)  
+ID001 Raise a Rebellion  
+ID002 The uprising will likely succeed  
+ID003 Mobilize monks and soldiers  
+ID004 The monk regiment is armed  
+ID005 Form the Yulin Army  
+ID006 The mandate of heaven is here!  
+ID007 The world shall bow down  
+ID008 In prosperous times, strong armies must be used; form the Yulin Army!  
+ID009 Form the Yulin Army  
+ID010 During the prosperous era of the Tang Dynasty, the ancient and splendid Chinese civilization spread across the seas along the Silk Road from Chang'an to the Mediterranean coast. Kings, envoys, merchants, monks, students, craftsmen, doctors, and courtesans from nations around the world flocked to the Tang Empire. They entered the territory of the Tang Empire and marveled at the bustling cities where traffic flowed like water.  
+Today!  
+Recreate the glorious Tang!  
+ID011 My fame will spread across the seas.  
+ID012 Form the Longwu Army  
+ID013 The mandate of heaven is here!  
+ID014 The world shall bow down  
+ID015 In prosperous times, strong armies must be used; form the Longwu Army!  
+ID016 Form the Longwu Army  
+ID017 During the prosperous era of the Tang Dynasty, the ancient and splendid Chinese civilization spread across the seas along the Silk Road from Chang'an to the Mediterranean coast. Kings, envoys, merchants, monks, students, craftsmen, doctors, and courtesans from nations around the world flocked to the Tang Empire. They entered the territory of the Tang Empire and marveled at the bustling cities where traffic flowed like water.  
+Today!  
+Recreate the glorious Tang!  
+ID018 My fame will spread across the seas.  
+ID019 Longwu Army  
+ID020 Revitalize Horse Policy (ai)  
+ID021 Revitalize Horse Policy  
+ID022 Implement horse protection laws, benefiting future generations!  
+ID023 Implement horse protection laws...  
+ID024 Enact horse protection laws, benefiting future generations!  
+ID025 Enact horse protection laws!  
+ID026 It is stipulated that the counties of Hebei, Hedong, Shaanxi, Jingdong, the five routes of the west, and Kaifeng Prefecture shall maintain horse herding under the protection of households, one horse for each household; those with higher resources and willing households may keep two horses, provided with government horses or funds to buy their own. Households raising horses can be exempted from certain taxes. Ten households of third class or above form a protection unit; ten households of fourth class or below form a community. If a horse from the protection unit dies due to illness, the household raising it is solely responsible for compensation; if a horse from the community dies due to illness, the household raising it will share half the compensation with the other nine households.  
+  
+Let my decree be known: Enact horse protection laws!  
+ID027 Good!  
+ID028 You have unlocked [GetMaA('majun').GetName][men_at_arms|E].  
+You have unlocked [GetMaA('jingsaitieqi').GetName][men_at_arms|E].  
+ID029 Regional Testing (ai)  
+ID030 Recruit Slave Troops (ai)  
+ID031 Recruit Slave Troops (ai)  
+ID032 Reinforce Slave Troops (ai)  
+ID033 Slave Troops  
+ID034 Benevolent Ones Love People (ai)  
+ID035 Benevolent Ones Love People (ai)  
+ID036 Mongolian Legion  
+ID037 Genghis Khan's Fire Mars Troops (ai)  
+ID038 Genghis Khan's Fire Mars Troops (ai)  
+ID039 Unify the Jurchen Tribes (ai)  
+ID040 Form the Iron Hawk (ai)  
+ID041 Form the Iron Hawk (ai)  
+ID042 Form the Imperial Army (ai)  
+ID043 Form the Imperial Army (ai)  
+ID044 Expand Crossbowmen (ai)  
+ID045 Expand Sword Fighters (ai)  
+ID046 Expand Spearmen (ai)  
+ID047 Train Iron Pagoda (ai)  
+ID048 Train Iron Pagoda (ai)  
+ID049 Expand Cavalry (ai)  
+
+
+

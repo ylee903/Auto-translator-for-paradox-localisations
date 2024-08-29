@@ -1,0 +1,49 @@
+Chunk 23 received from API:
+ID000 Respond to Factions  
+ID001 Respond to Factions  
+ID002 Nomadic AI Development Direction: Imperial Conqueror (AI Persecuting Vassals)  
+ID003 This type of regime is characterized by powerful military strength and leadership, often establishing vast empires through the conquest of surrounding regions.\nThe Mongol Empire is a typical imperial conqueror. Genghis Khan and his successors unified the Mongolian steppes and quickly conquered large territories in Asia and Europe, establishing a massive empire.  
+ID004 Persecute Vassals  
+ID005 Persecute Vassals  
+ID006 Nomadic AI Development Direction: Imperial Conqueror (Conquest/Rapid Expansion)  
+ID007 Nomadic AI Development Direction: Imperial Conqueror (Conquest/Rapid Expansion).  
+ID008 Conquest/Rapid Expansion  
+ID009 Conquest/Rapid Expansion  
+ID010 Nomadic AI Development Direction: Cultural Preserver (Buff Added)  
+ID011 This type of regime usually retains and passes on existing cultures, languages, and religions during the conquest process, promoting cultural integration.\nThe Turkic Khanate is a cultural preserver. During its conquests in Central Asia, the Turkic Khanate retained its original Turkic culture and language while promoting Turkic culture in the regions it ruled.  
+ID012 Legacy  
+ID013 Legacy  
+ID014 Nomadic AI Development Direction: Diplomacy and Allies (Buff Added)  
+ID015 This type of regime may be more inclined to establish alliances with surrounding powers through diplomatic means to protect its interests and stability.\nThe Khwarezmian Empire adopted a flexible diplomatic policy in Central Asia, establishing alliances with Islamic nations to maintain its own position.  
+ID016 Diplomacy  
+ID017 Diplomacy  
+ID018 Nomadic AI Development Direction: Diplomacy and Allies (AI Diplomatic Strategy)  
+ID019 This type of regime may be more inclined to establish alliances with surrounding powers through diplomatic means to protect its interests and stability.\nThe Khwarezmian Empire adopted a flexible diplomatic policy in Central Asia, establishing alliances with Islamic nations to maintain its own position.  
+ID020 Diplomacy  
+ID021 Diplomacy  
+ID022 Exhausted March  
+ID023 Soaked through with rainwater and mud, the heavy armor burdens the warriors. Long marches have made their eyes red and their legs tremble. The faces of the soldiers are filled with fatigue and anxiety, their gazes dull, no longer reflecting the sharpness of the past. Weapons also feel heavy and unwieldy, their blades caked with dirt and grime. Every step feels like carrying a thousand-pound burden; the warhorses gasp for breath, their wheezing accompanying the marching troops.#!  
+ID024 Hurry up, you lazy pigs!  
+ID025 Move it! You lazy pigs! Those who fall behind won’t have dinner tonight!  
+ID026 Your excellent military prowess tells you how to effectively mobilize the entire army.  
+ID027 The soldiers loudly complain about the hardship of the march, ignoring your urgings.  
+ID028 Alright, regroup in place.  
+ID029 Enemy Attack  
+ID030 As dusk settles, dark clouds loom, and visibility becomes increasingly blurry, the sound of soldiers' armor rattles in the air.\n\nSuddenly, a loud shout pierces the silence, and several shadows rush out quickly, knives and spears gleaming with cold light.\n\n\n“Enemy attack!”#!  
+ID031 Maintain formation!  
+ID032 Think of a way to capture the approaching scouts and delay the enemy's next move.  
+ID033 You remain surprisingly calm, seizing the opportunity to capture the enemy's scout in one swift move.  
+ID034 You are at a loss, and the enemy escapes in a single blow, leaving danger on the path ahead.  
+ID035 Exit the City to Meet the Enemy  
+ID036 The distant fortress comes into view.\nThe high walls and the bright banners on them tell of the dangers ahead.\n\nSuddenly, the fortress gate slowly opens, and a troop spills out, forming a tight military formation like a wall of iron, quietly waiting for our army's arrival.\n\n  
+ID037 Charge!  
+ID038 Trust my soldiers, cut through them!  
+ID039 Defenders  
+ID040 Cavalry Archers  
+ID041 Ambush  
+ID042 Diplomatic Maneuver: Truce Agreement  
+ID043 Negotiate a preventive [truce|E] with [recipient.GetTitledFirstName] using diplomatic means.  
+ID044 Diplomatic Maneuver: $VALUE|=+0$  
+
+
+

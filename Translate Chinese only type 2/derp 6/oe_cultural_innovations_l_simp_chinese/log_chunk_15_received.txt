@@ -1,0 +1,54 @@
+Chunk 15 received from API:
+ID000 Swiss Mercenaries  
+ID001 Veterans with nowhere to go team up with impoverished young men; the old Swiss mountaineer's tradition tells them where the battlefield lies.  
+ID002 Swiss Mercenaries  
+ID003 Fighting alongside fellow villagers and blood relatives, they form a line with axes and spears, fearless infantry pushing forward.  
+ID004 Communal Militia  
+ID005 Lightly armed militia determined to defend their towns.  
+ID006 Communal Cavalry  
+ID007 Light cavalry well adapted to the terrain of northern Italy's mountainous regions.  
+ID008 Holy Chariot  
+ID009 Our banner raised high, the music played on the Holy Chariot is a sacred talisman, for the honor of the city-state! Fight to the last drop of blood!  
+ID010 Holy Chariot  
+ID011 The ox-drawn Holy Chariot processes across the battlefield, as warriors slay enemies and burst forth in glory.\nThe Holy Chariot must not fall; the warriors bravely do not fear death.  
+ID012 Holy Chariot  
+ID013 The ox-drawn Holy Chariot processes across the battlefield, as warriors slay enemies and burst forth in glory.\nThe Holy Chariot must not fall; the warriors bravely do not fear death.  
+ID014 Pavise Shield  
+ID015 A reliable large wooden shield that provides temporary cover for our crossbowmen and can also be used as a mobile fortification to assist in sieges.  
+ID016 Giant Shield Crossbowmen  
+ID017 Crossbowmen equipped with Pavise shields, capable of precise strikes under the protection of their shields.  
+ID018 Genoese Crossbowmen  
+ID019 Renowned elite shooters from Genoa, their powerful crossbows instill fear in the enemy.  
+ID020 Bellovieri  
+ID021 The elite of the Italian legions, light cavalry clad in armor.  
+ID022 Teutonic Depth Defense  
+ID023 Various fortifications spread across the Germanic lands, alongside Bergman infantry responsible for defending towns, will greatly slow the enemy's siege progress.  
+ID024 Bergman Heavy Infantry  
+ID025 Elite infantry responsible for defending castles and guarding against external threats.  
+ID026 Large-Scale Enfeoffment  
+ID027 Wealthy and leisurely citizens and guild elites aspire to ascend to the upper class; a small title of knight is enough to satisfy them.  
+ID028 Guild Knights  
+ID029 Knights given the title at their own expense, citizen horsemen who are numerous but of poor quality.  
+ID030 Robber Knights  
+ID031 Horse-riding bandits who plunder using the advantage of fortifications; some among them may indeed bear knightly titles, but their actions are far removed from those of true noble knights.  
+ID032 Retainer Knights  
+ID033 German warriors of certain social standing, well-equipped and making up the backbone of imperial cavalry.  
+ID034 Imperial Knights  
+ID035 Loyalty to His Majesty the Emperor surpasses all; within a vast network formed by major knightly families, each powerful knight shines.  
+ID036 Imperial Knights  
+ID037 Armored in high-quality Gothic plate, skilled in combat, imperial knights are formidable.  
+ID038 Gothic Plate Armor  
+ID039 Plate armor tailored to fit the human body, ensuring flexibility while optimizing overall design, lighter in weight and stronger in defense.  
+ID040 Walking Imperial Knights  
+ID041 Sturdy knights clad in full plate armor, fighting on foot according to German traditions.  
+ID042 Milanese Plate Armor  
+ID043 The surge of weapon orders has led to this unique style of plate armor; the rounded lines of Milanese plate are renowned worldwide for effectively reducing arrow damage.  
+ID044 Hydropowered Hammer  
+ID045 A massive machine powered by water that crushes ores or forges metal pieces, significantly saving the manufacturing costs of heavy armor.  
+ID046 Byzantine Military System  
+ID047 The Byzantine army evolved from the late Roman Empire's army, becoming more complex and diverse in strategy, tactics, and organization.  
+ID048 Training Ghulams  
+ID049 The invasions by foreign enemies compel us to expedite reforms in the military sector. We have noticed that well-trained slave soldiers possess strong combat power; if we can further enhance their organization and discipline, a formidable army will soon take shape.  
+
+
+

@@ -1,0 +1,52 @@
+Chunk 20 sent to API:
+ID000 百分之二十
+ID001 玩家获得[GetModifier('xinzeng_zhujun_xiuzheng_003_modifier').GetNameWithTooltip]修正，小幅度修正兵士驻扎数值，几乎可以肯定的是，你的将很快体验到爆杀ai的爽感。
+ID002 无
+ID003 狂暴鸿儒ai ！！！
+ID004 装备系统：#P #EMP 开#!#!
+ID005 装备系统：#N #EMP 关#!#!
+ID006 额外军费系统开关（增加游戏强度）
+ID007 额外军费系统：#P #EMP 开#!#!
+ID008 额外军费系统：#N #EMP 关#!#!
+ID009 为此[regiment|E]的[men_at_arms|E]选择#P #EMP 甲胄#!#!
+ID010 为此[regiment|E]的[men_at_arms|E]选择#P #EMP 主武器#!#!
+ID011 为此[regiment|E]的[men_at_arms|E]选择#P #EMP 副武器#!#!
+ID012 为此[regiment|E]的[men_at_arms|E]选择#P #EMP 盾牌#!#!
+ID013 为此[regiment|E]的[men_at_arms|E]选择#P #EMP 坐骑#!#!或#P #EMP 相关#!
+ID014 为此[regiment|E]的[men_at_arms|E]选择#P #EMP 驻军策略#!#!
+ID015 点击为此[regiment|E]的[men_at_arms|E]装配#P #EMP 甲胄#!#!\n[regiment|E]适应新防具需要一定时间，在上一个修正结束前其他选项不可用\n[regiment|E][stationed_holding|E]的[tax|E]#N #EMP 小于等于零#!#!时所有选项#N #EMP 不可用#!#!
+ID016 点击为此[regiment|E]的[men_at_arms|E]装配#P #EMP 主武器#!#!\n[regiment|E]适应新武器需要一定时间，在上一个修正结束前其他选项不可用\n[regiment|E][stationed_holding|E]的[tax|E]#N #EMP 小于等于零#!#!时所有选项#N #EMP 不可用#!#!
+ID017 点击为此[regiment|E]的[men_at_arms|E]装配#P #EMP 副武器#!#!\n[regiment|E]适应新武器需要一定时间，在上一个修正结束前其他选项不可用\n[regiment|E][stationed_holding|E]的[tax|E]#N #EMP 小于等于零#!#!时所有选项#N #EMP 不可用#!#!
+ID018 点击为此[regiment|E]的[men_at_arms|E]装配#P #EMP 盾牌#!#!\n[regiment|E]适应新防具需要一定时间，在上一个修正结束前其他选项不可用\n[regiment|E][stationed_holding|E]的[tax|E]#N #EMP 小于等于零#!#!时所有选项#N #EMP 不可用#!#!
+ID019 点击为此[regiment|E]的[men_at_arms|E]选择#P #EMP 坐骑#!#!或#P #EMP 相关#!#!\n[regiment|E]适应新坐骑和相关物品需要一定时间，在上一个修正结束前其他选项不可用\n[regiment|E][stationed_holding|E]的[tax|E]#N #EMP 小于等于零#!#!时所有选项#N #EMP 不可用#!#!
+ID020 点击为此[regiment|E]的[men_at_arms|E]选择#P #EMP 驻军策略#!#!\n[regiment|E]适应新驻军策略需要一定时间，在上一个修正结束前其他选项不可用\n[regiment|E][stationed_holding|E]的[tax|E]#N #EMP 小于等于零#!#!时所有选项#N #EMP 不可用#!#!
+ID021 强制换装
+ID022 锁甲
+ID023 板甲
+ID024 札甲
+ID025 重型札甲
+ID026 皮甲
+ID027 竹甲
+ID028 藤甲
+ID029 强制换装
+ID030 长枪
+ID031 战刀
+ID032 丹麦斧
+ID033 重战斧
+ID034 战棍
+ID035 陌刀
+ID036 马刀
+ID037 长剑
+ID038 重型狼牙棒
+ID039 短矛
+ID040 标枪
+ID041 铁链夹棒
+ID042 手梢子棍
+ID043 果尔考儿
+ID044 骑枪
+ID045 马槊
+ID046 弓
+ID047 长弓
+ID048 弩
+ID049 连弩
+

@@ -1,0 +1,54 @@
+Chunk 16 received from API:
+ID000 Bedouin Tribal Riders  
+ID001 The Bedouin tradition of riding has given birth to these tribal riders who traverse the vast deserts; they are born desert warriors.  
+ID002 Bedouin Cavalry  
+ID003 The Bedouin take pride in riding fast horses, their tribal warriors thunder through the desert like a raging wind, destroying enemy lines.  
+ID004 Bedouin Light Cavalry Retainers  
+ID005 By granting privileges to the members of the Eastern Bedouin tribes, we transformed them into efficient and loyal bodyguards, bringing peace to Egypt and Syria while strengthening control over this strategic region.  
+ID006 Bedouin Light Cavalry Retainers  
+ID007 These Bedouins are efficient and loyal bodyguards, who rush through enemy lines like a raging wind in the desert.  
+ID008 Sword of Islam  
+ID009 As seen by the crescent moon!  
+ID010 Mountain Warriors  
+ID011 The mountainous regions of Iran are incredibly treacherous; only locals can survive here for long.  
+ID012 Daramid Mountain Warriors  
+ID013 Powerful warriors from the Iranian mountains, unparalleled combatants.  
+ID014 Daramid Elite Warriors  
+ID015 Whether seeking wealth or escaping turmoil, some Daramid people migrated here, and through their inherent fighting spirit, their status in the army continued to rise.  
+ID016 Daramid Elite Warriors  
+ID017 Whether seeking wealth or escaping turmoil, some Daramid people migrated here, and through their inherent fighting spirit, their status in the army continued to rise.  
+ID018 Hinge Ship's Rudder  
+ID019 With the advanced nautical technology introduced from the distant East, our elite warriors can rapidly reach the battlefield by sea transport.  
+ID020 Persian Heavy Cavalry  
+ID021 Our long-standing heavy cavalry combat methods are forever timeless.  
+ID022 Persian Knights  
+ID023 These powerful riders have roamed Central Asia for millennia!  
+ID024 Savaran  
+ID025 The heavily armored cavalry of ancient Persia, known for their valor on the front lines of battle.  
+ID026 Zayidan Immortals  
+ID027 The ancient and powerful Immortals Legion, the glorious Ahuira defenders.  
+ID028 Zayidan Immortals  
+ID029 The ancient and powerful Immortals Legion, the glorious Ahuira defenders.  
+ID030 Noah's Ark  
+ID031 We firmly believe that we are the sole survivors of the prehistoric flood; we, the sons of Noah, shall never submit to any other civilization.  
+ID032 Highland Eagles  
+ID033 The people of [culture|E] are as calm and focused as eagles in the Armenian highlands; their exceptionally powerful [martial|E] talents often make them favored by rulers, but their innate nature, difficult to tame like eagles, causes their nation to be fraught with misfortune.  
+ID034 Azatavrel  
+ID035 Since ancient times, Armenia has had elite warriors known as Azatavrel cavalry, a fearsome heavy cavalry force that freely roams their highland homeland.  
+ID036 Azatavrel  
+ID037 Since ancient times, Armenia has had elite warriors known as Azatavrel cavalry, a fearsome heavy cavalry force that freely roams their highland homeland.  
+ID038 Armenian Foot Archers  
+ID039 The swift archers lurking in the Armenian highlands rain down terrifying arrows upon their enemies from above.  
+ID040 Armenian Foot Archers  
+ID041 A significant number of Armenians migrated from the highlands, allowing us to take the opportunity to integrate these powerful archers into our army.  
+ID042 Hooked Sickle  
+ID043 This ancient tool has flourished on the battlefield; we equipped it with a long handle to counter large groups of cavalry.  
+ID044 Heavy Hooked Sickle Men  
+ID045 These sickle men stand at the front lines in heavy armor, their long and powerful sickles are their capital to look down upon all cavalry.  
+ID046 Mercenary League  
+ID047 As a long-established millennium empire, the Byzantines are accustomed to using mercenaries; the diverse mercenaries have left a significant mark on Byzantine military history.  
+ID048 Byzantine Archer-Cavalry Mercenaries  
+ID049 The empire's powerful armor technology has armed these mercenaries who have traveled from the steppes; while sacrificing some pursuit capability, their defense has greatly improved.  
+
+
+

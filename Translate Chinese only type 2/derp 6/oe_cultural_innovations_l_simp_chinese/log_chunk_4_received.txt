@@ -1,0 +1,54 @@
+Chunk 4 received from API:
+ID000 Mò dāo duì  
+ID001 Mò dāo duì.  
+ID002 Xiāngyǒng  
+ID003 Temporarily recruited local militia, marching and defending alongside the army, each forming their own camp.  
+ID004 Miáo rén wǔshì  
+ID005 The Miao people are all warriors; when emergencies arise, Miao warriors spontaneously carry weapons and supplies under the lead of their "tiger chief" (warrior leader) to the battlefield.  
+ID006 Shuǐ bù shī  
+ID007 Composed of southern infantry skilled in water combat, responsible for both river and land operations, safeguarding transportation along rivers. If necessary, they infiltrate deep through the river network to deliver unexpected strikes against the enemy.  
+ID008 Xiàng jiǎ shì  
+ID009 Elite warriors clad in heavy elephant hide armor, unafraid of the enemy's rain of arrows.  
+ID010 Wū lǔ mì ruǎn jiàn  
+ID011 One of the traditional martial arts of southern India, known for its swift speed and superb technique.  
+ID012 Wū lǔ mì jiàn shì  
+ID013 Darvish warriors adept at using the soft sword, charging into enemy formations at high speed and inflicting massive damage to enemies within reach.  
+ID014 Luó zhā pǔ tè zhàn shì  
+ID015 Charioteering Kshatriya warriors, the curved swords of the Rajput people strike accurately upon the enemies' heads.  
+ID016 Nà yǎ ěr bù jīng  
+ID017 Darvish warriors from southern India who have long practiced Kalaripayattu martial arts, equipped with long spears and cooperating seamlessly.  
+ID018 Sēng jiā luò jìn wèi jūn  
+ID019 The loyal and fearless Sinhalese Guard, striving to protect their lord thoroughly.  
+ID020 Cónglín zhī zhǎo  
+ID021 We crafted this powerful weapon—the claw blade—by mimicking the claws of the king of the jungle, the tiger.  
+ID022 Zhǎo zh blade warrior  
+ID023 Shadows lurking in the dense jungles of the southern islands, using quick claw blades to slash enemies' throats.  
+ID024 Cǎoyuán yóuqí  
+ID025 Steppe cavalry  
+ID026 Huí hú qīng qí  
+ID027 Zàn pú wèi shù bù  
+ID028 Gui  
+ID029 Zàn pú wèi shù bù  
+ID030 Gui  
+ID031 Wǔ rú guì qí bīng  
+ID032 Gui  
+ID033 Yōng dōng dài hù chí  
+ID034 Yōng  
+ID035 Can recruit [GetMaA('wushi').GetName] as [men_at_arms|E]  
+ID036 Can recruit [GetMaA('zuqing').GetName] as [men_at_arms|E]  
+ID037 Hàn yǒng wú shuāng  
+ID038 Only the strong deserve to survive.  
+ID039 Zhàn zhōng yì shù  
+ID040 War is an art; the victor takes all while the loser loses everything.  
+ID041 Ān xián zì dé  
+ID042 Life is important, but happiness is even more important.  
+ID043 Should have [culture|E]'s $ethos_courtly_name$ [ethos|E]  
+ID044 Jì shì shōu róng  
+ID045 Proud knights are often poor stewards of their own lands, and in their decline, they choose to become entirely dependent on other wealthy rulers.  
+ID046 Luò pò qí shì  
+ID047 A feudal knight who has fallen so low as to possess nothing but martial prowess, leading a small retinue of attendants under the protection of wealthy rulers, hoping for the day they can rise again.  
+ID048 Can recruit [GetMaA('luopoqishi').GetName] as [men_at_arms|E]  
+ID049 Should have [culture|E] without $ethos_spiritual_name$ [ethos|E]  
+
+
+

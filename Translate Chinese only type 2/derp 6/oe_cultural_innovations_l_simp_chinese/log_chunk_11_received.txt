@@ -1,0 +1,54 @@
+Chunk 11 received from API:
+ID000 Damn it, they seized the gold, what about mine!  
+ID001 Must be severely punished!  
+ID002 Steppe Mobilization (ai)  
+ID003 Fire and Blade!!!  
+ID004 Come on, pass my command!  
+ID005 Steppe Mobilization  
+ID006 My people crave wealth, they are eager and ready to go; clearly, I should now gather all the warriors who can mount up.  
+ID007 Fire and Blade!!!  
+ID008 Come on, pass my command!  
+ID009 The prestige and money required for mobilization are related to factors such as prestige level, total prestige, military points, management points, clan prestige level, total military strength, and regime.  
+ID010 Steppe Mobilization  
+ID011 The warriors are spreading the news, countless herdsmen have come to my grand tent with their families, and endless dust rises from the horizon. All the mounted warriors have gathered, an atmosphere of impatience and unease pervades, just waiting for my command...  
+ID012 We need war!  
+ID013 Perhaps I shouldn't be so reckless...  
+ID014 Mounted Archers  
+ID015 Light Cavalry  
+ID016 Steppe Horse Raiders  
+ID017 Turkic Heavy Cavalry  
+ID018 Heavy Cavalry  
+ID019 Scottish Highland Warriors  
+ID020 Brave warriors traversing the northern Highlands of Scotland, their tartan shirts shining with indomitable light.  
+ID021 Celtic Warriors  
+ID022 Bare-chested Celtic clan warriors, covered in battle scars, who give the mighty Roman legions a run for their money.  
+ID023 Anglo-Saxon Militia  
+ID024 These free militias are well-equipped and supplied, and they regularly undergo training and supervision by a powerful guard, displaying exceptional fighting spirit.  
+ID025 Guard  
+ID026 The guards have the best equipment in the entire army, being powerful warriors selected by the nobility.  
+ID027 Welsh Longbowmen  
+ID028 These powerful Welsh bowmen are all exceptional marksmen; each draw of their yew longbows can take the life of an enemy soldier.  
+ID029 Welsh Longbowmen  
+ID030 These powerful Welsh bowmen are all exceptional marksmen; each draw of their yew longbows can take the life of an enemy soldier.  
+ID031 Mountain Light Cavalry  
+ID032 Highly skilled light cavalry from the Welsh mountains, they roam freely between forests and hills.  
+ID033 Marsh Hunters  
+ID034 The Irish marshes are plentiful, but skilled riders always find shortcuts.  
+ID035 Irish Slingers  
+ID036 The use of slings dates back to the hunter ancestors of the Stone Age; if a swiftly thrown stone hits its target’s head, even a wild buffalo will quickly fall dead, and our carefully selected strong warriors can easily achieve this.  
+ID037 Irish Slingers  
+ID038 The use of slings dates back to the hunter ancestors of the Stone Age; if a swiftly thrown stone hits its target’s head, even a wild buffalo will quickly fall dead, and our carefully selected strong warriors can easily achieve this.  
+ID039 Foreign Warriors  
+ID040 These Gaelic mercenaries from the northern Highlands of Scotland are all exceptionally skilled; as long as the pay is right, nothing is a problem.  
+ID041 Gaelic Veterans  
+ID042 These Gaelic mercenaries from the northern Highlands of Scotland are happy to serve their clan lords in their spare time.  
+ID043 Avar Light Cavalry  
+ID044 The Avars are a powerful steppe people whose iron hooves tread from the east.  
+ID045 Avar Heavy Cavalry  
+ID046 Ancient and powerful heavy cavalry.  
+ID047 Bulgarian Heavy Cavalry  
+ID048 After conquering the Avars, the Bulgarians integrated them into their cavalry units, utilizing their unparalleled experience in mounted combat to forge this powerful cavalry.  
+ID049 Bulgarian Heavy Cavalry  
+
+
+

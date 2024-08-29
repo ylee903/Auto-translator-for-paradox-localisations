@@ -203,10 +203,16 @@ async def translate_chunk_async(chunk, session, chunk_index, semaphore, log_dir)
                     ]
 
                 # Check if the number of sub-IDs (or lines if sub-IDs are disabled) match
+                sub_id_match = True
+                consecutive_order = True
+
                 if enable_sub_ids:
                     original_sub_ids = [i for i, _ in enumerate(chunk)]
                     translated_sub_ids = [i for i in range(len(translated_phrases))]
+
+                    # Check if sub-IDs match
                     if original_sub_ids != translated_sub_ids:
+                        sub_id_match = False
                         aligned_phrases = [None] * len(chunk)
                         for i, (unique_id, _) in enumerate(chunk):
                             if i < len(translated_phrases):
@@ -221,8 +227,14 @@ async def translate_chunk_async(chunk, session, chunk_index, semaphore, log_dir)
                             )
                     else:
                         aligned_phrases = translated_phrases
+
+                    # Check if sub-IDs are in perfect consecutive order
+                    if sorted(translated_sub_ids) != translated_sub_ids:
+                        consecutive_order = False
+
                 else:
                     if len(translated_phrases) != len(chunk):
+                        sub_id_match = False
                         aligned_phrases = [None] * len(chunk)
                         for i, (unique_id, _) in enumerate(chunk):
                             if i < len(translated_phrases):
@@ -237,6 +249,31 @@ async def translate_chunk_async(chunk, session, chunk_index, semaphore, log_dir)
                             )
                     else:
                         aligned_phrases = translated_phrases
+
+                # Verbosely log the results of sub-ID matching and order
+                print(
+                    f"Sub-ID Match for chunk {chunk_index + 1}: {'Yes' if sub_id_match else 'No'}"
+                )
+                if sub_id_match and enable_sub_ids:
+                    print(
+                        f"Sub-IDs in Perfect Consecutive Order: {'Yes' if consecutive_order else 'No'}"
+                    )
+
+                if log_chunks:
+                    with open(
+                        os.path.join(
+                            log_dir, f"log_chunk_{chunk_index + 1}_validation.txt"
+                        ),
+                        "w",
+                        encoding="utf-8",
+                    ) as log_file:
+                        log_file.write(
+                            f"Sub-ID Match for chunk {chunk_index + 1}: {'Yes' if sub_id_match else 'No'}\n"
+                        )
+                        if sub_id_match and enable_sub_ids:
+                            log_file.write(
+                                f"Sub-IDs in Perfect Consecutive Order: {'Yes' if consecutive_order else 'No'}\n"
+                            )
 
                 translated_chunk = {
                     unique_id: translated_phrase

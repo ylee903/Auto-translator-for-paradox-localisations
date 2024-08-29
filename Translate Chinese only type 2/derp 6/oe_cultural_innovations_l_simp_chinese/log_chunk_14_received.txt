@@ -1,0 +1,56 @@
+Chunk 14 received from API:
+```yaml
+ID000 Slavery Warrior
+ID001 Unfit for use, these slave soldiers are equipped with tattered gear and lack discipline, serving only as cannon fodder to fill the ranks.
+ID002 Slavery Warrior
+ID003 Unfit for use, these slave soldiers are equipped with tattered gear and lack discipline, serving only as cannon fodder to fill the ranks.
+ID004 Celtic
+ID005 The Celts were a loose group bound together by a common language and cultural traditions in ancient Europe, belonging to an ancient ethnolinguistic group. They resisted invasions time and again, refusing to submit to outsiders, as if it was etched into their very bones.
+ID006 Anglo-Saxon Select Militia
+ID007 During the earlier chaotic periods of migration and settlement, wars were led by small amounts of personal guard warriors. By the 8th century, the leaders of the Anglo-Saxons had established their own kingdoms. Therefore, in a sense, greater logistical efforts were required to defend their lands and wage war. As a solution, the Anglo-Saxons began to implement what was called the "select fyrd."
+ID008 Organized Guards
+ID009 During the chaotic period of the Germanic migrations into Britain, tribal chiefs and kings would gather their selected strong warriors, who were equipped with the best weapons and gear, and were also the household troops of the kings and nobles, specifically trained for warfare.
+ID010 Welsh Longbow
+ID011 The Welsh longbow is made from yew wood, a lightweight material with excellent elasticity, resulting in remarkable lethality.
+ID012 Sling
+ID013 The sling is a living fossil of human civilization; stones fired rapidly can even bring down a bison. Its use in warfare can be quite effective.
+ID014 Highland Clans
+ID015 Numerous fierce Highland clans inhabit the northern Highlands of Scotland, preserving the primitive Celtic way of life and tribal alliance systems. They are born warriors, howling among the mountains.
+ID016 Mercenary Foreign Warriors
+ID017 The Highlanders in northern Scotland are incredibly fierce; they are unmatched battle fanatics and eager to fight for money. Most importantly, they almost never get involved in our local political struggles; as long as the price is right, they will obediently comply.
+ID018 House of Warriors
+ID019 The northern Highlands of Scotland have been the home of the Gaels since ancient times; our warriors are eager to fight for their homeland.
+ID020 Bread and Mead
+ID021 The lord distributes bread to his followers, symbolizing the bond and loyalty between the lord and his warriors. Of course, even beyond its hidden and symbolic meanings, such entertainment often serves as a practice exercise where high-ranking soldiers communicate in a more relaxed tone to better plan and coordinate in real combat.
+ID022 Book of Winchester
+ID023 The Book of Winchester, also known as the Domesday Book, is a compilation of land surveys across England. Its purpose is to understand the land holdings of royal estates and the direct vassals of the king to collect taxes, enhance financial management, and determine the feudal obligations of vassals.
+ID024 Conqueror's Stance
+ID025 We have conquered the British Isles; these natives ought to pledge loyalty to me.
+ID026 Amolika
+ID027 We are the island Celts who were forced to flee here during the Germanic migrations, a place the Romans called
+ID028 Iberian City Militia
+ID029 The role of the Iberian city militia during the mid-Middle Ages is noteworthy. Born in the border conflict areas, local militias served the monarchs on the peninsula, and when faced with various urgent situations, they could quickly bolster their strength. Whether militarily, economically, or in constraining the influence of local nobles, city militias provided greater flexibility for the king's decisions.
+ID030 Spanish Gentry
+ID031 With the gradual liberation of the Iberian region, we grant land ownership to our loyal lords and exempt them from some taxes; in return, they are responsible for providing cavalry troops needed in the subsequent series of reconquest wars.
+ID032 Land Grant
+ID033 As the reconquest movement is underway, we need a large number of soldiers to suppress the infidels for the long term. As long as a significant number of conscripts can be provided, non-nobles can also receive certain land.
+ID034 Visigoth Warfare
+ID035 We have inherited the combat methods of the Visigoth era, focusing primarily on cavalry units, emphasizing proficiency in mounted combat.
+ID036 Catalan Mercenaries
+ID037 The military demand of the reconquest movement stimulated the formation of elite infantry in the Iberian region. Our warriors do not intend to fade away after the war; they form one mercenary troop after another to remain active on battlefields of all sizes around the world.
+ID038 Spanish Phalanx
+ID039 To consolidate land supremacy in Iberia, we must undertake an infantry revolution, as history has shown—well-organized infantry tactics can handle all battlefield environments.
+ID040 Spanish Pikes
+ID041 With long and dense pike formations and tightly coordinated tactics, our army is unstoppable on land!
+ID042 Spanish Shield Swordfighters
+ID043 High-quality steel shields and long swords compose the fangs of this army; they can quickly tear open a gap in the enemy's formation under the cover of pike men, turning the tide of battle in an instant.
+ID044 Two-Handed Swordsman
+ID045 Elite infantry wielding great swords can quickly open a gap in the enemy's formation with their superior swordsmanship.
+ID046 Lord’s Guards
+ID047 Personal guards of the nobility, composed of seasoned veteran land retainers, possessing astonishing combat power.
+ID048 Old Swiss Mountain Folk
+ID049 The harsh living conditions and long-standing external invasions have prepared the residents of this land to fight at any moment to defend their existence.
+```
+
+
+

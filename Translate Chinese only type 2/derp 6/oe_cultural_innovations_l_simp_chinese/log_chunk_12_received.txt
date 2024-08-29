@@ -1,0 +1,54 @@
+Chunk 12 received from API:
+ID000 The Bulgarians incorporated the Avars into their cavalry after conquering them, utilizing their extraordinary horse combat experience to forge this cavalry force.  
+ID001 Cavalryman  
+ID002 Berserker  
+ID003 Once the blood of these warriors starts to boil, only the death of their enemies can satisfy them.  
+ID004 Berserker  
+ID005 Once the blood of these warriors starts to boil, only the death of their enemies can satisfy them.  
+ID006 Sal  
+ID007 A decent Yarl wouldn't let his slaves take up arms on the battlefield, but times have changed...  
+ID008 Court Guard  
+ID009 A decent lord should have a personal court guard, a group of strong warriors capable of addressing various emergencies.  
+ID010 Norman Cavalry  
+ID011 The Normans invested a great deal of energy in cavalry training, equipping themselves with relatively lighter chainmail and pioneering the tactic of the wedge charge, making them increasingly adaptable to the ever-changing battlefield.  
+ID012 Square Flag Knight  
+ID013 Distinct from ordinary knights bearing conical triangular flags, these noble knights have the right to use square flags symbolizing their identity and status on the battlefield; they are seasoned, determined fighters.  
+ID014 Armored Levy  
+ID015 Senior military attendants clad in heavy armor, serving as a significant fighting force for their lord.  
+ID016 Apprentice Knight  
+ID017 Every boy who aspires to become a knight should focus on accumulating practical combat experience; the battlefield is their classroom.  
+ID018 Kern  
+ID019 The kerns are a type of Irish light infantry, often fighting alongside Gaelic mercenaries; they are poorly equipped yet remarkably effective in battle, often praised by many.  
+ID020 Rashdan Heavy Cavalry  
+ID021 This elite cavalry unit, established during the Muslim conquests, rides purebred Arabian horses, and their lance charges can annihilate any enemy.  
+ID022 Armoric Heavy Cavalry  
+ID023 Influenced by the Alans and the late Roman military system, the Bretons extensively deployed cavalry in warfare; they are characterized by their strict discipline and good coordination in combat.  
+ID024 Abid Infantry  
+ID025 This mixed-light infantry unit has a complex origin, with fanatical religious volunteers and North African black slave soldiers among their ranks; they have gathered here for a great holy war, believing in their Muslim brothers fighting alongside them, believing in the prophet, believing in Allah.  
+ID026 Moorish Guards  
+ID027 Moorish warriors retain strong tribal traditions, charging fearlessly into battle.  
+ID028 Moorish Cavalry  
+ID029 Moorish cavalry served extensively during the great conquest of the Moors, combining North African cavalry traditions with the combat conditions in the Iberian region, making them exceptionally fierce in battle.  
+ID030 Spanish Javelin Riders  
+ID031 In response to the large number of Moorish cavalry entering the battlefield, we organized skilled warriors into units, clad in leather armor and wielding javelins, continuously circling and harassing the enemy, waiting for an opportunity to break into the enemy lines and strike them down.  
+ID032 Order Knight  
+ID033 Heavily armored fanatic knights skilled in cavalry charges.  
+ID034 Catalan Shock Trooper  
+ID035 These shock infantry performed excellently during the Reconquista, carrying light weapons and gear, charging zealously at the enemy.  
+ID036 Catalan Mercenaries  
+ID037 They are shock infantry who excelled during the Reconquista in the Iberian Peninsula, carrying light weapons and gear, joining elite infantry units in various battles around the world.  
+ID038 Byzantine Legion Infantry  
+ID039 Legion infantry forms the backbone of the Byzantine army, well-equipped and highly disciplined.  
+ID040 Imperial Guard  
+ID041 These elite heavy infantry comprise the immortal defense of the Byzantine Empire, attached to the central forces and rich in combat experience.  
+ID042 Byzantine Archers  
+ID043 Archery is a fundamental skill for every Byzantine warrior; these highly skilled archers, shielded by their own infantry lines, pick off enemies with exceptional accuracy.  
+ID044 Varangian Guard  
+ID045 This Byzantine Royal Guard has astonishing combat prowess; clad in heavy armor, they swiftly behead one enemy after another, fiercely loyal, clearing all enemies for His Imperial Majesty.  
+ID046 Varangian Guard  
+ID047 This Byzantine Royal Guard has astonishing combat prowess; clad in heavy armor, they swiftly behead one enemy after another, fiercely loyal, clearing all enemies for His Imperial Majesty.  
+ID048 Border Guard  
+ID049 To defend against neighboring Muslims, any soldiers with some combat ability can enlist in this military district, including bandits and outlaws. They emphasize teamwork and are renowned for their skilled formations.  
+
+
+

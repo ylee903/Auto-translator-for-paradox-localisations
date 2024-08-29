@@ -1,0 +1,53 @@
+Chunk 13 received from API:
+ID000 Border Raiders  
+ID001 To defend against nearby Muslims, any combat-capable individuals in this military district can enlist, including thieves and outlaws. They are notorious for their lack of morals, employing flexible combat tactics and commiting atrocities against civilians when supplies run low.  
+ID002 Stone Infantry  
+ID003 Lightly equipped skirmishers who throw stones to harass the enemy, skilled in their craft, capable of a quick escape.  
+ID004 Light Javelinman  
+ID005 Lightly equipped javelin throwers, with simple gear but swift movements.  
+ID006 Vanguard Light Cavalry  
+ID007 Byzantine light cavalry known for their speed and agility, equipped with bows and javelins, particularly excelling in hit-and-run guerrilla tactics.  
+ID008 Garrison Guards  
+ID009 Heavily armored guards stationed at border fortresses for extended periods.  
+ID010 Long Table Knights  
+ID011 Lightly armored knights patrolling the borders who immediately report any enemy sightings and closely monitor their movements.  
+ID012 Border Raiders  
+ID013 Rapid response units prepared for enemy cavalry, capable of immediate reaction and harassment.  
+ID014 Ansar Light Cavalry  
+ID015 These cavalry patrol the pilgrimage routes, safeguarding waves of devout believers.  
+ID016 Swift Guard  
+ID017 They are an elite light cavalry unit of the Rashidun Legion during the Muslim conquest of Syria, who turned the tide during the Siege of Damascus with astonishing speed, decisively defeating the once invincible Byzantine army.  
+ID018 Imperial Guard  
+ID019 Heavily armored cavalry lurking around His Majesty the Emperor, exhibiting stringent vigilance.  
+ID020 Imperial Guard  
+ID021 Heavily armored cavalry lurking around His Majesty the Emperor, exhibiting stringent vigilance.  
+ID022 Mamluk Heavy Cavalry  
+ID023 These long-trained slave warriors form our powerful heavy cavalry unit, and I sense they will shine in a future battle.  
+ID024 Mamluk Horse Archers  
+ID025 Our Mamluk slave warriors are highly combat-ready, with some being exceptional archers comparable to nomadic bowsmen raised on horseback.  
+ID026 Armored Camel Riders  
+ID027 It's no easy task to arm camels, but the reward is well worth it. Terrifyingly armored camels can send mounted armies running with their charge.  
+ID028 Asavira  
+ID029 These Persian warriors who converted to our Lord bear armor; their cavalry achieved extraordinary feats centuries ago.  
+ID030 Ughuz Mercenary Cavalry  
+ID031 Ughuz cavalry are excellent scouts and shock troops, traveling to the Iberian region, selling their service to any employer who can pay.  
+ID032 Abna  
+ID033 Our battle-hardened warriors can advance steadily under spear and sword; they skillfully use short spears and javelins to kill any enemies daring to confront them directly. Their strong discipline makes them unafraid of close combat, where their short swords and daggers deliver lethal blows.  
+ID034 Ghulam Heavy Cavalry  
+ID035 These heavily armored slave cavalry, who have fought on the front lines for years, are both loyal and powerful. They are world-famous for their fearless fighting style.  
+ID036 Ghulam Heavy Cavalry  
+ID037 These heavily armored slave cavalry, who have fought on the front lines for years, are both loyal and powerful. They are world-famous for their fearless fighting style.  
+ID038 Kurdish Spearmen  
+ID039 These ancient mountain warriors can inflict significant damage on enemies with simple thrown spears.  
+ID040 Ikta Swordsmen  
+ID041 Able-bodied warriors recruited by Muslim rulers to maintain regional order.  
+ID042 Ghuzat Jihad Volunteers  
+ID043 Zealous religious warriors, all heretics will be crushed to powder.  
+ID044 Slave Warriors  
+ID045 Undisciplined slave soldiers with tattered equipment, only suitable to serve as fodder.  
+ID046 Slave Warriors  
+ID047 Undisciplined slave soldiers with tattered equipment, only suitable to serve as fodder.  
+ID048 Slave Warriors  
+ID049 Undisciplined slave soldiers with tattered equipment, only suitable to serve as fodder.  
+
+
