@@ -64,12 +64,10 @@ TOKEN_LIMIT = (
 LINE_LIMIT = 50  # Maximum number of lines or IDs in a chunk
 ID_FORMAT = "ID{:03d}"
 
-
 def extract_chinese_phrases(file_content):
     matches = re.findall(chinese_text_regex, file_content)
     print(f"Extracted {len(matches)} Chinese phrases.")
     return matches
-
 
 def replace_with_ids(file_content, phrases):
     id_map = {}
@@ -79,7 +77,6 @@ def replace_with_ids(file_content, phrases):
         id_map[unique_id] = phrase
     print(f"Replaced phrases with {len(id_map)} unique IDs.")
     return file_content, id_map
-
 
 def split_into_chunks(id_map):
     chunks = []
@@ -107,8 +104,7 @@ def split_into_chunks(id_map):
     print(f"Split into {len(chunks)} chunks for translation.")
     return chunks
 
-
-async def translate_chunk_async(chunk, session, chunk_index, semaphore):
+async def translate_chunk_async(chunk, session, chunk_index, semaphore, log_dir):
     async with semaphore:
         text_to_translate = "\n".join([phrase for _, phrase in chunk])
         print(
@@ -116,7 +112,8 @@ async def translate_chunk_async(chunk, session, chunk_index, semaphore):
         )
 
         if log_chunks:
-            with open(log_file_path, "a", encoding="utf-8") as log_file:
+            # Log before sending the chunk to the API
+            with open(os.path.join(log_dir, f"log_chunk_{chunk_index + 1}_sent.txt"), "w", encoding="utf-8") as log_file:
                 log_file.write(
                     f"Chunk {chunk_index + 1} sent to API:\n{text_to_translate}\n\n"
                 )
@@ -163,7 +160,7 @@ async def translate_chunk_async(chunk, session, chunk_index, semaphore):
                         f"Diagnostic information for chunk {chunk_index + 1}:\n{diagnostics}"
                     )
                     if log_chunks:
-                        with open(log_file_path, "a", encoding="utf-8") as log_file:
+                        with open(os.path.join(log_dir, f"log_chunk_{chunk_index + 1}_diagnostic.txt"), "w", encoding="utf-8") as log_file:
                             log_file.write(
                                 f"Diagnostic for chunk {chunk_index + 1}:\n{diagnostics}\n\n"
                             )
@@ -172,9 +169,9 @@ async def translate_chunk_async(chunk, session, chunk_index, semaphore):
 
                 translated_phrases = translated_text.split("\n")
 
-                # Log the received chunk before checking for mismatch
+                # Log after receiving the chunk from the API
                 if log_chunks:
-                    with open(log_file_path, "a", encoding="utf-8") as log_file:
+                    with open(os.path.join(log_dir, f"log_chunk_{chunk_index + 1}_received.txt"), "w", encoding="utf-8") as log_file:
                         log_file.write(
                             f"Chunk {chunk_index + 1} received from API:\n{translated_text}\n\n"
                         )
@@ -205,115 +202,4 @@ async def translate_chunk_async(chunk, session, chunk_index, semaphore):
                     else:
                         aligned_phrases = translated_phrases
                 else:
-                    if len(translated_phrases) != len(chunk):
-                        aligned_phrases = [None] * len(chunk)
-                        for i, (unique_id, _) in enumerate(chunk):
-                            if i < len(translated_phrases):
-                                aligned_phrases[i] = translated_phrases[i]
-                            else:
-                                aligned_phrases[i] = f"[MISSING]"
-                        if not ignore_mismatch:
-                            raise ValueError(
-                                f"Error: Mismatch in the number of lines sent and received "
-                                f"for chunk {chunk_index + 1}. "
-                                f"Sent {len(chunk)} lines, received {len(translated_phrases)} lines."
-                            )
-                    else:
-                        aligned_phrases = translated_phrases
-
-                translated_chunk = {
-                    unique_id: translated_phrase
-                    for (unique_id, _), translated_phrase in zip(chunk, aligned_phrases)
-                }
-                return translated_chunk
-
-            except aiohttp.ClientResponseError as e:
-                if e.status == 429:  # Too Many Requests
-                    print(
-                        f"Rate limit hit. Retrying chunk {chunk_index + 1} in {wait_time} seconds..."
-                    )
-                    await asyncio.sleep(wait_time)
-                    retries += 1
-                    wait_time *= 2  # Exponential backoff
-                else:
-                    print(
-                        f"An error occurred while translating chunk {chunk_index + 1}: {e}"
-                    )
-                    raise
-
-        print(f"Max retries reached for chunk {chunk_index + 1}. Skipping this chunk.")
-        return None
-
-
-async def translate_chunks_async(chunks):
-    semaphore = asyncio.Semaphore(max_concurrent_requests)  # Control concurrency
-    async with aiohttp.ClientSession() as session:
-        tasks = [
-            translate_chunk_async(chunk, session, i, semaphore)
-            for i, chunk in enumerate(chunks)
-        ]
-        translated_chunks = await asyncio.gather(*tasks)
-    translated_chunks = [chunk for chunk in translated_chunks if chunk is not None]
-    print(f"Translation completed for {len(translated_chunks)} chunks.")
-    return translated_chunks
-
-
-def reassemble_text(file_content, translated_chunks):
-    for translated_chunk in translated_chunks:
-        for unique_id, translated_phrase in translated_chunk.items():
-            file_content = file_content.replace(
-                f'"{unique_id}"', f'"{translated_phrase}"'
-            )
-    print(f"Reassembled translated content.")
-    return file_content
-
-
-async def translate_yaml_file(file_path):
-    print(f"Processing file: {file_path}")
-    with open(file_path, "r", encoding="utf-8") as file:
-        file_content = file.read()
-
-    phrases = extract_chinese_phrases(file_content)
-    file_content, id_map = replace_with_ids(file_content, phrases)
-    chunks = split_into_chunks(id_map)
-    translated_chunks = await translate_chunks_async(chunks)
-    translated_content = reassemble_text(file_content, translated_chunks)
-
-    # Determine the output file path based on the overwrite_original parameter
-    if overwrite_original:
-        output_file_path = file_path
-    else:
-        output_file_path = file_path.replace(".yml", "_translated.yml")
-
-    with open(output_file_path, "w", encoding="utf-8") as output_file:
-        output_file.write(translated_content)
-
-    print(f"Translated file saved as {output_file_path}")
-
-    if delay_time > 0:
-        time.sleep(delay_time)
-
-    return output_file_path
-
-
-async def translate_all_files_in_subdirectory():
-    # Get the directory where the script is located
-    script_dir = os.path.dirname(os.path.realpath(__file__))
-
-    # Define the log file path
-    global log_file_path
-    log_file_path = os.path.join(script_dir, "chunks_log.txt")
-
-    # Define the subdirectory where YAML files are located
-    subdirectory = os.path.join(script_dir, "to be translated")
-
-    # Find all .yml files in the subdirectory
-    yaml_files = glob.glob(os.path.join(subdirectory, "*.yml"))
-
-    print(f"Found {len(yaml_files)} files to translate.")
-    tasks = [translate_yaml_file(yaml_file) for yaml_file in yaml_files]
-    await asyncio.gather(*tasks)
-
-
-# Run the translation on all YAML files in the specified subdirectory asynchronously
-asyncio.run(translate_all_files_in_subdirectory())
+                    if len(translated_phrases) != len(
