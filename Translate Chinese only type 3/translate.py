@@ -14,7 +14,7 @@ delay_time = 1  # Delay between requests (in seconds)
 log_chunks = True  # Log chunks sent/received for debugging
 overwrite_original = True  # Overwrite original YAML files
 max_concurrent_requests = 3  # Control concurrency of asynchronous requests
-model_name = "gpt-4o-mini"  # Model for both tokenization and API calls
+model_name = "gpt-4o"  # Model for both tokenization and API calls
 ignore_mismatch = (
     True  # Ignore mismatches in line counts between sent and received chunks
 )
@@ -43,8 +43,8 @@ TOKEN_LIMIT = 3500  # Adjust if necessary for other models
 LINE_LIMIT = 100  # Max lines or IDs in a chunk
 ID_FORMAT = "ID{:06d}"  # ID format: ID000000 to ID999999
 
-# Mode selector: 'input', 'pause', or 'normal'
-mode = "normal"  # Set to 'input', 'pause', or 'normal'
+# Mode selector: 'input' (pause until input received), 'pause' (waits for x seconds), or 'pause_on_input (pauses if input received within x time)' or 'normal
+mode = "input"
 
 
 def extract_chinese_phrases(file_content):

@@ -1,0 +1,102 @@
+Chunk 9 received from API:
+ID000800 Latin Cavalry
+ID000801 These non-Orthodox cavalry warriors have undergone long-term training and have gradually adapted to fighting the hordes of Turkic cavalry. They are fearless raiders of the plains.
+ID000802 Sharp Cavalry
+ID000803 After long-term training, each of our cavalrymen is a versatile battlefield soldier.
+ID000804 Flying Cavalry
+ID000805 Skilled in all horseback weapons, capable of breaking through formations in an instant.
+ID000806 Xianbei Iron Cavalry
+ID000807 One of the Xianbei traditions, since Emperor Xiaowen of Northern Wei, successive rulers have meticulously built heavy cavalry units to deter nearby threats.
+ID000808 Xianbei Armored Cavalry
+ID000809 Xianbei warriors, both horse and rider clad in armor, with their killing skills deeply ingrained in their bones.
+ID000810 Shieldmaidens
+ID000811 These women defy societal norms and, like other warriors, form shield walls to participate in battles.
+ID000812 Baltic Warriors
+ID000813 Generations of living in forest swamplands have fostered a fierce spirit among the Baltic people. They travel together, constantly raiding the area.
+ID000814 Baltic Warriors
+ID000815 Fierce warriors active in the forest and swamp areas along the Baltic coast, launching raids from the cover of forests and snow.
+ID000816 Frankish Feudal System
+ID000817 Emperor Charlemagne and his predecessors forged an excellent feudal society for us. Our kingdom is stable and powerful, and this advantage will continue.
+ID000818 Scalar Cavalry
+ID000819 They are the ace cavalry unit of the Carolingian dynasty, often deployed for highly mobile combat missions.
+ID000820 Carolingian Iron Guard
+ID000821 These are the trusted people sent by nobles across their domains, responsible for local security in peacetime and serving as elite infantry during wars.
+ID000822 Flower of Chivalry
+ID000823 Every knight is a pride of the French people.
+ID000824 Characters of this [culture|E] build #V $Level 1 Legion Training Grounds$#! faster and more robust, and gain some [prestige_i][prestige|E] upon completion.
+ID000825 Chevaliers
+ID000826 The proud French people have proud French cavalry.
+ID000827 Sword and Shield Infantry
+ID000828 Fully armed infantry groups, their sturdy shields protect them from stray arrows.
+ID000829 Hooked Ax
+ID000830 This new type of polearm we developed is very effective against unarmored units and cavalry.
+ID000831 Hooked Ax Infantry
+ID000832 Our infantry are equipped with new hooked axes, very effective against unarmored units and cavalry.
+ID000833 Crossbowmen Cavalry
+ID000834 Crossbowmen Cavalry
+ID000835 Our social structure makes it unlikely for us to have many high-quality archers, but crossbowmen cavalry might be a good alternative.
+ID000836 Song of Valor
+ID000837 Our knights possess unparalleled determination, and their great deeds will be sung by our people for generations.
+ID000838 Heavy Lancers
+ID000839 The group charge of heavy lancers is unstoppable, even the most solid formations will turn to dust instantly.
+ID000840 Feudal Infantry Knights
+ID000841 On battlefields where cavalry cannot be deployed, our fearless knights still fight bravely.
+ID000842 Light Lancers
+ID000843 Light lancers from Burgundy, combining explosiveness and mobility, are excellent flanking strike units.
+ID000844 Franc Archers
+ID000845 Each parish should select an archer from among those skilled with weapons. He will be exempt from taxes, practice archery on Sundays and holidays, and be ready to go to war when needed.
+ID000846 Franc Archers
+ID000847 Archers used for border defense; they are exempt from taxes but must go to war.
+ID000848 Assembly
+ID000849 Voisky Skirmishers
+ID000850 Muscovite Manorial System
+ID000851 The development of feudal society in the Rus' region is different from Western Europe. Our kingdom originates from a core family alliance, united to increase available labor and expand land production. But this does not mean the granting of land is a form of bondage; on the contrary, we encourage adventure.
+ID000852 Boyars
+ID000853 Grand Duke's Guards
+ID000854 Freemen Riders
+ID000855 Turkic Settlers
+ID000856 Prolonged conflict has worn down the fighting spirit of both sides, with some Turks considering settling down here.
+ID000857 Turkic Auxiliaries
+ID000858 Descendants of Boyars
+ID000859 Impoverished descendants of Boyars, unable to maintain their ancestral dominance, have turned to military camps in large numbers seeking opportunities.
+ID000860 Boyevik Warriors
+ID000861 Adventurous Heroes
+ID000862 Cossack Cavalry
+ID000863 Cossack cavalry are known for their bright attire and notorious reputation. They form semi-autonomous groups and lead a nomadic life. If we can incorporate them into our army, they would be a considerable force.
+ID000864 Cossack Cavalry
+ID000865 Siberian Tribal Raiders
+ID000866 Armed Mobilization
+ID000867 Numerous military nobles support the entire war machine of the country, but at what cost...
+ID000868 Szlachta
+ID000869 Polish Light Crossbowmen
+ID000870 Winged Hussars
+ID000871 Loyal and powerful elite cavalry, renowned for their high mobility and devastating impact.
+ID000872 Winged Hussars
+ID000873 Rotis
+ID000874 Samogitian Javelin Technique
+ID000875 One of the most effective war tools in the Samogitian forests, the speed of Samogitian horses lends tremendous power to their javelins.
+ID000876 Samogitian Javelin Cavalry
+ID000877 Lithuanian Mounted Archers
+ID000878 Vassals with the same [culture|E][heritage|E] as you are more likely to join [independence_factions|E] and [claimant_factions|E]. This is not necessarily a bad thing, at least not when you are still relatively weak.
+ID000879 People of this [culture|E] only accept the rule of Noah's descendants and are more likely to join [factions|E] against foreign [culture|E] rulers.
+ID000880 Characters of this [culture|E] who possess this [innovations|E] can recruit powerful unique [men_at_arms|E] through alliances with specific [culture|E] characters.
+ID000881 Great Jin
+ID000882 Great Jin
+ID000883 Wanyan
+ID000884 Great Jin
+ID000885 Annual Tribute
+ID000886 The incompetence of the upper class is paid by the lower class.
+ID000887 Sixteen Prefectures of Yanyun
+ID000888 Lithuania
+ID000889 Poland
+ID000890 Can claim multiple [claims|E] in a single war for oneself.
+ID000891 Middle East, Persia
+ID000892 Sinhala
+ID000893 Ma Swo
+ID000894 Regions where lamellar armor is widely used in military.
+ID000895 Great Migration Invasion
+ID000896 Great Migration Invasion
+ID000897 Great Migration
+ID000898 You have abandoned your former land, migrating your people and herds here, starting a new reign.
+ID000899 After the Great Migration
+

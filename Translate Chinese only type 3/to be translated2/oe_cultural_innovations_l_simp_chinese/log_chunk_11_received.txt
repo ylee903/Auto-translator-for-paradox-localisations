@@ -1,0 +1,102 @@
+Chunk 11 received from API:
+ID001000 Divine Arm Bow
+ID001001 Yumi
+ID001002 Cavalry Crossbow
+ID001003 Ultralong Spear
+ID001004 Horn Bow
+ID001005 Goryeo Bow
+ID001006 Katana
+ID001007 Naginata
+ID001008 Two-Handed Greatsword
+ID001009 Pūdāo
+ID001010 Sling
+ID001011 Forced Dress Change
+ID001012 Horn Bow
+ID001013 Mace
+ID001014 Dagger
+ID001015 Morning Star
+ID001016 Mòdāo
+ID001017 Javelin
+ID001018 Stiletto
+ID001019 Hand Crossbow
+ID001020 Shovel
+ID001021 Hand Axe
+ID001022 Stone
+ID001023 Sabre
+ID001024 Short Spear
+ID001025 Forced Dress Change
+ID001026 Small Round Shield
+ID001027 Tower Shield
+ID001028 Tower Shield
+ID001029 Round Shield
+ID001030 Viking Round Shield
+ID001031 Heater Shield
+ID001032 Kite Shield
+ID001033 Fan-shaped Shield
+ID001034 Oval Shield
+ID001035 Targe
+ID001036 Targe
+ID001037 Selected
+ID001038 Charge
+ID001039 Load
+ID001040 Hunt
+ID001041 Cover
+ID001042 Warhorse Breeding
+ID001043 Whirlwind Cannon
+ID001044 Armored War Elephant
+ID001045 Arrow Tower
+ID001046 Training Intensity:Ⅰ
+ID001047 Training Intensity:Ⅱ
+ID001048 Training Intensity:Ⅲ
+ID001049 Martial Law
+ID001050 Reinforce City Defense
+ID001051 Scorched Earth
+ID001052 Mandatory Conscription
+ID001053 Assist City Construction
+ID001054 Garrison Tax Collection
+ID001055 Patrol Ranch
+ID001056 Organized Raids
+ID001057 Immunity from Confiscation
+ID001058 Recruits include herders, wandering hunters, local mercenaries, and destitute nobles—they are numerous, mostly fight on horseback, and form the main body of the army.
+ID001059 Recruits include peasant soldiers, ruffians, local mercenaries, and destitute nobles, armed with a variety of tools and assembled weapons—they are numerous and form the majority of the army.
+ID001060 Recruits include peasant soldiers, ruffians, local mercenaries, and destitute nobles, armed with a variety of tools and assembled weapons—they are numerous and form the majority of the army.
+ID001061 Crusader
+ID001062 Crusader
+ID001063 Raider
+ID001064 Raider
+ID001065 Tribal Champion
+ID001066 Tribal Champion
+ID001067 Peasant Leader
+ID001068 Peasant Leader
+ID001069 Veteran Peasant
+ID001070 Yabing Faction
+ID001071 The demands of the Yabing [faction|E] include more [gold|E], wider [realm|E], and superior status. Actively engage and maintain good #relations# with your [knights|E].\n\n#S Ultimatum#!\nAll faction members obtain [gold|E], [prestige|E], [army|E], and [realm|E]\nDepose the current [liege|E] and nominate a new [liege|E].
+ID001072 Desire for More Benefits
+ID001073 You are not [knights|E]
+ID001074 Your [liege|E]’s organization is not #V Junfu#!
+ID001075 Your [liege|E]’s [government|E] is not #V Juntun System#!
+ID001076 Yabing Rebellion
+ID001077 Desire for Wealth: $VALUE|=+0$
+ID001078 Nomadic AI Direction: General (Cultural Exchange, Technological Innovation)(Add buff, steal innovation)
+ID001079 Nomadic AI Direction: General (Cultural Exchange, Technological Innovation)(Add buff, steal innovation).
+ID001080 Cultural Exchange, Technological Innovation
+ID001081 Cultural Exchange, Technological Innovation
+ID001082 Nomadic AI Direction: General (Trade and Commerce)
+ID001083 Nomadic AI Direction: General (Trade and Commerce).
+ID001084 Trade and Commerce
+ID001085 Trade and Commerce
+ID001086 Nomadic AI Direction: General (Conquest/Rapid Expansion)
+ID001087 Nomadic AI Direction: General (Conquest/Rapid Expansion).
+ID001088 Conquest/Rapid Expansion
+ID001089 Conquest/Rapid Expansion
+ID001090 Nomadic AI Direction: Imperial Conqueror (Add buff)
+ID001091 This kind of regime is characterized by strong military power and leadership, often establishing vast empires through the conquest of surrounding regions.\nThe Mongol Empire is a typical example of an imperial conqueror. Genghis Khan and his successors unified the Mongolian steppes and swiftly conquered large territories in Asia and Europe, creating a vast empire.
+ID001092 War
+ID001093 War
+ID001094 Nomadic AI Direction: Imperial Conqueror (AI Strategy)
+ID001095 This kind of regime is characterized by strong military power and leadership, often establishing vast empires through the conquest of surrounding regions.\nThe Mongol Empire is a typical example of an imperial conqueror. Genghis Khan and his successors unified the Mongolian steppes and swiftly conquered large territories in Asia and Europe, creating a vast empire.
+ID001096 Strategy
+ID001097 Strategy
+ID001098 Nomadic AI Direction: Imperial Conqueror (AI Faction Response)
+ID001099 This kind of regime is characterized by strong military power and leadership, often establishing vast empires through the conquest of surrounding regions.\nThe Mongol Empire is a typical example of an imperial conqueror. Genghis Khan and his successors unified the Mongolian steppes and swiftly conquered large territories in Asia and Europe, creating a vast empire.
+

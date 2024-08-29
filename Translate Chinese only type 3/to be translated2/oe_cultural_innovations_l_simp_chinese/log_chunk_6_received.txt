@@ -1,0 +1,102 @@
+Chunk 6 received from API:
+ID000500 Damn it, they got the gold, what about mine!
+ID000501 They must be severely punished!
+ID000502 Mobilize the Steppe (ai)
+ID000503 Fire and daggers!!!
+ID000504 Come on, relay my orders!
+ID000505 Mobilize the Steppe
+ID000506 My tribesmen are eager for wealth, they are gearing up and ready to go. Clearly, I should now gather all available warriors.
+ID000507 Fire and daggers!!!
+ID000508 Come on, relay my orders!
+ID000509 The required prestige and money for mobilization are related to series of factors such as prestige level, total prestige, military points, management points, clan prestige level, total troop strength, and government system.
+ID000510 Mobilize the Steppe
+ID000511 Warriors spread the word, countless herders came with their families to my main tent, an endless cloud of dust rising from the horizon. All the warriors who could mount up gathered, anxiety and restlessness filled the air, only waiting for my command...
+ID000512 We need war!
+ID000513 Perhaps I shouldn't be so reckless...
+ID000514 Mounted Archers
+ID000515 Light Cavalry
+ID000516 Steppe Raiders
+ID000517 Turkic Heavy Cavalry
+ID000518 Heavy Cavalry
+ID000519 Scottish Highland Warriors
+ID000520 Fierce warriors from the northern Scottish Highlands, clad in kilts that shine with unyielding spirit.
+ID000521 Celtic Warriors
+ID000522 Celtic clan warriors covered in tattoos and bare-chested, who gave the mighty Roman legions a hard time.
+ID000523 Anglo-Saxon Militia
+ID000524 These free militiamen are well-equipped and supplied, regularly trained and supervised by powerful bodyguards, with a remarkable fighting spirit.
+ID000525 Royal Guard
+ID000526 The Royal Guard possess the best equipment in the entire army, chosen from among the powerful warriors by the nobility.
+ID000527 Welsh Longbowmen
+ID000528 These mighty Welsh archers are all exceptional marksmen, each draw of their yew longbows claims the life of an enemy soldier.
+ID000529 Welsh Longbowmen
+ID000530 These mighty Welsh archers are all exceptional marksmen, each draw of their yew longbows claims the life of an enemy soldier.
+ID000531 Mountain Rangers
+ID000532 Skilled light cavalry from the Welsh mountains, freely roaming between forests and mountains.
+ID000533 Swamp Hunters
+ID000534 The swamps of Ireland are vast, but skilled riders can always find a shortcut.
+ID000535 Irish Slingers
+ID000536 The use of the sling dates back to the Stone Age hunters; a quickly thrown stone hitting the target's head could quickly fell even a bull. Our carefully selected strong warriors can easily accomplish this.
+ID000537 Irish Slingers
+ID000538 The use of the sling dates back to the Stone Age hunters; a quickly thrown stone hitting the target's head could quickly fell even a bull. Our carefully selected strong warriors can easily accomplish this.
+ID000539 Outsider Warriors
+ID000540 These Gaelic mercenaries from the northern Scottish Highlands are exceptionally skilled in combat. As long as the pay is right, nothing is a problem.
+ID000541 Gaelic Veterans
+ID000542 These Gaelic mercenaries from the northern Scottish Highlands are happy to serve their clan lords in their leisure time.
+ID000543 Avar Light Cavalry
+ID000544 The Avars are a powerful steppe people, their iron hooves coming from the East.
+ID000545 Avar Heavy Cavalry
+ID000546 Ancient and powerful heavy cavalry.
+ID000547 Bulgarian Heavy Cavalry
+ID000548 After conquering the Avars, the Bulgarians incorporated them into their cavalry, using their superior horseback fighting skills to create this elite cavalry corps.
+ID000549 Bulgarian Heavy Cavalry
+ID000550 After conquering the Avars, the Bulgarians incorporated them into their cavalry, using their superior horseback fighting skills to create this elite cavalry corps.
+ID000551 Horse Cavalry
+ID000552 Berserkers
+ID000553 Once these warriors' blood starts boiling, only the death of their enemies can satisfy them.
+ID000554 Berserkers
+ID000555 Once these warriors' blood starts boiling, only the death of their enemies can satisfy them.
+ID000556 Thralls
+ID000557 A respectable jarl wouldn't arm their slaves for battle, but times have changed...
+ID000558 Housecarls
+ID000559 A respectable lord should have his own household guards, a group of formidable warriors capable of handling various emergencies.
+ID000560 Norman Cavalry
+ID000561 The Normans invested a lot of effort into cavalry training, wearing relatively light chainmail, and pioneering the couched lance charge tactic, becoming more adaptable to the changing battlefield.
+ID000562 Banner Knights
+ID000563 Distinguished from ordinary knights' conical triangular banners, these noble knights have the right to use square banners symbolizing status and rank on the battlefield. They are battle-hardened, determined warrior.
+ID000564 Armored Sergeants
+ID000565 Heavily armored elite military aides, serving their lords as a formidable fighting force.
+ID000566 Squire Knights
+ID000567 Every young man aspiring to be a knight should focus on accumulating battlefield experience, as the battlefield is their school.
+ID000568 Kern
+ID000569 Kern is a type of Irish light infantry, often fighting alongside Gaelic mercenaries. Though they have simple equipment, they are exceptionally effective in combat and widely praised.
+ID000570 Rushton Heavy Cavalry
+ID000571 This elite cavalry unit formed during the Muslim conquests, with almost everyone riding purebred Arabian horses. Their lance charges can crush any enemy.
+ID000572 Armorican Heavy Cavalry
+ID000573 Influenced by the Alans and the late Roman military system, the Bretons made extensive use of cavalry known for their strong discipline and excellent teamwork.
+ID000574 Abid Infantry
+ID000575 This mixed light infantry unit has a complex origin, including fervent religious volunteers and black slave soldiers from North Africa. They gathered for a grand holy war, believing in their Muslim brothers fighting alongside them, trusting in the Prophet and their faith in Allah.
+ID000576 Moorish Guards
+ID000577 Moorish warriors retain strong tribal traditions, charging forward fearlessly in battle.
+ID000578 Moorish Cavalry
+ID000579 Serving extensively during the Moorish conquests, this cavalry combines North African horsemanship with Iberian battle conditions, making them exceptionally fierce.
+ID000580 Spanish Javelin Riders
+ID000581 To counter the massive deployment of Moorish cavalry, we organized skilled horsemen, equipped with leather armor and javelins, constantly harassing the enemy and waiting for the right moment to break their ranks.
+ID000582 Order Knights
+ID000583 Heavily armored fanatic knights, skilled in heavy cavalry charges.
+ID000584 Catalan Raiders
+ID000585 Shock infantry who performed brilliantly during the Reconquista, carrying light weapons and gear, they charge at the enemy with high morale.
+ID000586 Catalan Mercenaries
+ID000587 These notable shock infantry from the Reconquista carry light weapons and gear, joining battlefields big and small around the world as elite infantry units.
+ID000588 Byzantine Legion Infantry
+ID000589 Legion Infantry form the backbone of the Byzantine army, well-equipped and highly disciplined.
+ID000590 Imperial Guard
+ID000591 These elite heavy infantry form Byzantium's unyielding defensive line. Belonging to the central army, they are combat-experienced.
+ID000592 Byzantine Archers
+ID000593 Archery is a mandatory skill for every Byzantine soldier. These skilled archers, protected by their infantry lines, take down enemies with extraordinary accuracy.
+ID000594 Varangian Guard
+ID000595 This Byzantine Imperial Guard unit has formidable combat power, clad in heavy armor, beheading enemies at astonishing speed. They are loyally dedicated to sweeping away the Emperor's foes.
+ID000596 Varangian Guard
+ID000597 This Byzantine Imperial Guard unit has formidable combat power, clad in heavy armor, beheading enemies at astonishing speed. They are loyally dedicated to sweeping away the Emperor's foes.
+ID000598 Border Wardens
+ID000599 To defend against the surrounding Muslims, any capable person in the military district can enlist, including bandits and lawbreakers. They are known for their team combat skills and adept formation coordination.
+

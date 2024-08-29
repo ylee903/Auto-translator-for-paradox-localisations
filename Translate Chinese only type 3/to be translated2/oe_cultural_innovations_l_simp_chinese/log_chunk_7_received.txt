@@ -1,0 +1,102 @@
+Chunk 7 received from API:
+ID000600 Border Raiders
+ID000601 To defend against the surrounding Muslims, anyone in this military district with combat ability can enlist, including robbers and outlaws. They have no moral principles and are notorious for their flexible combat tactics and atrocities committed against civilians when underpaid.
+ID000602 Rock Throwing Infantry
+ID000603 Lightly equipped rock throwers who harass the enemy with skilled hit-and-run tactics.
+ID000604 Light Javelin Thrower
+ID000605 Lightly equipped javelin throwers with simple gear but quick movements.
+ID000606 Vanguard Light Cavalry
+ID000607 Byzantine light cavalry known for their speed and agility, equipped with bows and javelins, excelling in hit-and-run guerrilla tactics.
+ID000608 Fortress Guard
+ID000609 Heavily armored garrison guards permanently stationed at frontier fortresses.
+ID000610 Border Patrol Knight
+ID000611 Light cavalry patrolling the border, reporting any enemy sightings and closely monitoring their movements.
+ID000612 Border Raiders
+ID000613 Rapid response units against enemy cavalry, capable of quick reaction and harassment.
+ID000614 Ansar Light Cavalry
+ID000615 These cavalrymen escort batches of devout pilgrims along the pilgrimage routes.
+ID000616 Swift Guard
+ID000617 An elite light cavalry unit of the Rashidun army during the Muslim conquest of Syria, renowned for their incredible speed that turned the tide during the siege of Damascus, defeating the seemingly invincible Byzantine army.
+ID000618 Imperial Guard
+ID000619 Super heavy armored cavalry that surrounds and guards the Emperor.
+ID000620 Imperial Guard
+ID000621 Super heavy armored cavalry that surrounds and guards the Emperor.
+ID000622 Mamluk Heavy Cavalry
+ID000623 These long-trained slave warriors form our mighty heavy cavalry force. I foresee them shining brilliantly in a future battle.
+ID000624 Mamluk Horse Archer
+ID000625 Our Mamluk slave warriors are formidable, and the best among them have archery skills rivaling those of nomadic tribesmen who grew up on horseback.
+ID000626 Armored Camel Cavalry
+ID000627 Armoring camels is no easy task, but the rewards are worth it. A fully armored camel charge can make mounted troops flee with their tails between their legs.
+ID000628 Asawira
+ID000629 These Persian warriors, converted to our faith, are heavily armored and legendary for their heroic deeds centuries ago.
+ID000630 Oghuz Mercenary Cavalry
+ID000631 Oghuz cavalry are excellent scouts and raiders, traveling to Iberia to serve any employer willing to pay.
+ID000632 Abna Infantry
+ID000633 Our well-trained warriors advance steadily under spears and swords, skillfully using javelins to kill enemies who dare to face them head-on. Their discipline makes them fearless in close combat, delivering deadly blows with short swords and daggers.
+ID000634 Ghulam Heavy Cavalry
+ID000635 These heavily armored slave cavalrymen, fighting on the front lines for years, are both loyal and strong, known for their fearless combat style.
+ID000636 Ghulam Heavy Cavalry
+ID000637 These heavily armored slave cavalrymen, fighting on the front lines for years, are both loyal and strong, known for their fearless combat style.
+ID000638 Kurdish Javelineer
+ID000639 These ancient mountain warriors cause significant damage to enemies with their basic javelins.
+ID000640 Iqta Swordsman
+ID000641 Young soldiers recruited by Muslim rulers to maintain regional order.
+ID000642 Ghazi Volunteer
+ID000643 Fanatical religious warriors who crush all heretics into dust.
+ID000644 Slave Warrior
+ID000645 Ineffective slave soldiers with poor equipment and discipline, only useful as cannon fodder.
+ID000646 Slave Warrior
+ID000647 Ineffective slave soldiers with poor equipment and discipline, only useful as cannon fodder.
+ID000648 Slave Warrior
+ID000649 Ineffective slave soldiers with poor equipment and discipline, only useful as cannon fodder.
+ID000650 Slave Warrior
+ID000651 Ineffective slave soldiers with poor equipment and discipline, only useful as cannon fodder.
+ID000652 Slave Warrior
+ID000653 Ineffective slave soldiers with poor equipment and discipline, only useful as cannon fodder.
+ID000654 Celts
+ID000655 The Celts were an ancient European group bound by a common language and cultural tradition, repeatedly resisting invaders and never succumbing to outsiders, as if it were ingrained in their bones.
+ID000656 Anglo-Saxon Selected Militia
+ID000657 In the chaotic migration and settlement period, wars were led by a small number of bodyguards. By the 8th century, Anglo-Saxon leaders had established their own kingdoms, necessitating greater logistical efforts to protect land and wage war. As a solution, the Anglo-Saxons implemented the "selected fyrd" system.
+ID000658 Organization of Bodyguards
+ID000659 In the chaotic times of Germanic migrations to Britain, tribal leaders and kings would summon their selected strong warriors, equipped with the best weapons, who also served as bodyguards and received special war training.
+ID000660 Welsh Longbow
+ID000661 Made from yew wood, the Welsh longbow is light and highly elastic, making its destructive power formidable.
+ID000662 Sling
+ID000663 The sling is a relic of human civilization, capable of knocking down a bison with a fast-flying stone. It also has significant wartime applications.
+ID000664 Highland Clans
+ID000665 The rugged Highland clans of northern Scotland retain their primitive Celtic ways and tribal alliances, being natural-born warriors who roam the mountains.
+ID000666 Hiring Foreign Warriors
+ID000667 The fierce Gaels of northern Scotland are unmatched battle enthusiasts willing to fight for money. Importantly, they rarely meddle in local politics and will comply as long as the price is right.
+ID000668 Home of Warriors
+ID000669 Northern Scotland has always been the homeland of the Gaels, and our warriors are more than willing to fight for their land and country.
+ID000670 Bread and Mead
+ID000671 The lord distributing bread to his followers symbolizes the bond and loyalty between them. Though often symbolic, these events also serve as cohesion exercises where high-ranking soldiers interact more freely, enhancing planning and coordination in real battles.
+ID000672 Book of Winchester
+ID000673 Also known as the Domesday Book, it is a survey of land ownership across England aimed at understanding royal estates and the lands of the king's direct vassals for tax collection, financial management, and defining feudal obligations.
+ID000674 Conqueror's Stance
+ID000675 We have conquered the British Isles. These natives should pledge their allegiance to me.
+ID000676 Armorica
+ID000677 We are the island Celts forced into exile here during the Germanic migrations, referred to as Armorica by the Romans.
+ID000678 Iberian City Militia
+ID000679 Mid-medieval Iberian city militias played a significant role. Originating from border conflicts, local militias served the peninsula's monarchs, rapidly expanding their military and economic power in urgent situations, providing flexibility for royal decisions.
+ID000680 Spanish Hidalgos
+ID000681 With the gradual liberation of Iberia, we granted land ownership to loyal lords and exempted them from some taxes in exchange for providing cavalry for subsequent wars of reconquest.
+ID000682 Land Grants
+ID000683 As the Reconquista intensifies, we need many soldiers to suppress the infidels. Even non-nobles can obtain land if they provide large numbers of conscripts.
+ID000684 Visigothic Tactics
+ID000685 We inherit the Visigothic combat approach, focusing on cavalry as the main force and excelling in mounted warfare.
+ID000686 Catalan Mercenaries
+ID000687 The military demands of the Reconquista fostered the formation of elite Iberian infantry. Our warriors, unwilling to disappear post-war, form bands of mercenaries, active on battlefields large and small worldwide.
+ID000688 Spanish Phalanx
+ID000689 To solidify our Iberian land dominance, we must undergo an infantry revolution. History has proven that a well-organized infantry can succeed in any battlefield condition.
+ID000690 Spanish Pikemen
+ID000691 With long and dense pike formations and tight coordination, our army is unstoppable on land!
+ID000692 Spanish Rodeleros
+ID000693 Equipped with high-quality steel shields and long swords, this unit can quickly breach enemy pike formations with the support of pikemen, swiftly turning the tide.
+ID000694 Zweihander Swordsman
+ID000695 Elite infantry wielding giant swords, whose superior swordsmanship can quickly break through enemy pike formations.
+ID000696 Noble Guard
+ID000697 The bodyguards of noble lords, composed of battle-hardened veterans, possess extraordinary combat prowess.
+ID000698 Old Swiss Highlander
+ID000699 The harsh living conditions and long-standing foreign invasions have made the inhabitants of this land ready to fight to defend their survival at any time.
+

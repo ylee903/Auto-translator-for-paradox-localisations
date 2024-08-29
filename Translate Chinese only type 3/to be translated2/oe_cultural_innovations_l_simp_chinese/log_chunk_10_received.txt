@@ -1,0 +1,102 @@
+Chunk 10 received from API:
+ID000900 Some of the resources on this land were artificially relocated during a mass migration.
+ID000901 Discuss Alliance
+ID000902 Forge an alliance with [recipient.GetTitledFirstNameNoTooltip] by stating the advantages and disadvantages—the prairie forces need to be unified!
+ID000903 Same [cultural|E]: $VALUE|=+0$
+ID000904 Discuss Alliance
+ID000905 Discuss Alliance (Nomadic Vassal)
+ID000906 Forge an alliance with [recipient.GetTitledFirstNameNoTooltip] by stating the advantages and disadvantages—to promote certain common goals!
+ID000907 Tribal Alliance
+ID000908 Forge a vassal relationship with [recipient.GetTitledFirstNameNoTooltip] by stating the advantages and disadvantages—to promote certain common goals!
+ID000909 Difference in your military strength: $VALUE|=+0$
+ID000910 Diplomacy and allies: $VALUE|=+0$
+ID000911 Significant external threat: $VALUE|=+0$
+ID000912 Weak and isolated: $VALUE|=+0$
+ID000913 Ambitious: $VALUE|=+0$
+ID000914 Summon Vassal to War
+ID000915 Summon [recipient.GetUINameNoTooltip] to war to fulfill their duties as a vassal.
+ID000916 Defending [war|E]: $VALUE|=+0$
+ID000917 Is [powerful_vassals|E]: $VALUE|=+0$
+ID000918 Neighboring vassal peers: $VALUE|=+0$
+ID000919 Pasture: $VALUE|=+0$
+ID000920 Loose tribe: $VALUE|=+0$
+ID000921 Limited tribal authority: $VALUE|=+0$
+ID000922 High tribal authority: $VALUE|=+0$
+ID000923 Absolute tribal authority: $VALUE|=+0$
+ID000924 Warlike [ethos|E]: $VALUE|=+0$
+ID000925 Collective [ethos|E]: $VALUE|=+0$
+ID000926 Same [dynasty|E]: $VALUE|=+0$
+ID000927 Is your [close_family_member|E]: $VALUE|=+0$
+ID000928 Warlike: $VALUE|=+0$
+ID000929 Vassal stance: Seeking fame and profit: $VALUE|=+0$
+ID000930 Vassal stance: Localism: $VALUE|=+0$
+ID000931 Summon to Join War (Nomadic Alliance)
+ID000932 Chief
+ID000933 Extra Taxes
+ID000934 The chief has completed your task and successfully submitted the taxes.
+ID000935 Prestige Spread
+ID000936 The chief has successfully spread your prestige.
+ID000937 Chief's Levy
+ID000938 The chief has gathered a levy for you.
+ID000939 Chief's Light Cavalry
+ID000940 The chief has gathered a unit of light cavalry for you.
+ID000941 Chief's Horse Archers
+ID000942 The chief has gathered a unit of horse archers for you.
+ID000943 Chief's Heavy Cavalry
+ID000944 The chief has gathered a unit of heavy cavalry for you.
+ID000945 Player [regiment|E][stationed_holding|E] adjustment rate
+ID000946 Sixty percent
+ID000947 The player gets the [GetModifier('xinzeng_zhujun_xiuzheng_001_modifier').GetNameWithTooltip] adjustment, which maximizes data inflation prevention, indirectly adjusts AI difficulty, and optimizes the competitive gaming experience. Battling AI is endlessly fun.
+ID000948 Forty percent
+ID000949 The player gets the [GetModifier('xinzeng_zhujun_xiuzheng_002_modifier').GetNameWithTooltip] adjustment, which does not significantly affect unit stacking but can moderately reduce the rate of data inflation.
+ID000950 Twenty percent
+ID000951 The player gets the [GetModifier('xinzeng_zhujun_xiuzheng_003_modifier').GetNameWithTooltip] adjustment, slightly corrects the garrison values, and almost certainly, your generals will soon experience the thrill of AI slaying.
+ID000952 None
+ID000953 Furious Scholar AI!!!
+ID000954 Equipment System: #P #EMP On#!#!
+ID000955 Equipment System: #N #EMP Off#!#!
+ID000956 Extra Military Expenses System Switch (Increased Game Difficulty)
+ID000957 Extra Military Expenses System: #P #EMP On#!#!
+ID000958 Extra Military Expenses System: #N #EMP Off#!#!
+ID000959 Choose #P #EMP Armors#!#! for this [regiment|E]'s [men_at_arms|E]
+ID000960 Choose #P #EMP Main Weapons#!#! for this [regiment|E]'s [men_at_arms|E]
+ID000961 Choose #P #EMP Secondary Weapons#!#! for this [regiment|E]'s [men_at_arms|E]
+ID000962 Choose #P #EMP Shields#!#! for this [regiment|E]'s [men_at_arms|E]
+ID000963 Choose #P #EMP Mounts#!#! or #P #EMP Related#! for this [regiment|E]'s [men_at_arms|E]
+ID000964 Choose #P #EMP Garrison Strategy#! for this [regiment|E]'s [men_at_arms|E]
+ID000965 Click to equip #P #EMP Armors#!#! for this [regiment|E]'s [men_at_arms|E]\n[regiment|E] requires some time to adapt to the new equipment. Other options will not be available until the previous adjustment ends.\nWhen the [tax|E] of [stationed_holding|E] for [regiment|E] is #N #EMP less than or equal to zero#!#!, all options will be #N #EMP unavailable#!#!
+ID000966 Click to equip #P #EMP Main Weapons#!#! for this [regiment|E]'s [men_at_arms|E]\n[regiment|E] requires some time to adapt to the new equipment. Other options will not be available until the previous adjustment ends.\nWhen the [tax|E] of [stationed_holding|E] for [regiment|E] is #N #EMP less than or equal to zero#!#!, all options will be #N #EMP unavailable#!#!
+ID000967 Click to equip #P #EMP Secondary Weapons#!#! for this [regiment|E]'s [men_at_arms|E]\n[regiment|E] requires some time to adapt to the new equipment. Other options will not be available until the previous adjustment ends.\nWhen the [tax|E] of [stationed_holding|E] for [regiment|E] is #N #EMP less than or equal to zero#!#!, all options will be #N #EMP unavailable#!#!
+ID000968 Click to equip #P #EMP Shields#!#! for this [regiment|E]'s [men_at_arms|E]\n[regiment|E] requires some time to adapt to the new equipment. Other options will not be available until the previous adjustment ends.\nWhen the [tax|E] of [stationed_holding|E] for [regiment|E] is #N #EMP less than or equal to zero#!#!, all options will be #N #EMP unavailable#!#!
+ID000969 Click to choose #P #EMP Mounts#!#! or #P #EMP Related#!#! for this [regiment|E]'s [men_at_arms|E]\n[regiment|E] requires some time to adapt to the new mounts and related items. Other options will not be available until the previous adjustment ends.\nWhen the [tax|E] of [stationed_holding|E] for [regiment|E] is #N #EMP less than or equal to zero#!#!, all options will be #N #EMP unavailable#!#!
+ID000970 Click to choose #P #EMP Garrison Strategy#!#! for this [regiment|E]'s [men_at_arms|E]\n[regiment|E] requires some time to adapt to the new garrison strategy. Other options will not be available until the previous adjustment ends.\nWhen the [tax|E] of [stationed_holding|E] for [regiment|E] is #N #EMP less than or equal to zero#!#!, all options will be #N #EMP unavailable#!#!
+ID000971 Forced Re-equipment
+ID000972 Chainmail
+ID000973 Plate Armor
+ID000974 Lamellar Armor
+ID000975 Heavy Lamellar Armor
+ID000976 Leather Armor
+ID000977 Bamboo Armor
+ID000978 Rattan Armor
+ID000979 Forced Re-equipment
+ID000980 Spear
+ID000981 War Knife
+ID000982 Danish Axe
+ID000983 Heavy Battle Axe
+ID000984 War Club
+ID000985 Tang Hook Sword
+ID000986 Sabre
+ID000987 Longsword
+ID000988 Heavy Mace
+ID000989 Short Spear
+ID000990 Javelin
+ID000991 Chain Flail
+ID000992 Baton
+ID000993 Gurkha Kukri
+ID000994 Lance
+ID000995 Sarissa
+ID000996 Bow
+ID000997 Longbow
+ID000998 Crossbow
+ID000999 Repeating Crossbow
+

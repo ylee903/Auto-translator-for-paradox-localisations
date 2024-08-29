@@ -1,0 +1,102 @@
+Chunk 5 received from API:
+ID000400 Initiate Ikki (ai)
+ID000401 Initiate Ikki
+ID000402 The uprising will succeed
+ID000403 Mobilize monks and soldiers
+ID000404 The regiment of monks is armed
+ID000405 Form the Yulin Army
+ID000406 Mandate of Heaven is here!
+ID000407 All under heaven, bow down
+ID000408 In a prosperous age, we need strong soldiers, form the Yulin Army!
+ID000409 Form the Yulin Army
+ID000410 During the heyday of the Tang Dynasty, the ancient and splendid Chinese civilization was spread all over the world through the Silk Road from Chang'an to the Mediterranean coast. Monarchs, envoys, merchants, monks, students, craftsmen, doctors, Huji from various countries came in droves. They entered the territory of the Tang Empire and were all genuinely amazed by the bustling cities.\nToday!\nRecreate the glorious Tang Dynasty!
+ID000411 My fame will spread across the seas.
+ID000412 Form the Longwu Army
+ID000413 Mandate of Heaven is here!
+ID000414 All under heaven, bow down
+ID000415 In a prosperous age, we need strong soldiers, form the Longwu Army!
+ID000416 Form the Longwu Army
+ID000417 During the heyday of the Tang Dynasty, the ancient and splendid Chinese civilization was spread all over the world through the Silk Road from Chang'an to the Mediterranean coast. Monarchs, envoys, merchants, monks, students, craftsmen, doctors, Huji from various countries came in droves. They entered the territory of the Tang Empire and were all genuinely amazed by the bustling cities.\nToday!\nRecreate the glorious Tang Dynasty!
+ID000418 My fame will spread across the seas.
+ID000419 Longwu Army
+ID000420 Revitalize Horse Policy (ai)
+ID000421 Revitalize Horse Policy
+ID000422 Implement the Horse Preservation Law, benefit future generations!
+ID000423 Implement the Horse Preservation Law...
+ID000424 Issue the Horse Preservation Law, benefit future generations!
+ID000425 Issue the Horse Preservation Law!
+ID000426 It is stipulated that Hebei, Hedong, Shaanxi, Jidong, the five western routes, and all counties within Kaifeng Prefecture shall maintain horses under the Baojia system, one horse per household, and two for those with high capability and willing. They are provided with government horses, or allowed to buy their own with government funds. Households maintaining horses can reduce some taxes. For households above the third rank, ten households form one Bao; for those below the fourth rank, ten households form one She. If a horse in a Bao household dies of illness, the horse-owning household compensates alone; if a horse in a She household dies of illness, the horse-owning household and the other nine households compensate half each.\n\nBy my decree: implement the Horse Preservation Law!
+ID000427 Good!
+ID000428 You have unlocked [GetMaA('majun').GetName][men_at_arms|E].\nYou have unlocked [GetMaA('jingsaitieqi').GetName][men_at_arms|E].
+ID000429 Regional Testing (ai)
+ID000430 Recruit Slave Soldiers (ai)
+ID000431 Recruit Slave Soldiers (ai)
+ID000432 Supplement Slave Soldiers (ai)
+ID000433 Slave Soldiers
+ID000434 Benevolent Love (ai)
+ID000435 Benevolent Love (ai)
+ID000436 Mongolian Legion
+ID000437 Genghis Khan's Martian Soldiers (ai)
+ID000438 Genghis Khan's Martian Soldiers (ai)
+ID000439 Unify the Nüzhen Tribes (ai)
+ID000440 Form the Iron Sparrows (ai)
+ID000441 Form the Iron Sparrows (ai)
+ID000442 Form the Imperial Guards (ai)
+ID000443 Form the Imperial Guards (ai)
+ID000444 Expand Crossbowmen (ai)
+ID000445 Expand Mo-Dao Soldiers (ai)
+ID000446 Expand Tooth Soldiers (ai)
+ID000447 Train Iron Buddha Soldiers (ai)
+ID000448 Train Iron Buddha Soldiers (ai)
+ID000449 Expand Horse Army (ai)
+ID000450 Public Resentment Boiling Over (ai)
+ID000451 Public Fury
+ID000452 Years of war and debt have left me on edge. Finally, today, my guard stumbled in to tell me: the enraged populace is gathering to overthrow my rule!\nI haven't treated them badly, why are they doing this to me!\nThese damn wretches!
+ID000453 I need to find a way to calm them quickly.
+ID000454 My spokesperson brought news: the public's anger has subsided, they even donated some supplies to me.
+ID000455 My speech was terrible, I'm finished.
+ID000456 Deploy troops, let these wretches see the power of swords and spears!
+ID000457 My guards charged into the crowd and hacked to death a few leading troublemakers.
+ID000458 The combat ability of the wretches exceeded my expectations, I'm finished.
+ID000459 Let them do as they please.
+ID000460 Things are increasingly getting out of your control
+ID000461 Hold a Grand Parade
+ID000462 My army needs me, my people need me, my vassals need me.\nI have meticulously prepared a grand parade, which will surely be of great impact.
+ID000463 The parade proceeded smoothly
+ID000464 Prepare for the parade!
+ID000465 Let's start!
+ID000466 Grand Parade
+ID000467 The parade ground is teeming with people; each department is lined up waiting for inspection. I have prepared many speeches, ready to deliver my remarks after the parade.\nBut it's getting late, and time is running out. Who should I address first?
+ID000468 Start with the brave warriors under my command who charge at the forefront
+ID000469 I should appear more approachable to the lower-ranking soldiers
+ID000470 Without my beloved vassals, I wouldn't be where I am today!
+ID000471 My most courageous warriors shouted 'Long live!' in unison; even from this far, I can feel their fervor.
+ID000472 Warp Space Demons
+ID000473 Khorne Bloodthirsters
+ID000474 Slaanesh Pleasureseekers
+ID000475 Become the Champion of Khorne!
+ID000476 Blood for the Blood God, Skulls for the Skull Throne!!!\n\n\nRemove the seal to start the Great Crusade (Save before clicking, the consequences are irreversible, and the deity released is beyond my control)
+ID000477 Blood for the Blood God, Skulls for the Skull Throne!!!
+ID000478 Blood for the Blood God, Skulls for the Skull Throne!!!
+ID000479 Become the Champion of Slaanesh!
+ID000480 Enjoy endless pleasures!!!\n\n\nRemove the seal to start the Great Crusade (Save before clicking, the consequences are irreversible, and the deity released is beyond my control)
+ID000481 Enjoy endless pleasures!!!
+ID000482 Enjoy endless pleasures!!!
+ID000483 Recruit Nomads for War
+ID000484 The number and cost of [GetMaA('caoyuanyoumumin_shijian').GetName] recruited will depend on your [realm_size|E], [martial_skill|E], and #V $current_total_troops$#!.
+ID000485 For the glory of the grasslands!
+ID000486 Sound the horn!
+ID000487 Form the Varangian Guard (ai)
+ID000488 Form the Varangian Guard (ai)
+ID000489 Form the Varangian Guard (ai)
+ID000490 Form the Varangian Guard
+ID000491 Where are my loyal warriors?!
+ID000492 A batch of Varangian warriors will come in admiration......\nYour fame is spreading widely in the circles of northerners, for the next 20 years [GetMaA('walanjiweidui').GetName][men_at_arms|E] will be at your disposal.
+ID000493 I need to form a strong and loyal Imperial Guard!
+ID000494 My messenger tells me: the northern warriors will arrive soon!
+ID000495 Arrival of the Varangian Warriors
+ID000496 One after another, various longships dock at the port, and fierce northern warriors disembark in single file. The chainmail on their bodies reflects a blood-soaked, deathly iron black under the sunlight. I can't believe my eyes; these powerful warriors will soon be under my command!\n\nI straighten my chest, trying to show the posture a king should have. I try to find a hint of fear in their deep-sunken eyes—a fear for the living emperor standing before them.\n\nThese northerners did not shy away from my gaze, staring back directly.\n\nHeavens! Their gazes are utterly nerve-wracking......
+ID000497 What fearless and mighty warriors they are......
+ID000498 Mercenary Massacre
+ID000499 A group of frenzied mercenaries ransacked [county.GetNameNoTierNoTooltip], taking everything and leaving no survivors......\nApparently, these mercenaries are not satisfied with the payment I provided.
+

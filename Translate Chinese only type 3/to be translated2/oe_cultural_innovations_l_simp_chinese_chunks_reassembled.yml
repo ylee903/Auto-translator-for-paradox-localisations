@@ -1,0 +1,1133 @@
+ID000000: Baiyue Ambition
+ID000001: Baiyue generally refers to the tribes that inhabit the coasts and major rivers of East Asia. They were the earliest settlers of the East Asian continent.
+ID000002: King of Thousands of Islands
+ID000003: The Austronesian tribes traveled among thousands of islands, constantly facing tides and storms, dominating the seas under the sun.
+ID000004: White Mountains and Black Waters
+ID000005: The Xing'an Mountains, Changbai Mountains, and the basins of the Nen and Heilong Rivers nurtured many tribes. Under the protection of the Willow Goddess, they thrived and repeatedly emerged from the forests.
+ID000006: Master of the Forest
+ID000007: From the Ailao Mountains to the Wuyi Mountains, there are tribes known for their bravery and hunting skills. The story of Chiyou challenging the Central Plains has become legend, but they have never forgotten their glory.
+ID000008: Martial Fortune
+ID000009: The Yamato people firmly believe that from mythological times, they have been destined by the heavens; flowers fall instantly, sorrow and joy have their times, playing the koto for a thousand days, and achieving unity with the sword.
+ID000010: Beautiful Mountains and Waters
+ID000011: Contrary to the Central Plains historians' assertion of the Ye-Maek lineage, the Goryeo tribes claimed descent from Dangun and were revived by Goguryeo, descendents of Buyeo.
+ID000012: Canglang and White Deer
+ID000013: The Ch'ih-leh plains beneath the Yin Mountains. The sky is like a dome, covering the vast land. The heavens are vast, and the wilderness is boundless. The wind blows the grass low, revealing horses and sheep.
+ID000014: Patriarchal Tradition
+ID000015: For large-scale intensive labor, people multiplied in clans, valuing life and death highly. They lived under clan constraints where fathers held supreme authority, practicing the hereditary succession of the eldest son, not damaging their bodies, first honoring their kin and then extending respect to others. Those who violated clan laws were universally despised.
+ID000016: Implements the identifiable hereditary succession of the eldest son
+ID000017: Unified System
+ID000018: Unified track widths, standardized writing, and harmonious conduct. The early centralization and authoritarian system could organize large-scale production, with the emperor's authority owning and disposing of everything.
+ID000019: Can recruit [GetMaA('mangudai').GetName][men_at_arms|E]
+ID000020: Can recruit [GetMaA('asia_tunguse_ss').GetName][men_at_arms|E]
+ID000021: Can recruit [GetMaA('samurai').GetName][men_at_arms|E]
+ID000022: Can recruit [GetMaA('java_warrior').GetName][men_at_arms|E]
+ID000023: Can recruit [GetMaA('china_east_ms').GetName][men_at_arms|E]
+ID000024: Can recruit [GetMaA('china_south_wd').GetName][men_at_arms|E]
+ID000025: Khitan Military System
+ID000026: Emperor Taizong selected 300,000 elite troops from across the land for the Pishi Army. Initially, Emperor Taizu set up a core force of over a thousand leaders from various tribes, which formed the Pishi Army. Taizong expanded it to 300,000.
+ID000027: Warship
+ID000028: Thousands of iron chains sinking to the river bottom, a banner of surrender flying over Shitou City.
+ID000029: Canoe
+ID000030: With no path to follow, he sailed away on a raft.
+ID000031: Guard of the Two Capitals
+ID000032: Taking a break from fasting to attend the Tai Chang Temple, carrying poetry volumes to the Gangtang pavilion.\nThe governor, an old acquaintance from court, allows a bit of revelry post-drinking.\nWhen documents arrive, only a signature is required, while the vistas inspire verse.\nMany travelers roam the avenues of the two capitals, where poets frequently clash in contests.
+ID000033: Wu Hook
+ID000034: The Han cauldron does not cook Cao Cao's flesh, the Wu hook severs Wu Zixu's head in vain.
+ID000035: Excellent Steeds from Youzhou
+ID000036: The cunning leader draws cavalrymen, who fly like silver hawks, armed with bows and knives.
+ID000037: Goryeo Hunter
+ID000038: The land of Goryeo, rich in mountains and forests; its people excel at crafting hunting tools, especially bows, which are also used in the military, boasting many skilled archers.
+ID000039: Western Shu Crossbow
+ID000040: It was said that the heavenly troops entered Western Shu, beating war drums and shaking the rocky valleys.
+ID000041: Central Plains Military System
+ID000042: Laugh not at the man who lies drunk on the battlefield; since ancient times, how many have returned from war?
+ID000043: Horse Cutter
+ID000044: Frost spears and snowy armor as cold as water, how can the scouts know the beginning and end?
+ID000045: Overthrow the Ruler
+ID000046: Use various means within the existing system to replace the superior.
+ID000047: Rise of the Samurai
+ID000048: Samurai emerged along with social chaos and the decline of imperial power.
+ID000049: Ashigaru
+ID000050: Ashigaru were the lowest class of foot soldiers in ancient Japan. They performed labor in peacetime and became infantry during wartime.
+ID000051: Goryeo Ginseng
+ID000052: Greatly replenishes vitality, generates fluids, and calms the mind, highly favored by the upper nation.
+ID000053: Goryeo Bow
+ID000054: The strongest military force of ancient Goryeo, one of its few highlights.
+ID000055: Byeolbangmu
+ID000056: A cavalry unit meticulously crafted by Goryeo to combat Jurchen invasions.
+ID000057: Mongolian Horse
+ID000058: The Mongolian horse is small in stature, unassuming in appearance, with a large head and short neck. It is robust, with a wide chest and long mane, thick skin, and coarse hair. It is hardy, highly adaptable, able to withstand Siberian snowstorms, and can kick foxes and wolves to death with its hooves.
+ID000059: Uyghur Light Cavalry
+ID000060: Although the Uyghurs had conflicts with various Turkic tribes, they maintained a traditional nomadic lifestyle. They formed a powerful cavalry unit using local Kazakh horses to protect land trade routes.
+ID000061: Kazakh Horse
+ID000062: A breed found in the northern slopes of the Tianshan Mountains, western Jungharia, and the western section of the Altai Mountains. It has a crude bone structure, thick skin, and dense hair with a bushy mane, forelock, and tail. The horse is heavily built but well-proportioned, with a versatile structure. It is an ancient local breed formed under extensive nomadic breeding conditions.
+ID000063: Himalayan Warrior
+ID000064: We have long adapted to the rugged terrain and thin air of the highland mountains. Outsiders find it difficult to endure the environment here, let alone pose a threat to us. Our warriors navigate the mountains, watching invaders fall one by one. The highlands are a divine barrier, making it hard for invaders to advance into Tibet, but our warriors also suffer severe adverse effects when descending to lower lands.
+ID000065: Hequ Horse
+ID000066: An ancient and excellent local breed, Hequ horses are tall, with flat backs and strong endurance, suitable for both harness and saddle. They are well-adapted to the local geography and environment, with strong disease resistance. Used as war horses since the Qin and Han dynasties, they were often offered as tribute in history.
+ID000067: Xianbei Iron Cavalry
+ID000068: One of the Xianbei traditions preserved by Tuyuhun. Since the reign of Emperor Xiaowen of Northern Wei, successive rulers have meticulously formed heavy cavalry units to intimidate neighboring enemies.
+ID000069: Tuyuhun Armored Cavalry
+ID000070: Tuyuhun warriors, armored head to toe, preserving the Xianbei tradition, excel at breaking enemy lines and killing foes.
+ID000071: Full Armor Cavalry
+ID000072: Warriors armored head to toe, following ancient battle traditions, breaking enemy lines and killing foes.
+ID000073: Turkic Heavy Cavalry
+ID000074: The Western Turks are a horse-riding nation. The iron-smelting and forging techniques inherited since the rise of the Turks combined with Central Asia's abundant iron resources created this renowned heavy cavalry unit. They are the wolves of the steppes and the nightmare of neighboring civilizations.
+ID000075: Turkic Heavy Cavalry
+ID000076: The Western Turks are a horse-riding nation. The iron-smelting and forging techniques inherited since the rise of the Turks combined with Central Asia's abundant iron resources created this renowned heavy cavalry unit. They are the wolves of the steppes and the nightmare of neighboring civilizations.
+ID000077: Cuman Tribe
+ID000078: The organizational method of the Cumans is extremely strong, and the powerful cavalry of each tribe is at my disposal.
+ID000079: Cuman Kipchaks
+ID000080: Lightly armored Cuman cavalry from various tribes known for their high mobility.
+ID000081: Wooden Fences
+ID000082: We make extensive use of locally sourced materials to deploy wooden fences around our settlements, effectively hindering the advance of invaders.
+ID000083: Akso
+ID000084: Bulgarian warriors armored together with their steeds, charging in dense formation to maximize their strength and speed.
+ID000085: Kuno
+ID000086: Lightly armed Magyar warriors whose arrival on horseback makes all of Pannonia tremble.
+ID000087: Lovas
+ID000088: Brave and armored Magyar knights, capable of raining arrows from a distance with light cavalry and charging in close combat during intense battles.
+ID000089: Armed Militia
+ID000090: Slightly trained and equipped with simple weapons, rotating militia units with some archers, but still lacking combat effectiveness.
+ID000091: Szekler Horse Archers
+ID000092: Szekler horse archers residing in Pannonia, skillful in flanking and pursuing retreating enemies.
+ID000093: Ghaznavid War Elephants
+ID000094: These war beasts were brought from India, gradually adapting to the battlefield noise and spears after long-term training and conditioning. Their thick skin, combined with full body armor, allows them to withstand fierce attacks and crush enemy formations with immense power.
+ID000095: Ghaznavid War Elephants
+ID000096: These war beasts were brought from India, gradually adapting to the battlefield noise and spears after long-term training and conditioning. Their thick skin, combined with full body armor, allows them to withstand fierce attacks and crush enemy formations with immense power.
+ID000097: Ghaznavid War Elephants
+ID000098: These war beasts were brought from India, gradually adapting to the battlefield noise and spears after long-term training and conditioning. Their thick skin, combined with full body armor, allows them to withstand fierce attacks and crush enemy formations with immense power.
+ID000099: Bushido
+ID000100: A death without hesitation, a death without concern, a death without doubt.
+ID000101: Fishing and Hunting
+ID000102: From small fish, shrimp, turtles, and crabs to whaling and battling sea beasts, this is an ancient profession.
+ID000103: Moving with the Grass
+ID000104: One of the main characteristics of ancient nomadic life, constantly chasing the grasslands and knowing everything about them.
+ID000105: When a character of [culture|E] leads an [army|E] through #V $grassland$#! or #V $plains$#!, the march speed will be greatly increased.
+ID000106: Miao Border Witchcraft
+ID000107: The great wisdom of the ancestors.
+ID000108: Bloodline of Chiyou
+ID000109: The legendary maker of weapons, also revered as the God of War, alongside the Yellow Emperor and Yan Emperor, known as the three ancestors of China. The fierce and united spirit derived from Chiyou's descendants, the Miao people, is praised by the world.
+ID000110: Ainu Tribal Warriors
+ID000111: The Ainu call themselves “Utari,” meaning “partner.” They cherish their fellow warriors and survive the many conflicts in the Japanese archipelago with great difficulty.
+ID000112: Northeast Asian Horse Archers
+ID000113: Horse archers well adapted to the dense forests of Northeast Asia, more suited to the local warfare environment compared to other nomadic forces on the grasslands.
+ID000114: Horse Archers
+ID000115: Horse archers well adapted to the dense forests of Northeast Asia, more suited to the local warfare environment compared to other nomadic forces on the grasslands.
+ID000116: Frontier Soldiers
+ID000117: Temporary soldiers recruited from rural border areas to guard against threats from neighboring nations.
+ID000118: Bandits
+ID000119: Killing, robbery, and banditry define a warrior.
+ID000120: Spearmen
+ID000121: Normally engaged in labor, becoming infantry during wartime.
+ID000122: North-Sided Samurai 
+ID000123: Serving under the northern aspect of the court, these samurai protect the abdicated emperor and attend to his needs.
+ID000124: Japanese Archers
+ID000125: The continuation of the Yamato people's traditional archery on the battlefield.
+ID000126: Naginata Warriors
+ID000127: Using long and sharp naginata as weapons, these warriors either form defensive formations to block enemies or scatter to ambush, making them formidable opponents.
+ID000128: Goryeo Archers
+ID000129: Skilled archers and hunters moving through the complex mountainous forests of the Korean Peninsula, using superior shooting techniques to inflict damage on the enemy.
+ID000130: Left Sekisho Archers
+ID000131: Skilled shield-bearing light infantry who know how to dodge incoming arrows.
+ID000132: Elite Heavy Infantry
+ID000133: Elite heavy infantry units created to counter the Jurchens, proficient in dealing with cavalry.
+ID000134: Hwarang
+ID000135: Young Goryeo nobles trained in martial arts from an early age, not only excelling in archery but also admired for their appearance and demeanor.
+ID000136: Imperial Guard
+ID000137: The emperor's exclusive army, responsible for protecting the imperial palace and the emperor himself, selected through layers of screening, highly skilled in martial arts.
+ID000138: Northern Imperial Guard
+ID000139: A strong force defending the capital.
+ID000140: Feathered Forest Army
+ID000141: Directly under the emperor, tasked with protecting the emperor or the imperial palace and capital's security.
+ID000142: Local Standing Army
+ID000143: The main source of the imperial guard, a local permanent army.
+ID000144: Faction Soldiers
+ID000145: Army units commanded by various regional military governors.
+ID000146: Frontier Army
+ID000147: Recruited military households from frontier towns to participate in wars to defend against foreign enemies.
+ID000148: Local Army
+ID000149: Soldiers independently recruited from various regions, with varying levels of quality.
+ID000150: Mo-Dao Infantry
+ID000151: Mo-Dao Infantry.
+ID000152: Village Braves
+ID000153: Temporarily recruited local militia who follow the army for combat and defense, forming their own camps.
+ID000154: Miao Warriors
+ID000155: The Miao people are all soldiers. In the event of sudden warfare, Miao warriors will spontaneously carry weapons and food to the battlefield under the leadership of their "Old Tiger Han" (warrior leader).
+ID000156: Navy Infantry
+ID000157: Southern infantry skilled in naval warfare, responsible for combined land and river operations and safeguarding river routes. When necessary, they can penetrate deep along river networks to deliver unexpected blows to the enemy.
+ID000158: Elephant Armor Warriors
+ID000159: Elite warriors clad in heavy elephant skin armor, undeterred by volleys of arrows.
+ID000160: Urumi Sword
+ID000161: One of the traditional martial arts of southern India, renowned for its speed and superior technique.
+ID000162: Urumi Swordsmen
+ID000163: Dravidian warriors skilled with soft swords, charging into enemy ranks at high speed to inflict massive damage within the area.
+ID000164: Rajput Warriors
+ID000165: Kshatriya warriors fighting on horseback, with Rajput scimitars striking accurately at the enemy's head.
+ID000166: Nayar Infantry
+ID000167: Southern Indian warriors who have long trained in Kalaripayattu martial arts, wielding long spears and cooperating seamlessly.
+ID000168: Sinhalese Guards
+ID000169: Loyal and fearless Sinhalese guard regiments, striving to protect their lord completely.
+ID000170: Jungle Claws
+ID000171: We have emulated the claws of the jungle king, the tiger, to create this powerful weapon—the claw blade.
+ID000172: Claw Blade Warriors
+ID000173: Shadows lurking in the dense jungles of the southern islands, using swift claw blades to cut the enemy's throat.
+ID000174: Steppe Riders
+ID000175: Steppe Riders
+ID000176: Uighur Light Cavalry
+ID000177: Tsampu Guard Department
+ID000178: Gui
+ID000179: Tsampu Guard Department
+ID000180: Gui
+ID000181: Uru-Yotgin Cavalry
+ID000182: Gui
+ID000183: Yung-Tongdai Protection
+ID000184: Yong
+ID000185: Can recruit [GetMaA('wushi').GetName] as [men_at_arms|E]
+ID000186: Can recruit [GetMaA('zuqing').GetName] as [men_at_arms|E]
+ID000187: Unmatched Bravery
+ID000188: Only the strong deserve to survive.
+ID000189: Art of War
+ID000190: War is an art; the winner takes all, and the loser has nothing.
+ID000191: Comfortable and Content
+ID000192: Life is important, but happiness is even more important.
+ID000193: This [culture|E] has the [ethos|E] of $ethos_courtly_name$
+ID000194: Knight Sanctuary
+ID000195: Proud knights are always poor at managing their estates. Falling into decline, they choose to fully rely on other wealthy rulers.
+ID000196: Destitute Knights
+ID000197: Feudal knights fallen to the point where they have nothing but their martial skills, leading a small retinue to depend on a wealthy ruler, hoping to rise again someday.
+ID000198: Can recruit [GetMaA('luopoqishi').GetName] as [men_at_arms|E]
+ID000199: This [culture|E] does not have the [ethos|E] of $ethos_spiritual_name$
+ID000200: Land Caravans
+ID000201: With the sound of camel bells and the passage of time, the connectivity of land routes produced a large number of merchants. They traveled through the desolate yellow sands, bringing countless exotic treasures.
+ID000202: Land Caravans
+ID000203: With the sound of camel bells and the passage of time, the connectivity of land routes produced a large number of merchants. They traveled through the desolate yellow sands, bringing countless exotic treasures.
+ID000204: Ice Sea Warriors
+ID000205: The surging Arctic Ocean brought terrible destroyers.
+ID000206: Can recruit [GetMaA('lushangshangdui').GetName] as [men_at_arms|E]
+ID000207: Can recruit [GetMaA('binghaizhanshi').GetName] as [men_at_arms|E]
+ID000208: Slavic Expansionism
+ID000209: The unique pioneering spirit of the Slavs, longing for warmth due to harsh cold and driven to expand due to severe conflicts.
+ID000210: Ice Sea Saga
+ID000211: A hymn of blood and ice, the Ice Sea endures forever.
+ID000212: Moa Garrison
+ID000213: These military leaders, initially set up during the later stages of primitive society for raiding and hunting, gradually evolved into permanent military organizations over time.
+ID000214: Armored Cavalry
+ID000215: The warriors clad in armor along with their horses dominated the battlefield, sweeping through with overwhelming force.
+ID000216: Can recruit [GetMaA('jiaqijuzhuang').GetName] [men_at_arms|E]
+ID000217: The [knights|E] of this [culture|E] are eligible to earn [GetAccoladeType('dfbz_xinzeng_0005_attribute').GetName] [accolades|E]
+ID000218: Armored Cavalry Leader
+ID000219: Armored Cavalry Leader
+ID000220: Vanguard Armored Cavalry
+ID000221: Vanguard Armored Cavalry
+ID000222: Bodyguard Armored Cavalry
+ID000223: Assault General
+ID000224: Assault General
+ID000225: Assault Unit
+ID000226: Assault Unit
+ID000227: Assault Unit
+ID000228: Longsword General
+ID000229: Longsword General
+ID000230: Longsword Unit
+ID000231: Longsword Unit
+ID000232: Longsword Unit
+ID000233: Longsword Unit
+ID000234: Tooth General
+ID000235: Tooth General
+ID000236: Khitan
+ID000237: Can recruit [GetMaA('nvzhen_mouke').GetName] as [men_at_arms|E]
+ID000238: Granting land to your $jurchen$ [knights|E] will greatly increase their fighting spirit, but prolonged comfortable living will quickly corrupt them.
+ID000239: Mohe
+ID000240: Elite warriors selected for their exceptional skills in raiding and hunting from various tribes.
+ID000241: Mohe
+ID000242: Elite warriors selected for their exceptional skills in raiding and hunting from various tribes.
+ID000243: You must have a [feudal|E] [government|E]
+ID000244: Sultan's Guard
+ID000245: A reliable guard composed of the Sultan's trusted confidants, also doing some unspeakable tasks for the Sultan on ordinary days.
+ID000246: Knight Tradition
+ID000247: The vast plains of France were the main battlefield for knights, nurturing the most ferocious knight corps of the entire medieval period.
+ID000248: Bodyguard Unit
+ID000249: Powerful rulers often need a reliable bodyguard unit to handle various unexpected situations, and these people should ideally be trustworthy.
+ID000250: Axewieldin Guard
+ID000251: Vodka
+ID000252: The water of life, the pride of the Rus people.
+ID000253: Fierce Folkways
+ID000254: With little civilization, fierce folkways dominate, primitive desires fill every heart.
+ID000255: Wart Armor
+ID000256: The Qiang people excelled at forging armor, initially very thick without using fire, cold-forged until it was three-tenths the original thickness. The un-forged end was left as a protrusion like a wart to test pre-forging thickness, likened to sediment left when digging rivers, hence the name "Wart Armor". Even strong crossbows couldn't penetrate it.
+ID000257: Qiang of the Mountain
+ID000258: The Qiang tribes widely distributed in the northwestern mountainous areas, excelling in cross-country navigation among the mountains.
+ID000259: Tangut Horses
+ID000260: The Tangut tribe lived in areas like Dijingze, Hengshan, and Tiandushan, all famous horse-producing regions. With abundant high-quality horses, the Tang Dynasty poet Yuan Zhen wrote, "Buy Tangut horses in the north, capture Tibetan eagles in the west." Song people regarded Tangut horses as the best in the world.
+ID000261: Cold Forged Steel
+ID000262: The Tangut's steel forging technology surpassed others, and obtaining a sword of Xia kingdom was considered supreme glory. The Song Emperor Qinzong carried a 'Xia Sword' with him. Su Dongpo received a Western Xia sword and wrote a poem: 'Adorned in red, flower reflections in wine, sword drawn in hall, wind appeared. Spirals on the blade, dragon carved on the spine, embraced by silver dragons.'
+ID000263: Ronin
+ID000264: To restore their former authority, they undertook dangerous adventures, claiming to be soldiers of the Emperor, spreading chaos everywhere.
+ID000265: Divine Arm Bow
+ID000266: A bow that one person could draw, with a maximum range of four hundred meters, capable of penetrating heavy armor.
+ID000267: Decayed Horse Administration
+ID000268: Neglect by the upper rulers combined with poor governance by the lower officials led to an irreparably deteriorated horse administration in Central China.
+ID000269: Horse Conservation Law
+ID000270: The situation of no available horses in Central China was formally reversed, with strong and effective horse administration policies being implemented. If the entire system runs well, it will benefit all future generations.
+ID000271: Commercial Nation
+ID000272: Sogdians frequently traversed the long Silk Road between Central Asia and China, amassing great wealth from medieval East-West trade.
+ID000273: Yumi Bow
+ID000274: A type of longbow used in Japanese archery. The standard length of a yumi bow is about seven shaku three sun (approximately 2.21 meters).
+ID000275: Naginata
+ID000276: Naginata is a type of pole weapon used in ancient Japan, featuring a wide blade and a highly curved cutting edge.
+ID000277: Champa Rice
+ID000278: A high-yield, early-maturing, drought-resistant variety of rice from the Indochina Peninsula, benefiting many people.
+ID000279: Introduction of Champa Rice
+ID000280: Introducing the high-yield, early-maturing, drought-resistant Champa Rice from the Indochina Peninsula to benefit the entire populace.
+ID000281: Vast Land and Resources
+ID000282: Born in the land of Yan and Huang, nurtured by China. When the time comes, repay China.
+ID000283: Hebei Cavalry
+ID000284: The land of Yan produced numerous warriors, situated on the frontier with abundant horse trade. The long-term intermingling of Han and barbarians led to every good family having skilled riders.
+ID000285: Southwestern Horses
+ID000286: Southwestern horses are quick-witted and docile, adept at climbing, suitable for mountain transport, and an important tool for highland and mountainous transportation.
+ID000300: Iron Warhawk
+ID000301: Iron Warhawk
+ID000302: Iron Warhawk
+ID000303: Yokoyama Foot Soldier
+ID000304: Yokoyama Foot Soldier
+ID000305: Yokoyama Foot Soldier
+ID000306: Yokoyama Foot Soldier
+ID000307: Tangut Warrior
+ID000308: Tangut Warrior
+ID000309: Tangut Warrior
+ID000310: Imperial Guard with Full Armor
+ID000311: Elite Crossbowman
+ID000312: Mongol Heavy Cavalry
+ID000313: Mongol Heavy Cavalry
+ID000314: Mongol Archer
+ID000315: Divine Arm Bowmen
+ID000316: Qin's Hardy Soldiers
+ID000317: White Lances
+ID000318: Veteran Returnees
+ID000319: Anxi Army
+ID000320: Lift your head and see the sun, but not Chang'an.
+ID000321: Fang Guards
+ID000322: Good Family Fang Guards
+ID000323: Fang Guards
+ID000324: Fang Guards
+ID000325: Fang Guards
+ID000326: Cavalry
+ID000327: Cavalry
+ID000328: Cavalry
+ID000329: Knife Fighters
+ID000330: Shield and Knife Fighters
+ID000331: Light Cavalry of Heishuo
+ID000332: White Horse Volunteers
+ID000333: Foot Soldiers
+ID000334: Silent Iron Cavalry
+ID000335: Longwei Heavy Cavalry
+ID000336: Ronin
+ID000337: Warrior Monks
+ID000338: Repeating Crossbowmen
+ID000339: Repeating Crossbowmen
+ID000340: Jungle Hunters
+ID000341: Silver Spear Vanguard
+ID000342: Crow Army
+ID000343: Khitan Warrior
+ID000344: Sogdian Fang Guards
+ID000345: Jurchen Conquest (AI)
+ID000346: Jin Dynasty
+ID000347: Unify the Jurchen Tribes
+ID000348: The clan leaders gather around me, Iron Pard and Swift Horse, all the strong ones cheer for my cause.\n\nWarriors salute me, let us charge out of the forest and grasp the world firmly in our hands.
+ID000349: My conquest begins here.
+ID000350: Unify the Jurchen Tribes
+ID000351: Army on Full Alert!
+ID000352: Jurchen tribes ready to conquer the world
+ID000353: Jurchen Grand Army
+ID000354: Jurchen Conquest War (Phase 1)
+ID000355: Jurchen Conquest War
+ID000356: Jurchen Conquest War (Phase 2)
+ID000357: Jurchen Conquest War (Phase 3)
+ID000358: Surrender your land!
+ID000359: Your rotten rule shall end now, I, [nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName], give you three days to surrender your territory, or face the consequences!
+ID000360: My lord, I am willing to give up my land and submit to you...
+ID000361: Submit to [nvzhenzhengfuzhe.GetTitledFirstName]
+ID000362: Declare war on [nvzhenzhengfuzhe.GetTitledFirstName]
+ID000363: Declare war on [demand_recipient.GetTitledFirstName]
+ID000364: Get lost!
+ID000365: To the foolish [nvzhenzhengfuzhe.GetFirstName]
+ID000366: Withdraw your threat! Foolish [nvzhenzhengfuzhe.GetFirstName]! \n\nYour threat is weaker than that of a three-year-old, who do you think you are? You pig dreaming of laying hands on my territory.
+ID000367: You dog, I will crush you to dust!
+ID000368: Beginning of the Conquest
+ID000369: My clansmen and I were summoned before [nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName]'s tent, every clan leader and vassal of the Jurchens gathered here. We all knew why and deliberated throughout the night in the smoky tent without a hint of doubt.\n\n[nvzhenzhengfuzhe.GetFirstName] loudly called out the names of ancestors, he walked past every Jurchen warrior and communicated with them warmly, I could feel the warriors' blood boiling.\n\nFrom now on, the world shall tremble under the feet of the conqueror [nvzhenzhengfuzhe.GetFirstName]!
+ID000370: For the glory of the Jurchens! For [nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName]!
+ID000371: You have repelled [attacker.GetShortUIName|U], but what about next time...
+ID000372: Player adds a building slot
+ID000373: Noble Collides
+ID000374: Ready to depart!
+ID000375: Operation went smoothly
+ID000376: Time to persecute the aliens again
+ID000377: Noble Collides
+ID000378: Profiting from Silk Road trade
+ID000379: Money is justice!
+ID000380: Money is justice!
+ID000381: You made a big profit
+ID000382: Form Silver Spear Vanguard
+ID000383: My mind is made up!
+ID000384: Formation successful
+ID000385: Form Silver Spear Vanguard
+ID000386: Form Crow Army (AI) Small Scale
+ID000387: Form Crow Army (AI) Large Scale
+ID000388: Form Crow Army
+ID000389: My mind is made up!
+ID000390: Formation successful
+ID000391: Form Crow Army
+ID000392: Crow Army
+ID000393: Vassal Troops (AI) Small Scale
+ID000394: Vassal Troops (AI) Large Scale
+ID000395: Expand Fang Guards
+ID000396: My mind is made up!
+ID000397: You feel very prestigious
+ID000398: I need a reliable private guard
+ID000399: Vassal Commander's Guard
+ID000400: Initiate Ikki (ai)
+ID000401: Initiate Ikki
+ID000402: The uprising will succeed
+ID000403: Mobilize monks and soldiers
+ID000404: The regiment of monks is armed
+ID000405: Form the Yulin Army
+ID000406: Mandate of Heaven is here!
+ID000407: All under heaven, bow down
+ID000408: In a prosperous age, we need strong soldiers, form the Yulin Army!
+ID000409: Form the Yulin Army
+ID000410: During the heyday of the Tang Dynasty, the ancient and splendid Chinese civilization was spread all over the world through the Silk Road from Chang'an to the Mediterranean coast. Monarchs, envoys, merchants, monks, students, craftsmen, doctors, Huji from various countries came in droves. They entered the territory of the Tang Empire and were all genuinely amazed by the bustling cities.\nToday!\nRecreate the glorious Tang Dynasty!
+ID000411: My fame will spread across the seas.
+ID000412: Form the Longwu Army
+ID000413: Mandate of Heaven is here!
+ID000414: All under heaven, bow down
+ID000415: In a prosperous age, we need strong soldiers, form the Longwu Army!
+ID000416: Form the Longwu Army
+ID000417: During the heyday of the Tang Dynasty, the ancient and splendid Chinese civilization was spread all over the world through the Silk Road from Chang'an to the Mediterranean coast. Monarchs, envoys, merchants, monks, students, craftsmen, doctors, Huji from various countries came in droves. They entered the territory of the Tang Empire and were all genuinely amazed by the bustling cities.\nToday!\nRecreate the glorious Tang Dynasty!
+ID000418: My fame will spread across the seas.
+ID000419: Longwu Army
+ID000420: Revitalize Horse Policy (ai)
+ID000421: Revitalize Horse Policy
+ID000422: Implement the Horse Preservation Law, benefit future generations!
+ID000423: Implement the Horse Preservation Law...
+ID000424: Issue the Horse Preservation Law, benefit future generations!
+ID000425: Issue the Horse Preservation Law!
+ID000426: It is stipulated that Hebei, Hedong, Shaanxi, Jidong, the five western routes, and all counties within Kaifeng Prefecture shall maintain horses under the Baojia system, one horse per household, and two for those with high capability and willing. They are provided with government horses, or allowed to buy their own with government funds. Households maintaining horses can reduce some taxes. For households above the third rank, ten households form one Bao; for those below the fourth rank, ten households form one She. If a horse in a Bao household dies of illness, the horse-owning household compensates alone; if a horse in a She household dies of illness, the horse-owning household and the other nine households compensate half each.\n\nBy my decree: implement the Horse Preservation Law!
+ID000427: Good!
+ID000428: You have unlocked [GetMaA('majun').GetName][men_at_arms|E].\nYou have unlocked [GetMaA('jingsaitieqi').GetName][men_at_arms|E].
+ID000429: Regional Testing (ai)
+ID000430: Recruit Slave Soldiers (ai)
+ID000431: Recruit Slave Soldiers (ai)
+ID000432: Supplement Slave Soldiers (ai)
+ID000433: Slave Soldiers
+ID000434: Benevolent Love (ai)
+ID000435: Benevolent Love (ai)
+ID000436: Mongolian Legion
+ID000437: Genghis Khan's Martian Soldiers (ai)
+ID000438: Genghis Khan's Martian Soldiers (ai)
+ID000439: Unify the Nüzhen Tribes (ai)
+ID000440: Form the Iron Sparrows (ai)
+ID000441: Form the Iron Sparrows (ai)
+ID000442: Form the Imperial Guards (ai)
+ID000443: Form the Imperial Guards (ai)
+ID000444: Expand Crossbowmen (ai)
+ID000445: Expand Mo-Dao Soldiers (ai)
+ID000446: Expand Tooth Soldiers (ai)
+ID000447: Train Iron Buddha Soldiers (ai)
+ID000448: Train Iron Buddha Soldiers (ai)
+ID000449: Expand Horse Army (ai)
+ID000450: Public Resentment Boiling Over (ai)
+ID000451: Public Fury
+ID000452: Years of war and debt have left me on edge. Finally, today, my guard stumbled in to tell me: the enraged populace is gathering to overthrow my rule!\nI haven't treated them badly, why are they doing this to me!\nThese damn wretches!
+ID000453: I need to find a way to calm them quickly.
+ID000454: My spokesperson brought news: the public's anger has subsided, they even donated some supplies to me.
+ID000455: My speech was terrible, I'm finished.
+ID000456: Deploy troops, let these wretches see the power of swords and spears!
+ID000457: My guards charged into the crowd and hacked to death a few leading troublemakers.
+ID000458: The combat ability of the wretches exceeded my expectations, I'm finished.
+ID000459: Let them do as they please.
+ID000460: Things are increasingly getting out of your control
+ID000461: Hold a Grand Parade
+ID000462: My army needs me, my people need me, my vassals need me.\nI have meticulously prepared a grand parade, which will surely be of great impact.
+ID000463: The parade proceeded smoothly
+ID000464: Prepare for the parade!
+ID000465: Let's start!
+ID000466: Grand Parade
+ID000467: The parade ground is teeming with people; each department is lined up waiting for inspection. I have prepared many speeches, ready to deliver my remarks after the parade.\nBut it's getting late, and time is running out. Who should I address first?
+ID000468: Start with the brave warriors under my command who charge at the forefront
+ID000469: I should appear more approachable to the lower-ranking soldiers
+ID000470: Without my beloved vassals, I wouldn't be where I am today!
+ID000471: My most courageous warriors shouted 'Long live!' in unison; even from this far, I can feel their fervor.
+ID000472: Warp Space Demons
+ID000473: Khorne Bloodthirsters
+ID000474: Slaanesh Pleasureseekers
+ID000475: Become the Champion of Khorne!
+ID000476: Blood for the Blood God, Skulls for the Skull Throne!!!\n\n\nRemove the seal to start the Great Crusade (Save before clicking, the consequences are irreversible, and the deity released is beyond my control)
+ID000477: Blood for the Blood God, Skulls for the Skull Throne!!!
+ID000478: Blood for the Blood God, Skulls for the Skull Throne!!!
+ID000479: Become the Champion of Slaanesh!
+ID000480: Enjoy endless pleasures!!!\n\n\nRemove the seal to start the Great Crusade (Save before clicking, the consequences are irreversible, and the deity released is beyond my control)
+ID000481: Enjoy endless pleasures!!!
+ID000482: Enjoy endless pleasures!!!
+ID000483: Recruit Nomads for War
+ID000484: The number and cost of [GetMaA('caoyuanyoumumin_shijian').GetName] recruited will depend on your [realm_size|E], [martial_skill|E], and #V $current_total_troops$#!.
+ID000485: For the glory of the grasslands!
+ID000486: Sound the horn!
+ID000487: Form the Varangian Guard (ai)
+ID000488: Form the Varangian Guard (ai)
+ID000489: Form the Varangian Guard (ai)
+ID000490: Form the Varangian Guard
+ID000491: Where are my loyal warriors?!
+ID000492: A batch of Varangian warriors will come in admiration......\nYour fame is spreading widely in the circles of northerners, for the next 20 years [GetMaA('walanjiweidui').GetName][men_at_arms|E] will be at your disposal.
+ID000493: I need to form a strong and loyal Imperial Guard!
+ID000494: My messenger tells me: the northern warriors will arrive soon!
+ID000495: Arrival of the Varangian Warriors
+ID000496: One after another, various longships dock at the port, and fierce northern warriors disembark in single file. The chainmail on their bodies reflects a blood-soaked, deathly iron black under the sunlight. I can't believe my eyes; these powerful warriors will soon be under my command!\n\nI straighten my chest, trying to show the posture a king should have. I try to find a hint of fear in their deep-sunken eyes—a fear for the living emperor standing before them.\n\nThese northerners did not shy away from my gaze, staring back directly.\n\nHeavens! Their gazes are utterly nerve-wracking......
+ID000497: What fearless and mighty warriors they are......
+ID000498: Mercenary Massacre
+ID000499: A group of frenzied mercenaries ransacked [county.GetNameNoTierNoTooltip], taking everything and leaving no survivors......\nApparently, these mercenaries are not satisfied with the payment I provided.
+ID000500: Damn it, they got the gold, what about mine!
+ID000501: They must be severely punished!
+ID000502: Mobilize the Steppe (ai)
+ID000503: Fire and daggers!!!
+ID000504: Come on, relay my orders!
+ID000505: Mobilize the Steppe
+ID000506: My tribesmen are eager for wealth, they are gearing up and ready to go. Clearly, I should now gather all available warriors.
+ID000507: Fire and daggers!!!
+ID000508: Come on, relay my orders!
+ID000509: The required prestige and money for mobilization are related to series of factors such as prestige level, total prestige, military points, management points, clan prestige level, total troop strength, and government system.
+ID000510: Mobilize the Steppe
+ID000511: Warriors spread the word, countless herders came with their families to my main tent, an endless cloud of dust rising from the horizon. All the warriors who could mount up gathered, anxiety and restlessness filled the air, only waiting for my command...
+ID000512: We need war!
+ID000513: Perhaps I shouldn't be so reckless...
+ID000514: Mounted Archers
+ID000515: Light Cavalry
+ID000516: Steppe Raiders
+ID000517: Turkic Heavy Cavalry
+ID000518: Heavy Cavalry
+ID000519: Scottish Highland Warriors
+ID000520: Fierce warriors from the northern Scottish Highlands, clad in kilts that shine with unyielding spirit.
+ID000521: Celtic Warriors
+ID000522: Celtic clan warriors covered in tattoos and bare-chested, who gave the mighty Roman legions a hard time.
+ID000523: Anglo-Saxon Militia
+ID000524: These free militiamen are well-equipped and supplied, regularly trained and supervised by powerful bodyguards, with a remarkable fighting spirit.
+ID000525: Royal Guard
+ID000526: The Royal Guard possess the best equipment in the entire army, chosen from among the powerful warriors by the nobility.
+ID000527: Welsh Longbowmen
+ID000528: These mighty Welsh archers are all exceptional marksmen, each draw of their yew longbows claims the life of an enemy soldier.
+ID000529: Welsh Longbowmen
+ID000530: These mighty Welsh archers are all exceptional marksmen, each draw of their yew longbows claims the life of an enemy soldier.
+ID000531: Mountain Rangers
+ID000532: Skilled light cavalry from the Welsh mountains, freely roaming between forests and mountains.
+ID000533: Swamp Hunters
+ID000534: The swamps of Ireland are vast, but skilled riders can always find a shortcut.
+ID000535: Irish Slingers
+ID000536: The use of the sling dates back to the Stone Age hunters; a quickly thrown stone hitting the target's head could quickly fell even a bull. Our carefully selected strong warriors can easily accomplish this.
+ID000537: Irish Slingers
+ID000538: The use of the sling dates back to the Stone Age hunters; a quickly thrown stone hitting the target's head could quickly fell even a bull. Our carefully selected strong warriors can easily accomplish this.
+ID000539: Outsider Warriors
+ID000540: These Gaelic mercenaries from the northern Scottish Highlands are exceptionally skilled in combat. As long as the pay is right, nothing is a problem.
+ID000541: Gaelic Veterans
+ID000542: These Gaelic mercenaries from the northern Scottish Highlands are happy to serve their clan lords in their leisure time.
+ID000543: Avar Light Cavalry
+ID000544: The Avars are a powerful steppe people, their iron hooves coming from the East.
+ID000545: Avar Heavy Cavalry
+ID000546: Ancient and powerful heavy cavalry.
+ID000547: Bulgarian Heavy Cavalry
+ID000548: After conquering the Avars, the Bulgarians incorporated them into their cavalry, using their superior horseback fighting skills to create this elite cavalry corps.
+ID000549: Bulgarian Heavy Cavalry
+ID000550: After conquering the Avars, the Bulgarians incorporated them into their cavalry, using their superior horseback fighting skills to create this elite cavalry corps.
+ID000551: Horse Cavalry
+ID000552: Berserkers
+ID000553: Once these warriors' blood starts boiling, only the death of their enemies can satisfy them.
+ID000554: Berserkers
+ID000555: Once these warriors' blood starts boiling, only the death of their enemies can satisfy them.
+ID000556: Thralls
+ID000557: A respectable jarl wouldn't arm their slaves for battle, but times have changed...
+ID000558: Housecarls
+ID000559: A respectable lord should have his own household guards, a group of formidable warriors capable of handling various emergencies.
+ID000560: Norman Cavalry
+ID000561: The Normans invested a lot of effort into cavalry training, wearing relatively light chainmail, and pioneering the couched lance charge tactic, becoming more adaptable to the changing battlefield.
+ID000562: Banner Knights
+ID000563: Distinguished from ordinary knights' conical triangular banners, these noble knights have the right to use square banners symbolizing status and rank on the battlefield. They are battle-hardened, determined warrior.
+ID000564: Armored Sergeants
+ID000565: Heavily armored elite military aides, serving their lords as a formidable fighting force.
+ID000566: Squire Knights
+ID000567: Every young man aspiring to be a knight should focus on accumulating battlefield experience, as the battlefield is their school.
+ID000568: Kern
+ID000569: Kern is a type of Irish light infantry, often fighting alongside Gaelic mercenaries. Though they have simple equipment, they are exceptionally effective in combat and widely praised.
+ID000570: Rushton Heavy Cavalry
+ID000571: This elite cavalry unit formed during the Muslim conquests, with almost everyone riding purebred Arabian horses. Their lance charges can crush any enemy.
+ID000572: Armorican Heavy Cavalry
+ID000573: Influenced by the Alans and the late Roman military system, the Bretons made extensive use of cavalry known for their strong discipline and excellent teamwork.
+ID000574: Abid Infantry
+ID000575: This mixed light infantry unit has a complex origin, including fervent religious volunteers and black slave soldiers from North Africa. They gathered for a grand holy war, believing in their Muslim brothers fighting alongside them, trusting in the Prophet and their faith in Allah.
+ID000576: Moorish Guards
+ID000577: Moorish warriors retain strong tribal traditions, charging forward fearlessly in battle.
+ID000578: Moorish Cavalry
+ID000579: Serving extensively during the Moorish conquests, this cavalry combines North African horsemanship with Iberian battle conditions, making them exceptionally fierce.
+ID000580: Spanish Javelin Riders
+ID000581: To counter the massive deployment of Moorish cavalry, we organized skilled horsemen, equipped with leather armor and javelins, constantly harassing the enemy and waiting for the right moment to break their ranks.
+ID000582: Order Knights
+ID000583: Heavily armored fanatic knights, skilled in heavy cavalry charges.
+ID000584: Catalan Raiders
+ID000585: Shock infantry who performed brilliantly during the Reconquista, carrying light weapons and gear, they charge at the enemy with high morale.
+ID000586: Catalan Mercenaries
+ID000587: These notable shock infantry from the Reconquista carry light weapons and gear, joining battlefields big and small around the world as elite infantry units.
+ID000588: Byzantine Legion Infantry
+ID000589: Legion Infantry form the backbone of the Byzantine army, well-equipped and highly disciplined.
+ID000590: Imperial Guard
+ID000591: These elite heavy infantry form Byzantium's unyielding defensive line. Belonging to the central army, they are combat-experienced.
+ID000592: Byzantine Archers
+ID000593: Archery is a mandatory skill for every Byzantine soldier. These skilled archers, protected by their infantry lines, take down enemies with extraordinary accuracy.
+ID000594: Varangian Guard
+ID000595: This Byzantine Imperial Guard unit has formidable combat power, clad in heavy armor, beheading enemies at astonishing speed. They are loyally dedicated to sweeping away the Emperor's foes.
+ID000596: Varangian Guard
+ID000597: This Byzantine Imperial Guard unit has formidable combat power, clad in heavy armor, beheading enemies at astonishing speed. They are loyally dedicated to sweeping away the Emperor's foes.
+ID000598: Border Wardens
+ID000599: To defend against the surrounding Muslims, any capable person in the military district can enlist, including bandits and lawbreakers. They are known for their team combat skills and adept formation coordination.
+ID000600: Border Raiders
+ID000601: To defend against the surrounding Muslims, anyone in this military district with combat ability can enlist, including robbers and outlaws. They have no moral principles and are notorious for their flexible combat tactics and atrocities committed against civilians when underpaid.
+ID000602: Rock Throwing Infantry
+ID000603: Lightly equipped rock throwers who harass the enemy with skilled hit-and-run tactics.
+ID000604: Light Javelin Thrower
+ID000605: Lightly equipped javelin throwers with simple gear but quick movements.
+ID000606: Vanguard Light Cavalry
+ID000607: Byzantine light cavalry known for their speed and agility, equipped with bows and javelins, excelling in hit-and-run guerrilla tactics.
+ID000608: Fortress Guard
+ID000609: Heavily armored garrison guards permanently stationed at frontier fortresses.
+ID000610: Border Patrol Knight
+ID000611: Light cavalry patrolling the border, reporting any enemy sightings and closely monitoring their movements.
+ID000612: Border Raiders
+ID000613: Rapid response units against enemy cavalry, capable of quick reaction and harassment.
+ID000614: Ansar Light Cavalry
+ID000615: These cavalrymen escort batches of devout pilgrims along the pilgrimage routes.
+ID000616: Swift Guard
+ID000617: An elite light cavalry unit of the Rashidun army during the Muslim conquest of Syria, renowned for their incredible speed that turned the tide during the siege of Damascus, defeating the seemingly invincible Byzantine army.
+ID000618: Imperial Guard
+ID000619: Super heavy armored cavalry that surrounds and guards the Emperor.
+ID000620: Imperial Guard
+ID000621: Super heavy armored cavalry that surrounds and guards the Emperor.
+ID000622: Mamluk Heavy Cavalry
+ID000623: These long-trained slave warriors form our mighty heavy cavalry force. I foresee them shining brilliantly in a future battle.
+ID000624: Mamluk Horse Archer
+ID000625: Our Mamluk slave warriors are formidable, and the best among them have archery skills rivaling those of nomadic tribesmen who grew up on horseback.
+ID000626: Armored Camel Cavalry
+ID000627: Armoring camels is no easy task, but the rewards are worth it. A fully armored camel charge can make mounted troops flee with their tails between their legs.
+ID000628: Asawira
+ID000629: These Persian warriors, converted to our faith, are heavily armored and legendary for their heroic deeds centuries ago.
+ID000630: Oghuz Mercenary Cavalry
+ID000631: Oghuz cavalry are excellent scouts and raiders, traveling to Iberia to serve any employer willing to pay.
+ID000632: Abna Infantry
+ID000633: Our well-trained warriors advance steadily under spears and swords, skillfully using javelins to kill enemies who dare to face them head-on. Their discipline makes them fearless in close combat, delivering deadly blows with short swords and daggers.
+ID000634: Ghulam Heavy Cavalry
+ID000635: These heavily armored slave cavalrymen, fighting on the front lines for years, are both loyal and strong, known for their fearless combat style.
+ID000636: Ghulam Heavy Cavalry
+ID000637: These heavily armored slave cavalrymen, fighting on the front lines for years, are both loyal and strong, known for their fearless combat style.
+ID000638: Kurdish Javelineer
+ID000639: These ancient mountain warriors cause significant damage to enemies with their basic javelins.
+ID000640: Iqta Swordsman
+ID000641: Young soldiers recruited by Muslim rulers to maintain regional order.
+ID000642: Ghazi Volunteer
+ID000643: Fanatical religious warriors who crush all heretics into dust.
+ID000644: Slave Warrior
+ID000645: Ineffective slave soldiers with poor equipment and discipline, only useful as cannon fodder.
+ID000646: Slave Warrior
+ID000647: Ineffective slave soldiers with poor equipment and discipline, only useful as cannon fodder.
+ID000648: Slave Warrior
+ID000649: Ineffective slave soldiers with poor equipment and discipline, only useful as cannon fodder.
+ID000650: Slave Warrior
+ID000651: Ineffective slave soldiers with poor equipment and discipline, only useful as cannon fodder.
+ID000652: Slave Warrior
+ID000653: Ineffective slave soldiers with poor equipment and discipline, only useful as cannon fodder.
+ID000654: Celts
+ID000655: The Celts were an ancient European group bound by a common language and cultural tradition, repeatedly resisting invaders and never succumbing to outsiders, as if it were ingrained in their bones.
+ID000656: Anglo-Saxon Selected Militia
+ID000657: In the chaotic migration and settlement period, wars were led by a small number of bodyguards. By the 8th century, Anglo-Saxon leaders had established their own kingdoms, necessitating greater logistical efforts to protect land and wage war. As a solution, the Anglo-Saxons implemented the "selected fyrd" system.
+ID000658: Organization of Bodyguards
+ID000659: In the chaotic times of Germanic migrations to Britain, tribal leaders and kings would summon their selected strong warriors, equipped with the best weapons, who also served as bodyguards and received special war training.
+ID000660: Welsh Longbow
+ID000661: Made from yew wood, the Welsh longbow is light and highly elastic, making its destructive power formidable.
+ID000662: Sling
+ID000663: The sling is a relic of human civilization, capable of knocking down a bison with a fast-flying stone. It also has significant wartime applications.
+ID000664: Highland Clans
+ID000665: The rugged Highland clans of northern Scotland retain their primitive Celtic ways and tribal alliances, being natural-born warriors who roam the mountains.
+ID000666: Hiring Foreign Warriors
+ID000667: The fierce Gaels of northern Scotland are unmatched battle enthusiasts willing to fight for money. Importantly, they rarely meddle in local politics and will comply as long as the price is right.
+ID000668: Home of Warriors
+ID000669: Northern Scotland has always been the homeland of the Gaels, and our warriors are more than willing to fight for their land and country.
+ID000670: Bread and Mead
+ID000671: The lord distributing bread to his followers symbolizes the bond and loyalty between them. Though often symbolic, these events also serve as cohesion exercises where high-ranking soldiers interact more freely, enhancing planning and coordination in real battles.
+ID000672: Book of Winchester
+ID000673: Also known as the Domesday Book, it is a survey of land ownership across England aimed at understanding royal estates and the lands of the king's direct vassals for tax collection, financial management, and defining feudal obligations.
+ID000674: Conqueror's Stance
+ID000675: We have conquered the British Isles. These natives should pledge their allegiance to me.
+ID000676: Armorica
+ID000677: We are the island Celts forced into exile here during the Germanic migrations, referred to as Armorica by the Romans.
+ID000678: Iberian City Militia
+ID000679: Mid-medieval Iberian city militias played a significant role. Originating from border conflicts, local militias served the peninsula's monarchs, rapidly expanding their military and economic power in urgent situations, providing flexibility for royal decisions.
+ID000680: Spanish Hidalgos
+ID000681: With the gradual liberation of Iberia, we granted land ownership to loyal lords and exempted them from some taxes in exchange for providing cavalry for subsequent wars of reconquest.
+ID000682: Land Grants
+ID000683: As the Reconquista intensifies, we need many soldiers to suppress the infidels. Even non-nobles can obtain land if they provide large numbers of conscripts.
+ID000684: Visigothic Tactics
+ID000685: We inherit the Visigothic combat approach, focusing on cavalry as the main force and excelling in mounted warfare.
+ID000686: Catalan Mercenaries
+ID000687: The military demands of the Reconquista fostered the formation of elite Iberian infantry. Our warriors, unwilling to disappear post-war, form bands of mercenaries, active on battlefields large and small worldwide.
+ID000688: Spanish Phalanx
+ID000689: To solidify our Iberian land dominance, we must undergo an infantry revolution. History has proven that a well-organized infantry can succeed in any battlefield condition.
+ID000690: Spanish Pikemen
+ID000691: With long and dense pike formations and tight coordination, our army is unstoppable on land!
+ID000692: Spanish Rodeleros
+ID000693: Equipped with high-quality steel shields and long swords, this unit can quickly breach enemy pike formations with the support of pikemen, swiftly turning the tide.
+ID000694: Zweihander Swordsman
+ID000695: Elite infantry wielding giant swords, whose superior swordsmanship can quickly break through enemy pike formations.
+ID000696: Noble Guard
+ID000697: The bodyguards of noble lords, composed of battle-hardened veterans, possess extraordinary combat prowess.
+ID000698: Old Swiss Highlander
+ID000699: The harsh living conditions and long-standing foreign invasions have made the inhabitants of this land ready to fight to defend their survival at any time.
+ID000700: Swiss Mercenaries
+ID000701: Veteran soldiers with nowhere to go and robust young men from impoverished families travel together, guided by the traditions of the old Swiss mountaineers to the battlefield.
+ID000702: Swiss Mercenaries
+ID000703: Fighting alongside their fellow countrymen and blood relatives, forming lines with halberds and long spears, the fearless infantry advances.
+ID000704: Commune Militia
+ID000705: Lightly armed militiamen who equip themselves and are determined to defend their town.
+ID000706: Commune Cavalry
+ID000707: Light cavalry well-adapted to the mountainous terrain of northern Italy.
+ID000708: Holy Wagon
+ID000709: Raise our banner high, the music played from the Holy Wagon is a sacred talisman, fighting to the death for the honor of the city-state!
+ID000710: Holy Wagon
+ID000711: Oxen-drawn Holy Wagon parading through the battlefield, warriors achieve glory by slaying the enemy.\nThe Holy Wagon must not fall, and the warriors fearlessly face death.
+ID000712: Holy Wagon
+ID000713: Oxen-drawn Holy Wagon parading through the battlefield, warriors achieve glory by slaying the enemy.\nThe Holy Wagon must not fall, and the warriors fearlessly face death.
+ID000714: Pavise Shield
+ID000715: A reliable large wooden shield that provides temporary cover for our crossbowmen and can also serve as a movable fortification to assist in sieges.
+ID000716: Pavise Crossbowmen
+ID000717: Crossbowmen equipped with Pavise shields, allowing them to make accurate shots while under the protection of these shields.
+ID000718: Genoese Crossbowmen
+ID000719: The world-renowned elite archers of Genoa, whose powerful crossbows instill fear in their enemies.
+ID000720: Belovedieri
+ID000721: Elite light cavalry of the Italian corps, clad in transitional armor.
+ID000722: Teutonic Depth Defense
+ID000723: Various fortresses scattered across the German lands along with the Burgmannen infantry responsible for guarding the towns will significantly slow down enemy siege progress.
+ID000724: Burgmannen Heavy Infantry
+ID000725: Elite infantry responsible for defending castles and guarding against foreign enemies.
+ID000726: Large-Scale Enfeoffment
+ID000727: Wealthy and leisurely citizens and guild elites aspire to join the upper class; a small knight's title is enough to satisfy them.
+ID000728: Guild Knights
+ID000729: Citizens armed at their own expense and knighted, numerous but of lesser quality.
+ID000730: Robber Knights
+ID000731: Mounted robbers exploiting the advantage of fortresses to plunder everywhere, some of whom might even hold knightly titles, but their deeds are far from truly noble knights.
+ID000732: Liege Knights
+ID000733: German warriors with certain social status, well-equipped and forming the main force of the Empire's cavalry.
+ID000734: Imperial Knights
+ID000735: Loyalty to the Emperor above all, within the extensive network of knight families, every powerful knight can shine.
+ID000736: Imperial Knights
+ID000737: Clad in high-quality Gothic plate armor, Imperial knights are highly skilled in combat.
+ID000738: Gothic Plate Armor
+ID000739: Custom-fitted plate armor that ensures flexibility while optimizing the overall design, lighter in weight with stronger defense.
+ID000740: Foot Imperial Knights
+ID000741: Powerful knights in full plate armor who, according to German tradition, fight on foot.
+ID000742: Milanese Plate Armor
+ID000743: A surge in weapon orders gave rise to this unique plate armor style; the smooth-lined Milanese plate armor is renowned for effectively reducing arrow damage.
+ID000744: Water-powered Hammer
+ID000745: A large machine driven by water power, used to crush ores or straighten metal parts, greatly reducing the cost of forging heavy armor.
+ID000746: Byzantine Military System
+ID000747: The Byzantine army evolved from the late Roman Empire's army, becoming more complex and diverse in strategy, tactics, and organization.
+ID000748: Training Ghulams
+ID000749: The turmoil caused by foreign invaders forced us to accelerate military reforms; we noticed that well-trained slave soldiers possessed strong combat capabilities. If further organized and disciplined, a powerful army could quickly form.
+ID000750: Bedouin Tribe Riders
+ID000751: The Bedouin tradition of horse riding produced these tribal riders traversing the vast desert; they are naturally born desert warriors.
+ID000752: Elite Bedouin Riders
+ID000753: The Bedouins take pride in riding swift horses; their tribal warriors on horseback roar through the desert like a storm, destroying enemy defenses.
+ID000754: Bedouin Light Cavalry Retainers
+ID000755: By granting privileges to members of the eastern Bedouin tribes, we transform them into efficient and loyal bodyguards, bringing peace to Egypt and Syria and strengthening control over this strategic area.
+ID000756: Bedouin Light Cavalry Retainers
+ID000757: These Bedouins are efficient and loyal bodyguards, roaring through the desert like a storm, breaking enemy defenses.
+ID000758: Sword of Islam
+ID000759: Witnessed by the Crescent and Star!
+ID000760: Mountain Warriors
+ID000761: The mountainous regions of Iran are exceedingly treacherous, only locals can survive in such a harsh environment for long periods.
+ID000762: Dailamite Highland Warriors
+ID000763: Strong warriors from Iran's mountainous regions, unparalleled combatants.
+ID000764: Elite Dailamite Warriors
+ID000765: Whether seeking wealth or fleeing conflict, some Dailamites migrated here, their inherent fighting spirit allowing them to rise quickly in the military ranks.
+ID000766: Elite Dailamite Warriors
+ID000767: Whether seeking wealth or fleeing conflict, some Dailamites migrated here, their inherent fighting spirit allowing them to rise quickly in the military ranks.
+ID000768: Hinged Rudder
+ID000769: With the advanced navigation technologies introduced from the distant East, our elite warriors can quickly reach the battlefield through sea transport.
+ID000770: Persian Cataphracts
+ID000771: Our long-standing tradition of heavy cavalry combat never goes out of style.
+ID000772: Persian Cataphracts
+ID000773: These powerful riders have dominated Central Asia for millennia!
+ID000774: Savaran
+ID000775: The heavy cavalry of ancient Persia, renowned for their bravery on the front lines.
+ID000776: Immortal Guardians
+ID000777: The ancient and formidable Immortal Legions, glorious defenders of Ahura.
+ID000778: Immortal Guardians
+ID000779: The ancient and formidable Immortal Legions, glorious defenders of Ahura.
+ID000780: Noah's Ark
+ID000781: We firmly believe we are the only survivors of the prehistoric Great Flood; as Noah's descendants, we shall never yield to any other civilization.
+ID000782: Highland Eagles
+ID000783: The people of this [culture|E] are like the eagles of the Armenian highlands, cold and focused. Their extremely strong [martial|E] talents often make them favorites of rulers, but their inherently untamable nature as eagles makes their nation suffer through many ups and downs.
+ID000784: Azatavrear
+ID000785: Since ancient times, there have been Azatavrear cavalry composed of elite warriors in Armenia, formidable heavy cavalry units who freely traverse the highland homeland.
+ID000786: Azatavrear
+ID000787: Since ancient times, there have been Azatavrear cavalry composed of elite warriors in Armenia, formidable heavy cavalry units who freely traverse the highland homeland.
+ID000788: Armenian Foot Archers
+ID000789: Swift archers lurking in the Armenian highlands, raining down a deadly barrage of arrows from above onto the enemy.
+ID000790: Armenian Foot Archers
+ID000791: Many Armenians migrated from the highland regions, and we took the opportunity to integrate these formidable archers into our army.
+ID000792: Scythe
+ID000793: This ancient tool is brought to the battlefield, affixed to long poles to counter massed cavalry units.
+ID000794: Heavy Scythemen
+ID000795: These scythemen, clad in heavy armor, stand at the front lines with their long, powerful scythes, proudly defying all cavalry.
+ID000796: Multinational Mercenary Corps
+ID000797: As a millennium-old empire, Byzantium is accustomed to using mercenaries, and the diverse array of mercenaries have left a significant mark in Byzantine military history.
+ID000798: Byzantine Mounted Archery Mercenaries
+ID000799: The empire's advanced armor technology equips these mercenaries from the steppes. Though some pursuit capability is sacrificed, their defense is greatly enhanced.
+ID000800: Latin Cavalry
+ID000801: These non-Orthodox cavalry warriors have undergone long-term training and have gradually adapted to fighting the hordes of Turkic cavalry. They are fearless raiders of the plains.
+ID000802: Sharp Cavalry
+ID000803: After long-term training, each of our cavalrymen is a versatile battlefield soldier.
+ID000804: Flying Cavalry
+ID000805: Skilled in all horseback weapons, capable of breaking through formations in an instant.
+ID000806: Xianbei Iron Cavalry
+ID000807: One of the Xianbei traditions, since Emperor Xiaowen of Northern Wei, successive rulers have meticulously built heavy cavalry units to deter nearby threats.
+ID000808: Xianbei Armored Cavalry
+ID000809: Xianbei warriors, both horse and rider clad in armor, with their killing skills deeply ingrained in their bones.
+ID000810: Shieldmaidens
+ID000811: These women defy societal norms and, like other warriors, form shield walls to participate in battles.
+ID000812: Baltic Warriors
+ID000813: Generations of living in forest swamplands have fostered a fierce spirit among the Baltic people. They travel together, constantly raiding the area.
+ID000814: Baltic Warriors
+ID000815: Fierce warriors active in the forest and swamp areas along the Baltic coast, launching raids from the cover of forests and snow.
+ID000816: Frankish Feudal System
+ID000817: Emperor Charlemagne and his predecessors forged an excellent feudal society for us. Our kingdom is stable and powerful, and this advantage will continue.
+ID000818: Scalar Cavalry
+ID000819: They are the ace cavalry unit of the Carolingian dynasty, often deployed for highly mobile combat missions.
+ID000820: Carolingian Iron Guard
+ID000821: These are the trusted people sent by nobles across their domains, responsible for local security in peacetime and serving as elite infantry during wars.
+ID000822: Flower of Chivalry
+ID000823: Every knight is a pride of the French people.
+ID000824: Characters of this [culture|E] build #V $Level 1 Legion Training Grounds$#! faster and more robust, and gain some [prestige_i][prestige|E] upon completion.
+ID000825: Chevaliers
+ID000826: The proud French people have proud French cavalry.
+ID000827: Sword and Shield Infantry
+ID000828: Fully armed infantry groups, their sturdy shields protect them from stray arrows.
+ID000829: Hooked Ax
+ID000830: This new type of polearm we developed is very effective against unarmored units and cavalry.
+ID000831: Hooked Ax Infantry
+ID000832: Our infantry are equipped with new hooked axes, very effective against unarmored units and cavalry.
+ID000833: Crossbowmen Cavalry
+ID000834: Crossbowmen Cavalry
+ID000835: Our social structure makes it unlikely for us to have many high-quality archers, but crossbowmen cavalry might be a good alternative.
+ID000836: Song of Valor
+ID000837: Our knights possess unparalleled determination, and their great deeds will be sung by our people for generations.
+ID000838: Heavy Lancers
+ID000839: The group charge of heavy lancers is unstoppable, even the most solid formations will turn to dust instantly.
+ID000840: Feudal Infantry Knights
+ID000841: On battlefields where cavalry cannot be deployed, our fearless knights still fight bravely.
+ID000842: Light Lancers
+ID000843: Light lancers from Burgundy, combining explosiveness and mobility, are excellent flanking strike units.
+ID000844: Franc Archers
+ID000845: Each parish should select an archer from among those skilled with weapons. He will be exempt from taxes, practice archery on Sundays and holidays, and be ready to go to war when needed.
+ID000846: Franc Archers
+ID000847: Archers used for border defense; they are exempt from taxes but must go to war.
+ID000848: Assembly
+ID000849: Voisky Skirmishers
+ID000850: Muscovite Manorial System
+ID000851: The development of feudal society in the Rus' region is different from Western Europe. Our kingdom originates from a core family alliance, united to increase available labor and expand land production. But this does not mean the granting of land is a form of bondage; on the contrary, we encourage adventure.
+ID000852: Boyars
+ID000853: Grand Duke's Guards
+ID000854: Freemen Riders
+ID000855: Turkic Settlers
+ID000856: Prolonged conflict has worn down the fighting spirit of both sides, with some Turks considering settling down here.
+ID000857: Turkic Auxiliaries
+ID000858: Descendants of Boyars
+ID000859: Impoverished descendants of Boyars, unable to maintain their ancestral dominance, have turned to military camps in large numbers seeking opportunities.
+ID000860: Boyevik Warriors
+ID000861: Adventurous Heroes
+ID000862: Cossack Cavalry
+ID000863: Cossack cavalry are known for their bright attire and notorious reputation. They form semi-autonomous groups and lead a nomadic life. If we can incorporate them into our army, they would be a considerable force.
+ID000864: Cossack Cavalry
+ID000865: Siberian Tribal Raiders
+ID000866: Armed Mobilization
+ID000867: Numerous military nobles support the entire war machine of the country, but at what cost...
+ID000868: Szlachta
+ID000869: Polish Light Crossbowmen
+ID000870: Winged Hussars
+ID000871: Loyal and powerful elite cavalry, renowned for their high mobility and devastating impact.
+ID000872: Winged Hussars
+ID000873: Rotis
+ID000874: Samogitian Javelin Technique
+ID000875: One of the most effective war tools in the Samogitian forests, the speed of Samogitian horses lends tremendous power to their javelins.
+ID000876: Samogitian Javelin Cavalry
+ID000877: Lithuanian Mounted Archers
+ID000878: Vassals with the same [culture|E][heritage|E] as you are more likely to join [independence_factions|E] and [claimant_factions|E]. This is not necessarily a bad thing, at least not when you are still relatively weak.
+ID000879: People of this [culture|E] only accept the rule of Noah's descendants and are more likely to join [factions|E] against foreign [culture|E] rulers.
+ID000880: Characters of this [culture|E] who possess this [innovations|E] can recruit powerful unique [men_at_arms|E] through alliances with specific [culture|E] characters.
+ID000881: Great Jin
+ID000882: Great Jin
+ID000883: Wanyan
+ID000884: Great Jin
+ID000885: Annual Tribute
+ID000886: The incompetence of the upper class is paid by the lower class.
+ID000887: Sixteen Prefectures of Yanyun
+ID000888: Lithuania
+ID000889: Poland
+ID000890: Can claim multiple [claims|E] in a single war for oneself.
+ID000891: Middle East, Persia
+ID000892: Sinhala
+ID000893: Ma Swo
+ID000894: Regions where lamellar armor is widely used in military.
+ID000895: Great Migration Invasion
+ID000896: Great Migration Invasion
+ID000897: Great Migration
+ID000898: You have abandoned your former land, migrating your people and herds here, starting a new reign.
+ID000899: After the Great Migration
+ID000900: Some of the resources on this land were artificially relocated during a mass migration.
+ID000901: Discuss Alliance
+ID000902: Forge an alliance with [recipient.GetTitledFirstNameNoTooltip] by stating the advantages and disadvantages—the prairie forces need to be unified!
+ID000903: Same [cultural|E]: $VALUE|=+0$
+ID000904: Discuss Alliance
+ID000905: Discuss Alliance (Nomadic Vassal)
+ID000906: Forge an alliance with [recipient.GetTitledFirstNameNoTooltip] by stating the advantages and disadvantages—to promote certain common goals!
+ID000907: Tribal Alliance
+ID000908: Forge a vassal relationship with [recipient.GetTitledFirstNameNoTooltip] by stating the advantages and disadvantages—to promote certain common goals!
+ID000909: Difference in your military strength: $VALUE|=+0$
+ID000910: Diplomacy and allies: $VALUE|=+0$
+ID000911: Significant external threat: $VALUE|=+0$
+ID000912: Weak and isolated: $VALUE|=+0$
+ID000913: Ambitious: $VALUE|=+0$
+ID000914: Summon Vassal to War
+ID000915: Summon [recipient.GetUINameNoTooltip] to war to fulfill their duties as a vassal.
+ID000916: Defending [war|E]: $VALUE|=+0$
+ID000917: Is [powerful_vassals|E]: $VALUE|=+0$
+ID000918: Neighboring vassal peers: $VALUE|=+0$
+ID000919: Pasture: $VALUE|=+0$
+ID000920: Loose tribe: $VALUE|=+0$
+ID000921: Limited tribal authority: $VALUE|=+0$
+ID000922: High tribal authority: $VALUE|=+0$
+ID000923: Absolute tribal authority: $VALUE|=+0$
+ID000924: Warlike [ethos|E]: $VALUE|=+0$
+ID000925: Collective [ethos|E]: $VALUE|=+0$
+ID000926: Same [dynasty|E]: $VALUE|=+0$
+ID000927: Is your [close_family_member|E]: $VALUE|=+0$
+ID000928: Warlike: $VALUE|=+0$
+ID000929: Vassal stance: Seeking fame and profit: $VALUE|=+0$
+ID000930: Vassal stance: Localism: $VALUE|=+0$
+ID000931: Summon to Join War (Nomadic Alliance)
+ID000932: Chief
+ID000933: Extra Taxes
+ID000934: The chief has completed your task and successfully submitted the taxes.
+ID000935: Prestige Spread
+ID000936: The chief has successfully spread your prestige.
+ID000937: Chief's Levy
+ID000938: The chief has gathered a levy for you.
+ID000939: Chief's Light Cavalry
+ID000940: The chief has gathered a unit of light cavalry for you.
+ID000941: Chief's Horse Archers
+ID000942: The chief has gathered a unit of horse archers for you.
+ID000943: Chief's Heavy Cavalry
+ID000944: The chief has gathered a unit of heavy cavalry for you.
+ID000945: Player [regiment|E][stationed_holding|E] adjustment rate
+ID000946: Sixty percent
+ID000947: The player gets the [GetModifier('xinzeng_zhujun_xiuzheng_001_modifier').GetNameWithTooltip] adjustment, which maximizes data inflation prevention, indirectly adjusts AI difficulty, and optimizes the competitive gaming experience. Battling AI is endlessly fun.
+ID000948: Forty percent
+ID000949: The player gets the [GetModifier('xinzeng_zhujun_xiuzheng_002_modifier').GetNameWithTooltip] adjustment, which does not significantly affect unit stacking but can moderately reduce the rate of data inflation.
+ID000950: Twenty percent
+ID000951: The player gets the [GetModifier('xinzeng_zhujun_xiuzheng_003_modifier').GetNameWithTooltip] adjustment, slightly corrects the garrison values, and almost certainly, your generals will soon experience the thrill of AI slaying.
+ID000952: None
+ID000953: Furious Scholar AI!!!
+ID000954: Equipment System: #P #EMP On#!#!
+ID000955: Equipment System: #N #EMP Off#!#!
+ID000956: Extra Military Expenses System Switch (Increased Game Difficulty)
+ID000957: Extra Military Expenses System: #P #EMP On#!#!
+ID000958: Extra Military Expenses System: #N #EMP Off#!#!
+ID000959: Choose #P #EMP Armors#!#! for this [regiment|E]'s [men_at_arms|E]
+ID000960: Choose #P #EMP Main Weapons#!#! for this [regiment|E]'s [men_at_arms|E]
+ID000961: Choose #P #EMP Secondary Weapons#!#! for this [regiment|E]'s [men_at_arms|E]
+ID000962: Choose #P #EMP Shields#!#! for this [regiment|E]'s [men_at_arms|E]
+ID000963: Choose #P #EMP Mounts#!#! or #P #EMP Related#! for this [regiment|E]'s [men_at_arms|E]
+ID000964: Choose #P #EMP Garrison Strategy#! for this [regiment|E]'s [men_at_arms|E]
+ID000965: Click to equip #P #EMP Armors#!#! for this [regiment|E]'s [men_at_arms|E]\n[regiment|E] requires some time to adapt to the new equipment. Other options will not be available until the previous adjustment ends.\nWhen the [tax|E] of [stationed_holding|E] for [regiment|E] is #N #EMP less than or equal to zero#!#!, all options will be #N #EMP unavailable#!#!
+ID000966: Click to equip #P #EMP Main Weapons#!#! for this [regiment|E]'s [men_at_arms|E]\n[regiment|E] requires some time to adapt to the new equipment. Other options will not be available until the previous adjustment ends.\nWhen the [tax|E] of [stationed_holding|E] for [regiment|E] is #N #EMP less than or equal to zero#!#!, all options will be #N #EMP unavailable#!#!
+ID000967: Click to equip #P #EMP Secondary Weapons#!#! for this [regiment|E]'s [men_at_arms|E]\n[regiment|E] requires some time to adapt to the new equipment. Other options will not be available until the previous adjustment ends.\nWhen the [tax|E] of [stationed_holding|E] for [regiment|E] is #N #EMP less than or equal to zero#!#!, all options will be #N #EMP unavailable#!#!
+ID000968: Click to equip #P #EMP Shields#!#! for this [regiment|E]'s [men_at_arms|E]\n[regiment|E] requires some time to adapt to the new equipment. Other options will not be available until the previous adjustment ends.\nWhen the [tax|E] of [stationed_holding|E] for [regiment|E] is #N #EMP less than or equal to zero#!#!, all options will be #N #EMP unavailable#!#!
+ID000969: Click to choose #P #EMP Mounts#!#! or #P #EMP Related#!#! for this [regiment|E]'s [men_at_arms|E]\n[regiment|E] requires some time to adapt to the new mounts and related items. Other options will not be available until the previous adjustment ends.\nWhen the [tax|E] of [stationed_holding|E] for [regiment|E] is #N #EMP less than or equal to zero#!#!, all options will be #N #EMP unavailable#!#!
+ID000970: Click to choose #P #EMP Garrison Strategy#!#! for this [regiment|E]'s [men_at_arms|E]\n[regiment|E] requires some time to adapt to the new garrison strategy. Other options will not be available until the previous adjustment ends.\nWhen the [tax|E] of [stationed_holding|E] for [regiment|E] is #N #EMP less than or equal to zero#!#!, all options will be #N #EMP unavailable#!#!
+ID000971: Forced Re-equipment
+ID000972: Chainmail
+ID000973: Plate Armor
+ID000974: Lamellar Armor
+ID000975: Heavy Lamellar Armor
+ID000976: Leather Armor
+ID000977: Bamboo Armor
+ID000978: Rattan Armor
+ID000979: Forced Re-equipment
+ID000980: Spear
+ID000981: War Knife
+ID000982: Danish Axe
+ID000983: Heavy Battle Axe
+ID000984: War Club
+ID000985: Tang Hook Sword
+ID000986: Sabre
+ID000987: Longsword
+ID000988: Heavy Mace
+ID000989: Short Spear
+ID000990: Javelin
+ID000991: Chain Flail
+ID000992: Baton
+ID000993: Gurkha Kukri
+ID000994: Lance
+ID000995: Sarissa
+ID000996: Bow
+ID000997: Longbow
+ID000998: Crossbow
+ID000999: Repeating Crossbow
+ID001000: Divine Arm Bow
+ID001001: Yumi
+ID001002: Cavalry Crossbow
+ID001003: Ultralong Spear
+ID001004: Horn Bow
+ID001005: Goryeo Bow
+ID001006: Katana
+ID001007: Naginata
+ID001008: Two-Handed Greatsword
+ID001009: Pūdāo
+ID001010: Sling
+ID001011: Forced Dress Change
+ID001012: Horn Bow
+ID001013: Mace
+ID001014: Dagger
+ID001015: Morning Star
+ID001016: Mòdāo
+ID001017: Javelin
+ID001018: Stiletto
+ID001019: Hand Crossbow
+ID001020: Shovel
+ID001021: Hand Axe
+ID001022: Stone
+ID001023: Sabre
+ID001024: Short Spear
+ID001025: Forced Dress Change
+ID001026: Small Round Shield
+ID001027: Tower Shield
+ID001028: Tower Shield
+ID001029: Round Shield
+ID001030: Viking Round Shield
+ID001031: Heater Shield
+ID001032: Kite Shield
+ID001033: Fan-shaped Shield
+ID001034: Oval Shield
+ID001035: Targe
+ID001036: Targe
+ID001037: Selected
+ID001038: Charge
+ID001039: Load
+ID001040: Hunt
+ID001041: Cover
+ID001042: Warhorse Breeding
+ID001043: Whirlwind Cannon
+ID001044: Armored War Elephant
+ID001045: Arrow Tower
+ID001046: Training Intensity:Ⅰ
+ID001047: Training Intensity:Ⅱ
+ID001048: Training Intensity:Ⅲ
+ID001049: Martial Law
+ID001050: Reinforce City Defense
+ID001051: Scorched Earth
+ID001052: Mandatory Conscription
+ID001053: Assist City Construction
+ID001054: Garrison Tax Collection
+ID001055: Patrol Ranch
+ID001056: Organized Raids
+ID001057: Immunity from Confiscation
+ID001058: Recruits include herders, wandering hunters, local mercenaries, and destitute nobles—they are numerous, mostly fight on horseback, and form the main body of the army.
+ID001059: Recruits include peasant soldiers, ruffians, local mercenaries, and destitute nobles, armed with a variety of tools and assembled weapons—they are numerous and form the majority of the army.
+ID001060: Recruits include peasant soldiers, ruffians, local mercenaries, and destitute nobles, armed with a variety of tools and assembled weapons—they are numerous and form the majority of the army.
+ID001061: Crusader
+ID001062: Crusader
+ID001063: Raider
+ID001064: Raider
+ID001065: Tribal Champion
+ID001066: Tribal Champion
+ID001067: Peasant Leader
+ID001068: Peasant Leader
+ID001069: Veteran Peasant
+ID001070: Yabing Faction
+ID001071: The demands of the Yabing [faction|E] include more [gold|E], wider [realm|E], and superior status. Actively engage and maintain good #relations# with your [knights|E].\n\n#S Ultimatum#!\nAll faction members obtain [gold|E], [prestige|E], [army|E], and [realm|E]\nDepose the current [liege|E] and nominate a new [liege|E].
+ID001072: Desire for More Benefits
+ID001073: You are not [knights|E]
+ID001074: Your [liege|E]’s organization is not #V Junfu#!
+ID001075: Your [liege|E]’s [government|E] is not #V Juntun System#!
+ID001076: Yabing Rebellion
+ID001077: Desire for Wealth: $VALUE|=+0$
+ID001078: Nomadic AI Direction: General (Cultural Exchange, Technological Innovation)(Add buff, steal innovation)
+ID001079: Nomadic AI Direction: General (Cultural Exchange, Technological Innovation)(Add buff, steal innovation).
+ID001080: Cultural Exchange, Technological Innovation
+ID001081: Cultural Exchange, Technological Innovation
+ID001082: Nomadic AI Direction: General (Trade and Commerce)
+ID001083: Nomadic AI Direction: General (Trade and Commerce).
+ID001084: Trade and Commerce
+ID001085: Trade and Commerce
+ID001086: Nomadic AI Direction: General (Conquest/Rapid Expansion)
+ID001087: Nomadic AI Direction: General (Conquest/Rapid Expansion).
+ID001088: Conquest/Rapid Expansion
+ID001089: Conquest/Rapid Expansion
+ID001090: Nomadic AI Direction: Imperial Conqueror (Add buff)
+ID001091: This kind of regime is characterized by strong military power and leadership, often establishing vast empires through the conquest of surrounding regions.\nThe Mongol Empire is a typical example of an imperial conqueror. Genghis Khan and his successors unified the Mongolian steppes and swiftly conquered large territories in Asia and Europe, creating a vast empire.
+ID001092: War
+ID001093: War
+ID001094: Nomadic AI Direction: Imperial Conqueror (AI Strategy)
+ID001095: This kind of regime is characterized by strong military power and leadership, often establishing vast empires through the conquest of surrounding regions.\nThe Mongol Empire is a typical example of an imperial conqueror. Genghis Khan and his successors unified the Mongolian steppes and swiftly conquered large territories in Asia and Europe, creating a vast empire.
+ID001096: Strategy
+ID001097: Strategy
+ID001098: Nomadic AI Direction: Imperial Conqueror (AI Faction Response)
+ID001099: This kind of regime is characterized by strong military power and leadership, often establishing vast empires through the conquest of surrounding regions.\nThe Mongol Empire is a typical example of an imperial conqueror. Genghis Khan and his successors unified the Mongolian steppes and swiftly conquered large territories in Asia and Europe, creating a vast empire.
+ID001100: Coping Faction
+ID001101: Coping Faction
+ID001102: Nomadic AI Development: Imperial Conqueror (AI Persecutes Vassals)
+ID001103: This type of regime is characterized by strong military power and leadership, often building vast empires through the conquest of surrounding areas.\nThe Mongol Empire is a typical example of an imperial conqueror. Genghis Khan and his successors unified the Mongolian steppes and quickly conquered vast territories in Asia and Europe, establishing a large empire.
+ID001104: Persecute Vassals
+ID001105: Persecute Vassals
+ID001106: Nomadic AI Development: Imperial Conqueror (Conquest/Rapid Expansion)
+ID001107: Nomadic AI Development: Imperial Conqueror (Conquest/Rapid Expansion).
+ID001108: Conquest/Rapid Expansion
+ID001109: Conquest/Rapid Expansion
+ID001110: Nomadic AI Development: Cultural Transmitter (Add Buff)
+ID001111: This type of regime usually retains and transmits existing cultures, languages, and religions during the process of conquest, fostering the integration of different cultures.\nThe Turkic Khaganate is an example of a cultural transmitter. The Turkic Khaganate retained the original Turkic culture and language during the conquest of Central Asia and promoted Turkic culture in the regions they ruled.
+ID001112: Transmission
+ID001113: Transmission
+ID001114: Nomadic AI Development: Diplomat and Ally (Add Buff)
+ID001115: This type of regime may be more inclined to establish alliances with neighboring states through diplomatic means to maintain its own interests and stability.\nThe Khwarazmian Empire adopted flexible diplomatic policies in Central Asia, maintaining its status through alliances with Islamic countries.
+ID001116: Diplomacy
+ID001117: Diplomacy
+ID001118: Nomadic AI Development: Diplomat and Ally (AI Diplomatic Strategy)
+ID001119: This type of regime may be more inclined to establish alliances with neighboring states through diplomatic means to maintain its own interests and stability.\nThe Khwarazmian Empire adopted flexible diplomatic policies in Central Asia, maintaining its status through alliances with Islamic countries.
+ID001120: Diplomacy
+ID001121: Diplomacy
+ID001122: Exhausted March
+ID001123: Soaked by rain and mud, the heavy armor burdened the warriors. The long march had left their eyes bloodshot and legs trembling. The soldiers' faces were filled with fatigue and anxiety, their eyes dull, no longer glinting with their former sharpness. Weapons became heavy and cumbersome, with blades covered in dirt and stains. Every step felt like carrying a thousand-pound burden, and the warhorses panted heavily, their breaths accompanying the marching troops.#! 
+ID001124: Hurry up, you lazy pigs!
+ID001125: Move it! You lazy pigs! No food tonight for those who lag behind!
+ID001126: Your excellent military competence tells you how to effectively mobilize the entire army.
+ID001127: The soldiers loudly complained about the hardships of the march, ignoring your urges.
+ID001128: Alright, let's rest here.
+ID001129: Enemy Attack
+ID001130: Dusk was falling, dark clouds gathered, and visibility became increasingly poor. The clanking of armor constantly echoed.\n\nSuddenly, a loud shout pierced the silence, and several shadows swiftly dashed out, their swords and spears gleaming coldly.\n\n\n"Enemy attack!"#!
+ID001131: Hold the formation!
+ID001132: Find a way to capture the attacking scouts and delay the enemy's next move.
+ID001133: Surprisingly calm, you seized the right moment to capture the enemy's scouts in one go.
+ID001134: You were at a loss, the enemy struck and withdrew, leaving the road ahead fraught with danger.
+ID001135: March Out to Meet the Enemy
+ID001136: A distant fortress came into view.\nThe high walls and distinct flags indicated the danger ahead.\n\nSuddenly, the fortress gates slowly opened, and a troop emerged, forming a tight military formation, resembling an iron wall, silently waiting for our arrival.\n\n
+ID001137: Charge!
+ID001138: Trust my soldiers and charge forward!
+ID001139: Garrison
+ID001140: Mounted Archers
+ID001141: Flanking Attack
+ID001142: Diplomatic Maneuver: Armistice Agreement
+ID001143: Reach a preventive [truce|E] with [recipient.GetTitledFirstName] through diplomatic means.
+ID001144: Diplomatic Maneuver: $VALUE|=+0$
+No: issues encountered. Translation of the provided Chinese text has been completed accurately while preserving the identifiers and formatting.

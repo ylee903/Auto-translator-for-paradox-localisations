@@ -1,0 +1,102 @@
+Chunk 1 received from API:
+ID000000 Baiyue Ambition
+ID000001 Baiyue generally refers to the tribes that inhabit the coasts and major rivers of East Asia. They were the earliest settlers of the East Asian continent.
+ID000002 King of Thousands of Islands
+ID000003 The Austronesian tribes traveled among thousands of islands, constantly facing tides and storms, dominating the seas under the sun.
+ID000004 White Mountains and Black Waters
+ID000005 The Xing'an Mountains, Changbai Mountains, and the basins of the Nen and Heilong Rivers nurtured many tribes. Under the protection of the Willow Goddess, they thrived and repeatedly emerged from the forests.
+ID000006 Master of the Forest
+ID000007 From the Ailao Mountains to the Wuyi Mountains, there are tribes known for their bravery and hunting skills. The story of Chiyou challenging the Central Plains has become legend, but they have never forgotten their glory.
+ID000008 Martial Fortune
+ID000009 The Yamato people firmly believe that from mythological times, they have been destined by the heavens; flowers fall instantly, sorrow and joy have their times, playing the koto for a thousand days, and achieving unity with the sword.
+ID000010 Beautiful Mountains and Waters
+ID000011 Contrary to the Central Plains historians' assertion of the Ye-Maek lineage, the Goryeo tribes claimed descent from Dangun and were revived by Goguryeo, descendents of Buyeo.
+ID000012 Canglang and White Deer
+ID000013 The Ch'ih-leh plains beneath the Yin Mountains. The sky is like a dome, covering the vast land. The heavens are vast, and the wilderness is boundless. The wind blows the grass low, revealing horses and sheep.
+ID000014 Patriarchal Tradition
+ID000015 For large-scale intensive labor, people multiplied in clans, valuing life and death highly. They lived under clan constraints where fathers held supreme authority, practicing the hereditary succession of the eldest son, not damaging their bodies, first honoring their kin and then extending respect to others. Those who violated clan laws were universally despised.
+ID000016 Implements the identifiable hereditary succession of the eldest son
+ID000017 Unified System
+ID000018 Unified track widths, standardized writing, and harmonious conduct. The early centralization and authoritarian system could organize large-scale production, with the emperor's authority owning and disposing of everything.
+ID000019 Can recruit [GetMaA('mangudai').GetName][men_at_arms|E]
+ID000020 Can recruit [GetMaA('asia_tunguse_ss').GetName][men_at_arms|E]
+ID000021 Can recruit [GetMaA('samurai').GetName][men_at_arms|E]
+ID000022 Can recruit [GetMaA('java_warrior').GetName][men_at_arms|E]
+ID000023 Can recruit [GetMaA('china_east_ms').GetName][men_at_arms|E]
+ID000024 Can recruit [GetMaA('china_south_wd').GetName][men_at_arms|E]
+ID000025 Khitan Military System
+ID000026 Emperor Taizong selected 300,000 elite troops from across the land for the Pishi Army. Initially, Emperor Taizu set up a core force of over a thousand leaders from various tribes, which formed the Pishi Army. Taizong expanded it to 300,000.
+ID000027 Warship
+ID000028 Thousands of iron chains sinking to the river bottom, a banner of surrender flying over Shitou City.
+ID000029 Canoe
+ID000030 With no path to follow, he sailed away on a raft.
+ID000031 Guard of the Two Capitals
+ID000032 Taking a break from fasting to attend the Tai Chang Temple, carrying poetry volumes to the Gangtang pavilion.\nThe governor, an old acquaintance from court, allows a bit of revelry post-drinking.\nWhen documents arrive, only a signature is required, while the vistas inspire verse.\nMany travelers roam the avenues of the two capitals, where poets frequently clash in contests.
+ID000033 Wu Hook
+ID000034 The Han cauldron does not cook Cao Cao's flesh, the Wu hook severs Wu Zixu's head in vain.
+ID000035 Excellent Steeds from Youzhou
+ID000036 The cunning leader draws cavalrymen, who fly like silver hawks, armed with bows and knives.
+ID000037 Goryeo Hunter
+ID000038 The land of Goryeo, rich in mountains and forests; its people excel at crafting hunting tools, especially bows, which are also used in the military, boasting many skilled archers.
+ID000039 Western Shu Crossbow
+ID000040 It was said that the heavenly troops entered Western Shu, beating war drums and shaking the rocky valleys.
+ID000041 Central Plains Military System
+ID000042 Laugh not at the man who lies drunk on the battlefield; since ancient times, how many have returned from war?
+ID000043 Horse Cutter
+ID000044 Frost spears and snowy armor as cold as water, how can the scouts know the beginning and end?
+ID000045 Overthrow the Ruler
+ID000046 Use various means within the existing system to replace the superior.
+ID000047 Rise of the Samurai
+ID000048 Samurai emerged along with social chaos and the decline of imperial power.
+ID000049 Ashigaru
+ID000050 Ashigaru were the lowest class of foot soldiers in ancient Japan. They performed labor in peacetime and became infantry during wartime.
+ID000051 Goryeo Ginseng
+ID000052 Greatly replenishes vitality, generates fluids, and calms the mind, highly favored by the upper nation.
+ID000053 Goryeo Bow
+ID000054 The strongest military force of ancient Goryeo, one of its few highlights.
+ID000055 Byeolbangmu
+ID000056 A cavalry unit meticulously crafted by Goryeo to combat Jurchen invasions.
+ID000057 Mongolian Horse
+ID000058 The Mongolian horse is small in stature, unassuming in appearance, with a large head and short neck. It is robust, with a wide chest and long mane, thick skin, and coarse hair. It is hardy, highly adaptable, able to withstand Siberian snowstorms, and can kick foxes and wolves to death with its hooves.
+ID000059 Uyghur Light Cavalry
+ID000060 Although the Uyghurs had conflicts with various Turkic tribes, they maintained a traditional nomadic lifestyle. They formed a powerful cavalry unit using local Kazakh horses to protect land trade routes.
+ID000061 Kazakh Horse
+ID000062 A breed found in the northern slopes of the Tianshan Mountains, western Jungharia, and the western section of the Altai Mountains. It has a crude bone structure, thick skin, and dense hair with a bushy mane, forelock, and tail. The horse is heavily built but well-proportioned, with a versatile structure. It is an ancient local breed formed under extensive nomadic breeding conditions.
+ID000063 Himalayan Warrior
+ID000064 We have long adapted to the rugged terrain and thin air of the highland mountains. Outsiders find it difficult to endure the environment here, let alone pose a threat to us. Our warriors navigate the mountains, watching invaders fall one by one. The highlands are a divine barrier, making it hard for invaders to advance into Tibet, but our warriors also suffer severe adverse effects when descending to lower lands.
+ID000065 Hequ Horse
+ID000066 An ancient and excellent local breed, Hequ horses are tall, with flat backs and strong endurance, suitable for both harness and saddle. They are well-adapted to the local geography and environment, with strong disease resistance. Used as war horses since the Qin and Han dynasties, they were often offered as tribute in history.
+ID000067 Xianbei Iron Cavalry
+ID000068 One of the Xianbei traditions preserved by Tuyuhun. Since the reign of Emperor Xiaowen of Northern Wei, successive rulers have meticulously formed heavy cavalry units to intimidate neighboring enemies.
+ID000069 Tuyuhun Armored Cavalry
+ID000070 Tuyuhun warriors, armored head to toe, preserving the Xianbei tradition, excel at breaking enemy lines and killing foes.
+ID000071 Full Armor Cavalry
+ID000072 Warriors armored head to toe, following ancient battle traditions, breaking enemy lines and killing foes.
+ID000073 Turkic Heavy Cavalry
+ID000074 The Western Turks are a horse-riding nation. The iron-smelting and forging techniques inherited since the rise of the Turks combined with Central Asia's abundant iron resources created this renowned heavy cavalry unit. They are the wolves of the steppes and the nightmare of neighboring civilizations.
+ID000075 Turkic Heavy Cavalry
+ID000076 The Western Turks are a horse-riding nation. The iron-smelting and forging techniques inherited since the rise of the Turks combined with Central Asia's abundant iron resources created this renowned heavy cavalry unit. They are the wolves of the steppes and the nightmare of neighboring civilizations.
+ID000077 Cuman Tribe
+ID000078 The organizational method of the Cumans is extremely strong, and the powerful cavalry of each tribe is at my disposal.
+ID000079 Cuman Kipchaks
+ID000080 Lightly armored Cuman cavalry from various tribes known for their high mobility.
+ID000081 Wooden Fences
+ID000082 We make extensive use of locally sourced materials to deploy wooden fences around our settlements, effectively hindering the advance of invaders.
+ID000083 Akso
+ID000084 Bulgarian warriors armored together with their steeds, charging in dense formation to maximize their strength and speed.
+ID000085 Kuno
+ID000086 Lightly armed Magyar warriors whose arrival on horseback makes all of Pannonia tremble.
+ID000087 Lovas
+ID000088 Brave and armored Magyar knights, capable of raining arrows from a distance with light cavalry and charging in close combat during intense battles.
+ID000089 Armed Militia
+ID000090 Slightly trained and equipped with simple weapons, rotating militia units with some archers, but still lacking combat effectiveness.
+ID000091 Szekler Horse Archers
+ID000092 Szekler horse archers residing in Pannonia, skillful in flanking and pursuing retreating enemies.
+ID000093 Ghaznavid War Elephants
+ID000094 These war beasts were brought from India, gradually adapting to the battlefield noise and spears after long-term training and conditioning. Their thick skin, combined with full body armor, allows them to withstand fierce attacks and crush enemy formations with immense power.
+ID000095 Ghaznavid War Elephants
+ID000096 These war beasts were brought from India, gradually adapting to the battlefield noise and spears after long-term training and conditioning. Their thick skin, combined with full body armor, allows them to withstand fierce attacks and crush enemy formations with immense power.
+ID000097 Ghaznavid War Elephants
+ID000098 These war beasts were brought from India, gradually adapting to the battlefield noise and spears after long-term training and conditioning. Their thick skin, combined with full body armor, allows them to withstand fierce attacks and crush enemy formations with immense power.
+ID000099 Bushido
+

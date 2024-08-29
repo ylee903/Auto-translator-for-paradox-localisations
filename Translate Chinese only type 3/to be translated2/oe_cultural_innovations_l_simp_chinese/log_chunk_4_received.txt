@@ -1,0 +1,102 @@
+Chunk 4 received from API:
+ID000300 Iron Warhawk
+ID000301 Iron Warhawk
+ID000302 Iron Warhawk
+ID000303 Yokoyama Foot Soldier
+ID000304 Yokoyama Foot Soldier
+ID000305 Yokoyama Foot Soldier
+ID000306 Yokoyama Foot Soldier
+ID000307 Tangut Warrior
+ID000308 Tangut Warrior
+ID000309 Tangut Warrior
+ID000310 Imperial Guard with Full Armor
+ID000311 Elite Crossbowman
+ID000312 Mongol Heavy Cavalry
+ID000313 Mongol Heavy Cavalry
+ID000314 Mongol Archer
+ID000315 Divine Arm Bowmen
+ID000316 Qin's Hardy Soldiers
+ID000317 White Lances
+ID000318 Veteran Returnees
+ID000319 Anxi Army
+ID000320 Lift your head and see the sun, but not Chang'an.
+ID000321 Fang Guards
+ID000322 Good Family Fang Guards
+ID000323 Fang Guards
+ID000324 Fang Guards
+ID000325 Fang Guards
+ID000326 Cavalry
+ID000327 Cavalry
+ID000328 Cavalry
+ID000329 Knife Fighters
+ID000330 Shield and Knife Fighters
+ID000331 Light Cavalry of Heishuo
+ID000332 White Horse Volunteers
+ID000333 Foot Soldiers
+ID000334 Silent Iron Cavalry
+ID000335 Longwei Heavy Cavalry
+ID000336 Ronin
+ID000337 Warrior Monks
+ID000338 Repeating Crossbowmen
+ID000339 Repeating Crossbowmen
+ID000340 Jungle Hunters
+ID000341 Silver Spear Vanguard
+ID000342 Crow Army
+ID000343 Khitan Warrior
+ID000344 Sogdian Fang Guards
+ID000345 Jurchen Conquest (AI)
+ID000346 Jin Dynasty
+ID000347 Unify the Jurchen Tribes
+ID000348 The clan leaders gather around me, Iron Pard and Swift Horse, all the strong ones cheer for my cause.\n\nWarriors salute me, let us charge out of the forest and grasp the world firmly in our hands.
+ID000349 My conquest begins here.
+ID000350 Unify the Jurchen Tribes
+ID000351 Army on Full Alert!
+ID000352 Jurchen tribes ready to conquer the world
+ID000353 Jurchen Grand Army
+ID000354 Jurchen Conquest War (Phase 1)
+ID000355 Jurchen Conquest War
+ID000356 Jurchen Conquest War (Phase 2)
+ID000357 Jurchen Conquest War (Phase 3)
+ID000358 Surrender your land!
+ID000359 Your rotten rule shall end now, I, [nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName], give you three days to surrender your territory, or face the consequences!
+ID000360 My lord, I am willing to give up my land and submit to you...
+ID000361 Submit to [nvzhenzhengfuzhe.GetTitledFirstName]
+ID000362 Declare war on [nvzhenzhengfuzhe.GetTitledFirstName]
+ID000363 Declare war on [demand_recipient.GetTitledFirstName]
+ID000364 Get lost!
+ID000365 To the foolish [nvzhenzhengfuzhe.GetFirstName]
+ID000366 Withdraw your threat! Foolish [nvzhenzhengfuzhe.GetFirstName]! \n\nYour threat is weaker than that of a three-year-old, who do you think you are? You pig dreaming of laying hands on my territory.
+ID000367 You dog, I will crush you to dust!
+ID000368 Beginning of the Conquest
+ID000369 My clansmen and I were summoned before [nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName]'s tent, every clan leader and vassal of the Jurchens gathered here. We all knew why and deliberated throughout the night in the smoky tent without a hint of doubt.\n\n[nvzhenzhengfuzhe.GetFirstName] loudly called out the names of ancestors, he walked past every Jurchen warrior and communicated with them warmly, I could feel the warriors' blood boiling.\n\nFrom now on, the world shall tremble under the feet of the conqueror [nvzhenzhengfuzhe.GetFirstName]!
+ID000370 For the glory of the Jurchens! For [nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName]!
+ID000371 You have repelled [attacker.GetShortUIName|U], but what about next time...
+ID000372 Player adds a building slot
+ID000373 Noble Collides
+ID000374 Ready to depart!
+ID000375 Operation went smoothly
+ID000376 Time to persecute the aliens again
+ID000377 Noble Collides
+ID000378 Profiting from Silk Road trade
+ID000379 Money is justice!
+ID000380 Money is justice!
+ID000381 You made a big profit
+ID000382 Form Silver Spear Vanguard
+ID000383 My mind is made up!
+ID000384 Formation successful
+ID000385 Form Silver Spear Vanguard
+ID000386 Form Crow Army (AI) Small Scale
+ID000387 Form Crow Army (AI) Large Scale
+ID000388 Form Crow Army
+ID000389 My mind is made up!
+ID000390 Formation successful
+ID000391 Form Crow Army
+ID000392 Crow Army
+ID000393 Vassal Troops (AI) Small Scale
+ID000394 Vassal Troops (AI) Large Scale
+ID000395 Expand Fang Guards
+ID000396 My mind is made up!
+ID000397 You feel very prestigious
+ID000398 I need a reliable private guard
+ID000399 Vassal Commander's Guard
+

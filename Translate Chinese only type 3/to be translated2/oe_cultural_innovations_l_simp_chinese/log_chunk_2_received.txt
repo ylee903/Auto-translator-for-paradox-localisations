@@ -1,0 +1,102 @@
+Chunk 2 received from API:
+ID000100 A death without hesitation, a death without concern, a death without doubt.
+ID000101 Fishing and Hunting
+ID000102 From small fish, shrimp, turtles, and crabs to whaling and battling sea beasts, this is an ancient profession.
+ID000103 Moving with the Grass
+ID000104 One of the main characteristics of ancient nomadic life, constantly chasing the grasslands and knowing everything about them.
+ID000105 When a character of [culture|E] leads an [army|E] through #V $grassland$#! or #V $plains$#!, the march speed will be greatly increased.
+ID000106 Miao Border Witchcraft
+ID000107 The great wisdom of the ancestors.
+ID000108 Bloodline of Chiyou
+ID000109 The legendary maker of weapons, also revered as the God of War, alongside the Yellow Emperor and Yan Emperor, known as the three ancestors of China. The fierce and united spirit derived from Chiyou's descendants, the Miao people, is praised by the world.
+ID000110 Ainu Tribal Warriors
+ID000111 The Ainu call themselves “Utari,” meaning “partner.” They cherish their fellow warriors and survive the many conflicts in the Japanese archipelago with great difficulty.
+ID000112 Northeast Asian Horse Archers
+ID000113 Horse archers well adapted to the dense forests of Northeast Asia, more suited to the local warfare environment compared to other nomadic forces on the grasslands.
+ID000114 Horse Archers
+ID000115 Horse archers well adapted to the dense forests of Northeast Asia, more suited to the local warfare environment compared to other nomadic forces on the grasslands.
+ID000116 Frontier Soldiers
+ID000117 Temporary soldiers recruited from rural border areas to guard against threats from neighboring nations.
+ID000118 Bandits
+ID000119 Killing, robbery, and banditry define a warrior.
+ID000120 Spearmen
+ID000121 Normally engaged in labor, becoming infantry during wartime.
+ID000122 North-Sided Samurai 
+ID000123 Serving under the northern aspect of the court, these samurai protect the abdicated emperor and attend to his needs.
+ID000124 Japanese Archers
+ID000125 The continuation of the Yamato people's traditional archery on the battlefield.
+ID000126 Naginata Warriors
+ID000127 Using long and sharp naginata as weapons, these warriors either form defensive formations to block enemies or scatter to ambush, making them formidable opponents.
+ID000128 Goryeo Archers
+ID000129 Skilled archers and hunters moving through the complex mountainous forests of the Korean Peninsula, using superior shooting techniques to inflict damage on the enemy.
+ID000130 Left Sekisho Archers
+ID000131 Skilled shield-bearing light infantry who know how to dodge incoming arrows.
+ID000132 Elite Heavy Infantry
+ID000133 Elite heavy infantry units created to counter the Jurchens, proficient in dealing with cavalry.
+ID000134 Hwarang
+ID000135 Young Goryeo nobles trained in martial arts from an early age, not only excelling in archery but also admired for their appearance and demeanor.
+ID000136 Imperial Guard
+ID000137 The emperor's exclusive army, responsible for protecting the imperial palace and the emperor himself, selected through layers of screening, highly skilled in martial arts.
+ID000138 Northern Imperial Guard
+ID000139 A strong force defending the capital.
+ID000140 Feathered Forest Army
+ID000141 Directly under the emperor, tasked with protecting the emperor or the imperial palace and capital's security.
+ID000142 Local Standing Army
+ID000143 The main source of the imperial guard, a local permanent army.
+ID000144 Faction Soldiers
+ID000145 Army units commanded by various regional military governors.
+ID000146 Frontier Army
+ID000147 Recruited military households from frontier towns to participate in wars to defend against foreign enemies.
+ID000148 Local Army
+ID000149 Soldiers independently recruited from various regions, with varying levels of quality.
+ID000150 Mo-Dao Infantry
+ID000151 Mo-Dao Infantry.
+ID000152 Village Braves
+ID000153 Temporarily recruited local militia who follow the army for combat and defense, forming their own camps.
+ID000154 Miao Warriors
+ID000155 The Miao people are all soldiers. In the event of sudden warfare, Miao warriors will spontaneously carry weapons and food to the battlefield under the leadership of their "Old Tiger Han" (warrior leader).
+ID000156 Navy Infantry
+ID000157 Southern infantry skilled in naval warfare, responsible for combined land and river operations and safeguarding river routes. When necessary, they can penetrate deep along river networks to deliver unexpected blows to the enemy.
+ID000158 Elephant Armor Warriors
+ID000159 Elite warriors clad in heavy elephant skin armor, undeterred by volleys of arrows.
+ID000160 Urumi Sword
+ID000161 One of the traditional martial arts of southern India, renowned for its speed and superior technique.
+ID000162 Urumi Swordsmen
+ID000163 Dravidian warriors skilled with soft swords, charging into enemy ranks at high speed to inflict massive damage within the area.
+ID000164 Rajput Warriors
+ID000165 Kshatriya warriors fighting on horseback, with Rajput scimitars striking accurately at the enemy's head.
+ID000166 Nayar Infantry
+ID000167 Southern Indian warriors who have long trained in Kalaripayattu martial arts, wielding long spears and cooperating seamlessly.
+ID000168 Sinhalese Guards
+ID000169 Loyal and fearless Sinhalese guard regiments, striving to protect their lord completely.
+ID000170 Jungle Claws
+ID000171 We have emulated the claws of the jungle king, the tiger, to create this powerful weapon—the claw blade.
+ID000172 Claw Blade Warriors
+ID000173 Shadows lurking in the dense jungles of the southern islands, using swift claw blades to cut the enemy's throat.
+ID000174 Steppe Riders
+ID000175 Steppe Riders
+ID000176 Uighur Light Cavalry
+ID000177 Tsampu Guard Department
+ID000178 Gui
+ID000179 Tsampu Guard Department
+ID000180 Gui
+ID000181 Uru-Yotgin Cavalry
+ID000182 Gui
+ID000183 Yung-Tongdai Protection
+ID000184 Yong
+ID000185 Can recruit [GetMaA('wushi').GetName] as [men_at_arms|E]
+ID000186 Can recruit [GetMaA('zuqing').GetName] as [men_at_arms|E]
+ID000187 Unmatched Bravery
+ID000188 Only the strong deserve to survive.
+ID000189 Art of War
+ID000190 War is an art; the winner takes all, and the loser has nothing.
+ID000191 Comfortable and Content
+ID000192 Life is important, but happiness is even more important.
+ID000193 This [culture|E] has the [ethos|E] of $ethos_courtly_name$
+ID000194 Knight Sanctuary
+ID000195 Proud knights are always poor at managing their estates. Falling into decline, they choose to fully rely on other wealthy rulers.
+ID000196 Destitute Knights
+ID000197 Feudal knights fallen to the point where they have nothing but their martial skills, leading a small retinue to depend on a wealthy ruler, hoping to rise again someday.
+ID000198 Can recruit [GetMaA('luopoqishi').GetName] as [men_at_arms|E]
+ID000199 This [culture|E] does not have the [ethos|E] of $ethos_spiritual_name$
+

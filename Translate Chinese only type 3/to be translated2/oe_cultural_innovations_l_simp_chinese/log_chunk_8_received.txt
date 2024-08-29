@@ -1,0 +1,102 @@
+Chunk 8 received from API:
+ID000700 Swiss Mercenaries
+ID000701 Veteran soldiers with nowhere to go and robust young men from impoverished families travel together, guided by the traditions of the old Swiss mountaineers to the battlefield.
+ID000702 Swiss Mercenaries
+ID000703 Fighting alongside their fellow countrymen and blood relatives, forming lines with halberds and long spears, the fearless infantry advances.
+ID000704 Commune Militia
+ID000705 Lightly armed militiamen who equip themselves and are determined to defend their town.
+ID000706 Commune Cavalry
+ID000707 Light cavalry well-adapted to the mountainous terrain of northern Italy.
+ID000708 Holy Wagon
+ID000709 Raise our banner high, the music played from the Holy Wagon is a sacred talisman, fighting to the death for the honor of the city-state!
+ID000710 Holy Wagon
+ID000711 Oxen-drawn Holy Wagon parading through the battlefield, warriors achieve glory by slaying the enemy.\nThe Holy Wagon must not fall, and the warriors fearlessly face death.
+ID000712 Holy Wagon
+ID000713 Oxen-drawn Holy Wagon parading through the battlefield, warriors achieve glory by slaying the enemy.\nThe Holy Wagon must not fall, and the warriors fearlessly face death.
+ID000714 Pavise Shield
+ID000715 A reliable large wooden shield that provides temporary cover for our crossbowmen and can also serve as a movable fortification to assist in sieges.
+ID000716 Pavise Crossbowmen
+ID000717 Crossbowmen equipped with Pavise shields, allowing them to make accurate shots while under the protection of these shields.
+ID000718 Genoese Crossbowmen
+ID000719 The world-renowned elite archers of Genoa, whose powerful crossbows instill fear in their enemies.
+ID000720 Belovedieri
+ID000721 Elite light cavalry of the Italian corps, clad in transitional armor.
+ID000722 Teutonic Depth Defense
+ID000723 Various fortresses scattered across the German lands along with the Burgmannen infantry responsible for guarding the towns will significantly slow down enemy siege progress.
+ID000724 Burgmannen Heavy Infantry
+ID000725 Elite infantry responsible for defending castles and guarding against foreign enemies.
+ID000726 Large-Scale Enfeoffment
+ID000727 Wealthy and leisurely citizens and guild elites aspire to join the upper class; a small knight's title is enough to satisfy them.
+ID000728 Guild Knights
+ID000729 Citizens armed at their own expense and knighted, numerous but of lesser quality.
+ID000730 Robber Knights
+ID000731 Mounted robbers exploiting the advantage of fortresses to plunder everywhere, some of whom might even hold knightly titles, but their deeds are far from truly noble knights.
+ID000732 Liege Knights
+ID000733 German warriors with certain social status, well-equipped and forming the main force of the Empire's cavalry.
+ID000734 Imperial Knights
+ID000735 Loyalty to the Emperor above all, within the extensive network of knight families, every powerful knight can shine.
+ID000736 Imperial Knights
+ID000737 Clad in high-quality Gothic plate armor, Imperial knights are highly skilled in combat.
+ID000738 Gothic Plate Armor
+ID000739 Custom-fitted plate armor that ensures flexibility while optimizing the overall design, lighter in weight with stronger defense.
+ID000740 Foot Imperial Knights
+ID000741 Powerful knights in full plate armor who, according to German tradition, fight on foot.
+ID000742 Milanese Plate Armor
+ID000743 A surge in weapon orders gave rise to this unique plate armor style; the smooth-lined Milanese plate armor is renowned for effectively reducing arrow damage.
+ID000744 Water-powered Hammer
+ID000745 A large machine driven by water power, used to crush ores or straighten metal parts, greatly reducing the cost of forging heavy armor.
+ID000746 Byzantine Military System
+ID000747 The Byzantine army evolved from the late Roman Empire's army, becoming more complex and diverse in strategy, tactics, and organization.
+ID000748 Training Ghulams
+ID000749 The turmoil caused by foreign invaders forced us to accelerate military reforms; we noticed that well-trained slave soldiers possessed strong combat capabilities. If further organized and disciplined, a powerful army could quickly form.
+ID000750 Bedouin Tribe Riders
+ID000751 The Bedouin tradition of horse riding produced these tribal riders traversing the vast desert; they are naturally born desert warriors.
+ID000752 Elite Bedouin Riders
+ID000753 The Bedouins take pride in riding swift horses; their tribal warriors on horseback roar through the desert like a storm, destroying enemy defenses.
+ID000754 Bedouin Light Cavalry Retainers
+ID000755 By granting privileges to members of the eastern Bedouin tribes, we transform them into efficient and loyal bodyguards, bringing peace to Egypt and Syria and strengthening control over this strategic area.
+ID000756 Bedouin Light Cavalry Retainers
+ID000757 These Bedouins are efficient and loyal bodyguards, roaring through the desert like a storm, breaking enemy defenses.
+ID000758 Sword of Islam
+ID000759 Witnessed by the Crescent and Star!
+ID000760 Mountain Warriors
+ID000761 The mountainous regions of Iran are exceedingly treacherous, only locals can survive in such a harsh environment for long periods.
+ID000762 Dailamite Highland Warriors
+ID000763 Strong warriors from Iran's mountainous regions, unparalleled combatants.
+ID000764 Elite Dailamite Warriors
+ID000765 Whether seeking wealth or fleeing conflict, some Dailamites migrated here, their inherent fighting spirit allowing them to rise quickly in the military ranks.
+ID000766 Elite Dailamite Warriors
+ID000767 Whether seeking wealth or fleeing conflict, some Dailamites migrated here, their inherent fighting spirit allowing them to rise quickly in the military ranks.
+ID000768 Hinged Rudder
+ID000769 With the advanced navigation technologies introduced from the distant East, our elite warriors can quickly reach the battlefield through sea transport.
+ID000770 Persian Cataphracts
+ID000771 Our long-standing tradition of heavy cavalry combat never goes out of style.
+ID000772 Persian Cataphracts
+ID000773 These powerful riders have dominated Central Asia for millennia!
+ID000774 Savaran
+ID000775 The heavy cavalry of ancient Persia, renowned for their bravery on the front lines.
+ID000776 Immortal Guardians
+ID000777 The ancient and formidable Immortal Legions, glorious defenders of Ahura.
+ID000778 Immortal Guardians
+ID000779 The ancient and formidable Immortal Legions, glorious defenders of Ahura.
+ID000780 Noah's Ark
+ID000781 We firmly believe we are the only survivors of the prehistoric Great Flood; as Noah's descendants, we shall never yield to any other civilization.
+ID000782 Highland Eagles
+ID000783 The people of this [culture|E] are like the eagles of the Armenian highlands, cold and focused. Their extremely strong [martial|E] talents often make them favorites of rulers, but their inherently untamable nature as eagles makes their nation suffer through many ups and downs.
+ID000784 Azatavrear
+ID000785 Since ancient times, there have been Azatavrear cavalry composed of elite warriors in Armenia, formidable heavy cavalry units who freely traverse the highland homeland.
+ID000786 Azatavrear
+ID000787 Since ancient times, there have been Azatavrear cavalry composed of elite warriors in Armenia, formidable heavy cavalry units who freely traverse the highland homeland.
+ID000788 Armenian Foot Archers
+ID000789 Swift archers lurking in the Armenian highlands, raining down a deadly barrage of arrows from above onto the enemy.
+ID000790 Armenian Foot Archers
+ID000791 Many Armenians migrated from the highland regions, and we took the opportunity to integrate these formidable archers into our army.
+ID000792 Scythe
+ID000793 This ancient tool is brought to the battlefield, affixed to long poles to counter massed cavalry units.
+ID000794 Heavy Scythemen
+ID000795 These scythemen, clad in heavy armor, stand at the front lines with their long, powerful scythes, proudly defying all cavalry.
+ID000796 Multinational Mercenary Corps
+ID000797 As a millennium-old empire, Byzantium is accustomed to using mercenaries, and the diverse array of mercenaries have left a significant mark in Byzantine military history.
+ID000798 Byzantine Mounted Archery Mercenaries
+ID000799 The empire's advanced armor technology equips these mercenaries from the steppes. Though some pursuit capability is sacrificed, their defense is greatly enhanced.
+

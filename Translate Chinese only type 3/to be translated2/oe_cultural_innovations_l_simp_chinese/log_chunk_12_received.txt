@@ -1,0 +1,50 @@
+Chunk 12 received from API:
+ID001100 Coping Faction
+ID001101 Coping Faction
+ID001102 Nomadic AI Development: Imperial Conqueror (AI Persecutes Vassals)
+ID001103 This type of regime is characterized by strong military power and leadership, often building vast empires through the conquest of surrounding areas.\nThe Mongol Empire is a typical example of an imperial conqueror. Genghis Khan and his successors unified the Mongolian steppes and quickly conquered vast territories in Asia and Europe, establishing a large empire.
+ID001104 Persecute Vassals
+ID001105 Persecute Vassals
+ID001106 Nomadic AI Development: Imperial Conqueror (Conquest/Rapid Expansion)
+ID001107 Nomadic AI Development: Imperial Conqueror (Conquest/Rapid Expansion).
+ID001108 Conquest/Rapid Expansion
+ID001109 Conquest/Rapid Expansion
+ID001110 Nomadic AI Development: Cultural Transmitter (Add Buff)
+ID001111 This type of regime usually retains and transmits existing cultures, languages, and religions during the process of conquest, fostering the integration of different cultures.\nThe Turkic Khaganate is an example of a cultural transmitter. The Turkic Khaganate retained the original Turkic culture and language during the conquest of Central Asia and promoted Turkic culture in the regions they ruled.
+ID001112 Transmission
+ID001113 Transmission
+ID001114 Nomadic AI Development: Diplomat and Ally (Add Buff)
+ID001115 This type of regime may be more inclined to establish alliances with neighboring states through diplomatic means to maintain its own interests and stability.\nThe Khwarazmian Empire adopted flexible diplomatic policies in Central Asia, maintaining its status through alliances with Islamic countries.
+ID001116 Diplomacy
+ID001117 Diplomacy
+ID001118 Nomadic AI Development: Diplomat and Ally (AI Diplomatic Strategy)
+ID001119 This type of regime may be more inclined to establish alliances with neighboring states through diplomatic means to maintain its own interests and stability.\nThe Khwarazmian Empire adopted flexible diplomatic policies in Central Asia, maintaining its status through alliances with Islamic countries.
+ID001120 Diplomacy
+ID001121 Diplomacy
+ID001122 Exhausted March
+ID001123 Soaked by rain and mud, the heavy armor burdened the warriors. The long march had left their eyes bloodshot and legs trembling. The soldiers' faces were filled with fatigue and anxiety, their eyes dull, no longer glinting with their former sharpness. Weapons became heavy and cumbersome, with blades covered in dirt and stains. Every step felt like carrying a thousand-pound burden, and the warhorses panted heavily, their breaths accompanying the marching troops.#! 
+ID001124 Hurry up, you lazy pigs!
+ID001125 Move it! You lazy pigs! No food tonight for those who lag behind!
+ID001126 Your excellent military competence tells you how to effectively mobilize the entire army.
+ID001127 The soldiers loudly complained about the hardships of the march, ignoring your urges.
+ID001128 Alright, let's rest here.
+ID001129 Enemy Attack
+ID001130 Dusk was falling, dark clouds gathered, and visibility became increasingly poor. The clanking of armor constantly echoed.\n\nSuddenly, a loud shout pierced the silence, and several shadows swiftly dashed out, their swords and spears gleaming coldly.\n\n\n"Enemy attack!"#!
+ID001131 Hold the formation!
+ID001132 Find a way to capture the attacking scouts and delay the enemy's next move.
+ID001133 Surprisingly calm, you seized the right moment to capture the enemy's scouts in one go.
+ID001134 You were at a loss, the enemy struck and withdrew, leaving the road ahead fraught with danger.
+ID001135 March Out to Meet the Enemy
+ID001136 A distant fortress came into view.\nThe high walls and distinct flags indicated the danger ahead.\n\nSuddenly, the fortress gates slowly opened, and a troop emerged, forming a tight military formation, resembling an iron wall, silently waiting for our arrival.\n\n
+ID001137 Charge!
+ID001138 Trust my soldiers and charge forward!
+ID001139 Garrison
+ID001140 Mounted Archers
+ID001141 Flanking Attack
+ID001142 Diplomatic Maneuver: Armistice Agreement
+ID001143 Reach a preventive [truce|E] with [recipient.GetTitledFirstName] through diplomatic means.
+ID001144 Diplomatic Maneuver: $VALUE|=+0$
+
+===DIAGNOSTIC===
+No issues encountered. Translation of the provided Chinese text has been completed accurately while preserving the identifiers and formatting.
+

@@ -1,0 +1,89 @@
+Chunk 3 received from API:
+ID000200 Land Caravans
+ID000201 With the sound of camel bells and the passage of time, the connectivity of land routes produced a large number of merchants. They traveled through the desolate yellow sands, bringing countless exotic treasures.
+ID000202 Land Caravans
+ID000203 With the sound of camel bells and the passage of time, the connectivity of land routes produced a large number of merchants. They traveled through the desolate yellow sands, bringing countless exotic treasures.
+ID000204 Ice Sea Warriors
+ID000205 The surging Arctic Ocean brought terrible destroyers.
+ID000206 Can recruit [GetMaA('lushangshangdui').GetName] as [men_at_arms|E]
+ID000207 Can recruit [GetMaA('binghaizhanshi').GetName] as [men_at_arms|E]
+ID000208 Slavic Expansionism
+ID000209 The unique pioneering spirit of the Slavs, longing for warmth due to harsh cold and driven to expand due to severe conflicts.
+ID000210 Ice Sea Saga
+ID000211 A hymn of blood and ice, the Ice Sea endures forever.
+ID000212 Moa Garrison
+ID000213 These military leaders, initially set up during the later stages of primitive society for raiding and hunting, gradually evolved into permanent military organizations over time.
+ID000214 Armored Cavalry
+ID000215 The warriors clad in armor along with their horses dominated the battlefield, sweeping through with overwhelming force.
+ID000216 Can recruit [GetMaA('jiaqijuzhuang').GetName] [men_at_arms|E]
+ID000217 The [knights|E] of this [culture|E] are eligible to earn [GetAccoladeType('dfbz_xinzeng_0005_attribute').GetName] [accolades|E]
+ID000218 Armored Cavalry Leader
+ID000219 Armored Cavalry Leader
+ID000220 Vanguard Armored Cavalry
+ID000221 Vanguard Armored Cavalry
+ID000222 Bodyguard Armored Cavalry
+ID000223 Assault General
+ID000224 Assault General
+ID000225 Assault Unit
+ID000226 Assault Unit
+ID000227 Assault Unit
+ID000228 Longsword General
+ID000229 Longsword General
+ID000230 Longsword Unit
+ID000231 Longsword Unit
+ID000232 Longsword Unit
+ID000233 Longsword Unit
+ID000234 Tooth General
+ID000235 Tooth General
+ID000236 Khitan
+ID000237 Can recruit [GetMaA('nvzhen_mouke').GetName] as [men_at_arms|E]
+ID000238 Granting land to your $jurchen$ [knights|E] will greatly increase their fighting spirit, but prolonged comfortable living will quickly corrupt them.
+ID000239 Mohe
+ID000240 Elite warriors selected for their exceptional skills in raiding and hunting from various tribes.
+ID000241 Mohe
+ID000242 Elite warriors selected for their exceptional skills in raiding and hunting from various tribes.
+ID000243 You must have a [feudal|E] [government|E]
+ID000244 Sultan's Guard
+ID000245 A reliable guard composed of the Sultan's trusted confidants, also doing some unspeakable tasks for the Sultan on ordinary days.
+ID000246 Knight Tradition
+ID000247 The vast plains of France were the main battlefield for knights, nurturing the most ferocious knight corps of the entire medieval period.
+ID000248 Bodyguard Unit
+ID000249 Powerful rulers often need a reliable bodyguard unit to handle various unexpected situations, and these people should ideally be trustworthy.
+ID000250 Axewieldin Guard
+ID000251 Vodka
+ID000252 The water of life, the pride of the Rus people.
+ID000253 Fierce Folkways
+ID000254 With little civilization, fierce folkways dominate, primitive desires fill every heart.
+ID000255 Wart Armor
+ID000256 The Qiang people excelled at forging armor, initially very thick without using fire, cold-forged until it was three-tenths the original thickness. The un-forged end was left as a protrusion like a wart to test pre-forging thickness, likened to sediment left when digging rivers, hence the name "Wart Armor". Even strong crossbows couldn't penetrate it.
+ID000257 Qiang of the Mountain
+ID000258 The Qiang tribes widely distributed in the northwestern mountainous areas, excelling in cross-country navigation among the mountains.
+ID000259 Tangut Horses
+ID000260 The Tangut tribe lived in areas like Dijingze, Hengshan, and Tiandushan, all famous horse-producing regions. With abundant high-quality horses, the Tang Dynasty poet Yuan Zhen wrote, "Buy Tangut horses in the north, capture Tibetan eagles in the west." Song people regarded Tangut horses as the best in the world.
+ID000261 Cold Forged Steel
+ID000262 The Tangut's steel forging technology surpassed others, and obtaining a sword of Xia kingdom was considered supreme glory. The Song Emperor Qinzong carried a 'Xia Sword' with him. Su Dongpo received a Western Xia sword and wrote a poem: 'Adorned in red, flower reflections in wine, sword drawn in hall, wind appeared. Spirals on the blade, dragon carved on the spine, embraced by silver dragons.'
+ID000263 Ronin
+ID000264 To restore their former authority, they undertook dangerous adventures, claiming to be soldiers of the Emperor, spreading chaos everywhere.
+ID000265 Divine Arm Bow
+ID000266 A bow that one person could draw, with a maximum range of four hundred meters, capable of penetrating heavy armor.
+ID000267 Decayed Horse Administration
+ID000268 Neglect by the upper rulers combined with poor governance by the lower officials led to an irreparably deteriorated horse administration in Central China.
+ID000269 Horse Conservation Law
+ID000270 The situation of no available horses in Central China was formally reversed, with strong and effective horse administration policies being implemented. If the entire system runs well, it will benefit all future generations.
+ID000271 Commercial Nation
+ID000272 Sogdians frequently traversed the long Silk Road between Central Asia and China, amassing great wealth from medieval East-West trade.
+ID000273 Yumi Bow
+ID000274 A type of longbow used in Japanese archery. The standard length of a yumi bow is about seven shaku three sun (approximately 2.21 meters).
+ID000275 Naginata
+ID000276 Naginata is a type of pole weapon used in ancient Japan, featuring a wide blade and a highly curved cutting edge.
+ID000277 Champa Rice
+ID000278 A high-yield, early-maturing, drought-resistant variety of rice from the Indochina Peninsula, benefiting many people.
+ID000279 Introduction of Champa Rice
+ID000280 Introducing the high-yield, early-maturing, drought-resistant Champa Rice from the Indochina Peninsula to benefit the entire populace.
+ID000281 Vast Land and Resources
+ID000282 Born in the land of Yan and Huang, nurtured by China. When the time comes, repay China.
+ID000283 Hebei Cavalry
+ID000284 The land of Yan produced numerous warriors, situated on the frontier with abundant horse trade. The long-term intermingling of Han and barbarians led to every good family having skilled riders.
+ID000285 Southwestern Horses
+ID000286 Southwestern horses are quick-witted and docile, adept at climbing, suitable for mountain transport, and an important tool for highland and mountainous transportation.
+
