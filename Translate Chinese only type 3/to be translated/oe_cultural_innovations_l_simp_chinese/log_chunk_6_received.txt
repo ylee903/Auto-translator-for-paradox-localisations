@@ -1,0 +1,123 @@
+Chunk 6 received from API:
+```yml
+Tower Shield
+Round Shield
+Viking Round Shield
+Kite Shield
+Scutum
+Fan-shaped Shield
+Oval Shield
+Buckler
+Buckler
+Selected
+Charge
+Load Bearing
+Hunt
+Cover
+Breeding War Horses
+Whirlwind Cannon
+Armored War Elephant
+Arrow Tower
+Training Intensity: I
+Training Intensity: II
+Training Intensity: III
+Martial Law
+Strengthen City Defense
+Scorched Earth
+Forced Recruitment
+Assist in Urban Construction
+Garrison Taxation
+Patrol Pastures
+Organize Raids
+Indemnity
+Recruits include pastoralists, wandering hunters, local mercenaries, and destitute nobles - they are numerous, mostly fight on horseback, and form the main body of the army.
+Recruits include peasant soldiers, thugs, local mercenaries, and destitute nobles, equipped with a motley array of tools and jumbled weapons - they are numerous and form the main body of most armies.
+Recruits include peasant soldiers, thugs, local mercenaries, and destitute nobles, equipped with a motley array of tools and jumbled weapons - they are numerous and form the main body of most armies.
+Crusader
+Crusader
+Pillager
+Pillager
+Tribal Champion
+Tribal Champion
+Peasant Leader
+Peasant Leader
+Battle-Hardened Veteran
+Yabghu Faction
+The demands of the Yabghu [faction|E] are more [gold|E], more expansive [realm|E], and superior status. Interact actively and maintain good#relations with your [knights|E].\n\nUltimatum#!\nAll faction members gain [gold|E], [prestige|E], [army|E], and [realm|E]\nDepose the current [liege|E] and appoint a new [liege|E].
+Aimed for greater profits
+You are not a [knight|E].
+Your [liege|E]'s organization is not#V Junta#!
+Your [liege|E]'s [government|E] is not #V Military District System#!
+Yabghu Rebellion
+Greed: $VALUE|=+0$
+Nomadic AI Development Direction: General (Cultural Exchange, Technological Innovation) (Add buffs, steal innovations)
+Nomadic AI Development Direction: General (Cultural Exchange, Technological Innovation) (Add buffs, steal innovations).
+Cultural Exchange, Technological Innovation
+Cultural Exchange, Technological Innovation
+Nomadic AI Development Direction: General (Trade)
+Nomadic AI Development Direction: General (Trade).
+Trade
+Trade
+Nomadic AI Development Direction: General (Conquest/Fast Expansion)
+Nomadic AI Development Direction: General (Conquest/Fast Expansion).
+Conquest/Fast Expansion
+Conquest/Fast Expansion
+Nomadic AI Development Direction: Imperial Conqueror (Add buffs)
+Such regimes are characterized by strong military power and leadership, often establishing vast empires through the conquest of surrounding areas.\nThe Mongol Empire is a typical example of an imperial conqueror. Genghis Khan and his successors unified the Mongolian steppe and quickly conquered large territories in Asia and Europe, establishing a vast empire.
+War
+War
+Nomadic AI Development Direction: Imperial Conqueror (AI Strategy)
+Such regimes are characterized by strong military power and leadership, often establishing vast empires through the conquest of surrounding areas.\nThe Mongol Empire is a typical example of an imperial conqueror. Genghis Khan and his successors unified the Mongolian steppe and quickly conquered large territories in Asia and Europe, establishing a vast empire.
+Strategy
+Strategy
+Nomadic AI Development Direction: Imperial Conqueror (AI Faction Response)
+Such regimes are characterized by strong military power and leadership, often establishing vast empires through the conquest of surrounding areas.\nThe Mongol Empire is a typical example of an imperial conqueror. Genghis Khan and his successors unified the Mongolian steppe and quickly conquered large territories in Asia and Europe, establishing a vast empire.
+Faction Response
+Faction Response
+Nomadic AI Development Direction: Imperial Conqueror (AI Vassal Suppression)
+Such regimes are characterized by strong military power and leadership, often establishing vast empires through the conquest of surrounding areas.\nThe Mongol Empire is a typical example of an imperial conqueror. Genghis Khan and his successors unified the Mongolian steppe and quickly conquered large territories in Asia and Europe, establishing a vast empire.
+Suppress Vassals
+Suppress Vassals
+Nomadic AI Development Direction: Imperial Conqueror (Conquest/Fast Expansion)
+Nomadic AI Development Direction: Imperial Conqueror (Conquest/Fast Expansion).
+Conquest/Fast Expansion
+Conquest/Fast Expansion
+Nomadic AI Development Direction: Cultural Successor (Add buffs)
+Such regimes typically preserve and pass on the original culture, language, and religion during conquests, promoting cultural fusion.\nThe Turkic Khaganate is an example of a cultural successor. The Turkic Khaganate preserved the original Turkic culture and language during its conquest of Central Asia and promoted Turkic culture throughout its dominions.
+Inheritance
+Inheritance
+Nomadic AI Development Direction: Diplomat and Ally (Add buffs)
+Such regimes may prefer diplomatic means, forming alliances with surrounding powers to maintain their interests and stability.\nThe Khwarezmian Empire in Central Asia adopted flexible diplomatic policies, forming alliances with Islamic countries to secure their position.
+Diplomacy
+Diplomacy
+Nomadic AI Development Direction: Diplomat and Ally (AI Diplomatic Strategy)
+Such regimes may prefer diplomatic means, forming alliances with surrounding powers to maintain their interests and stability.\nThe Khwarezmian Empire in Central Asia adopted flexible diplomatic policies, forming alliances with Islamic countries to secure their position.
+Diplomacy
+Diplomacy
+Exhausted March
+Soaked through by rain and mud, heavy armor burdened the soldiers. The long march left their eyes bloodshot and legs trembling. Faces filled with fatigue and anxiety, their eyes dimmed, lacking the sharpness of yesteryears. Weapons became heavy and clumsy, swords covered in dirt and stains. Every step felt like carrying a thousand pounds, the horses panted, their heavy breaths intermingling with the marching troops.#!
+Speed up, you lazy pigs!
+Move it! You lazy pigs! Tonight, those who fall behind get no food!
+Your remarkable military experience taught you how to effectively mobilize the entire army.
+The soldiers loudly complained about the hardship of the march and ignored your urgings.
+Alright, make camp and rest.
+Ambush
+The sky darkened, clouds gathered, visibility grew worse, and the sounds of iron armor echoed among the troops.\n\nSuddenly, a loud shout pierced the silence, several shadows darted forth, swords and spears gleaming.\n\n\n"Ambush!"#!
+Hold formation!
+Find a way to capture the scouts to delay the enemy's next move.
+You remained eerily calm, seizing the right moment to capture the enemy’s scouts.
+You were paralyzed with indecision, the enemy struck and withdrew, leaving you vulnerable on the forthcoming path.
+Sally out to meet the enemy
+The distant fortress came into view.\nTall walls crowned with clear banners signaling danger ahead.\n\nSuddenly, the gate slowly opened, and a troop emerged, forming a tight formation like a wall of steel, quietly waiting for our arrival.\n\n
+Charge!
+Believe in my soldiers and charge through!
+Enemy Garrison
+Mounted Archers
+Flank
+Diplomatic Maneuver: Truce Agreement
+Negotiate a preventive [truce|E] with [recipient.GetTitledFirstName] by diplomatic means.
+Diplomatic Maneuver: $VALUE|=+0$
+```
+
+
+

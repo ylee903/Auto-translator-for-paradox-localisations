@@ -1,0 +1,268 @@
+Chunk 2 received from API:
+```yml
+安闲自得
+Life is important, but happiness is more important.
+该[culture|E]有$ethos_courtly_name$的[ethos|E]
+Knight Asylum
+Proud knights are always poor at managing their estates, leading destitute knights to completely depend on other wealthy rulers.
+Destitute Knight
+Feudal knights who have nothing but martial skills, leading a small retinue to depend on wealthy rulers, hoping for a day to rise again.
+Can recruit [GetMaA('luopoqishi').GetName] as [men_at_arms|E]
+该[culture|E]没有$ethos_spiritual_name$的[ethos|E]
+Land Caravan
+The sound of camel bells, the passage of time, and the interconnection of land routes have given rise to many merchants, bringing countless exotic treasures as they traverse between desolate deserts.
+Land Caravan
+The sound of camel bells, the passage of time, and the interconnection of land routes have given rise to many merchants, bringing countless exotic treasures as they traverse between desolate deserts.
+Ice Sea Warriors
+The tumultuous ice sea brings forth terrifying destroyers.
+Can recruit [GetMaA('lushangshangdui').GetName] as [men_at_arms|E]
+Can recruit [GetMaA('binghaizhanshi').GetName] as [men_at_arms|E]
+Slavic Expansionism
+The pioneering spirit unique to the Slavs, yearning for warmth due to harsh conditions and needing to expand due to many conflicts.
+Saga of the Ice Sea
+A hymn of blood and ice, the Ice Sea will last forever.
+Mengan Mouke
+These military leaders established during the late primitive society due to the needs of raids and hunting have gradually evolved into fixed military organizations over time.
+Armored Cavalry
+Armored cavalrymen, dominating the battlefield with overwhelming force.
+Can recruit [GetMaA('jiaqijuzhuang').GetName][men_at_arms|E]
+该[culture|E]的[knights|E]有资格获得[GetAccoladeType('dfbz_xinzeng_0005_attribute').GetName][accolades|E]
+Armored Cavalry Commander
+Armored Cavalry Commander
+Vanguard Armored Cavalry
+Vanguard Armored Cavalry
+Guard Armored Cavalry
+Rampaging General
+Rampaging General
+Rampaging Battalion
+Rampaging Battalion
+Rampaging Battalion
+Longsword General
+Longsword General
+Longsword Battalion
+Longsword Battalion
+Longsword Battalion
+Longsword Battalion
+Chief Guard
+Chief Guard
+Khitan
+Can recruit [GetMaA('nvzhen_mouke').GetName] as [men_at_arms|E]
+Granting land to your $jurchen$ [knights|E] will greatly increase their fighting spirit,\nbut prolonged peaceful life will quickly corrupt them.
+Mouke
+Elite warriors selected through many layers, all of them are the best raiders and hunters in their tribes.
+Mouke
+Elite warriors selected through many layers, all of them are the best raiders and hunters in their tribes.
+You must have [feudal|E][government|E]
+Sultan's Guard
+A reliable guard composed of the Sultan's trusted followers, also performing some shady tasks for the Sultan.
+Knightly Tradition
+The vast plains of France are the main battlefield for knights, where the fiercest knightly regiments of the entire Middle Ages were born.
+Personal Guard
+A powerful ruler often needs a reliable personal guard to handle various emergencies, and it is best if these people are trustworthy.
+Ax-Guard
+Vodka
+The water of life, the pride of the Rus people.
+Martial Traditions
+Primitive desires fill everyone's heart in this uncivilized and rugged culture.
+Mole Armor
+The Qiang people excel at forging armor, with the initial forging process being very thick. Unlike hot forging, it's cold forged, and the final product is thinner than the original by one-third. The unfinished end, left without hammering, appears as a "mole," a method to check the thickness before completion, much like leaving some soil when deepening a river. This is known as "Mole Armor." Even a strong crossbow cannot penetrate it.
+Qiang of Hengshan
+Widely spread across the northwest mountainous area, the Qiang tribes have exceptional cross-country capabilities, traversing the mountains with ease.
+Tangut Horses
+The regions inhabited by the Tangut, such as Dijinze, Hengshan, and Tiandus, were famous for horse breeding. There were many fine horses, and the Tang poet Yuan Zhen praised them in his poem, "Buy Tangut horses in the north, capture Tibetan parrots in the west." The Song people even regarded Tangut horses as the best in the world.
+Cold Forged Steel
+The Tangut's steel forging techniques were unparalleled. It was a supreme honor to possess a sword from the Xia Kingdom. The Song Emperor Qinzong himself carried a treasured sword from the Xia Kingdom. Su Dongpo once received a Western Xia sword and wrote: "Red makeup on the seat dazzles with wine, green blade unsheathed brings wind. Spiral blade ridged, two white dragons flank a central blue dragon. Testing a hair, it cuts without soul, stirring three moves of awe."
+Ronin
+Madly venturing to restore their former authority, they see themselves as the Emperor's soldiers, roaming everywhere.
+Shenbi Bow
+A single person can draw this mighty bow, with a maximum range of 400 meters and capable of piercing heavy armor.
+Horse Management Deterioration
+Neglect by upper rulers and mismanagement by lower officials have left the horse administration in the central plains in a dire situation.
+Horse Law
+The situation of having no available horses in the central plains has officially been reversed, thanks to the implementation of a strong and effective horse management policy. If the entire system operates well, it will benefit generations to come.
+Commercial Nation
+The Sogdians traveled frequently along the Silk Road between Central Asia and China, amassing great wealth from medieval East-West trade.
+Yumi Bow
+A type of longbow used in Japanese archery. The standard length is approximately seven shaku and three sun.
+Naginata
+An ancient Japanese pole weapon with a wide blade and significant curvature.
+Cham Rice
+A high-yield, early-maturing, drought-resistant rice originating from the central southern peninsula, greatly beneficial to many.
+Introduce Cham Rice
+Introduce the high-yield, early-maturing, drought-resistant Cham rice from the central southern peninsula, benefiting all the people.
+Land of Abundance
+Born in Yanhuang, raised in Huaxia. When the time comes, I will repay my motherland.
+Heshuo Light Cavalry
+Since ancient times, the land of Yan has produced many warriors and has been a hub for horse trading on the frontier, with many families adept at horseback riding.
+Southwest Horses
+Southwest horses are alert and docile, good at climbing mountains, and suitable for mountain transport, serving as vital tools for transportation in highland regions.
+Bail Guaranteed Xianbei Cavalry
+Eighteen Riders of Yanyun
+Xiliang Iron Cavalry
+Ongniut
+Ugyur
+Uzey
+Keshik
+Guozima
+Guozima
+Iron Buddha
+Iron Buddha
+Tiger Guards
+Iron Eagle Guards
+Iron Eagle Guards
+Iron Eagle Guards
+Iron Eagle Guards
+Hengshan Steppe Tribesmen
+Hengshan Steppe Tribesmen
+Hengshan Steppe Tribesmen
+Hengshan Steppe Tribesmen
+Tangut Warriors
+Tangut Warriors
+Tangut Warriors
+Yuweinei Six Armored Cavalry
+Elite Crossbowmen
+Mongol Heavy Cavalry
+Mongol Heavy Cavalry
+Mongol Tatar
+Shenbi Bowmen
+Stalwart of Qin
+White Feather Troops  
+Retired Veterans of Guiyi
+Anxi Army
+Look up to see the sun, but do not see Chang'an.
+Ya Soldiers
+Noble Ya Soldiers
+Ya Soldiers
+Ya Soldiers
+Ya Soldiers
+Mounted Troops
+Mounted Troops
+Mounted Troops
+Pudao Warriors
+Dadao Warriors
+Heshuo Light Cavalry
+White Horse Volunteer
+Infantry Armor
+Silence Iron Cavalry
+Back Rear Heavy Cavalry
+Ronin
+Warrior Monks
+Repeating Crossbowmen
+Repeating Crossbowmen
+Forest Hunters
+Silver Spear Elite
+Crow Army
+Khitan Warriors
+Sogdian Teeth Soldiers
+Jurchen Conquest (ai)
+Great Jin
+Unite the Jurchen Tribes
+The clan chiefs gathered around me, cheering for my great cause with Iron Buddha, Guozima, and all the strongmen.\n\nThe warriors greeted me with cheers, let us emerge from the forest and grasp the world firmly in our hands.
+My conquest begins here.
+Unite the Jurchen Tribes
+Preparing the whole army!
+The Jurchen tribes are ready to conquer the world
+Jurchen Great Army
+Jurchen Conquest Phase One
+Jurchen Conquest
+Jurchen Conquest Phase Two
+Jurchen Conquest Phase Three
+Hand over your land!
+Your corrupt rule has to end, I, [nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName], give you three days to surrender your lands, or face the consequences!
+Sir, I am willing to surrender my land and submit to you...
+Submit to [nvzhenzhengfuzhe.GetTitledFirstName]
+Declare war on [nvzhenzhengfuzhe.GetTitledFirstName]
+Declare war on [demand_recipient.GetTitledFirstName]
+Get lost!
+To the foolish [nvzhenzhengfuzhe.GetFirstName]
+Withdraw your threat! Foolish [nvzhenzhengfuzhe.GetFirstName]!\n\nYour threats are weaker than those of a three-year-old. Who do you think you are? You foolish pig dreaming of grabbing my land.
+You dog, I'll crush you to dust!
+The Conquest Begins
+My tribesmen and I were summoned before the tent of [nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName], where every clan chief and vassal of the Jurchen gathered. We knew the reason and spent the night discussing without doubt in the smoky tent.\n\n[nvzhenzhengfuzhe.GetFirstName] loudly proclaimed the names of our ancestors. He walked past each Jurchen warrior, conversing warmly. I could feel the warriors' blood boiling.\n\nFrom now on, the world will tremble under the feet of the conqueror [nvzhenzhengfuzhe.GetFirstName]!
+For the glory of the Jurchen! For [nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName]!
+You repelled [attacker.GetShortUIName|U], but what about next time......
+Player gains Estate Slot
+Zhu Ang Lang
+Ready to depart!
+The operation was smooth
+It's time to persecute foreigners again
+Zhu Ang Lang
+Reaping Profits from Silk Road Trade
+Money is justice!
+Money is justice!
+You made a big profit
+Form Silver Spear Elite
+I'm determined!
+Formation was successful
+Form Silver Spear Elite
+Form Crow Army (ai) Small Scale
+Form Crow Army (ai) Large Scale
+Form Crow Army
+I'm determined!
+Formation was successful
+Form Crow Army
+Crow Army
+Military Governors (ai) Small Scale
+Military Governors (ai) Large Scale
+Expand Ya Soldiers
+I'm determined!
+You feel very prestigious
+I need a reliable personal guard
+Marshal's Guard
+Start a Revolt (ai)
+Start a Revolt
+蜂起は成功するだろう
+Mobilize monks and warriors
+The monk regiment is armed
+Form Yulin Army
+Heaven's mandate here!
+The world submits
+In times of prosperity, strong soldiers must be raised, form the Yulin Army!
+Form Yulin Army
+During the golden age of Tang, the ancient and splendid Chinese civilization spread across the world via the Silk Road, reaching from Chang'an to the shores of the Mediterranean. Kings, envoys, merchants, monks, students, craftsmen, doctors, and exotic dancers all flocked to the Tang Empire. They marveled at the bustling cities filled with chariots and horses.\nToday!\nReinvigorate the Tang Dynasty!
+My fame will spread across the seas.
+Form Longwu Army
+Heaven's mandate here!
+The world submits
+In times of prosperity, strong soldiers must be raised, form the Longwu Army!
+Form Longwu Army
+During the golden age of Tang, the ancient and splendid Chinese civilization spread across the world via the Silk Road, reaching from Chang'an to the shores of the Mediterranean. Kings, envoys, merchants, monks, students, craftsmen, doctors, and exotic dancers all flocked to the Tang Empire. They marveled at the bustling cities filled with chariots and horses.\nToday!\nReinvigorate the Tang Dynasty!
+My fame will spread across the seas.
+Longwu Army
+Revitalize Horse Administration (ai)
+Revitalize Horse Administration
+Implement the Horse Law to benefit future generations!
+Implementing the Horse Law...
+Proclaim the Horse Law for the benefit of future generations!
+Proclaim the Horse Law!
+Stipulate that major regions such as Hebei, Hedong, Shaanxi, Jingdong, and Kaifeng prefectures, all households maintain a horse. Wealthy and willing households maintain two horses, purchased either by the government or given money to purchase. Horsekeeping households could reduce taxes. Three top ranking households form a security unit; lower ranking households form a community. If a horse dies due to illness, the horsekeeping household compensates; community horse casualties are shared equally among ten households.\n\nBy the Emperor's decree: Proclaim the Horse Law!
+Agreed!
+You've unlocked [GetMaA('majun').GetName][men_at_arms|E].\nYou've unlocked [GetMaA('jingsaitieqi').GetName][men_at_arms|E].
+Regional Testing (ai)
+Recruit Slave Soldiers (ai)
+Recruit Slave Soldiers (ai)
+Replenish Slave Soldiers (ai)
+Slave Soldiers
+仁者爱人（ai）
+仁者爱人（ai）
+Mongol Horde
+Genghis Khan's Martian Troops (ai)
+Genghis Khan's Martian Troops (ai)
+Unite the Jurchen Tribes (ai)
+Form Iron Eagle Guards (ai)
+Form Iron Eagle Guards (ai)
+Form Forbidden Army (ai)
+Form Forbidden Army (ai)
+Expand Crossbowmen (ai)
+Expand Two-Handed Swordmen (ai)
+Expand Ya Soldiers (ai)
+Train Iron Buddha (ai)
+Train Iron Buddha (ai)
+Expand Mounted Troops (ai)
+Popular Discontent (ai)
+Public Outcry
+Years of war and debt have frayed my nerves. Finally, today, my guard stumbled in to tell me: angry citizens are gathering, preparing to overthrow my rule!\nI have not treated them poorly, why are they doing this to me!\nThese damn peasants!
+Quickly think of a way to appease them.
+My spokesperson brought news that the people's anger has subsided, and they even donated some supplies to me.
+```
+

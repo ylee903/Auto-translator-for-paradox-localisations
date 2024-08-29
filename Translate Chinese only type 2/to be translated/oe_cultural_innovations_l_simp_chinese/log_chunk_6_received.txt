@@ -1,0 +1,121 @@
+Chunk 6 received from API:
+```yml
+ID000 Tower Shield
+ID001 Round Shield
+ID002 Viking Round Shield
+ID003 Heater Shield
+ID004 Kite Shield
+ID005 Fan Shield
+ID006 Oval Shield
+ID007 Buckler
+ID008 Buckler
+ID009 Selected
+ID010 Charge
+ID011 Load
+ID012 Hunt
+ID013 Cover
+ID014 Breeding War Horses
+ID015 Whirlwind Cannon
+ID016 Armored War Elephants
+ID017 Arrow Tower
+ID018 Training Intensity:Ⅰ
+ID019 Training Intensity:Ⅱ
+ID020 Training Intensity:Ⅲ
+ID021 Martial Law
+ID022 Fortify Defenses
+ID023 Scorched Earth
+ID024 Forced Conscription
+ID025 Assist City Construction
+ID026 Garrison Tax Collection
+ID027 Patrol Ranch
+ID028 Organize Raiding
+ID029 Immunity from Cutting
+ID030 The conscripts include herders, wandering hunters, local mercenaries, and destitute nobles—they are numerous, mostly horse-mounted, forming the main body of the army.
+ID031 The conscripts include peasant soldiers, ruffians, local mercenaries, and destitute nobles, equipped with a mix of tools and patched-up weapons—they are numerous, forming the bulk of the army.
+ID032 The conscripts include peasant soldiers, ruffians, local mercenaries, and destitute nobles, equipped with a mix of tools and patched-up weapons—they are numerous, forming the bulk of the army.
+ID033 Crusaders
+ID034 Crusaders
+ID035 Raiders
+ID036 Raiders
+ID037 Tribal Champions
+ID038 Tribal Champions
+ID039 Peasant Leaders
+ID040 Peasant Leaders
+ID041 Battle-Hardened Farmers
+ID042 Yabing Faction
+ID043 The demands of the Yabing [faction|E] are for more [gold|E], broader [realm|E], and superior status. Interact positively and maintain good relations with your [knights|E].\n\n#S Ultimatum#!\nAll faction members gain [gold|E], [prestige|E], [army|E], and [realm|E].\nDepose the current [liege|E] and appoint a new [liege|E].
+ID044 Hope to Seize More Benefits
+ID045 You are not a [knights|E]
+ID046 Your [liege|E] is not organized as a #V Military Prefecture#!
+ID047 Your [liege|E]'s [government|E] is not #V Military Town System#!
+ID048 Yabing Revolt
+ID049 Desire for Money：$VALUE|=+0$
+ID050 Nomadic AI Development Direction: General (Cultural Exchange, Technological Innovation)(Add buff, Steal Innovation)
+ID051 Nomadic AI Development Direction: General (Cultural Exchange, Technological Innovation)(Add buff, Steal Innovation).
+ID052 Cultural Exchange, Technological Innovation
+ID053 Cultural Exchange, Technological Innovation
+ID054 Nomadic AI Development Direction: General (Trade)
+ID055 Nomadic AI Development Direction: General (Trade).
+ID056 Trade
+ID057 Trade
+ID058 Nomadic AI Development Direction: General (Conquest/Rapid Expansion)
+ID059 Nomadic AI Development Direction: General (Conquest/Rapid Expansion).
+ID060 Conquest/Rapid Expansion
+ID061 Conquest/Rapid Expansion
+ID062 Nomadic AI Development Direction: Imperial Conqueror (Add buff)
+ID063 These regimes are characterized by strong military power and leadership, often establishing vast empires through the conquest of surrounding areas.\nThe Mongol Empire is a typical example of an Imperial Conqueror. Genghis Khan and his successors unified the Mongolian steppes and swiftly conquered vast territories in Asia and Europe, founding an enormous empire.
+ID064 War
+ID065 War
+ID066 Nomadic AI Development Direction: Imperial Conqueror (AI Strategy)
+ID067 These regimes are characterized by strong military power and leadership, often establishing vast empires through the conquest of surrounding areas.\nThe Mongol Empire is a typical example of an Imperial Conqueror. Genghis Khan and his successors unified the Mongolian steppes and swiftly conquered vast territories in Asia and Europe, founding an enormous empire.
+ID068 Strategy
+ID069 Strategy
+ID070 Nomadic AI Development Direction: Imperial Conqueror (AI Handling Factions)
+ID071 These regimes are characterized by strong military power and leadership, often establishing vast empires through the conquest of surrounding areas.\nThe Mongol Empire is a typical example of an Imperial Conqueror. Genghis Khan and his successors unified the Mongolian steppes and swiftly conquered vast territories in Asia and Europe, founding an enormous empire.
+ID072 Handling Factions
+ID073 Handling Factions
+ID074 Nomadic AI Development Direction: Imperial Conqueror (AI Persecution of Vassals)
+ID075 These regimes are characterized by strong military power and leadership, often establishing vast empires through the conquest of surrounding areas.\nThe Mongol Empire is a typical example of an Imperial Conqueror. Genghis Khan and his successors unified the Mongolian steppes and swiftly conquered vast territories in Asia and Europe, founding an enormous empire.
+ID076 Persecution of Vassals
+ID077 Persecution of Vassals
+ID078 Nomadic AI Development Direction: Imperial Conqueror (Conquest/Rapid Expansion)
+ID079 Nomadic AI Development Direction: Imperial Conqueror (Conquest/Rapid Expansion).
+ID080 Conquest/Rapid Expansion
+ID081 Conquest/Rapid Expansion
+ID082 Nomadic AI Development Direction: Cultural Bearer (Add buff)
+ID083 These regimes, during their conquests, usually retain and pass down original cultures, languages, and religions, promoting the integration of different cultures.\nThe Turkic Khaganate is an example of a cultural bearer. During its conquest of Central Asia, it retained the original Turkic culture and language, and promoted Turkic culture throughout the conquered territories.
+ID084 Heritage
+ID085 Heritage
+ID086 Nomadic AI Development Direction: Diplomat and Ally (Add buff)
+ID087 These regimes might prefer to establish alliances with surrounding regimes through diplomatic means to safeguard their own interests and stability.\nThe Khwarazmian Empire adopted a flexible diplomatic policy in Central Asia, forming alliances with Islamic states to maintain its position.
+ID088 Diplomacy
+ID089 Diplomacy
+ID090 Nomadic AI Development Direction: Diplomat and Ally (AI Diplomatic Strategy)
+ID091 These regimes might prefer to establish alliances with surrounding regimes through diplomatic means to safeguard their own interests and stability.\nThe Khwarazmian Empire adopted a flexible diplomatic policy in Central Asia, forming alliances with Islamic states to maintain its position.
+ID092 Diplomacy
+ID093 Diplomacy
+ID094 Exhausted March
+ID095 The inner layers soaked by rain and mud, the heavy armor became a burden unbearable for the warriors. Long marches turned their eyes red and legs trembling. Soldiers' faces were filled with fatigue and anxiety, eyes dull, no longer displaying the sharpness of the past. Weapons became heavy and clumsy, blades covered with mud and stains. Each step felt like carrying a thousand-pound weight, horses panting heavily, breaths synchronizing with the march.\n
+ID096 Hurry up, you lazy pigs!
+ID097 Move! You lazy pigs! Those who fall behind have no food tonight!
+ID098 Your excellent military training tells you how to effectively mobilize the entire army
+ID099 Soldiers loudly complain about the hardships of the march and ignore your urging
+ID100 All right, let's regroup here.
+ID101 Enemy Attack
+ID102 The sky darkens, thick clouds gather, and visibility becomes increasingly unclear, the sound of iron armor clashing incessantly.\n\nSuddenly, a loud shout breaks the silence, and several shadows dart forward, swords and spears gleaming coldly.\n\n\n"Enemy attack!"#!
+ID103 Hold the line!
+ID104 Come up with a way to capture the advancing scouts to delay the enemy's next move
+ID105 You remain astonishingly calm, seize the moment, and capture the enemy scouts in one go
+ID106 You are at a loss, the enemy strikes and retreats, making the road ahead perilous
+ID107 Out of the City to Meet the Enemy
+ID108 The distant fortress comes into view.\nTall walls, with bright banners signalling the danger ahead.\n\nSuddenly, the fortress gates slowly open, a unit of horsemen pouring out, forming a tight formation, like a steel wall, quietly awaiting the arrival of our army.\n\n
+ID109 Charge!
+ID110 Trust my soldiers, charge forward!
+ID111 Garrison
+ID112 Mounted Archers
+ID113 Flank Attack
+ID114 Diplomatic Maneuver: Truce Agreement
+ID115 Negotiate a preventive [truce|E] with [recipient.GetTitledFirstName] through diplomatic means
+ID116 Diplomatic Maneuver: $VALUE|=+0$
+```
+

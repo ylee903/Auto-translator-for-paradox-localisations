@@ -1,0 +1,198 @@
+Chunk 1 received from API:
+ambition_of_yue:
+  description: Yue refers to the coastal and river-dwelling peoples of East Asia who were among the earliest settlers of the East Asian continent.
+thousand_islands_king:
+  description: The Austronesian peoples navigate thousands of islands, living in harmony with tides and storms, ruling the seas under the sun.
+white_mountain_black_water:
+  description: Nourished by the Greater Khingan Range, Changbai Mountain, Nen River, and Heilong River, numerous tribes have grown strong under the protection of the Willow Lady, gradually emerging from the forests in waves.
+jungle_lord:
+  description: From the Ailao Mountains to the Wuyi Mountains are scattered brave and fierce hunter-gatherer tribes. The story of Chi You contending for the Central Plains is now legend, but they have never forgotten their glory.
+martial_flourish:
+  description: The Yamato people firmly believe that from the mythic times, they are mandated by heaven; moments fleeting like falling flowers, with times of joy and sorrow, they have long cultivated the heart of the sword.
+high_mountains_beautiful_waters:
+  description: Contrary to the view of Central Plains historians, who categorize the Koreans as the Balhae-Malgal people, the Koreans consider themselves descendants of Dangun, once revitalized by the descendants of Buyeo's Goguryeo.
+azure_wolves_white_deer:
+  description: Qilechuan, beneath Yin Mountain. The sky is like a dome, covering the vast plains. The sky is dark, and the land boundless. The wind blows low on the grass, revealing the cattle and sheep.
+patriachal_law:
+  description: For intensive and large-scale labor, people grow and expand in clans, living under patriarchal constraints where fathers hold supreme authority, following primogeniture succession within the family, never harming the body, respecting relatives, and being despicable to those who violate clan laws.
+primogeniture_rule:
+  description: Implementation of identifiable heir primogeniture succession.
+thousand_miles_same_language:
+  description: Same track for vehicles, same writing for books, same conduct for ceremonies. The early centralized unification system controls large-scale production and the supreme imperial power owns and disposes of everything.
+recruit_mangudai:
+  description: Can recruit [GetMaA('mangudai').GetName][men_at_arms|E]
+recruit_tungusic:
+  description: Can recruit [GetMaA('asia_tunguse_ss').GetName][men_at_arms|E]
+recruit_samurai:
+  description: Can recruit [GetMaA('samurai').GetName][men_at_arms|E]
+recruit_java_warrior:
+  description: Can recruit [GetMaA('java_warrior').GetName][men_at_arms|E]
+recruit_china_east:
+  description: Can recruit [GetMaA('china_east_ms').GetName][men_at_arms|E]
+recruit_china_south:
+  description: Can recruit [GetMaA('china_south_wd').GetName][men_at_arms|E]
+khitan_military:
+  description: Emperor Taizong selected 300,000 elite armored soldiers from the world to form the Pishe Army. Initially, Taizu had selected over a thousand elite and brave men from various tribes as his core unit... Hence, the Pishe Army already existed during Taizu's time and was expanded to 300,000 by Taizong.
+battleship:
+  description: Thousands of iron chains sunk at the bottom of the river, a piece of surrender flag raised at Shitou City.
+dugout_canoe:
+  description: When the way doesn’t go, ride a raft and float on the sea.
+two_capital_guards:
+  description: Temporarily stopping from fasting to come out to Taichang Temple, blankly carrying a scroll to Gan Tang Pavilion.\nThe prefect has old connections in the court, and the scribe permits unruly behavior after drinking.\nWhen documents come, just sign them, and when inspired by the scenery, write a poem.\nThe Grand Avenue between two capitals is full of visitors, and every time they encounter poets, they duel.
+wu_gou:
+  description: The Han cauldron does not cook Cao Cao's flesh, the Wu Gou sword is only for cutting off Wu Zixu's head.
+youzhou_good_horses:
+  description: The treacherous chieftain leads cavalry, flying with silver falcons, full of bows and swords.
+goryeo_hunters:
+  description: Goryeos' land is vast and forested; its people are skilled in making hunting tools, especially bows, which are used for military purposes, producing many excellent archers.
+xishu_crossbows:
+  description: It was said in the past that Heaven’s troops entered Xishu, with drums and gongs beating so loud they split the valleys.
+central_plains_military:
+  description: Laugh not, when lying drunk on the battlefield; how many have returned from wars of old?
+mo_blades:
+  description: Frost spears and snow armor as cold as water, how could the sentry soldiers know the beginning and the end?
+usurpation:
+  description: Using various means within the existing system to replace one's superior.
+rise_of_samurai:
+  description: Samurai emerged amid societal chaos and the decline of imperial authority.
+ashigaru:
+  description: Ashigaru are the lowest class of infantry in ancient Japan, working as laborers in peacetime and serving as foot soldiers during war.
+goryeo_gingseng:
+  description: Greatly boosts vitality, promotes fluid generation and calms the mind, favored by the upper nation.
+goryeo_bow:
+  description: The strongest combat force of ancient Goryeo, one of the few highlights.
+byeban_musket:
+  description: An elite unit created by Goryeo to counter the Jurchen invasion, expert in dealing with cavalry.
+mongolian_horse:
+  description: Mongolian horses are small in stature, unremarkable in appearance, with large heads and short necks, strong and robust bodies, broad chests, long manes, thick coats, and are well-adapted to harsh conditions, capable of enduring Siberian snowstorms, kicking through fox and wolf heads.
+uighur_light_cavalry:
+  description: Although the Uighurs disagreed with various Turkic tribes, they maintained traditional pastoralist lifestyles, forming powerful cavalry units with locally bred Kazakh horses to protect land trade caravan routes.
+kazakh_horse:
+  description: A breed from the northern slopes of the Tianshan Mountains, western Zhungeh Mountains, and the western part of the Altai Mountains. These horses are robust with thick bones, thick coats, and dense manes and tails, and have a balanced appearance and good functional structure. They are an ancient local breed formed under extensive group grazing conditions.
+himalayan_warriors:
+  description: We have long adapted to the rugged terrain and thin air of the highland mountains. Foreigners find it hard to bear the environment here and pose no threat to us. Our warriors traverse the mountains, watching invaders fall one by one. The highlands are a divine barrier, making it difficult for outsiders to enter Tibet, but our warriors also suffer severe adverse reactions when descending to the lowlands.
+hequ_horses:
+  description: Hequ horses are an ancient and excellent local breed, tall with flat backs, suitable for both draft and riding, enduring and hardworking, well-adapted to local geographical and ecological environments with strong disease resistance. They were used as warhorses as early as the Qin and Han periods and were often used as tribute in history.
+xianbei_cavalry:
+  description: One of the Xianbei traditions preserved by the Tuyuhun, from Emperor Xiaowen of Northern Wei to successive rulers carefully forming heavily armored cavalry units to deter surrounding threats.
+tuyuhun_heavy_armor:
+  description: Tuyuhun warriors armored men and horses, preserving Xianbei traditions, are adept at breaking enemy lines.
+armored_cavalry:
+  description: Heavily armored warriors with both men and horses in armor, following ancient battle traditions to break enemy lines.
+turkic_heavy_cavalry:
+  description: The Western Turkic are a equestrian nomadic people, their ironworking techniques preserved from the Turkic rise era combined with the abundant iron ore resources of Central Asia produced this renowned heavy cavalry, wolves of the steppe and nightmares to surrounding civilizations.
+recruit_western_turkic_heavy_cavalry:
+  description: Can recruit [GetMaA('western_turkic_heavy_cavalry').GetName][men_at_arms|E]
+cuman_tribes:
+  description: The unity of the Cuman tribes is extremely powerful, all the strong cavalry from different tribes are at my disposal.
+cuman_light_cavalry:
+  description: Lightly armored Cuman cavalry from various tribes renowned for their high mobility.
+wooden_fences:
+  description: We use local materials to deploy substantial wooden fences around the settlement, effectively blocking the invaders' advance.
+aqq_high_guards:
+  description: Armored Bulgar warriors formed into dense formations to maximize their strength and speed.
+kunno:
+  description: Lightly equipped Magyar warriors, whose arrival on horseback made all of Pannonia tremble.
+lovosh:
+  description: Brave armored Magyar knights who can shoot rain of arrows from a distance and charge when the battle is fierce.
+armed_militia:
+  description: Militias with basic training and simple weaponry, including a small number of archers, yet still lack combat strength.
+szekler_archers:
+  description: Szekler horse archers in Pannonia, experts in flanking and pursuing retreating troops.
+ghaznavid_war_elephants:
+  description: Brought from India, these war beasts have adapted to battlefield noise and spears after long training and taming, with thick skin covered in full-body armor, they can ignore fierce attacks and crush enemy armies with overwhelming force.
+bushido:
+  description: Death without hesitation, without remorse.
+fishing_hunting:
+  description: From catching small fish, shrimps, crabs, and shells to hunting whales and fighting sea beasts, this is an ancient occupation.
+nomadic_lifestyle:
+  description: A primary characteristic of ancient nomadic peoples, forever chasing the grasslands, familiar with everything on them.
+character_movement_bonus:
+  description: The character of this [culture|E] leads their [army|E] through #V $grasslands$#! or #V $plains$#!, significantly increasing their movement speed.
+miao_shamanism:
+  description: The great wisdom of the ancestors.
+chiyou_blood:
+  description: The legendary weapon maker, also considered the god of war, revered along with the Yellow Emperor and Yan Emperor as one of the three great ancestors of China, seen as an ancestor by many Miao people, with their fierce and united spirit praised through generations.
+ainu_warriors:
+  description: The Ainu people refer to themselves as "Utari," meaning "partners." They cherish their comrades who fight alongside them, surviving through the many conflicts on the Japanese archipelago.
+east_asian_archers:
+  description: Archers well adapted to the dense forests of Northeast Asia, better suited to local warfare compared to other nomadic powers in the steppes.
+defender_soldier:
+  description: Temporary soldiers recruited from rural areas near the borders to defend against national threats.
+bandit_warriors:
+  description: To kill, rob, and steal is to be a warrior.
+pikemen:
+  description: Working as laborers in peacetime, becoming infantry during wars.
+northern_warriors:
+  description: Warriors stationed below the north side of the courtyard, protecting the abdicated emperor and accompanying him on patrol.
+yumi_archers:
+  description: The continuation of the great Yamato bow tradition on the battlefield.
+naginata_party:
+  description: Using long and sharp naginatas as weapons, they form formations to block or scatter enemies on the battlefield, being quite troublesome opponents.
+goryeo_archers:
+  description: Skilled archers and hunters traversing the complex mountain forests of the Korean Peninsula, using superior shooting techniques to give the enemy a hard blow.
+left_predecessors:
+  description: Skilled shield-bearing light infantry, adept at dodging incoming arrows.
+byeban_musketeers:
+  description: Elite heavy infantry unit created to counter the Jurchens, adept at dealing with cavalry.
+hwarang:
+  description: Young Korean nobles trained in martial arts from a young age, renowned for their extraordinary archery and admirable appearance and bearing.
+imperial_guard:
+  description: The exclusive troops of the emperor, responsible for guarding the palace and the emperor, possessing exceptional martial skills due to arduous selection.
+northern_imperial_guard:
+  description: A strong elite unit guarding the capital.
+imperial_guard:
+  description: Directly under the emperor, responsible for guarding him or the palace and capital.
+xiang_jun:
+  description: Local standing army, the primary source of the imperial guards.
+fan-zhen_army:
+  description: Army units led by the military governors of various regions.
+border_army:
+  description: Recruited from borderland military households to defend against foreign enemies.
+local_troops:
+  description: Soldiers recruited locally, with varying degrees of quality.
+mo_blade_team:
+  description: Mo blade team.
+village_warriors:
+  description: Temporarily recruited village warriors, who fight and defend in their own formations.
+miao_warriors:
+  description: All Miao people are warriors; when sudden conflicts arise, Miao warriors will voluntarily carry weapons and food to the battlefield under the leadership of their “Tiger Han” (warrior leader).
+amphibious_soldiers:
+  description: Southern infantry proficient in water battles, responsible for advancing by land and water, protecting river traffic, and conducting deep infiltrations using labyrinthine river networks to deliver unexpected blows to the enemy.
+elephant_armored_soldiers:
+  description: Elite soldiers armored in thick elephant hides, unaffected by the enemy's arrow rain.
+urumi_sword:
+  description: One of Dravidian martial traditions, renowned for its speed and skill.
+urumi_warriors:
+  description: Dravidian warriors skilled in using flexible swords, quickly penetrating enemy formations and causing massive damage to nearby foes.
+rajput_warriors:
+  description: Kshatriya warriors mounted on horseback, whose curved swords precisely strike the heads of enemies.
+nayar_infantry:
+  description: Dravidian warriors long trained in Kalaripayattu, wielding spears with great coordination.
+sinhala_guard:
+  description: Brave and loyal Sinhala guards who strive to protect their lord.
+jungle_claws:
+  description: We crafted this powerful weapon—claw blade—imitating the claws of the jungle king, the tiger.
+claw_blade_warriors:
+  description: Phantoms lurking in the dense forests of the southern islands, using swift claw blades to slit the throats of enemies.
+steppe_scouts:
+  description: Steppe scouts
+recruit_tangut_light_cavalry:
+  description: Can recruit [GetMaA('uighur_light_cavalry').GetName] as [men_at_arms|E]
+zampu_guard:
+  description: Guard force of Zampu
+specific_recruit_zampu_guard:
+  description: Can recruit [GetMaA('zampu_guard').GetName] as [men_at_arms|E]
+wu_campaign_horsemen:
+  description: Campaign horsemen of Wu
+yong_defenders:
+  description: Yong protectors
+specific_recruit_yong_defenders:
+  description: Can recruit [GetMaA('yong_defenders').GetName] as [men_at_arms|E]
+bravery_unmatched:
+  description: Only the strong qualify to live.
+art_of_war:
+  description: War is an art; the winner takes all, and the loser has nothing.
+
+
+

@@ -1,0 +1,162 @@
+Chunk 4 received from API:
+乌古斯骑兵是优秀的侦察兵与突击手，他们远赴伊比利亚地区，为一切出得起价钱的雇主卖命。
+Abna
+Our battle-hardened warriors can advance steadily under spears and swords; they are adept at using javelins and throwing spears to kill any enemy who dares to face them head-on. Their superior discipline makes them unafraid of close combat, and their short swords and daggers will deliver a fatal blow to the enemy.
+Ghulam Heavy Cavalry
+These heavily armed slave cavalrymen who have fought on the front lines for many years are both loyal and powerful. They are renowned for their fearless combat style.
+Ghulam Heavy Cavalry
+These heavily armed slave cavalrymen who have fought on the front lines for many years are both loyal and powerful. They are renowned for their fearless combat style.
+Kurdish Javelin Thrower
+These ancient mountain warriors can inflict significant damage on the enemy with simple throwing spears.
+Ikta Swordsmen
+Young warriors recruited by Muslim rulers to maintain regional order.
+Ghazawat Zealots
+Fanatical religious fighters, all heretics will be crushed to dust.
+Slave Soldiers
+Useless slave soldiers equipped with broken gear and poor discipline, they can only be used as cannon fodder.
+Slave Soldiers
+Useless slave soldiers equipped with broken gear and poor discipline, they can only be used as cannon fodder.
+Slave Soldiers
+Useless slave soldiers equipped with broken gear and poor discipline, they can only be used as cannon fodder.
+Slave Soldiers
+Useless slave soldiers equipped with broken gear and poor discipline, they can only be used as cannon fodder.
+Slave Soldiers
+Useless slave soldiers equipped with broken gear and poor discipline, they can only be used as cannon fodder.
+Celts
+The Celts were an ancient European group bound by common language and cultural traditions, belonging to ancient ethnic groups. They resisted invasions time and again, never yielding to outsiders as if it was in their bones.
+Anglo-Saxon Select Fyrd
+During the early chaotic period of migration and settlement, wars were dominated by a small number of bodyguard warriors. By the 8th century, Anglo-Saxon leaders had their established kingdoms. Thus, more logistical effort was needed to protect their lands and wage wars. As a solution, the Anglo-Saxons began implementing the "select fyrd" - chosen free militia.
+Organize Bodyguard
+During the great migration of Germans to Britain, tribal chiefs and kings would summon selected strong warriors, equipped with the best weapons and gear. These warriors were the personal soldiers of kings and nobles, specially trained for war.
+Welsh Longbow
+The materials for Welsh longbows are made from yew wood, which is lightweight and very elastic, giving the longbows tremendous lethality.
+Sling
+The sling is a living fossil of human civilization; fast-flying stones can even knock down a bison. It can also play a big role in war.
+Highland Clans
+Numerous fierce highland clans live in the northern highlands of Scotland. They maintain a primitive Celtic lifestyle and tribal alliance system and are natural-born warriors who roam among the mountains.
+Hiring Foreign Warriors
+The Highland Gaels are incredibly fierce; they are unmatched combat maniacs who are willing to fight for money. Importantly, they hardly get involved in our local political struggles, and as long as the price is right, they will obediently follow orders.
+Warrior's Home
+The northern highlands of Scotland have always been the homeland of the Gaels. Our warriors are willing to fight for their homeland.
+Bread and Mead
+The lord distributes bread to his followers, symbolizing the connection and loyalty between the lord and his warriors. Aside from the hidden and symbolic meanings, these entertainment activities serve more as a bonding exercise, allowing senior military officers to interact more freely and better plan and coordinate in actual combat.
+Winchester Book
+The Winchester Book, also known as the Domesday Book, is a compilation of land surveys across England. Its purpose was to understand the estates of the king's direct vassals and royal lands to collect taxes, strengthen financial management, and determine feudal obligations of vassals.
+Conqueror's Stance
+We have conquered the British Isles; the natives should be loyal to me.
+Armorica
+We are Celts exiled to this place during the great migration of Germans. The Romans call this place [MISSING].
+Iberian City Militia
+The role of Iberian city militias in the mid-medieval period was significant. Born out of border conflicts, these local militias served the monarchs on the peninsula. When faced with various urgent situations, they could quickly expand their strength, providing flexibility in military, economic, and local noble power constraints for the king's decisions.
+Spanish Grandees
+With the gradual liberation of the Iberian region, we granted land ownership to loyal lords and exempted them from some taxes. They were responsible for providing the cavalry needed for subsequent wars of reconquest.
+Land Grant
+The Reconquista is in full swing; we need a large number of soldiers to suppress those pagans for a long time. As long as they can provide a large number of troops, even non-nobles can acquire some land.
+Visigothic Warfare
+We have inherited the combat style from the Visigothic period, focusing on cavalry forces and expertise in mounted combat.
+Catalonian Mercenaries
+The military demands of the Reconquista stimulated the formation of elite infantry in the Iberian region. Our warriors do not intend to disappear after the war; they form groups and continue to be active as mercenaries in various battlefields around the world.
+Spanish Phalanx
+To consolidate Iberian land hegemony, we must carry out an infantry revolution. History has proven that well-organized infantry tactics can adapt to all battlefield environments.
+Spanish Pikemen
+With dense, long pikes and well-coordinated tactics, our army is unstoppable on land!
+Spanish Rodeleros
+The high-quality steel shields and swords form the fangs of this army. With the cover of the pikemen, they can quickly tear open a gap in the enemy's formation and turn the tide of battle in an instant.
+Two-handed Swordsmen
+Elite infantry wielding giant swords, their superior swordsmanship allows them to quickly create a breach in the enemy’s formation.
+Royal Guard
+Bodyguards of princes and nobles, composed of battle-hardened veteran inheritors serving the realm, possessing formidable combat power.
+Old Swiss Mountaineers
+The harsh living environment and long-term foreign invasions make the residents of this land always ready to fight to defend their survival.
+Swiss Mercenaries
+Veterans with nowhere to go and young lads from poor families march together. The tradition of Old Swiss Mountaineers tells them where the battlefield is.
+Swiss Mercenaries
+Fighting alongside compatriots and kin, with axes and long spears forming lines, fearless infantry advance.
+Communal Militia
+Lightly armed militia determined to defend their towns with their own weapons.
+Communal Cavalry
+Light cavalry well adapted to the mountainous terrain of northern Italy.
+Holy Car
+Our flag stands high, and the music played on the holy car is a sacred talisman. For the honor of the city-state! Fight to the death!
+Holy Car
+Ox-drawn holy cars parade on the battlefield. Warriors shine by killing the enemy.\nThe holy car must never fall; warriors fight bravely without fearing death.
+Holy Car
+Ox-drawn holy cars parade on the battlefield. Warriors shine by killing the enemy.\nThe holy car must never fall; warriors fight bravely without fearing death.
+Pavise
+Reliable large wooden shields provide temporary cover for our crossbowmen, also acting as mobile fortifications to aid in sieges.
+Pavise Crossbowmen
+Crossbowmen equipped with pavises can make precise attacks under the protection of shields.
+Genoese Crossbowmen
+The world-renowned elite crossbowmen of Genoa, their powerful crossbows terrify enemies.
+Berrovieri
+Elite troops of the Italian legion, lightly armored cavalry wearing long surcoats.
+Teutonic Depth Defense
+Various fortresses spread across the German land along with the Burgmann infantry responsible for guarding the towns will greatly slow down the enemy's siege speed.
+Burgmann Heavy Infantry
+Elite infantry responsible for guarding fortresses and keeping vigilant against foreign enemies.
+Mass Enfeoffment
+Wealthy citizens and guild elites aspire to join the upper class, and a small knight title is enough to satisfy them.
+Guild Knights
+Self-armed citizen knights, knighted, numerous but of mediocre quality.
+Robber Knights
+Mounted robbers who plunder from fortresses; some might even genuinely hold knight titles, but their actions fall far from true nobility.
+Vassal Knights
+German warriors with certain social status, well-equipped, forming the main force of the imperial cavalry.
+Imperial Knights
+Loyalty to the emperor above all. Under the vast network of knightly families, each powerful knight shines.
+Imperial Knights
+Imperial knights dressed in high-quality Gothic plate armor, highly skilled in combat.
+Gothic Plate Armor
+Plate armor tailored to fit the body, ensuring flexibility while optimizing the overall design, making it lighter and stronger in defense.
+Foot Imperial Knights
+Formidable knights in full-body plate armor, fighting on foot according to German tradition.
+Milanese Plate Armor
+A surge in weapon orders gave rise to this unique style of plate armor. The rounded-line Milanese plate armor is renowned worldwide for effectively reducing arrow damage.
+Hydraulic Lift Hammer
+Massive machinery driven by water power, used to pulverize ores or correct metalwork, greatly saving the cost of forging heavy armor.
+Byzantine Military System
+The Byzantine army evolved from the late Roman Empire's army, becoming more complex and diverse in strategy, tactics, and organization.
+Train Ghulams
+The invasions of external enemies forced us to accelerate military reforms. We noticed that well-trained slave warriors had strong combat capabilities. If their organization and discipline could be further enhanced, a powerful army would soon take shape.
+Bedouin Tribesmen
+The horse-riding tradition of the Bedouins gave rise to these tribesmen who traverse the vast desert. They are natural-born desert warriors.
+Bedouin Elite Cavalry
+For the Bedouins, riding fast horses is a matter of honor. The tribal cavalry warriors, like storms in the desert, tear apart the enemy's defenses.
+Bedouin Light Cavalry Retainers
+By granting privileges to the eastern Bedouin tribe members, we transformed them into efficient and loyal bodyguards, bringing peace to Egypt and Syria and strengthening control over this strategic area.
+Bedouin Light Cavalry Retainers
+These Bedouins are efficient and loyal bodyguards, storming through enemy lines like a desert wind.
+Sword of Islam
+Of stars and crescents!
+Mountain Warroris
+Iran's mountainous regions are incredibly treacherous, and only locals can survive here for an extended period.
+Dailamite Mountain Warriors
+Powerful warriors from the mountains of Iran, unparalleled combatants.
+Elite Dailamite Warriors
+Whether seeking wealth or escaping turmoil, some Dailamites migrated here. With their inherent warrior spirit, their status in the army rose rapidly.
+Elite Dailamite Warriors
+Whether seeking wealth or escaping turmoil, some Dailamites migrated here. With their inherent warrior spirit, their status in the army rose rapidly.
+Stern-mounted Rudder
+Thanks to advanced naval technology introduced from the distant East, our elite warriors can be rapidly transported to the battlefield by sea.
+Persian Heavy Cavalry
+Our long-standing tradition of heavy cavalry warfare never goes out of style.
+Persian Heavy Cavalry
+These powerful riders have dominated Central Asia for millennia!
+Savaran
+Ancient Persian heavy cavalry, renowned for their bravery on the front lines.
+Zhayedan Immortals
+The ancient and powerful Immortals corps, glorious defenders of Ahura.
+Zhayedan Immortals
+The ancient and powerful Immortals corps, glorious defenders of Ahura.
+Noah's Ark
+We firmly believe we are the sole survivors of the prehistoric great flood. We, the sons of Noah, will never submit to any other civilization.
+Plateau Eagles
+The people of this [culture|E] are like the eagles of the Armenian Plateau, calm and focused. Their formidable [martial|E] talents make them highly favored by rulers, but their inherently unyielding nature often leads to a turbulent destiny for their nation.
+Azad Spahbed
+Since ancient times, Armenia has had elite warriors known as Azad Spahbed. They are fearsome heavy cavalry, freely galloping across the plateau homeland.
+Azad Spahbed
+Since ancient times, Armenia has had elite warriors known as Azad Spahbed. They are fearsome heavy cavalry, freely galloping across the plateau homeland.
+Armenian Foot Archers
+Swift archers lurking in the Armenian Plateau, raining down terrifying volleys of arrows from above.
+Armenian Foot Archers
+

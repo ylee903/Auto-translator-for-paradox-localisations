@@ -1,0 +1,11 @@
+Chunk 1 received from API:
+```
+组成。#。
+组成。#。
+Composed of well-equipped and armored elite Tibetan heavy cavalry. Roaming the highlands, always ready to strike the enemy.#
+Light infantry formed with skillful use of spears and slings, their main combat method is flanking and harassment.#
+Patriot
+The sword of the Tang dynasty, and the empire's last glory.#
+Damn it, they are already prepared for battle!#
+```
+

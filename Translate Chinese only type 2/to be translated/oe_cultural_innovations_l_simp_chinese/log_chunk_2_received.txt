@@ -1,0 +1,230 @@
+Chunk 2 received from API:
+ID000 At Ease
+ID001 Life is important, but happiness is even more important.
+ID002 This [culture|E] has $ethos_courtly_name$ [ethos|E].
+ID003 Knight Shelter
+ID004 Proud knights are always bad at managing their own estates, and in their downfall, they choose to fully depend on other wealthy rulers.
+ID005 Downtrodden Knight
+ID006 Feudal knights whose only possessions are their martial skills lead a small squad of retainers dependent on wealthy rulers, yearning for the day they'll rise again.
+ID007 Recruit [GetMaA('luopoqishi').GetName] as [men_at_arms|E].
+ID008 This [culture|E] does not have $ethos_spiritual_name$ [ethos|E].
+ID009 Land Caravans
+ID010 The sound of camel bells echoes through time as the land route's opening has fostered a host of merchants, traveling among the vast desert, bringing countless foreign treasures.
+ID011 Land Caravans
+ID012 The sound of camel bells echoes through time as the land route's opening has fostered a host of merchants, traveling among the vast desert, bringing countless foreign treasures.
+ID013 Ice Sea Warriors
+ID014 The tumultuous Arctic Ocean brings forth terrifying destroyers.
+ID015 Recruit [GetMaA('lushangshangdui').GetName] as [men_at_arms|E].
+ID016 Recruit [GetMaA('binghaizhanshi').GetName] as [men_at_arms|E].
+ID017 Slavic Expansionism
+ID018 The unique pioneering spirit of the Slavs; enduring harsh conditions they yearn for the mild and tender, complexities push them towards expansion.
+ID019 Ice Sea Wars
+ID020 A hymn of blood and ice, the Arctic Ocean endures eternally.
+ID021 Meng'an Mouke
+ID022 These military leaders originally formed in late primitive society for raiding and hunting, gradually developed into fixed military organizations over time.
+ID023 Armored Cavalry
+ID024 Armored warriors astride equally armored horses dominate the battlefield, sweeping through opposition with unstoppable might.
+ID025 Recruit [GetMaA('jiaqijuzhuang').GetName] [men_at_arms|E].
+ID026 This [culture|E]'s [knights|E] are eligible to receive [GetAccoladeType('dfbz_xinzeng_0005_attribute').GetName][accolades|E].
+ID027 Armored Cavalry Commander
+ID028 Armored Cavalry Commander
+ID029 Vanguard Armored Cavalry
+ID030 Vanguard Armored Cavalry
+ID031 Elite Armored Cavalry
+ID032 Chaotic Charge General
+ID033 Chaotic Charge General
+ID034 Chaotic Charge Battalion
+ID035 Chaotic Charge Battalion
+ID036 Chaotic Charge Battalion
+ID037 Longsword General
+ID038 Longsword General
+ID039 Longsword Battalion
+ID040 Longsword Battalion
+ID041 Longsword Battalion
+ID042 Longsword Battalion
+ID043 Yak General
+ID044 Yak General
+ID045 Khitan
+ID046 Recruit [GetMaA('nvzhen_mouke').GetName] as [men_at_arms|E].
+ID047 Granting land to your $jurchen$ [knights|E] will significantly boost their combat morale, but long-term peace will quickly erode them.
+ID048 Mouke
+ID049 Elite warriors selected through rigorous and successive examinations, they are all experts in raiding and hunting among their respective tribes.
+ID050 Mouke
+ID051 Elite warriors selected through rigorous and successive examinations, they are all experts in raiding and hunting among their respective tribes.
+ID052 You must have [feudal|E][government|E].
+ID053 Sultan Guard
+ID054 A reliable guard composed of the Sultan's trusted followers, also carrying out some shady tasks for the Sultan on ordinary days.
+ID055 Knight Tradition
+ID056 The vast plains of France are the battlegrounds of knights, giving birth to the fiercest knight regiments of the entire medieval era.
+ID057 Personal Guard
+ID058 Powerful rulers often need a reliable personal guard to handle various unexpected situations, and it's best if these people are trustworthy.
+ID059 Axe Guard
+ID060 Vodka
+ID061 Water of life, the pride of the Ross people.
+ID062 Fierce Folk
+ID063 Primitive in civilization, fierce in demeanor, primal desires pervade everyone’s heart.
+ID064 Warted Armor
+ID065 The Qiang people excel at forging armor; their method starts thick, using cold forging without fire. The finished product, three parts thinner than the original, leaves a wart-like bump at the end to test the thickness during forging. Strong crossbows cannot penetrate it.
+ID066 Hengshan Qiang
+ID067 The Qiang tribes are broadly distributed in the northwestern mountainous regions, adept with extraordinary cross-country abilities, traversing the ranges.
+ID068 Tangut Horse
+ID069 The Tangut people inhabit regions known for horse breeding. Their horses are numerous and of excellent breeds. During the Tang dynasty, the poet Yuan Zhen said, "Buy Tangut horses in the north, capture Tibetan falcons in the west." The Song dynasty praised Tangut horses as the best in the world.
+ID070 Cold Forged Steel
+ID071 The Tangut's steel forging technique is unparalleled; obtaining a sword of Xi Xia is considered an utmost honor. Emperor Song Qinzong carried a 'Xi Xia sword’. Su Dongpo, who once got a Western Xia sword, wrote a poem: 'Red adornment surrounds the seat, radiance reflects on wine; when drawn from the sheath, a breeze fills the hall. Edged with spiral and double dragons, one cut, it cleaves a wisp of soul, and startles guests with martial play.'
+ID072 Ronin
+ID073 Recklessly adventuring to restore former prestige, claiming to be imperial guards of the Emperor wherever they go.
+ID074 Divine Arm Bow
+ID075 The Divine Arm Bow can be pulled by one man, with a maximum range of 400 meters, and it can pierce heavy armor.
+ID076 Decline of Horse Policy
+ID077 Negligence from the upper rulers combined with the misadministration by lower officials has plunged the horse policy in Central Plains into an irremediable crisis.
+ID078 Protection of Horses Law
+ID079 The situation of having no usable horses in Central Plains will be completely reversed. Effective horse policies are now in place. If the entire system operates smoothly, it will benefit countless generations.
+ID080 Commercial Nation
+ID081 The Sogdians frequently traveled along the long Silk Road between Central Asia and China, reaping vast wealth from medieval East-West trade.
+ID082 Yumi Bow
+ID083 A type of longbow used in Japanese archery. The standard length for a Yumi Bow is about seven feet three inches.
+ID084 Naginata
+ID085 The Naginata is an ancient Japanese long polearm, with a wide blade and a dramatically curved edge.
+ID086 Champa Rice
+ID087 A high-yield, early-maturing, and drought-resistant rice variety produced in the central and southern peninsulas, widely beneficial.
+ID088 Introduce Champa Rice
+ID089 Introduce the high-yield, early-maturing, and drought-resistant Champa Rice from the central and southern peninsulas to benefit people across the land.
+ID090 Vast Land and Resources
+ID091 The land of Yan and Huang gives birth to Huaxia. In times of need, we shall repay China with our actions.
+ID092 Hebei Light Cavalry
+ID093 Since ancient times, Yandi (Yan territory) has had many warriors and frequent horse trade. Over time, the fusion of Hu and Han has made every young man adept at riding.
+ID094 Southwest Horse
+ID095 The Southwest Horse is agile and docile, adept at climbing mountains, and suitable for mountainous transportation as an essential highland transportation tool.
+ID096 Hundred Chevaliers of Xianbei
+ID097 Eighteen Cavalry of Yanyun
+ID098 Xiliang Iron Cavalry
+ID099 Ongniud
+ID100 Ulianghai
+ID101 Uzeyait
+ID102 Keshik
+ID103 Guai Zi Horse
+ID104 Guai Zi Horse
+ID105 Iron Pugdal
+ID106 Iron Pugdal
+ID107 Hu Bu Guard
+ID108 Iron Hawk
+ID109 Iron Hawk
+ID110 Iron Hawk
+ID111 Iron Hawk
+ID112 Hengshan Steppers
+ID113 Hengshan Steppers
+ID114 Hengshan Steppers
+ID115 Hengshan Steppers
+ID116 Tangut Warrior
+ID117 Tangut Warrior
+ID118 Tangut Warrior
+ID119 Six Imperial Guards of Yuwei
+ID120 Elite Crossbowmen
+ID121 Mongol Heavy Cavalry
+ID122 Mongol Heavy Cavalry
+ID123 Mongol Archer
+ID124 Divine Arm Bowman
+ID125 Fearsome Warriors of the Qin
+ID126 Biyu Soldiers
+ID127 Loyalists of Guiyi
+ID128 Anxi Army
+ID129 Looking up to the sun, but not to Chang'an.
+ID130 Yabing Soldiers
+ID131 Noble Yabing Soldiers
+ID132 Yabing Soldiers
+ID133 Yabing Soldiers
+ID134 Yabing Soldiers
+ID135 Cavalry
+ID136 Cavalry
+ID137 Cavalry
+ID138 Polearm Soldiers
+ID139 Sword and Shield Soldiers
+ID140 Hebei Light Cavalry
+ID141 White Horse Volunteer Cavalry
+ID142 Armor Bearers
+ID143 Jingzhai Iron Cavalry
+ID144 Heavy Cavalry of Beiwei
+ID145 Ronin
+ID146 Warrior Monks
+ID147 Repeating Crossbowmen
+ID148 Repeating Crossbowmen
+ID149 Jungle Hunters
+ID150 Silver Spear Battalion
+ID151 Raven Army
+ID152 Khitan Warrior
+ID153 Sogdian Yabing Soldier
+ID154 Jurchen Conquest (AI)
+ID155 Grand Jin
+ID156 Unify the Jurchen Tribes
+ID157 The clan leaders gather around me, grand applauded by the Iron Pugdal, Guai Zi Horse, and all the strong. Warriors salute me; let's storm out of the forest and seize the world.
+ID158 My conquest starts here.
+ID159 Unify the Jurchen Tribes
+ID160 Full military preparation!
+ID161 The unified Jurchen tribes are ready to conquer the world.
+ID162 Jurchen Grand Army
+ID163 Jurchen Conquest War (Phase One)
+ID164 Jurchen Conquest War
+ID165 Jurchen Conquest War (Phase Two)
+ID166 Jurchen Conquest War (Phase Three)
+ID167 Surrender your land!
+ID168 Your decaying rule must come to an end. I, [nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName], give you three days to surrender your territories, or face the consequences!
+ID169 My lord, I am willing to relinquish my land and submit to you…
+ID170 Submit to [nvzhenzhengfuzhe.GetTitledFirstName]
+ID171 Declare war against [nvzhenzhengfuzhe.GetTitledFirstName]
+ID172 Declare war on [demand_recipient.GetTitledFirstName]
+ID173 Get out!
+ID174 To the foolish [nvzhenzhengfuzhe.GetFirstName]
+ID175 Take back your threat! Foolish [nvzhenzhengfuzhe.GetFirstName]! Your threats are weaker than that of a three-year-old. Who do you think you are, you pig lusting for my lands?
+ID176 Damn you, I will crush you to dust!
+ID177 Beginning of Conquest
+ID178 I and my tribesmen are gathered before [nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName]’s tent. Every clan leader and vassal of the Jurchens convenes here. We all know why, our discussions under the smoky canopy last all night without doubt. [nvzhenzhengfuzhe.GetFirstName] shouts out the names of our ancestors, going by every Jurchen warrior and engaging in cordial dialogue. I can feel the warriors' blood boiling. From now on, the world will tremble at the feet of conqueror [nvzhenzhengfuzhe.GetFirstName]!
+ID179 For the glory of the Jurchens! For [nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName]!
+ID180 You have repelled [attacker.GetShortUIName|U], but what about next time...
+ID181 Player gains a new plot.
+ID182 Collision with the Gentleman
+ID183 Ready to move out!
+ID184 The operation went smoothly.
+ID185 Time to persecute foreign races again.
+ID186 Collision with the Gentleman
+ID187 Profit from Silk Road trade.
+ID188 Money is justice!
+ID189 Money is justice!
+ID190 You profited big.
+ID191 Form the Silver Spear Battalion.
+ID192 My decision is made!
+ID193 Formation was successful.
+ID194 Form the Silver Spear Battalion.
+ID195 Form the Raven Army (AI) Small Scale
+ID196 Form the Raven Army (AI) Large Scale
+ID197 Form the Raven Army
+ID198 My decision is made!
+ID199 Formation was successful.
+ID200 Form the Raven Army
+ID201 Raven Army
+ID202 Regional Testing (AI)
+ID203 Recruit Slave Soldiers (AI)
+ID204 Recruit Slave Soldiers (AI)
+ID205 Supplement Slave Soldiers (AI)
+ID206 Slave Soldiers
+ID207 Benevolent Rule (AI)
+ID208 Benevolent Rule (AI)
+ID209 Mongol Legion
+ID210 Genghis Khan Mars Soldiers (AI)
+ID211 Genghis Khan Mars Soldiers (AI)
+ID212 Unify the Jurchen Tribes (AI)
+ID213 Form the Iron Hawk (AI)
+ID214 Form the Iron Hawk (AI)
+ID215 Form the Imperial Guards (AI)
+ID216 Form the Imperial Guards (AI)
+ID217 Expand Crossbowmen (AI)
+ID218 Expand Mo Dao Soldiers (AI)
+ID219 Expand Yabing Soldiers (AI)
+ID220 Train Iron Pugdal (AI)
+ID221 Train Iron Pugdal (AI)
+ID222 Expand Cavalry (AI)
+ID223 Civil Unrest (AI)
+ID224 Public Outrage
+ID225 Continuous wars and debts have made my nerves tense. Finally, today, my guards stumbled in to inform me: angry people are gathering to overthrow my rule! I have not mistreated them, so why would they do this to me?! These damned peasants!
+ID226 I must quickly think of a way to placate them.
+ID227 My spokesperson brought news that the people's anger has subsided, and they even donated some supplies to me.
+

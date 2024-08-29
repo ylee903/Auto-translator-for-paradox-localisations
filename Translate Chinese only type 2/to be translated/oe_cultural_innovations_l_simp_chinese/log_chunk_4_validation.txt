@@ -1,0 +1,3 @@
+Sub-ID Match for chunk 4: Yes
+Sent Sub-ID Count: 160, Received Sub-ID Count: 160
+Sub-IDs in Perfect Consecutive Order: Yes

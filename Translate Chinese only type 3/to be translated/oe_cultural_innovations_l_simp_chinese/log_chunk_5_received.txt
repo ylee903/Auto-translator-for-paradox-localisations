@@ -1,0 +1,239 @@
+Chunk 5 received from API:
+A large number of Armenians have migrated from the plateau, and we were able to take the opportunity to integrate these powerful archers into our army.
+Scythe
+This ancient tool has evolved on the battlefield. We attached it to a long pole to counter masses of cavalry.
+Heavy Scythemen
+These scythemen wear heavy armor at the front of the formation. Their long and powerful scythes are what they rely on to dominate any cavalry.
+International Mercenary Corps
+As the ancient millennium empire, Byzantium has long been accustomed to using mercenaries. Diverse mercenaries have left a prominent mark on Byzantine military history.
+Byzantine Mounted Archers
+The empire's strong armor technology has equipped these long-distance mercenaries from the steppes. Although they sacrificed some pursuit ability, their defense has been greatly enhanced.
+Latin Cavalry
+These non-Orthodox cavalry warriors have gradually adapted to fighting with groups of Turkish cavalry through long-term training. They are fearless raiders of the steppes.
+Sharp Cavalry
+After long-term training, each of our cavalrymen has become versatile on the battlefield.
+Flying Cavalry
+Skilled in using all mounted weapons, breaking through formations in an instant.
+Xianbei Iron Cavalry
+A tradition of the Xianbei people, since the era of Emperor Xiaowen of Northern Wei, successive rulers have meticulously built heavily armed cavalry units to deter surrounding enemies.
+Xianbei Armored Cavalry
+Armored Xianbei warriors, with killing skills deeply ingrained in their bones.
+Shieldmaidens
+These women defy societal norms by forming shield walls and participating in battles just like other warriors.
+Baltic Warriors
+Generations of living in forested swamps have created a fierce spirit among the Baltic people. They move in groups, constantly raiding this region.
+Baltic Warriors
+Warriors active in the forested swamps along the Baltic coast, they launch surprise attacks aided by forests and the snow.
+Frankish Feudal System
+Charlemagne and his predecessors created an efficient feudal system for us. Our kingdom is stable and powerful, and this advantage will persist.
+Scara Cavalry
+They are the elite cavalry unit of the Carolingian dynasty, often deployed to execute highly mobile combat missions.
+Carolingian Iron Guard
+They are trusted individuals dispatched by nobles to various territories. They usually maintain local security and serve as elite infantry on the front lines during wartime.
+Flower of Knights
+Each knight is a source of pride for the French people.
+Characters of this [culture|E] build #V $first-level legion training grounds$#! faster, with greater strength, and gain some [prestige_i][prestige|E] after completion.
+Chevaliers
+The proud French people have their equally proud French cavalry.
+Shieldmen
+A fully armed infantry group whose sturdy shields protect them from stray arrows.
+Poleaxe
+We developed this new pole weapon, which is highly effective against unarmored units and cavalry.
+Poleaxe Infantry
+Our infantry is equipped with new poleaxes, which effectively counter unarmored units and cavalry.
+Crossbow Cavalry
+Crossbow Cavalry
+Our societal structure prevents us from having many high-quality mounted archers, but crossbow cavalry might be a good alternative.
+War Songs
+Our knights possess unparalleled resolution, and our people will sing of their great deeds for a long time.
+Heavy Lancer Cavalry
+The group charge of heavy lancer cavalry is unstoppable; even the sturdiest battle formations will turn to ashes in an instant.
+Foot Feudal Knights
+On battlefields where cavalry cannot be deployed, our fearless knights still fight tenaciously.
+Light Lancer Cavalry
+Light lancer cavalry from Burgundy, combining explosiveness and mobility, is excellent for flank attacks.
+Frankis Bowmen
+Each parish should select an archer from among those skilled with weapons, who will be exempt from taxes, practice archery on Sundays and holidays, and be ready for battle when needed.
+Frankis Bowmen
+Archers used to defend the borders; they are tax-exempt but must be prepared to fight.
+Communal Assembly
+Vojehya Skirmishers
+Muscovite Estate System
+The development of the feudal society in the Rus’ region differs from that of Western Europe. Our kingdom originates from a core family alliance that joins forces to increase available labor and expand land production. However, this does not imply that land grants are a form of bondage; quite the contrary, we encourage adventure.
+Boyar
+Grand Prince's Guards
+Freemen Riders
+Turkish Settlers
+Long-standing conflicts have worn down both sides' will to fight, prompting some Turks to consider settling here.
+Turkish Auxiliaries
+Descendants of Boyars
+Destitute descendants of the Boyars; unable to maintain their ancestral dominance, many turn to the military to seek opportunities.
+Boyevich Warriors
+Adventurous Heroes
+Cossack Cavalry
+The Cossack cavalry is known for their flamboyant dress and notorious reputation. They band together in semi-autonomous groups, living nomadic lives. Incorporating them into the army could be a valuable asset.
+Cossack Cavalry
+Siberian Tribal Raiders
+Armed Mobilization
+Numerous military nobles support the national war machine, but at what cost...
+Szlachta
+Polish Light Crossbow Cavalry
+Winged Hussars
+Loyal and mighty elite cavalry, renowned for their high mobility and devastation.
+Winged Hussars
+Retis
+Samogitian Javelin Arts
+One of the most effective war tools in the Baltic forests, the swift Samogitian horse grants immense power to the javelins.
+Samogitian Javelin Riders
+Lithuanian Mounted Archers
+Vassals sharing your [culture|E][heritage|E] are more likely to join [independence_factions|E] and [claimant_factions|E], which isn't a bad thing, at least not when you are still relatively weak.
+People of this [culture|E] only respect the rulers descended from Noah; they are more likely to join factions opposing rulers of a different [culture|E].
+Characters of this [culture|E] owning this [innovations|E] can ally with characters of specific [culture|E] to recruit powerful special [men_at_arms|E].
+Great Jin
+Great Jin
+Wanyan
+Great Jin
+Tribute
+Incompetence at the top is paid for by the bottom.
+Sixteen Prefectures of Yan and Yun
+Lithuania
+Poland
+Can claim multiple [claims|E] in a single war.
+Middle East, Persia
+Sinhalese
+Mace
+Widely used in regions with military scale armor.
+Great Migration Invasion
+Great Migration Invasion
+Great Migration
+You have abandoned your old lands, migrating your people and livestock here. A new rule has begun.
+After the Great Migration
+Some of the resources on this land were transferred away due to a great migration.
+Negotiate Alliance
+Forge an alliance with [recipient.GetTitledFirstNameNoTooltip] by explaining the pros and cons—steppe forces need integration!
+Same [cultural|E]:$VALUE|=+0$
+Negotiate Alliance
+Negotiate Alliance (Nomadic Subjects)
+Forge an alliance with [recipient.GetTitledFirstNameNoTooltip] by explaining the pros and cons—to achieve some common goals!
+Tribal Union
+Forge a subject relationship with [recipient.GetTitledFirstNameNoTooltip] by explaining the pros and cons—to achieve some common goals!
+Difference in your military strength:$VALUE|=+0$
+Diplomacy and allies:$VALUE|=+0$
+Significant external threats:$VALUE|=+0$
+Outnumbered:$VALUE|=+0$
+Ambitious:$VALUE|=+0$
+Summon vassals to war
+Summon [recipient.GetUINameNoTooltip] to war to fulfill their duties as a vassal.
+Defensive [war|E]:$VALUE|=+0$
+Is a [powerful_vassals|E]:$VALUE|=+0$
+Neighboring vassal peers:$VALUE|=+0$
+Pastures:$VALUE|=+0$
+Loose Tribes:$VALUE|=+0$
+Limited Tribal Authority:$VALUE|=+0$
+High Tribal Authority:$VALUE|=+0$
+Absolute Tribal Authority:$VALUE|=+0$
+Warlike [ethos|E]:$VALUE|=+0$
+Collective [ethos|E]:$VALUE|=+0$
+Same [dynasty|E]:$VALUE|=+0$
+Is your [close_family_member|E]:$VALUE|=+0$
+Warlike:$VALUE|=+0$
+Vassal stance: Fame-seeking:$VALUE|=+0$
+Vassal stance: Native Loyalty:$VALUE|=+0$
+Summon to Join War (Nomadic Alliance)
+Tribal Chief
+Extra Tax
+The chief has completed your task and successfully submitted the tax.
+Widespread Prestige
+The chief has successfully spread your prestige.
+Chief’s Levies
+The chief has summoned a group of levies for you.
+Chief’s Light Cavalry
+The chief has summoned a group of light cavalry for you.
+Chief’s Mounted Archers
+The chief has summoned a group of mounted archers for you.
+Chief’s Heavy Cavalry
+The chief has summoned a group of heavy cavalry for you.
+Player [regiment|E][stationed_holding|E] Adjustment Rate
+Sixty percent
+Players receive the [GetModifier('xinzeng_zhujun_xiuzheng_001_modifier').GetNameWithTooltip] adjustment to prevent data inflation to a maximum extent, adjusting AI difficulty implicitly, optimizing the gaming experience, and making AI battles enjoyable.
+Forty percent
+Players receive the [GetModifier('xinzeng_zhujun_xiuzheng_002_modifier').GetNameWithTooltip] adjustment, which has little effect on unit stacking but can moderately reduce data inflation speed.
+Twenty percent
+Players receive the [GetModifier('xinzeng_zhujun_xiuzheng_003_modifier').GetNameWithTooltip] adjustment, slightly correcting garrison values. Almost assuredly, you will soon enjoy the thrill of overwhelming AI.
+None
+Berserk Scholar AI!!!
+Equipment System: #P #EMP On#!#!
+Equipment System: #N #EMP Off#!#!
+Additional Military Expenditure System Switch (Increase Game Difficulty)
+Additional Military Expenditure System: #P #EMP On#!#!
+Additional Military Expenditure System: #N #EMP Off#!#!
+Allows choosing armor for this [regiment|E] of [men_at_arms|E]:#P #EMP Armor#!#!
+Allows choosing primary weapon for this [regiment|E] of [men_at_arms|E]:#P #EMP Primary Weapon#!#!
+Allows choosing secondary weapon for this [regiment|E] of [men_at_arms|E]:#P #EMP Secondary Weapon#!#!
+Allows choosing shield for this [regiment|E] of [men_at_arms|E]:#P #EMP Shield#!#!
+Allows choosing mounts for this [regiment|E] of [men_at_arms|E]:#P #EMP Mount#!# or related #
+Allows choosing garrison strategy for this [regiment|E] of [men_at_arms|E]:#P #EMP Garrison Strategy#!#!
+Click to equip this [regiment|E] of [men_at_arms|E] with #P #EMP Armor#!#!\nThe [regiment|E] adapts to new armor over time; other options are unavailable until the current adjustment ends.\nAll options are unavailable when the [regiment|E][stationed_holding|E] tax #N #EMP is zero or negative#!#!
+Click to equip this [regiment|E] of [men_at_arms|E] with #P #EMP Primary Weapon#!#!\nThe [regiment|E] adapts to new weapons over time; other options are unavailable until the current adjustment ends.\nAll options are unavailable when the [regiment|E][stationed_holding|E] tax #N #EMP is zero or negative#!#!
+Click to equip this [regiment|E] of [men_at_arms|E] with #P #EMP Secondary Weapon#!#!\nThe [regiment|E] adapts to new weapons over time; other options are unavailable until the current adjustment ends.\nAll options are unavailable when the [regiment|E][stationed_holding|E] tax #N #EMP is zero or negative#!#!
+Click to equip this [regiment|E] of [men_at_arms|E] with #P #EMP Shield#!#!\nThe [regiment|E] adapts to new shields over time; other options are unavailable until the current adjustment ends.\nAll options are unavailable when the [regiment|E][stationed_holding|E] tax #N #EMP is zero or negative#!#!
+Click to choose mounts or related items for this [regiment|E] of [men_at_arms|E]:#P #EMP Mount#!#!\nThe [regiment|E] adapts to new mounts and related items over time; other options are unavailable until the current adjustment ends.\nAll options are unavailable when the [regiment|E][stationed_holding|E] tax #N #EMP is zero or negative#!#!
+Click to choose garrison strategy for this [regiment|E] of [men_at_arms|E]:#P #EMP Garrison Strategy#!#!\nThe [regiment|E] adapts to new garrison strategies over time; other options are unavailable until the current adjustment ends.\nAll options are unavailable when the [regiment|E][stationed_holding|E] tax #N #EMP is zero or negative#!#!
+Forced Re-equipment
+Chainmail
+Plate Armor
+Scale Armor
+Heavy Scale Armor
+Leather Armor
+Bamboo Armor
+Vine Armor
+Forced Re-equipment
+Spear
+Battle Sword
+Danish Axe
+Heavy Battle Axe
+Battle Club
+Nodachi
+Saber
+Longsword
+Heavy Mace
+Short Spear
+Javelin
+Flail
+Hand Club
+Gurkha Kukri
+Lance
+Mace
+Bow
+Longbow
+Crossbow
+Repeating Crossbow
+Shenbei Bow
+Yumi
+Mounted Crossbow
+Extra-long Spear
+Horn Bow
+Goryeo Bow
+Katana
+Naginata
+Two-handed Greatsword
+Pu Dao
+Sling
+Forced Re-equipment
+Horn Bow
+Morning Star
+Dagger
+Cudgel
+Nodachi
+Javelin
+Short Sword
+Hand Crossbow
+Shovel
+Hand Axe
+Stone
+Single Saber
+Short Spear
+Forced Re-equipment
+Small Round Shield
+Tower Shield
+
