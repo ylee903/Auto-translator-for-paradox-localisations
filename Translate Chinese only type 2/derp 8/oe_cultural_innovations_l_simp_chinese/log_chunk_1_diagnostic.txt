@@ -1,0 +1,3 @@
+Diagnostic for chunk 1:
+All lines matched correctly; no missing translations.
+

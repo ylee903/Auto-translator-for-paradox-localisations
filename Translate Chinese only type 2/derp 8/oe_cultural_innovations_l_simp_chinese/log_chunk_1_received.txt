@@ -1,0 +1,195 @@
+Chunk 1 received from API:
+ID000 Yue Ambition
+ID001 Baiyue refers to the tribes dwelling along the East Asian coast and large rivers; they were the earliest settlers of the East Asian continent.
+ID002 King of the Thousand Islands
+ID003 The Austronesian tribes traversed thousands of islands, living with the tides and storms and ruling the seas under the sun.
+ID004 White Mountains and Black Waters
+ID005 The river valleys of the Great Xing'an Range, Changbai Mountain, Nenjiang, and Heilongjiang nourish many tribes. Under the protection of the Willow Goddess, they thrive and periodically emerge from the forests.
+ID006 Jungle Lords
+ID007 From Ailao Mountain to Wuyi Mountain, brave and fierce hunter-gatherer tribes are scattered. The legends of Chiyou's contest with the Central Plains have faded, but their glory has not been forgotten.
+ID008 Martial Prosperity
+ID009 The Yamato people firmly believe they've been mandated by heaven since the mythological era; life is transient, happiness and sorrow come and go, and after a thousand days of playing the koto, their hearts unite with their swords.
+ID010 Picturesque Mountains and Rivers
+ID011 Contrary to Central Plains historians' claims, the Goryeo tribes, who consider themselves descendants of Dangun, experienced a renaissance under the descendants of Buyeo.
+ID012 Blue Wolves and White Deer
+ID013 In the Tugur Mountains, beneath the Yinshan. The sky is like a cavern covering the land. The heavens are vast and boundless. As the wind blows the grass, one sees cattle and sheep.
+ID014 Patriarchal Tradition
+ID015 For large-scale intensive labor, people formed extended families, valued both life and death, and lived under clan constraints. The patriarch held supreme authority, adhering to strict inheritance laws, respecting one's body, and putting family first, with disobedient members being scorned by all.
+ID016 Implementing a Primogeniture System Recognizing an Heir
+ID017 Universal Standards
+ID018 Unified axle widths, standardized written scripts, and shared ethical practices. This early centralized system could organize large-scale production, with the Supreme Emperor possessing and managing everything.
+ID019 Can recruit [GetMaA('mangudai').GetName][men_at_arms|E]
+ID020 Can recruit [GetMaA('asia_tunguse_ss').GetName][men_at_arms|E]
+ID021 Can recruit [GetMaA('samurai').GetName][men_at_arms|E]
+ID022 Can recruit [GetMaA('java_warrior').GetName][men_at_arms|E]
+ID023 Can recruit [GetMaA('china_east_ms').GetName][men_at_arms|E]
+ID024 Can recruit [GetMaA('china_south_wd').GetName][men_at_arms|E]
+ID025 Khitan Military System
+ID026 Emperor Taizong selected 300,000 elite armored soldiers for the PiShi army. Initially, Taizu used camps as his palace and selected over a thousand strong men from various tribes to form his core... Thus, the PiShi army dates back to Taizu's time, with Taizong expanding it to 300,000.
+ID027 Warship
+ID028 Heavy iron chains lie submerged at the bottom of the river; a surrender flag rises from the rocks.
+ID029 Dugout Canoe
+ID030 When the way is blocked, we ride rafts and float on the sea.
+ID031 Guard of the Two Capitals
+ID032 Temporary halt from fasting, emerging from TaiChang, carrying poetry volumes to GanTang.\nThe former official had ties in court, and the commander tolerated post-feast madness.\nUpon handling documents, only signatures remain; inspiration from the scenery sparks composition.\nThe avenues of the two capitals are filled with travelers, often encountering poets in competition.
+ID033 Wu Hook
+ID034 The Han tripod does not boil Cao Cao's flesh; the Wu hook vainly severs Wu Yun's head.
+ID035 Fine Steeds of Youzhou
+ID036 A cunning leader attracts cavalry, swiftly followed by armed and mounted fighters.
+ID037 Goryeo Hunters
+ID038 In the land of Goryeo, with expansive mountains and forests; the people excel at crafting hunting tools, especially bows, making them excellent archers in battle.
+ID039 Crossbowmen of Shu
+ID040 I once heard of heavenly soldiers entering Shu; the sound of drums tearing through the rocky valleys.
+ID041 Central Plains Military System
+ID042 Drunkenly sleeping on the battlefield, don't laugh; how many ever return from ancient wars?
+ID043 Mo Dao Unit
+ID044 Spearing through icy waters with frost-covered weapons, the soldiers wonder how to guard both ends.
+ID045 Overthrowing the Superiors
+ID046 Using various means within the existing system to replace superiors.
+ID047 Rise of the Samurai
+ID048 The samurai emerged during the social unrest and decline of imperial authority.
+ID049 Ashigaru
+ID050 Ashigaru are the lowest class of ancient Japanese infantry; they engage in labor in peacetime and become foot soldiers in wartime.
+ID051 Goryeo Ginseng
+ID052 Great for restoring vital energy, calming the mind, and beloved by the suzerain state.
+ID053 Goryeo Bow
+ID054 The strongest force of ancient Goryeo; one of their few highlights.
+ID055 Byeolbanmu
+ID056 Elite cavalry unit created by Goryeo to counter Jurchen invasions.
+ID057 Mongolian Horse
+ID058 Mongolian horses are small, unimpressive in appearance, with large heads and short necks. They are sturdy, with broad chests, long manes, thick skin, and coarse hair. They are resilient and highly adaptable, able to withstand Siberian snowstorms, and can kick and crush predators' skulls.
+ID059 Uighur Light Cavalry
+ID060 Although the Uighurs were at odds with the various Turkic tribes, they retained their traditional pastoral lifestyle. They formed a powerful cavalry with Kazakh horses to protect land trade routes.
+ID061 Kazakh Horse
+ID062 Originating from the northern slopes of the Tianshan Mountains, western Dzungaria, and the western Altai Mountains. These horses have strong bones, thick skin, dense hair, and well-defined conformation. They are a sturdy local breed formed under extensive grazing conditions.
+ID063 Himalayan Warriors
+ID064 Our warriors have long adapted to the rugged terrain and thin air of the highlands, making it nearly impossible for outsiders to withstand our environment, let alone pose a threat. Our warriors traverse the mountains, watching as invaders fall one by one. The highlands are a divine barrier, challenging for invaders to penetrate, but our warriors also face significant challenges when descending to lower lands.
+ID065 Hexi Horse
+ID066 The Hexi horse is an ancient and excellent local breed, tall, with a flat back, suitable for both riding and carriage-pulling, enduringly strong, adaptive to local geography and ecological conditions, and with strong disease resistance. It has been used as a warhorse since the Qin and Han dynasties and was historically often used as a tribute.
+ID067 Xianbei Heavy Cavalry
+ID068 One of Tuoba's retained Xianbei traditions. Since Emperor Xiaowen of Northern Wei, successive rulers have meticulously formed heavily armored cavalry units to intimidate neighboring adversaries.
+ID069 Tuyuhun Heavy Cavalry
+ID070 Armored Tuyuhun warriors with both horse and rider in armor, retaining the fine Xianbei tradition, excelling at charging and annihilating enemies.
+ID071 Armored Cavalry
+ID072 Heavy armored warriors with both rider and horse in armor, following ancient combat traditions to charge and kill enemies.
+ID073 Turkic Heavy Cavalry
+ID074 The Western Turks are a nomadic people on horseback. Combining the iron-smelting and forging techniques preserved since the rise of the Turks with Central Asia's rich iron resources created a renowned heavy cavalry unit, feared as wolves of the steppes and a nightmare to surrounding civilizations.
+ID075 Turkic Heavy Cavalry
+ID076 The Western Turks are a nomadic people on horseback. Combining the iron-smelting and forging techniques preserved since the rise of the Turks with Central Asia's rich iron resources created a renowned heavy cavalry unit, feared as wolves of the steppes and a nightmare to surrounding civilizations.
+ID077 Cuman Tribes
+ID078 The powerful unification of the Cumans brings the elite cavalry of various tribes to our command.
+ID079 Cuman Kipchaks
+ID080 Lightly armored Cuman cavalry from various tribes, renowned for their high mobility.
+ID081 Wooden Palisade
+ID082 We utilize local materials to deploy extensive wooden palisades around settlements, effectively impeding invaders.
+ID083 Akritoi
+ID084 Armored Bulgar warriors, charging in dense formations to maximize their strength and speed.
+ID085 Kunno
+ID086 Lightly armored Magyar warriors, causing all Pannonia to tremble as they ride forth.
+ID087 Lovosi
+ID088 Brave armored Magyar knights, capable of shooting arrows from a distance or charging in close combat.
+ID089 Militia
+ID090 Militia with minimal training and simple equipment, including a few archers, but still lacking combat strength.
+ID091 Szekely Horse Archers
+ID092 Long-established Szekely horse archers in Pannonia excel at flanking and pursuing fleeing enemies.
+ID093 Ghaznavid War Elephants
+ID094 War elephants imported from India, trained and conditioned to tolerate battlefield noise and spears. Covered in thick armor, they can withstand powerful attacks and crush enemies with immense force.
+ID095 Ghaznavid War Elephants
+ID096 War elephants imported from India, trained and conditioned to tolerate battlefield noise and spears. Covered in thick armor, they can withstand powerful attacks and crush enemies with immense force.
+ID097 Ghaznavid War Elephants
+ID098 War elephants imported from India, trained and conditioned to tolerate battlefield noise and spears. Covered in thick armor, they can withstand powerful attacks and crush enemies with immense force.
+ID099 Bushido
+ID100 Dying without hesitation or regret.
+ID101 Fishing and Hunting
+ID102 From small creatures like fish, shrimp, crabs, and shellfish, to whaling and sea hunting, it's an ancient craft.
+ID103 Nomadic Lifestyle
+ID104 One of the primary characteristics of ancient nomadic life, constantly chasing the pastures and knowing everything about the grassland.
+ID105 This [culture|E] character leads [army|E] across #V $grasslands$#! or #V $plains$#! with significantly increased march speed
+ID106 Miao Witchcraft
+ID107 The great wisdom of the ancestors.
+ID108 Chiyou Bloodline
+ID109 The legendary weapon smith and war deity, considered one of the three founding fathers of China alongside the Yellow Emperor and Yan Emperor. Highly revered by the Miao, his fierce and united spirit is greatly admired.
+ID110 Ainu Tribe Warriors
+ID111 The Ainu, calling themselves "Utari" or "companions," value their comrades fighting side by side, surviving the many conflicts on the Japanese archipelago.
+ID112 Northeast Asian Mounted Archers
+ID113 Warriors adept at fighting in the dense forests of Northeast Asia, more suited to the local warfare than other nomadic forces from the steppes.
+ID114 Mounted Archers
+ID115 Warriors adept at fighting in the dense forests of Northeast Asia, more suited to the local warfare than other nomadic forces from the steppes.
+ID116 Defenders
+ID117 Temporary soldiers recruited from border villages to guard against national threats.
+ID118 Bandits
+ID119 Murderers, robbers, and thieves are what warriors are.
+ID120 Spear Ashigaru
+ID121 Engaging in labor during peace, becoming infantry during war.
+ID122 Northern Samurai
+ID123 Warriors stationed in the northern part of the imperial palace, protecting the ex-emperor and accompanying royal visits.
+ID124 Yumi Archers
+ID125 The traditional archery of the Yamato people continued on the battlefield.
+ID126 Naginata Party
+ID127 Using long and sharp naginata weapons, they can either form formations to block enemies or spread out for surprise attacks, making them formidable opponents.
+ID128 Goryeo Archers
+ID129 Skilled archers and hunters navigating the complex mountain forests of the Korean Peninsula, using superior shooting skills to strike foes.
+ID130 Sobeolcho
+ID131 Skilled light infantry with shields, adept at dodging incoming arrow volleys.
+ID132 Byeolbanmu
+ID133 An elite heavy infantry unit created to counter the Jurchen, excellent at handling cavalry.
+ID134 Hwarang
+ID135 Young noblemen of Goryeo trained in martial arts from an early age, known for their exceptional archery skills and admired for their appearance and grace.
+ID136 Imperial Guards
+ID137 The Emperor’s exclusive army responsible for protecting the imperial palace and the Emperor himself, highly skilled in martial arts.
+ID138 Northern Palace Guards
+ID139 Elite troops guarding the capital.
+ID140 Feathered Forest Army
+ID141 The Emperor’s personal guard, tasked with protecting the Emperor, the palace, and securing the capital.
+ID142 Xiang Army
+ID143 The local standing army, one of the main sources of the imperial army.
+ID144 Provincial Troops
+ID145 Provincial military units led by various regional military governors and officials.
+ID146 Frontier Army
+ID147 Recruited border troops to defend against foreign invaders.
+ID148 Local Troops
+ID149 Soldiers recruited locally, with variable quality.
+ID150 Mo Dao Unit
+ID151 Mo Dao Unit.
+ID152 Village Braves
+ID153 Temporarily recruited local militias, organized into camps for wartime duties.
+ID154 Miao Warriors
+ID155 The Miao people are all warriors; when unexpected wars arise, they bring their weapons and food and rally under their "Tiger Chief" to the battlefield.
+ID156 Infantry Marine Corps
+ID157 Southern infantry specializing in amphibious operations, protecting riverine routes and capable of penetrating deep through river networks to surprise the enemy.
+ID158 Elephant Warriors
+ID159 Elite warriors clad in heavy elephant hide armor, undeterred by volleys of enemy arrows.
+ID160 Urumi Sword
+ID161 One of the traditional martial arts of the Dravidian people in India, known for its speed and skill.
+ID162 Urumi Swordsmen
+ID163 Dravidian warriors proficient in using the flexible urumi sword, causing massive damage to nearby enemies with rapid strikes.
+ID164 Rajput Warriors
+ID165 Kshatriya warriors fighting on horseback, their scimitars precisely striking enemies’ heads.
+ID166 Nayar Infantry
+ID167 Dravidian warriors trained in Kalari Payattu martial arts, wielding long spears and working in perfect harmony.
+ID168 Sinhala Guards
+ID169 Loyal and fearless Sinhala guard corps, dedicated to protecting their liege.
+ID170 Jungle Claws
+ID171 We modeled the claws of the jungle king, the tiger, to create this powerful weapon—clawed blades.
+ID172 Clawed Blade Warriors
+ID173 Shadows lurking in the dense jungles of the South Sea, using swift claws to slit enemies' throats.
+ID174 Steppe Raiders
+ID175 Steppe Raiders
+ID176 Uighur Light Cavalry
+ID177 Zanpu Guards
+ID178 Gui
+ID179 Zanpu Guards
+ID180 Gui
+ID181 Wu Clan Cavalry
+ID182 Gui
+ID183 Yongdong Gareth
+ID184 Yong
+ID185 Can recruit [GetMaA('wushi').GetName] as [men_at_arms|E]
+ID186 Can recruit [GetMaA('zuqing').GetName] as [men_at_arms|E]
+ID187 Unmatched Bravery
+ID188 Only the strong deserve to live.
+ID189 Art of War
+ID190 War is an art; the victor takes all, the loser has nothing.
+
+
+

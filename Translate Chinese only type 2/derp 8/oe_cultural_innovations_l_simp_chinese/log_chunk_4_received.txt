@@ -1,0 +1,166 @@
+Chunk 4 received from API:
+```yaml
+ID000 The Ughuz cavalry are excellent scouts and shock troops. They travel to distant Iberia, fighting for anyone who can afford to hire them.
+ID001 Abuna
+ID002 Our battle-hardened soldiers can advance steadily under the spears and broadswords. They are skilled with short spears and javelins, capable of killing any enemy that dares to face them head-on. Their superior discipline makes them unafraid of close combat, and their short swords and daggers will deliver fatal blows to their foes.
+ID003 Ghulam Heavy Cavalry
+ID004 These heavily armored slave cavalry who have fought on the front lines for years are both loyal and powerful, known for their fearless fighting style.
+ID005 Ghulam Heavy Cavalry
+ID006 These heavily armored slave cavalry who have fought on the front lines for years are both loyal and powerful, known for their fearless fighting style.
+ID007 Kurdish Javelin Throwers
+ID008 These ancient mountain warriors can inflict significant damage on enemies using simple throwing spears.
+ID009 Ikta Swordsmen
+ID010 Young warriors recruited by Muslim rulers to maintain regional order.
+ID011 Gizhat Crusade Volunteers
+ID012 Fanatical religious warriors who will crush all heresy.
+ID013 Slave Warriors
+ID014 Under-equipped and undisciplined slave soldiers, only useful as cannon fodder.
+ID015 Slave Warriors
+ID016 Under-equipped and undisciplined slave soldiers, only useful as cannon fodder.
+ID017 Slave Warriors
+ID018 Under-equipped and undisciplined slave soldiers, only useful as cannon fodder.
+ID019 Slave Warriors
+ID020 Under-equipped and undisciplined slave soldiers, only useful as cannon fodder.
+ID021 Slave Warriors
+ID022 Under-equipped and undisciplined slave soldiers, only useful as cannon fodder.
+ID023 Celts
+ID024 The Celts were an ancient European group held together by a common language and cultural traditions, forming a loose ethnic group. They resisted invasion time and time again, never yielding to outsiders, as if it were ingrained in their bones.
+ID025 Anglo-Saxon Select Militias
+ID026 During the chaotic early migration and settlement period, wars were led by a few retinue warriors. By the 8th century, Anglo-Saxon leaders had established their kingdoms, necessitating greater logistical efforts to protect their lands and engage in warfare. As a solution, the Anglo-Saxons began implementing the so-called "select fyrd" of free militias.
+ID027 Organize Retinue
+ID028 During the chaotic migration of Germanic tribes to Britain, tribal chiefs and kings would gather their selected strong warriors, equipped with the best weapons and equipment. These warriors were the household soldiers of kings and nobles, specially trained for war.
+ID029 Welsh Longbows
+ID030 Made from yew wood, which is both light and highly resilient, making the longbow's killing power incredibly formidable.
+ID031 Slings
+ID032 The sling is a living fossil of human civilization. A swiftly thrown stone can even bring down a bison. Using it in war can also be highly effective.
+ID033 Highland Clans
+ID034 The northern highlands of Scotland are home to many fierce Highland clans. They maintain the ancient Celtic way of life and tribal alliances, being natural-born warriors who roam the mountains.
+ID035 Hire Foreign Warriors
+ID036 The Gaelic people of the northern Scottish highlands are extremely fierce, unmatched in their combat fanaticism, and willing to fight for money. Importantly, they seldom involve themselves in local political struggles and will obediently follow orders as long as the price is right.
+ID037 House of Warriors
+ID038 The northern highlands of Scotland have been the home of Gaels since ancient times. Our warriors are eager to fight for their homeland.
+ID039 Bread and Mead
+ID040 The lord distributes bread to his followers, symbolizing the bond and loyalty between the lord and his warriors. Of course, beyond its hidden and symbolic meanings, these activities also often serve as a form of alignment practice, allowing senior soldiers to communicate more freely and plan and coordinate better in actual combat.
+ID041 The Winchester Book
+ID042 Also known as the Domesday Book, it is a compilation of land surveys in England. Its purpose was to understand the land holdings of the crown and its direct vassals, to collect taxes, strengthen financial management, and determine the feudal obligations of the vassals.
+ID043 Conqueror's Stance
+ID044 We have conquered the British Isles. These natives should swear loyalty to me.
+ID045 Armorica
+ID046 We are the Celtic people forced to seek refuge here during the Great Migration of the Germanic tribes. The Romans called this place Armorica.
+ID047 Iberian City Militias
+ID048 It is important to recognize the role that Iberian city militias played in the mid-Middle Ages. These local militias, born from frontier disputes, served the monarchs of the peninsula. In times of urgency, they could quickly build their strength, providing flexibility in military and economic matters, as well as in restraining the power of local nobles.
+ID049 Spanish Grandees
+ID050 With the gradual liberation of the Iberian region, we grant land ownership to our loyal vassals and exempt them from a portion of the taxes. They are responsible for providing the cavalry required for a series of reconquest wars.
+ID051 Land Grants
+ID052 The Reconquista is in full swing, and we need a large number of soldiers to keep those pagans suppressed for long periods. Even non-nobles can receive land as long as they provide many conscripts.
+ID053 Visigothic Warfare
+ID054 We have inherited the combat methods from the Visigothic period, focusing on cavalry as the main force and specializing in mounted combat.
+ID055 Catalonian Mercenaries
+ID056 The military needs of the Reconquista stimulated the formation of elite infantry in the Iberian region. Our warriors, not content to retire after the wars, formed bands of mercenaries to continue fighting on various battlefields around the world.
+ID057 Spanish Pike Phalanx
+ID058 To consolidate our land dominance in Iberia, we must undergo an infantry revolution. History has proven that well-organized infantry tactics can perform well in all battlefield environments.
+ID059 Spanish Phalanx Pikemen
+ID060 With dense pikes and closely coordinated tactics, our army is unstoppable on land!
+ID061 Spanish Rodeleros
+ID062 Equipped with high-quality shields and long swords, this army’s teeth can quickly open a gap in the enemy’s pike ranks, turning the tide in an instant.
+ID063 Zweihander Swordsmen
+ID064 Elite infantry wielding massive swords, capable of quickly tearing a gap in the enemy’s pike phalanx with their superior swordsmanship.
+ID065 Household Guards
+ID066 The personal guards of the princes and nobles, composed of battle-hardened vassals and veterans with astonishing combat prowess.
+ID067 Old Swiss Mountaineers
+ID068 The harsh living conditions and long-term invasions have made the residents of this land always ready to fight to defend their survival.
+ID069 Swiss Mercenaries
+ID070 Veteran soldiers with nowhere to go and sturdy young men from poor households travel together, guided by the traditional battlefield knowledge of old Swiss mountaineers.
+ID071 Swiss Mercenaries
+ID072 Fighting shoulder to shoulder with fellow countrymen and blood relatives, forming battle lines with halberds and spears, the fearless infantry advances.
+ID073 Communal Militias
+ID074 Lightly armed militia determined to defend their towns with self-provided weapons.
+ID075 Communal Cavalry
+ID076 Light cavalry well adapted to the terrain of northern Italy’s mountainous regions.
+ID077 Sacred Wagon
+ID078 Raise our flag high! The music from the sacred wagon is a holy talisman. For the honor of the city-state, fight to the death!
+ID079 Sacred Wagon
+ID080 Oxen-pulled sacred wagons parade across the battlefield, and the warriors shine in their enemy-killing glory. The sacred ride must not fall, and the warriors fight bravely without fear of death.
+ID081 Sacred Wagon
+ID082 Oxen-pulled sacred wagons parade across the battlefield, and the warriors shine in their enemy-killing glory. The sacred ride must not fall, and the warriors fight bravely without fear of death.
+ID083 Pavise Shield
+ID084 Reliable large wooden shields that provide temporary cover for our crossbowmen and can also be used as mobile fortifications to assist in sieges.
+ID085 Pavise Crossbowmen
+ID086 Crossbowmen equipped with Pavise shields, allowing them to make precise strikes under the shield's protection.
+ID087 Genoese Crossbowmen
+ID088 Renowned elite shooters from Genoa whose powerful crossbows strike fear into the enemy.
+ID089 Berrovieri
+ID090 Elite of the Italian legions, these lightly armored cavalry are covered with coats of mail.
+ID091 Teutonic Deep Defense
+ID092 Various types of fortresses spread across the German lands, along with the Burgmann infantry defending the towns, will greatly slow down the enemy’s siege.
+ID093 Burgmann Heavy Infantry
+ID094 Elite infantry responsible for defending castles and warding off external enemies.
+ID095 Mass Enfeoffment
+ID096 Wealthy and leisure citizens and guild elites aspire to join the upper class, and a small knightly title is enough to satisfy them.
+ID097 Guild Knights
+ID098 Citizens armed at their own expense who have been granted knighthood. They are numerous but of poorer quality.
+ID099 Robber Knights
+ID100 Mounted bandits who plunder using the fortress's advantage. Some may actually hold knighthood titles, but their deeds are far from what true noble knights would do.
+ID101 Vassal Knights
+ID102 German warriors with a certain social status, well-equipped and the main force of the imperial cavalry.
+ID103 Imperial Knights
+ID104 Loyalty to the Emperor above all else, within a vast network formed by major knightly families, every powerful knight can shine.
+ID105 Imperial Knights
+ID106 Imperial knights clad in high-quality Gothic plate armor with excellent combat skills.
+ID107 Gothic Plate Armor
+ID108 Custom-fitted armor that enhances flexibility while optimizing overall design, making it lighter and stronger in defense.
+ID109 Foot Imperial Knights
+ID110 Sturdy knights clad in full plate armor, fighting on foot according to German tradition.
+ID111 Milanese Plate Armor
+ID112 The influx of massive weapon orders led to the creation of this unique style of plate armor. The rounded lines of Milanese plate armor are renowned for effectively reducing the lethality of arrows.
+ID113 Hydraulic Forge Hammer
+ID114 Large water-powered machines used to crush ores or shape metal parts, significantly reducing the cost of forging heavy armor.
+ID115 Byzantine Military System
+ID116 The Byzantine army evolved from the Late Roman Empire's forces, becoming more complex and diverse in strategy, tactics, and organization.
+ID117 Train Ghulams
+ID118 The invasions by foreign enemies force us to intensify our military reforms. We have noticed that well-trained slave soldiers possess strong combat abilities. If we can further improve their organization and discipline, a powerful army will soon be formed.
+ID119 Bedouin Tribal Riders
+ID120 Bedouin horseback traditions gave rise to these tribal riders who roam the deserts. They are natural desert warriors.
+ID121 Bedouin Elite Riders
+ID122 Bedouins take pride in riding fast horses. These tribal warriors on horseback charge like desert storms, breaking through enemy defenses.
+ID123 Bedouin Light Cavalry Retainers
+ID124 By granting privileges to members of eastern Bedouin tribes, turning them into efficient and loyal bodyguards, we've brought peace to Egypt and Syria and strengthened control over these strategic regions.
+ID125 Bedouin Light Cavalry Retainers
+ID126 These Bedouins are efficient and loyal bodyguards, charging like desert storms to break through enemy defenses.
+ID127 Sword of Islam
+ID128 Witness the crescent and star!
+[MISSING]
+[MISSING]
+ID131 Daylamite Highland Warriors
+ID132 Powerful warriors from the Iranian mountains, unparalleled in their combat prowess.
+ID133 Daylamite Elite Warriors
+ID134 Seeking wealth or fleeing war, some Daylamites migrated here. With their inherent fighting spirit, their status in the military rose rapidly.
+ID135 Daylamite Elite Warriors
+ID136 Seeking wealth or fleeing war, some Daylamites migrated here. With their inherent fighting spirit, their status in the military rose rapidly.
+ID137 Stern Rudder
+ID138 With the aid of advanced navigation technology passed down from the distant East, our elite warriors can quickly reach the battlefield via sea transport.
+ID139 Persian Heavy Cavalry
+ID140 Our inherited heavy cavalry combat method is never outdated.
+ID141 Persian Heavy Cavalry
+ID142 These powerful riders have been dominating Central Asia for thousands of years!
+ID143 Savaran
+ID144 The ancient Persian heavy cavalry, famed for their bravery in frontal combat.
+ID145 Immortal Guard
+ID146 The ancient and powerful Immortal Guard, the glorious defenders of Ahura.
+ID147 Immortal Guard
+ID148 The ancient and powerful Immortal Guard, the glorious defenders of Ahura.
+ID149 Noah's Ark
+ID150 We firmly believe we are the sole survivors of the prehistoric flood. As sons of Noah, we will never yield to any other civilization.
+ID151 Eagle of the Highlands
+ID152 The people of this culture are as calm and focused as the eagles in the Armenian Highlands. Their extremely strong martial talents often make them favored by rulers, but their inherently unyielding nature makes their fate volatile.
+ID153 Azatavrear
+ID154 Since ancient times, Armenia has had elite Azatavrear cavalrymen who are fearsome heavy cavalry, free to roam their highland homeland.
+ID155 Azatavrear
+ID156 Since ancient times, Armenia has had elite Azatavrear cavalrymen who are fearsome heavy cavalry, free to roam their highland homeland.
+ID157 Armenian Foot Archers
+ID158 Swift archers lurking in the Armenian highlands, shooting deadly volleys at enemies from above.
+ID159 Armenian Foot Archers
+```
+
+
+

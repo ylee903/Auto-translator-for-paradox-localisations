@@ -22,12 +22,10 @@ overwrite_original = True  # Set to True to overwrite, False to save as _transla
 enable_sub_ids = True  # Set to True to add sub-IDs, False to disable
 
 # Parameter to control the maximum number of concurrent asynchronous requests
-max_concurrent_requests = 3  # Adjust this value to control concurrency
+max_concurrent_requests = 1  # Adjust this value to control concurrency
 
 # Parameter to select the model to use for both tokenization and API calls
-model_name = (
-    "gpt-4o-mini"  # Can be "gpt-4", "gpt-3.5-turbo", or any other supported model
-)
+model_name = "gpt-4o"  # Can be "gpt-4", "gpt-3.5-turbo", or any other supported model
 
 # Parameter to determine if the program will ignore mismatches in the number of lines/sub-IDs
 ignore_mismatch = True  # Set to True to ignore mismatches, False to raise an error
@@ -61,7 +59,7 @@ chinese_text_regex = r'"([\u4e00-\u9fff]+[^"]*)"'
 TOKEN_LIMIT = (
     3500  # This is generally safe for GPT-4; adjust if necessary for other models
 )
-LINE_LIMIT = 50  # Maximum number of lines or IDs in a chunk
+LINE_LIMIT = 999  # Maximum number of lines or IDs in a chunk
 ID_FORMAT = "ID{:03d}"
 
 
@@ -85,6 +83,7 @@ def split_into_chunks(id_map):
     chunks = []
     current_chunk = []
     current_tokens = 0
+    main_to_sub_map = {}  # To store the mapping of main IDs to chunk and sub-IDs
 
     for unique_id, phrase in id_map.items():
         phrase_tokens = len(encoding.encode(phrase))
@@ -96,16 +95,18 @@ def split_into_chunks(id_map):
             chunks.append(current_chunk)
             current_chunk = []
             current_tokens = 0
+        sub_id = len(current_chunk)
         if enable_sub_ids:
-            phrase = f"{ID_FORMAT.format(len(current_chunk))} {phrase}"
+            phrase = f"{ID_FORMAT.format(sub_id)} {phrase}"
         current_chunk.append((unique_id, phrase))
+        main_to_sub_map[unique_id] = (len(chunks), sub_id)
         current_tokens += phrase_tokens
 
     if current_chunk:
         chunks.append(current_chunk)
 
     print(f"Split into {len(chunks)} chunks for translation.")
-    return chunks
+    return chunks, main_to_sub_map
 
 
 async def translate_chunk_async(chunk, session, chunk_index, semaphore, log_dir):
@@ -320,12 +321,15 @@ async def translate_chunks_async(chunks, log_dir):
     return translated_chunks
 
 
-def reassemble_text(file_content, translated_chunks):
-    for translated_chunk in translated_chunks:
-        for unique_id, translated_phrase in translated_chunk.items():
-            file_content = file_content.replace(
-                f'"{unique_id}"', f'"{translated_phrase}"'
-            )
+def reassemble_text(file_content, translated_chunks, main_to_sub_map):
+    # Reassemble the text based on the main_id to chunk/sub_id map
+    for main_id, (chunk_index, sub_id) in main_to_sub_map.items():
+        if chunk_index < len(translated_chunks):
+            chunk = translated_chunks[chunk_index]
+            if main_id in chunk:
+                file_content = file_content.replace(
+                    f'"{main_id}"', f'"{chunk[main_id]}"'
+                )
     print(f"Reassembled translated content.")
     return file_content
 
@@ -337,7 +341,7 @@ async def translate_yaml_file(file_path):
 
     phrases = extract_chinese_phrases(file_content)
     file_content, id_map = replace_with_ids(file_content, phrases)
-    chunks = split_into_chunks(id_map)
+    chunks, main_to_sub_map = split_into_chunks(id_map)
 
     # Create a subdirectory for logs based on the file name
     log_dir = os.path.join(
@@ -346,7 +350,9 @@ async def translate_yaml_file(file_path):
     os.makedirs(log_dir, exist_ok=True)
 
     translated_chunks = await translate_chunks_async(chunks, log_dir)
-    translated_content = reassemble_text(file_content, translated_chunks)
+    translated_content = reassemble_text(
+        file_content, translated_chunks, main_to_sub_map
+    )
 
     # Determine the output file path based on the overwrite_original parameter
     if overwrite_original:
