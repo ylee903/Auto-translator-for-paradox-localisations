@@ -37,6 +37,9 @@ initial_wait_time = 5  # Initial wait time before retrying (in seconds)
 # Path to the .env file
 file_path = r"D:\Documents\Self help websites and data for games etc\paradox\ck3\Auto-translator-for-paradox-localisations\keys.env"
 
+# Directory containing YAML files to translate
+translation_directory = r"D:\Documents\Self help websites and data for games etc\paradox\ck3\Auto-translator-for-paradox-localisations\Translate Chinese only type 2\to be translated"
+
 # Load environment variables from .env file
 debug_load_dotenv(file_path)
 
@@ -385,7 +388,7 @@ async def translate_all_files_in_subdirectory():
     script_dir = os.path.dirname(file_path)
 
     # Define the subdirectory where YAML files are located
-    subdirectory = os.path.join(script_dir, "to be translated")
+    subdirectory = translation_directory  # Restore the translation directory parameter
 
     # Find all .yml files in the subdirectory
     yaml_files = glob.glob(os.path.join(subdirectory, "*.yml"))
