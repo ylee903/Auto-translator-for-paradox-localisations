@@ -1,0 +1,54 @@
+Chunk 6 received from API:
+ID000 Axeman Guard  
+ID001 Vodka  
+ID002 Water of Life, the pride of the Ross people  
+ID003 Fierce Folk  
+ID004 Civilization is ignorant, fierce folk, primitive desires fill every heart  
+ID005 Wart-covered Armor  
+ID006 The Qiang people are skilled in armor forging. The method of forging armor starts out very thick; without fire, cold-forged, it is three-tenths thicker than the original after two reductions. The end is left un-forged, about the thickness of a wart, meant to test the thickness of the un-forged part, like leaving dirt mounds when dredging a river, hence it is called "wart-covered armor." A strong crossbow shot cannot penetrate it.  
+ID007 Horizontal Mountain Qiang  
+ID008 The Qiang ethnic group widely exists in the northwestern mountainous areas, traversing the mountains with exceptional off-road abilities.  
+ID009 Tangut Horse  
+ID010 The areas of Dajinze, Hengshan, and Tiandu Mountain, inhabited by the Tangut people, are renowned horse-producing regions. Horses are abundant and of excellent quality; the Tang poet Yuan Zhen wrote, "Buying Tangut horses in the north, capturing Tibetan parrots in the west." The Song dynasty people praised Tangut horses as the best in the world.  
+ID011 Cold-forged Steel  
+ID012 The Tangut people’s cold-forged steel technology is outstanding in the world, and possessing a Xia country sword is considered supreme glory. The sword carried by Song Emperor Qinzhong was the 'Xia Country Sword.' Su Dongpo once obtained a Western Xia sword and wrote a poem: "Red adorned at the wine under floral lights, green willows draw the blade and the hall brings wind. Spiral patterns rise like the spine, white dragons pair alongside the three dragonlings. Test one person’s thread-like essence, playful guests evoke a daunting response."  
+ID013 Ronin  
+ID014 Desperate adventurers seeking to restore their former authority, identifying themselves as the Emperor's guards, everywhere they go.  
+ID015 Divine Arm Bow  
+ID016 The Divine Arm Bow can be drawn by one person and has a maximum range of four hundred meters, able to penetrate heavy armor.  
+ID017 Horse Management Neglect  
+ID018 The neglect of higher power rulers, coupled with the wrong policies of lower-level officials, has plunged the horse management in the Central Plains into an irreversible dilemma.  
+ID019 Horse Preservation Law  
+ID020 The situation of insufficient horses available in the Central Plains has officially changed, and effective horse management policies have been implemented. If the entire system operates well, it will benefit all generations.  
+ID021 Commercial Ethnic Group  
+ID022 The Sogdian people frequently traveled along the long Silk Road between Central Asia and China, accumulating vast wealth from the medieval East-West trade.  
+ID023 Japanese Bow  
+ID024 A type of longbow used in Japanese archery. The standard length of a Japanese bow is about seven feet three inches.  
+ID025 Naginata  
+ID026 The naginata is a type of long-handled weapon used in ancient Japan, characterized by a broad blade with a significant curve.  
+ID027 Champa Rice  
+ID028 A high-yield, early-maturing, drought-resistant rice variety produced in the Southeast Asian Peninsula, greatly benefiting many.  
+ID029 Introduction of Champa Rice  
+ID030 Introducing high-yield, early-maturing, drought-resistant Champa rice from the Southeast Asian Peninsula, benefiting the entire populace.  
+ID031 Vast Land and Rich Resources  
+ID032 Born of Yan and Huang, nurturing Huaxia. Treat it with value, and it will surely repay China.  
+ID033 He-shuo Light Cavalry  
+ID034 Since ancient times, the Yan region has produced many warriors, being at the border with abundant horse trade, and due to the long-term mingling of Hu and Han, every noble child can ride.  
+ID035 Southwestern Horse  
+ID036 The Southwestern horse is sensitive yet gentle, good at climbing mountains, suitable for carrying loads in mountainous areas, playing a key role in transportation in highland regions.  
+ID037 Baibao Xianbei Cavalry  
+ID038 Yanyun Eighteen Riders  
+ID039 Xiliang Iron Cavalry  
+ID040 Wengniute  
+ID041 Uruq  
+ID042 Wujiye  
+ID043 Qiexue Army  
+ID044 Curved Horse  
+ID045 Curved Horse  
+ID046 Iron Pagoda  
+ID047 Iron Pagoda  
+ID048 Tiger Step Guard  
+ID049 Iron Hawk  
+
+
+

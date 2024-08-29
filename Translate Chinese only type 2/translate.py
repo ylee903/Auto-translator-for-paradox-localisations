@@ -207,8 +207,8 @@ async def translate_chunk_async(chunk, session, chunk_index, semaphore, log_dir)
                 consecutive_order = True
 
                 if enable_sub_ids:
-                    original_sub_ids = [i for i, _ in enumerate(chunk)]
-                    translated_sub_ids = [i for i in range(len(translated_phrases))]
+                    original_sub_ids = list(range(len(chunk)))
+                    translated_sub_ids = list(range(len(translated_phrases)))
 
                     # Check if sub-IDs match
                     if original_sub_ids != translated_sub_ids:
@@ -251,8 +251,13 @@ async def translate_chunk_async(chunk, session, chunk_index, semaphore, log_dir)
                         aligned_phrases = translated_phrases
 
                 # Verbosely log the results of sub-ID matching and order
+                sent_sub_id_count = len(chunk)
+                received_sub_id_count = len(translated_phrases)
                 print(
                     f"Sub-ID Match for chunk {chunk_index + 1}: {'Yes' if sub_id_match else 'No'}"
+                )
+                print(
+                    f"Sent Sub-ID Count: {sent_sub_id_count}, Received Sub-ID Count: {received_sub_id_count}"
                 )
                 if sub_id_match and enable_sub_ids:
                     print(
@@ -269,6 +274,9 @@ async def translate_chunk_async(chunk, session, chunk_index, semaphore, log_dir)
                     ) as log_file:
                         log_file.write(
                             f"Sub-ID Match for chunk {chunk_index + 1}: {'Yes' if sub_id_match else 'No'}\n"
+                        )
+                        log_file.write(
+                            f"Sent Sub-ID Count: {sent_sub_id_count}, Received Sub-ID Count: {received_sub_id_count}\n"
                         )
                         if sub_id_match and enable_sub_ids:
                             log_file.write(
