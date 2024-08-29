@@ -109,7 +109,9 @@ def split_into_chunks(id_map):
     return chunks, main_to_sub_map
 
 
-async def translate_chunk_async(chunk, session, chunk_index, semaphore, log_dir):
+async def translate_chunk_async(
+    chunk, session, chunk_index, semaphore, log_dir, main_to_sub_map
+):
     async with semaphore:
         text_to_translate = "\n".join([phrase for _, phrase in chunk])
         print(
@@ -284,7 +286,7 @@ async def translate_chunk_async(chunk, session, chunk_index, semaphore, log_dir)
                                 f"Sub-IDs in Perfect Consecutive Order: {'Yes' if consecutive_order else 'No'}\n"
                             )
 
-                # Create a mapping of sub-IDs back to main IDs
+                # Map translated phrases back to main IDs using main_to_sub_map
                 translated_chunk = {}
                 for (unique_id, _), translated_phrase in zip(chunk, aligned_phrases):
                     chunk_index, sub_id = main_to_sub_map[unique_id]
@@ -311,6 +313,21 @@ async def translate_chunk_async(chunk, session, chunk_index, semaphore, log_dir)
 
         print(f"Max retries reached for chunk {chunk_index + 1}. Skipping this chunk.")
         return None
+
+
+async def translate_chunks_async(chunks, log_dir, main_to_sub_map):
+    semaphore = asyncio.Semaphore(max_concurrent_requests)  # Control concurrency
+    async with aiohttp.ClientSession() as session:
+        tasks = [
+            translate_chunk_async(
+                chunk, session, i, semaphore, log_dir, main_to_sub_map
+            )
+            for i, chunk in enumerate(chunks)
+        ]
+        translated_chunks = await asyncio.gather(*tasks)
+    translated_chunks = [chunk for chunk in translated_chunks if chunk is not None]
+    print(f"Translation completed for {len(translated_chunks)} chunks.")
+    return translated_chunks
 
 
 async def translate_chunks_async(chunks, log_dir, main_to_sub_map):
