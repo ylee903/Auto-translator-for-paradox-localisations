@@ -22,7 +22,7 @@ overwrite_original = True  # Set to True to overwrite, False to save as _transla
 enable_sub_ids = True  # Set to True to add sub-IDs, False to disable
 
 # Parameter to control the maximum number of concurrent asynchronous requests
-max_concurrent_requests = 1  # Adjust this value to control concurrency
+max_concurrent_requests = 3  # Adjust this value to control concurrency
 
 # Parameter to select the model to use for both tokenization and API calls
 model_name = "gpt-4o"  # Can be "gpt-4", "gpt-3.5-turbo", or any other supported model
@@ -330,19 +330,6 @@ async def translate_chunks_async(chunks, log_dir, main_to_sub_map):
     return translated_chunks
 
 
-async def translate_chunks_async(chunks, log_dir, main_to_sub_map):
-    semaphore = asyncio.Semaphore(max_concurrent_requests)  # Control concurrency
-    async with aiohttp.ClientSession() as session:
-        tasks = [
-            translate_chunk_async(chunk, session, i, semaphore, log_dir)
-            for i, chunk in enumerate(chunks)
-        ]
-        translated_chunks = await asyncio.gather(*tasks)
-    translated_chunks = [chunk for chunk in translated_chunks if chunk is not None]
-    print(f"Translation completed for {len(translated_chunks)} chunks.")
-    return translated_chunks
-
-
 def reassemble_text(file_content, translated_chunks, main_to_sub_map):
     # Reassemble the text based on the main_id to chunk/sub_id map
     for main_id, (chunk_index, sub_id) in main_to_sub_map.items():
@@ -395,7 +382,7 @@ async def translate_yaml_file(file_path):
 
 async def translate_all_files_in_subdirectory():
     # Get the directory where the script is located
-    script_dir = os.path.dirname(os.path.realpath(__file__))
+    script_dir = os.path.dirname(file_path)
 
     # Define the subdirectory where YAML files are located
     subdirectory = os.path.join(script_dir, "to be translated")
