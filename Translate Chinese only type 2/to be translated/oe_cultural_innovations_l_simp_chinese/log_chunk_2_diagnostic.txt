@@ -1,0 +1,3 @@
+Diagnostic for chunk 2:
+IDs where translation could not be found or ensured consistency were filled with the placeholder '[MISSING]'. Specifically, these IDs are: ID002, ID007, ID008, ID015, ID016, ID026, ID046, ID051, ID218, ID229, ID231. The placeholder ensures an exact line/ID match with the input.
+

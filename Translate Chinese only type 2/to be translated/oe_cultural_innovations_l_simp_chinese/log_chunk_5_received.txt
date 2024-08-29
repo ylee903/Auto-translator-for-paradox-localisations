@@ -1,0 +1,239 @@
+Chunk 5 received from API:
+ID000 A large number of Armenians have migrated from the plateau. We took this opportunity to integrate these powerful archers into our army.
+ID001 Sickle
+ID002 This ancient tool has been promoted on the battlefield. We have attached a long handle to it, making it effective against groups of cavalry.
+ID003 Heavy Sickle Infantry
+ID004 These heavily armored sickle infantry stand at the forefront of the formation, and their long and powerful sickles make them formidable against cavalry.
+ID005 World Mercenary Corps
+ID006 As a long-standing thousand-year-old empire, Byzantium is accustomed to the use of mercenaries, and the diverse types of mercenaries have left a significant mark on Byzantine military history.
+ID007 Byzantine Horse Archers
+ID008 The empire's advanced armor technology equipped these mercenaries who came from the steppe. Although their pursuit ability was somewhat sacrificed, their defensive capabilities were greatly enhanced.
+ID009 Latin Cavalry
+ID010 These non-Orthodox cavalry warriors have gradually adapted to fighting against the numerous Turkic cavalry through long-term training. They are fearless raiders of the steppe.
+ID011 Swift Cavalry
+ID012 Through long-term training, our cavalry have become versatile warriors on the battlefield.
+ID013 Flying Cavalry
+ID014 They are proficient in all mounted weapons, capable of breaking formations in an instant.
+ID015 Xianbei Heavy Cavalry
+ID016 A tradition of the Xianbei, since Emperor Xiaowen of the Northern Wei Dynasty, successive rulers have carefully formed heavily armored cavalry units to deter surrounding enemies.
+ID017 Xianbei Armored Cavalry
+ID018 Xianbei warriors, both horse and rider armored, have the art of killing ingrained in their bones.
+ID019 Shieldmaiden
+ID020 These women defy societal norms, forming shield walls and fighting alongside other warriors.
+ID021 Baltic Warriors
+ID022 Generations of living in forested swamps have fostered a fierce spirit among the Baltic people. They roam in groups, relentlessly sweeping through the area.
+ID023 Baltic Warriors
+ID024 Fierce warriors active in the forests and swamps along the Baltic coast, launching ambushes aided by the forest and snow.
+ID025 Frankish Feudalism
+ID026 Charlemagne and his predecessors created an excellent feudal system for us. Our kingdom is stable and powerful, and this advantage will continue indefinitely.
+ID027 Scala Cavalry
+ID028 They are the elite cavalry unit of the Carolingian dynasty, often tasked with high-mobility combat missions.
+ID029 Carolingian Guards
+ID030 They are trusted individuals sent by the nobles to various territories, responsible for local security in peacetime and serving as elite infantry in wartime.
+ID031 Flowers of Chivalry
+ID032 Every knight is the pride of the French people.
+ID033 Characters of this [culture|E] build #V $First Tier Legion Training Grounds$#! faster, stronger, and gain some [prestige_i][prestige|E] upon completion.
+ID034 Chevalier
+ID035 The proud French people have proud French cavalry.
+ID036 Sword and Shield Infantry
+ID037 Fully armed infantry groups, protected from flying arrows by their sturdy shields.
+ID038 Hook Axe
+ID039 This new pole weapon we developed can effectively counter unarmored units and cavalry.
+ID040 Hook Axe Infantry
+ID041 Our infantry are equipped with new hook axes, effectively countering unarmored units and cavalry.
+ID042 Mounted Crossbowmen
+ID043 Mounted Crossbowmen
+ID044 Our social structure determines that we cannot have a large number of high-quality horse archers, but mounted crossbowmen might be a good choice.
+ID045 War Song
+ID046 Our knights possess unshakable faith, and their great deeds will be long remembered by our people.
+ID047 Heavy Lancers
+ID048 The group charge of the heavy lancers is unstoppable, even the most solid formations will be turned to dust in an instant.
+ID049 Foot Feudal Knights
+ID050 In battlefields where cavalry cannot be deployed, our fearless knights still fight tenaciously.
+ID051 Light Lancers
+ID052 Light lancers from Burgundy, combining explosiveness and mobility, making them excellent for flank attacks.
+ID053 Frankish Archers
+ID054 Each parish should select an archer from those skilled in weapons. He will be exempt from taxes, practice archery on Sundays and holidays, and be ready to go to war when needed.
+ID055 Frankish Archers
+ID056 Archers used for border defense, exempt from taxes but must go to war.
+ID057 Assembly
+ID058 Voivode Skirmishers
+ID059 Moscow Manorial System
+ID060 The development of feudalism in the Rus' region differs from that of Western Europe. Our kingdom arises from a core family alliance, united to increase available labor and expand land production. However, this does not mean that granted land is a kind of bondage; on the contrary, we encourage adventure.
+ID061 Boyar
+ID062 Grand Duke's Guards
+ID063 Free Riders
+ID064 Turkic Settlers
+ID065 Long-term conflicts have worn down each side's will to fight, leading some Turkic people to think of settling in this land.
+ID066 Turkic Auxiliary
+ID067 Descendants of Boyars
+ID068 Impoverished Boyar descendants, unable to maintain their ruling status like their ancestors, turn to military camps in large numbers for opportunities.
+ID069 Boyevići Warriors
+ID070 Adventurous Heroes
+ID071 Cossack Cavalry
+ID072 Cossack cavalry are known for their bright clothes and notorious reputation. They gather into semi-autonomous groups and lead a nomadic lifestyle. If they can be recruited into the army, they would be a considerable force.
+ID073 Cossack Cavalry
+ID074 Siberian Tribe Raiders
+ID075 Military Mobilization
+ID076 Numerous military nobles support the state's war machine, but at what cost...
+ID077 Szlachta
+ID078 Polish Light Crossbow Cavalry
+ID079 Winged Hussars
+ID080 Loyal and powerful elite cavalry, known for their high mobility and destructiveness.
+ID081 Winged Hussars
+ID082 Radziwiłł
+ID083 Samogitian Javelin Skill
+ID084 One of the most effective tools of war in the Baltic forests, the Samogitian horse gives the javelin immense power.
+ID085 Samogitian Javelin Riders
+ID086 Lithuanian Mounted Archers
+ID087 Vassals of the same [culture|E][heritage|E] as you are more likely to join [independence_factions|E] and [claimant_factions|E], which is not necessarily a bad thing, at least when you are still weak.
+ID088 The people of this [culture|E] only obey the rule of Noah's descendants. They are more likely to join factions against foreign [culture|E] rulers.
+ID089 Characters of this [culture|E] possessing these [innovations|E] can form alliances with specific [culture|E] characters to recruit powerful unique [men_at_arms|E]
+ID090 Dajin
+ID091 Dajin
+ID092 Wanyan
+ID093 Dajin
+ID094 Tribute
+ID095 The incompetence of the upper class is paid for by the lower class.
+ID096 Sixteen Prefectures of Yan and Yun
+ID097 Lithuania
+ID098 Poland
+ID099 Can claim multiple [claims|E] in a single war
+ID100 Middle East, Persia
+ID101 Sinhalese
+ID102 Maces
+ID103 Regions widely using lamellar armor in military
+ID104 Great Migration Invasion
+ID105 Great Migration Invasion
+ID106 Great Migration
+ID107 You have forsaken your previous land, leading your people and herds here. A new reign begins.
+ID108 After the Great Migration
+ID109 Some resources of this land have been deliberately moved following a great migration.
+ID110 Negotiation for Alliance
+ID111 Forge an alliance with [recipient.GetTitledFirstNameNoTooltip] through reasoning about mutual interests—Steppe forces need unification!
+ID112 Same [cultural|E]: $VALUE|=+0$
+ID113 Negotiation for Alliance
+ID114 Negotiation for Alliance (Nomadic Vassal)
+ID115 Forge an alliance with [recipient.GetTitledFirstNameNoTooltip] through reasoning about mutual interests—To promote achieving some common goals!
+ID116 Tribal Alliance
+ID117 Forge a vassal relationship with [recipient.GetTitledFirstNameNoTooltip] through reasoning about mutual interests—To promote achieving some common goals!
+ID118 Military Strength Difference: $VALUE|=+0$
+ID119 Diplomacy and Allies: $VALUE|=+0$
+ID120 Significant External Threat: $VALUE|=+0$
+ID121 Weak in Strength: $VALUE|=+0$
+ID122 Ambitious: $VALUE|=+0$
+ID123 Call Vassals to War
+ID124 Call [recipient.GetUINameNoTooltip] to war to fulfill their obligation as a vassal.
+ID125 Defensive [war|E]: $VALUE|=+0$
+ID126 Is [powerful_vassals|E]: $VALUE|=+0$
+ID127 Neighboring Vassal Peers: $VALUE|=+0$
+ID128 Pasture: $VALUE|=+0$
+ID129 Loose Tribes: $VALUE|=+0$
+ID130 Limited Tribal Authority: $VALUE|=+0$
+ID131 High Tribal Authority: $VALUE|=+0$
+ID132 Absolute Tribal Authority: $VALUE|=+0$
+ID133 Warlike [ethos|E]: $VALUE|=+0$
+ID134 Collective [ethos|E]: $VALUE|=+0$
+ID135 Same [dynasty|E]: $VALUE|=+0$
+ID136 Is your [close_family_member|E]: $VALUE|=+0$
+ID137 Warlike: $VALUE|=+0$
+ID138 Vassal Stance: Fame-Seeking: $VALUE|=+0$
+ID139 Vassal Stance: Native: $VALUE|=+0$
+ID140 Call to War (Nomadic Alliance)
+ID141 Chieftain
+ID142 Extra Tax
+ID143 The chieftain completed your task and successfully handed over the taxes.
+ID144 Broadly Spreading Prestige
+ID145 The chieftain successfully spread your prestige.
+ID146 Chieftain's Levies
+ID147 The chieftain summoned a group of levies for you.
+ID148 Chieftain's Light Cavalry
+ID149 The chieftain summoned a group of light cavalry for you.
+ID150 Chieftain's Horse Archers
+ID151 The chieftain summoned a group of horse archers for you.
+ID152 Chieftain's Heavy Cavalry
+ID153 The chieftain summoned a group of heavy cavalry for you.
+ID154 Player [regiment|E][stationed_holding|E] modification rate
+ID155 Sixty percent
+ID156 The player gets the [GetModifier('xinzeng_zhujun_xiuzheng_001_modifier').GetNameWithTooltip] modification, preventing data inflation as much as possible, indirectly adjusting AI difficulty, optimizing the gaming experience, and the thrill of battling AI.
+ID157 Forty percent
+ID158 The player gets the [GetModifier('xinzeng_zhujun_xiuzheng_002_modifier').GetNameWithTooltip] modification, which has little effect on stacking types of units but can moderately reduce the rate of data inflation.
+ID159 Twenty percent
+ID160 The player gets the [GetModifier('xinzeng_zhujun_xiuzheng_003_modifier').GetNameWithTooltip] modification, slightly adjusting the stationed soldiers' values. It's almost certain that your units will soon feel the thrill of decimating AI.
+ID161 None
+ID162 Rampaging Scholar AI!!!
+ID163 Equipment System: #P #EMP On#!#!
+ID164 Equipment System: #N #EMP Off#!#!
+ID165 Extra Military Expenditure System Switch (increases game difficulty)
+ID166 Extra Military Expenditure System: #P #EMP On#!#!
+ID167 Extra Military Expenditure System: #N #EMP Off#!#!
+ID168 Choose #P #EMP Armor#!#! for this [regiment|E] of [men_at_arms|E]
+ID169 Choose #P #EMP Primary Weapon#!#! for this [regiment|E] of [men_at_arms|E]
+ID170 Choose #P #EMP Secondary Weapon#!#! for this [regiment|E] of [men_at_arms|E]
+ID171 Choose #P #EMP Shield#!#! for this [regiment|E] of [men_at_arms|E]
+ID172 Choose #P #EMP Mount#!#! or #P #EMP Related#!#! for this [regiment|E] of [men_at_arms|E]
+ID173 Choose #P #EMP Garrison Strategy#!#! for this [regiment|E] of [men_at_arms|E]
+ID174 Click to equip #P #EMP Armor#!#! for this [regiment|E] of [men_at_arms|E]\n[regiment|E] needs some time to adapt to the new armor. No other options are available until the previous modification is completed.\nIf the [tax|E] of the [regiment|E][stationed_holding|E] is #N #EMP zero or less#!#!, all options are #N #EMP unavailable#!#!
+ID175 Click to equip #P #EMP Primary Weapon#!#! for this [regiment|E] of [men_at_arms|E]\n[regiment|E] needs some time to adapt to the new weapon. No other options are available until the previous modification is completed.\nIf the [tax|E] of the [regiment|E][stationed_holding|E] is #N #EMP zero or less#!#!, all options are #N #EMP unavailable#!#!
+ID176 Click to equip #P #EMP Secondary Weapon#!#! for this [regiment|E] of [men_at_arms|E]\n[regiment|E] needs some time to adapt to the new weapon. No other options are available until the previous modification is completed.\nIf the [tax|E] of the [regiment|E][stationed_holding|E] is #N #EMP zero or less#!#!, all options are #N #EMP unavailable#!#!
+ID177 Click to equip #P #EMP Shield#!#! for this [regiment|E] of [men_at_arms|E]\n[regiment|E] needs some time to adapt to the new shield. No other options are available until the previous modification is completed.\nIf the [tax|E] of the [regiment|E][stationed_holding|E] is #N #EMP zero or less#!#!, all options are #N #EMP unavailable#!#!
+ID178 Click to choose #P #EMP Mount#!#! or #P #EMP Related#!#! for this [regiment|E] of [men_at_arms|E]\n[regiment|E] needs some time to adapt to the new mount and related items. No other options are available until the previous modification is completed.\nIf the [tax|E] of the [regiment|E][stationed_holding|E] is #N #EMP zero or less#!#!, all options are #N #EMP unavailable#!#!
+ID179 Click to choose #P #EMP Garrison Strategy#!#! for this [regiment|E] of [men_at_arms|E]\n[regiment|E] needs some time to adapt to the new garrison strategy. No other options are available until the previous modification is completed.\nIf the [tax|E] of the [regiment|E][stationed_holding|E] is #N #EMP zero or less#!#!, all options are #N #EMP unavailable#!#!
+ID180 Forced Re-equipment
+ID181 Chainmail
+ID182 Plate Armor
+ID183 Lamellar Armor
+ID184 Heavy Lamellar Armor
+ID185 Leather Armor
+ID186 Bamboo Armor
+ID187 Rattan Armor
+ID188 Forced Re-equipment
+ID189 Spear
+ID190 Battle Sword
+ID191 Danish Axe
+ID192 Heavy Battle Axe
+ID193 Battle Club
+ID194 Leather Sheath
+ID195 Saber
+ID196 Long Sword
+ID197 Heavy Mace
+ID198 Short Spear
+ID199 Javelin
+ID200 Iron Chain Flail
+ID201 Hand Club
+ID202 Gurkha
+ID203 Lance
+ID204 Mace
+ID205 Bow
+ID206 Long Bow
+ID207 Crossbow
+ID208 Repeating Crossbow
+ID209 Arm Crossbow
+ID210 Yumi
+ID211 Cavalry Crossbow
+ID212 Ultra Long Spear
+ID213 Horn Bow
+ID214 Goryeo Bow
+ID215 Katana
+ID216 Naginata
+ID217 Two-Handed Great Sword
+ID218 Podao
+ID219 Sling
+ID220 Forced Re-equipment
+ID221 Horn Bow
+ID222 Mace
+ID223 Dagger
+ID224 Morning Star
+ID225 Leather Sheath
+ID226 Javelin
+ID227 Dagger
+ID228 Hand Crossbow
+ID229 Shovel
+ID230 Short-handled Axe
+ID231 Stone
+ID232 Single-edged Sword
+ID233 Short Spear
+ID234 Forced Re-equipment
+ID235 Round Shield
+ID236 Tower Shield
+

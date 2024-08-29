@@ -1,0 +1,3 @@
+Diagnostic for chunk 1:
+All lines translated appropriately. Placeholder '[MISSING]' not needed.
+

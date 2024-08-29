@@ -1,0 +1,180 @@
+Chunk 3 received from API:
+```yml
+ID000 My speech is as bad as shit, I am doomed
+ID001 Send the army, let the peasants see the power of swords!
+ID002 My guards charged into the crowd and killed several leading rioting peasants with their swords
+ID003 The peasants' fighting power is beyond my expectation, I am doomed
+ID004 Let them be.
+ID005 Things are increasingly getting out of your control
+ID006 Hold a grand parade
+ID007 My army needs me, my people need me, my vassals need me.\nI have meticulously prepared a grand parade; this is sure to have a significant impact.
+ID008 The parade proceeded smoothly
+ID009 Prepare for the parade!
+ID010 Let's begin!
+ID011 Grand Parade
+ID012 The parade site is bustling with people, each department lined up waiting for inspection. I have prepared numerous speeches, ready to deliver them after the parade ends.\nBut it's getting late, and time is limited. Who should I address first?
+ID013 Start with the brave warriors under my command leading the charge
+ID014 I should show more closeness to the lower-ranking soldiers
+ID015 Without my dear vassals, I wouldn't be where I am today!
+ID016 My most valiant warriors shouted 'Long live!' in unison. Even from this distance, I can still feel their enthusiasm.
+ID017 Warp Space Demons
+ID018 Khorne Bloodthirster
+ID019 Slaanesh Keeper of Secrets
+ID020 Become the Chosen of Khorne!
+ID021 Blood for the Blood God, Skulls for the Skull Throne!!!\n\n\nUnseal to start the grand expedition (remember to save before clicking, consequences are irreversible, the modders take no responsibility for whatever happens)
+ID022 Blood for the Blood God, Skulls for the Skull Throne!!!
+ID023 Blood for the Blood God, Skulls for the Skull Throne!!!
+ID024 Become the Chosen of Slaanesh!
+ID025 Enjoy endless pleasure!!!\n\n\nUnseal to start the grand expedition (remember to save before clicking, consequences are irreversible, the modders take no responsibility for whatever happens)
+ID026 Enjoy endless pleasure!!!
+ID027 Enjoy endless pleasure!!!
+ID028 Draft nomadic tribesmen
+ID029 The number and cost of [GetMaA('caoyuanyoumumin_shijian').GetName] who respond will depend on your [realm_size|E], [martial_skill|E], and #V $current total army size$#!.
+ID030 For the glory of the steppe!
+ID031 Sound the horn!
+ID032 Form the Varangian Guard (ai)
+ID033 Form the Varangian Guard (ai)
+ID034 Form the Varangian Guard (ai)
+ID035 Form the Varangian Guard
+ID036 Where are my loyal warriors?!
+ID037 A group of Varangian warriors will come attracted by your fame......\nYour reputation is spreading wildly among the northerners, for the next 20 years you will have [GetMaA('walanjiweidui').GetName][men_at_arms|E] at your disposal.
+ID038 I need to form a strong and loyal bodyguard!
+ID039 My messenger tells me: The northern warriors will arrive soon!
+ID040 Arrival of the Varangian warriors
+ID041 One by one, various longships docked at the port, and the fierce northern warriors marched out. Their chainmail reflected a deathly iron black in the sunlight. I couldn't believe my eyes; these powerful warriors are now at my command!\n\nI straightened my chest, trying to strike the pose of a true king. I attempted to find a hint of fear in their deep-set eyes—a fear for a living emperor standing right before them.\n\nThe northerners did not evade my gaze and stared directly at me.\n\nHeavens! Their gaze makes my scalp tingle...
+ID042 What fearless and formidable warriors...
+ID043 Mercenaries sacked the city
+ID044 A band of crazy mercenaries plundered [county.GetNameNoTierNoTooltip], taking everything and leaving no survivors...\nClearly, these mercenaries were not satisfied with the payment.
+ID045 Damn it, they got the gold, but what about mine!
+ID046 Must be severely punished!
+ID047 Steppe Mobilization (ai)
+ID048 Fire and Blade!!!
+ID049 Come, pass my command!
+ID050 Steppe Mobilization
+ID051 My tribesmen are eager for wealth, itching for action. Clearly, I should summon all able warriors to mount their horses now.
+ID052 Fire and Blade!!!
+ID053 Come, pass my command!
+ID054 The prestige and money required for mobilization relate to prestige rank, total prestige, martial points, stewardship points, clan prestige rank, total army size, government type, and other factors.
+ID055 Steppe Mobilization
+ID056 Warriors scattered, countless nomads brought their families to gather before my great tent. Boundless smoke rose from the horizon as all able warriors gathered, a sense of unease pervading, waiting only for my command...
+ID057 We need war!
+ID058 Perhaps I shouldn't be so reckless...
+ID059 Horse archers
+ID060 Light cavalry
+ID061 Steppe cavalry
+ID062 Turkic heavy cavalry
+ID063 Heavy cavalry
+ID064 Scottish Highlanders
+ID065 Brave warriors roamed the northern Scottish Highlands, a spirit of indomitability shining on their tartan plaid.
+ID066 Celtic warriors
+ID067 Tattooed, bare-chested Celtic clan warriors gave the mighty Roman legions a tough time.
+ID068 Anglo-Saxon militiamen
+ID069 These free militiamen are well-equipped and well-supplied, receiving rigorous training and supervision from the royal guard, exhibiting exceptional combat will.
+ID070 Imperial Guard
+ID071 The Imperial Guard has the best equipment in the army, selected from among the royal and noble ranks.
+ID072 Welsh longbowmen
+ID073 These strong Welsh archers are extraordinary marksmen; each pull of their yew longbows claims an enemy soldier's life.
+ID074 Welsh longbowmen
+ID075 These strong Welsh archers are extraordinary marksmen; each pull of their yew longbows claims an enemy soldier's life.
+ID076 Highland Rangers
+ID077 Skilled light cavalry from the Welsh highlands, freely roaming between forests and the mountains.
+ID078 Marsh hunters
+ID079 Ireland's swamps are vast, but excellent riders can always find a shortcut.
+ID080 Irish slingmen
+ID081 The use of slings dates back to the Stone Age hunters. A swiftly thrown stone hitting the target's head can quickly down even a bison. Our carefully chosen strong warriors can easily accomplish this.
+ID082 Irish slingmen
+ID083 The use of slings dates back to the Stone Age hunters. A swiftly thrown stone hitting the target's head can quickly down even a bison. Our carefully chosen strong warriors can easily accomplish this.
+ID084 Foreign warriors
+ID085 These exceptionally skilled Gaelic mercenaries from the northern Scottish Highlands can achieve anything if the price is right.
+ID086 Veteran Gaels
+ID087 These Gaelic mercenaries from the northern Scottish Highlands are happy to serve the lords of their clan in their spare time.
+ID088 Avar light cavalry
+ID089 The Avars are a powerful nomadic people, whose iron hooves came from the east.
+ID090 Avar heavy cavalry
+ID091 Ancient and mighty heavy cavalry.
+ID092 Bulgarian heavy cavalry
+ID093 After conquering the Avars, the Bulgarians incorporated them into their cavalry forces, using their superior horsemanship to create this elite cavalry.
+ID094 Bulgarian heavy cavalry
+ID095 After conquering the Avars, the Bulgarians incorporated them into their cavalry forces, using their superior horsemanship to create this elite cavalry.
+ID096 Cataphracts
+ID097 Berserkers
+ID098 Once these warriors' blood begins to boil, only the death of enemies can satiate them.
+ID099 Berserkers
+ID100 Once these warriors' blood begins to boil, only the death of enemies can satiate them.
+ID101 Sarran
+ID102 The noble Yarls wouldn't let their own slaves take up weapons to fight, but times have changed...
+ID103 Court Guards
+ID104 A noble lord should have a personal court guard, a group of strong warriors ready to handle any emergency.
+ID105 Norman cavalry
+ID106 Normans dedicated great effort to cavalry training. They wore relatively light chainmail and pioneered the couched lance charge, adapting ever more to the changing battlefield.
+ID107 Banner knights
+ID108 Unlike the ordinary knights' triangular pennant, these noble knights are entitled to use square banners on the battlefield, symbolizing status and position. They are battle-hardened, resolute fighting men.
+ID109 Armored sergeants
+ID110 Heavily armored top-tier military retainers serving as a significant force for their lord.
+ID111 Apprentice knights
+ID112 Every aspiring young knight should accumulate real combat experience, and the battlefield is their school.
+ID113 Kern
+ID114 Kern is a type of Irish light infantry often deployed alongside Gaelic mercenaries. They're simply equipped but remarkably effective fighters, often praised for their abilities.
+ID115 Lashkar heavy cavalry
+ID116 This elite cavalry unit formed during the Muslim conquests almost all ride purebred Arabian horses. Their spear charges can obliterate any enemy.
+ID117 Armorican heavy cavalry
+ID118 Influenced by Alans and late Roman military systems, the Bretons extensively employed cavalry. They are highly disciplined and well-coordinated.
+ID119 Abid infantry
+ID120 This mixed light infantry unit comprises fervent religious volunteers and North African black slave soldiers. They've gathered for a great jihad believing in their Muslim brothers-in-arms, the Prophet, and Allah.
+ID121 Moorish guards
+ID122 Moorish warriors retain strong tribal traditions, advancing fearlessly in battle.
+ID123 Moorish cavalry
+ID124 Moorish cavalry served extensively during the great Moorish conquest, combining traditional North African horsemanship with Iberian battlefield conditions, becoming exceptionally formidable fighters.
+ID125 Spanish javelin cavalry
+ID126 To counter the numerous Moorish cavalry destined for the battlefield, we organized skilled riders. Clad in leather armor and wielding javelins and spears, they continually harass the enemy, seizing any opportunity to break their ranks.
+ID127 Order knights
+ID128 Heavily armored fanatical knights skilled in heavy cavalry charges.
+ID129 Catalonian shock troops
+ID130 Notable shock troops in the Reconquista, they carry light weapons and gear, charging at foes with high morale.
+ID131 Catalonian mercenaries
+ID132 These notable shock troops of the Iberian Reconquista carry light weapons and gear, joining battles large and small worldwide as elite infantry.
+ID133 Byzantine legion infantry
+ID134 Legion infantry is the backbone of the Byzantine army, well-equipped and highly disciplined.
+ID135 Imperial guard
+ID136 These elite heavy infantry form the Byzantine Empire's indomitable defense line. They belong to the central army and are highly experienced in combat.
+ID137 Byzantine archers
+ID138 Archery is a mandatory skill for every Byzantine soldier. These skillful archers, sheltered by their infantry line, use extraordinary accuracy to take down enemy troops.
+ID139 Varangian Guard
+ID140 This Byzantine royal guard has terrifying combat power. Wearing heavy armor, they decapitate enemies swiftly and cleanly, remaining loyal and clearing the Emperor's enemies.
+ID141 Varangian Guard
+ID142 This Byzantine royal guard has terrifying combat power. Wearing heavy armor, they decapitate enemies swiftly and cleanly, remaining loyal and clearing the Emperor's enemies.
+ID143 Border defenders
+ID144 To defend against surrounding Muslims, anyone in the military district capable of fighting, including bandits and criminals, can enlist. They are known for their disciplined team coordination.
+ID145 Border Raiders
+ID146 To defend against surrounding Muslims, anyone in the military district capable of fighting, including bandits and criminals, can enlist. They have no morals, famous for their flexible combat tactics and lawless behavior when pay is withheld.
+ID147 Throwing infantry
+ID148 Lightly equipped stone throwers harassing enemies with hit-and-run tactics.
+ID149 Light javelin throwers
+ID150 Lightly armed javelin throwers, poorly equipped but fast-moving.
+ID151 Vanguard light cavalry
+ID152 Light cavalry known for speed and agility, equipped with bows and javelins, specializing in hit-and-run guerrilla tactics.
+ID153 Fort guards
+ID154 Heavily armored fort guards stationed long-term at border fortresses.
+ID155 Longtable rangers
+ID156 Light cavalry patrolling borders, reporting enemy movements and closely monitoring their activities.
+ID157 Border raiders
+ID158 Quick response units defending against enemy cavalry, capable of reacting immediately and harassing swiftly.
+ID159 Anṣār light cavalry
+ID160 These horsemen escort batches of devout pilgrims on the holy route.
+ID161 Swift guard
+ID162 During the Muslim conquest of Syria, this elite light cavalry unit of the Rashidun army reversed the course of the siege of Damascus with incredible speed, decisively defeating the formidable Byzantine army.
+ID163 Varangians
+ID164 Ultra-heavy armored cavalry patrolling around His Majesty the Emperor, rigorously guarding.
+ID165 Varangians
+ID166 Ultra-heavy armored cavalry patrolling around His Majesty the Emperor, rigorously guarding.
+ID167 Mamluk heavy cavalry
+ID168 These long-trained slave soldiers form our powerful heavy cavalry. I foresee them shining brightly in future battles.
+ID169 Mamluk mounted archers
+ID170 Our Mamluk slave soldiers are extremely combat-effective, with their top-tier archery skills rivaling those of nomadic riders who grew up on horseback.
+ID171 Armored camel cavalry
+ID172 Armoring camels is no easy task, but the reward is well worth it. A full charge by these armored camels can send a cavalry-riding army fleeing.
+ID173 Asawira
+ID174 These Persian warriors converted to our Lord gear up as mounted armored soldiers. Their iron cavalry achieved unparalleled feats centuries ago.
+ID175 Oghuz mercenary cavalry
+```
+

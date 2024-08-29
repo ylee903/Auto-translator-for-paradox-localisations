@@ -284,10 +284,15 @@ async def translate_chunk_async(chunk, session, chunk_index, semaphore, log_dir)
                                 f"Sub-IDs in Perfect Consecutive Order: {'Yes' if consecutive_order else 'No'}\n"
                             )
 
-                translated_chunk = {
-                    unique_id: translated_phrase
-                    for (unique_id, _), translated_phrase in zip(chunk, aligned_phrases)
-                }
+                # Create a mapping of sub-IDs back to main IDs
+                translated_chunk = {}
+                for (unique_id, _), translated_phrase in zip(chunk, aligned_phrases):
+                    chunk_index, sub_id = main_to_sub_map[unique_id]
+                    if sub_id < len(translated_phrases):
+                        translated_chunk[unique_id] = translated_phrases[sub_id]
+                    else:
+                        translated_chunk[unique_id] = f"[MISSING]"
+
                 return translated_chunk
 
             except aiohttp.ClientResponseError as e:
@@ -308,7 +313,7 @@ async def translate_chunk_async(chunk, session, chunk_index, semaphore, log_dir)
         return None
 
 
-async def translate_chunks_async(chunks, log_dir):
+async def translate_chunks_async(chunks, log_dir, main_to_sub_map):
     semaphore = asyncio.Semaphore(max_concurrent_requests)  # Control concurrency
     async with aiohttp.ClientSession() as session:
         tasks = [
@@ -349,7 +354,7 @@ async def translate_yaml_file(file_path):
     )
     os.makedirs(log_dir, exist_ok=True)
 
-    translated_chunks = await translate_chunks_async(chunks, log_dir)
+    translated_chunks = await translate_chunks_async(chunks, log_dir, main_to_sub_map)
     translated_content = reassemble_text(
         file_content, translated_chunks, main_to_sub_map
     )
