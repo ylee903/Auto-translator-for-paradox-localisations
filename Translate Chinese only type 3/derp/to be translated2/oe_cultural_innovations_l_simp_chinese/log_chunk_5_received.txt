@@ -1,0 +1,129 @@
+Chunk 5 received from API:
+ID000400 Start a Uprising (ai)  
+ID000401 Start a Uprising  
+ID000402 The uprising will surely succeed  
+ID000403 Mobilize monks and soldiers  
+ID000404 The monk regiment is armed  
+ID000405 Form the Imperial Guard  
+ID000406 The mandate of heaven is here!  
+ID000407 The world, kneel before us  
+ID000408 In a prosperous age, strong soldiers are needed to form the Imperial Guard!  
+ID000409 Form the Imperial Guard  
+ID000410 During the flourishing Tang Dynasty, the ancient and brilliant Chinese civilization spread across the seas through the Silk Road, which connected Chang'an directly to the Mediterranean coast. Rulers, envoys, merchants, monks, students, craftsmen, doctors, and singers from around the world flocked in. They entered the territory of the Tang Empire and were all sincerely amazed by the bustling cities teeming with people and vehicles.  
+Today!  
+Recreate the glory of the Tang Dynasty!  
+ID000411 My reputation will spread across the seas.  
+ID000412 Form the Dragon Guard  
+ID000413 The mandate of heaven is here!  
+ID000414 The world, kneel before us  
+ID000415 In a prosperous age, strong soldiers are needed to form the Dragon Guard!  
+ID000416 Form the Dragon Guard  
+ID000417 During the flourishing Tang Dynasty, the ancient and brilliant Chinese civilization spread across the seas through the Silk Road, which connected Chang'an directly to the Mediterranean coast. Rulers, envoys, merchants, monks, students, craftsmen, doctors, and singers from around the world flocked in. They entered the territory of the Tang Empire and were all sincerely amazed by the bustling cities teeming with people and vehicles.  
+Today!  
+Recreate the glory of the Tang Dynasty!  
+ID000418 My reputation will spread across the seas.  
+ID000419 Dragon Guard  
+ID000420 Revitalize Equine Administration (ai)  
+ID000421 Revitalize Equine Administration  
+ID000422 Implement horse protection laws, benefiting future generations!  
+ID000423 Implement horse protection laws...  
+ID000424 Enact the horse protection laws, benefiting future generations!  
+ID000425 Enact the horse protection laws!  
+ID000426 Regulations state that in Hebei, Hedong, Shaanxi, Jingdong, the five routes of the West, and various counties within Kaifeng, households should keep one horse; those with sufficient resources and willing may keep two horses, receiving government horses or funds to buy their own. Horse-keeping households may be exempted from certain taxes. Ten households of grade three or above form one unit, and ten households of grade four or below form one group. If a horse in unit dies due to illness, the horse-keeping household is solely responsible for compensation; if a horse in a group dies due to illness, the horse-keeping household and the other nine households share the costs.  
+By my decree: Enact the horse protection laws!  
+ID000427 Good!  
+ID000428 You have unlocked [GetMaA('majun').GetName][men_at_arms|E].  
+You have unlocked [GetMaA('jingsaitieqi').GetName][men_at_arms|E].  
+ID000429 Regional Test (ai)  
+ID000430 Recruit Slave Soldiers (ai)  
+ID000431 Recruit Slave Soldiers (ai)  
+ID000432 Reinforce Slave Soldiers (ai)  
+ID000433 Slave Soldiers  
+ID000434 Benevolence and Love for People (ai)  
+ID000435 Benevolence and Love for People (ai)  
+ID000436 Mongolian Legion  
+ID000437 Genghis Khan's Fire Soldiers (ai)  
+ID000438 Genghis Khan's Fire Soldiers (ai)  
+ID000439 Unify the Jurchen tribes (ai)  
+ID000440 Form the Iron Eagles (ai)  
+ID000441 Form the Iron Eagles (ai)  
+ID000442 Form the Imperial Guard (ai)  
+ID000443 Form the Imperial Guard (ai)  
+ID000444 Expand Crossbowmen (ai)  
+ID000445 Expand Polearm Soldiers (ai)  
+ID000446 Expand Vanguards (ai)  
+ID000447 Train Iron Tortu (ai)  
+ID000448 Train Iron Tortu (ai)  
+ID000449 Expand Cavalry (ai)  
+ID000450 Public Outrage (ai)  
+ID000451 The people are angered  
+ID000452 Years of war and debt have left me on edge. Finally, today, my guard stumbled in to tell me: Angry crowds are gathering to overthrow my rule!  
+I have treated them well, why are they doing this to me!  
+These damned commoners!  
+ID000453 I must quickly think of a way to placate them.  
+ID000454 My spokesperson has brought news that the people's anger has calmed, and they even donated supplies to me.  
+ID000455 My speech was terrible, I'm finished.  
+ID000456 Deploy the army, let those commoners witness the power of swords!  
+ID000457 My guards charged into the crowd, killing a few leading instigators with wild sword strokes.  
+ID000458 The fighting ability of the commoners exceeds my expectations, I'm finished.  
+ID000459 Let them be.  
+ID000460 Things are slipping further out of your control  
+ID000461 Hold a Grand Parade  
+ID000462 My army needs me, my people need me, my vassals need me.  
+I have meticulously prepared for a grand parade; this is sure to make a great impact.  
+ID000463 The parade is progressing smoothly  
+ID000464 Prepare for the parade!  
+ID000465 Let’s begin!  
+ID000466 Grand Parade  
+ID000467 The parade site is bustling with people, various departments lined up for inspection. I have prepared many speeches, just waiting for the parade to conclude to deliver my words of consolation.  
+But it is getting late, time is limited; who should I address first?  
+ID000468 Let’s start with the brave warriors who charge ahead under my command.  
+ID000469 I should appear closer to the grassroots warriors.  
+ID000470 Without my dear vassals, there would be no today for me!  
+ID000471 My bravest warriors chant "long live" in unison; even from this distance, I can still feel their enthusiasm.  
+ID000472 Subspace Demons  
+ID000473 Terror Bloodletter  
+ID000474 Lust Inciter  
+ID000475 Become the Chosen of Terror!  
+ID000476 Blood sacrifices to the Blood God, skulls offered to the Skull Throne!!!  
+   
+Release the seal, start the Great Expedition (remember to save before clicking, consequences are irreversible, I take no responsibility for what deities may be unleashed)  
+ID000477 Blood sacrifices to the Blood God, skulls offered to the Skull Throne!!!  
+ID000478 Blood sacrifices to the Blood God, skulls offered to the Skull Throne!!!  
+ID000479 Become the Chosen of Lust!  
+ID000480 Enjoy endless pleasures!!!  
+   
+Release the seal, start the Great Expedition (remember to save before clicking, consequences are irreversible, I take no responsibility for what deities may be unleashed)  
+ID000481 Enjoy endless pleasures!!!  
+ID000482 Enjoy endless pleasures!!!  
+ID000483 Call pastoralists to battle  
+ID000484 The number and cost of summoned [GetMaA('caoyuanyoumumin_shijian').GetName] is determined by your [realm_size|E], [martial_skill|E], and #V $current_total_military_strength$#!  
+ID000485 For the glory of the grasslands!  
+ID000486 Sound the horn!  
+ID000487 Form the Varangian Guard (ai)  
+ID000488 Form the Varangian Guard (ai)  
+ID000489 Form the Varangian Guard (ai)  
+ID000490 Form the Varangian Guard  
+ID000491 Where are my loyal warriors?!  
+ID000492 A batch of Varangian warriors will come because of your fame...  
+Your reputation has spread wildly among the northern people, and for the next 20 years, [GetMaA('walanjiweidui').GetName][men_at_arms|E] will be at your disposal.  
+ID000493 I need to form a powerful and loyal Imperial Guard!  
+ID000494 My messenger tells me: The northern warriors will arrive soon!  
+ID000495 Varangian warriors have arrived  
+ID000496 Ship after ship of varying longships dock in the harbor, and fierce northern warriors surge out. Their chain mail reflects a blood-stained, death-like black under the sun. I can hardly believe my eyes, these powerful warriors are about to be at my service!  
+   
+I puff out my chest, striving to maintain the posture of a king. I try to look for some fear in their deeply sunken eyes—fear towards a living emperor standing right in front of them.  
+   
+These northerners do not shy away from my gaze, staring directly back at me.  
+   
+Good heavens! The gaze of these people is truly hair-raising...  
+ID000497 What fearless and powerful warriors...  
+ID000498 Mercenaries sack the city  
+ID000499 A group of crazed mercenaries pillaged [county.GetNameNoTierNoTooltip], taking everything local and leaving no survivors...  
+Clearly, this group of mercenaries is not satisfied with the compensation I provided.  
+
+===DIAGNOSTIC===  
+- The translation attempts to stay close to the original meaning while adjusting for English readability.  
+- Some terms such as specific units or historical references might require context-specific understanding that is not provided in the text.  
+- AI identifiers and programming formats were preserved as requested.
+

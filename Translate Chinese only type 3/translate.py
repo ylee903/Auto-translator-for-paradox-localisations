@@ -14,7 +14,7 @@ delay_time = 1  # Delay between requests (in seconds)
 log_chunks = True  # Log chunks sent/received for debugging
 overwrite_original = True  # Overwrite original YAML files
 max_concurrent_requests = 3  # Control concurrency of asynchronous requests
-model_name = "gpt-4o"  # Model for both tokenization and API calls
+model_name = "gpt-4o-mini"  # Model for both tokenization and API calls
 ignore_mismatch = (
     True  # Ignore mismatches in line counts between sent and received chunks
 )
@@ -40,8 +40,11 @@ chinese_text_regex = r'"([\u4e00-\u9fff]+[^"]*)"'
 
 # Define token and line limits
 TOKEN_LIMIT = 3500  # Adjust if necessary for other models
-LINE_LIMIT = 999  # Max lines or IDs in a chunk
+LINE_LIMIT = 100  # Max lines or IDs in a chunk
 ID_FORMAT = "ID{:06d}"  # ID format: ID000000 to ID999999
+
+# Mode selector: 'input', 'pause', or 'normal'
+mode = "normal"  # Set to 'input', 'pause', or 'normal'
 
 
 def extract_chinese_phrases(file_content):
@@ -115,9 +118,7 @@ async def translate_chunk_async(chunk, session, chunk_index, semaphore, log_dir)
                                 "role": "system",
                                 "content": (
                                     "You are a professional translator with expertise in translating video game localization files. "
-                                    "Translate only the Chinese text into English while maintaining the identifiers and formatting. "
-                                    "Ensure that the number of lines/IDs in the translated output matches the number of lines/IDs in the input. "
-                                    "If a perfect match cannot be achieved, fill the missing translated lines with the placeholder text '[MISSING]'. "
+                                    "Translate only the Chinese text into English while preserving the identifiers and formatting. "
                                     "If you encounter any issues or have difficulties translating certain lines, include diagnostic information at the end of the response, clearly separated by '===DIAGNOSTIC===' without affecting the translation."
                                 ),
                             },
@@ -132,28 +133,7 @@ async def translate_chunk_async(chunk, session, chunk_index, semaphore, log_dir)
                     "content"
                 ].strip()
 
-                if "===DIAGNOSTIC===" in translated_text:
-                    translated_text, diagnostics = translated_text.split(
-                        "===DIAGNOSTIC==="
-                    )
-                    diagnostics = diagnostics.strip()
-                    print(
-                        f"Diagnostic information for chunk {chunk_index + 1}:\n{diagnostics}"
-                    )
-                    if log_chunks:
-                        with open(
-                            os.path.join(
-                                log_dir, f"log_chunk_{chunk_index + 1}_diagnostic.txt"
-                            ),
-                            "w",
-                            encoding="utf-8",
-                        ) as log_file:
-                            log_file.write(
-                                f"Diagnostic for chunk {chunk_index + 1}:\n{diagnostics}\n\n"
-                            )
-
-                translated_phrases = translated_text.split("\n")
-
+                # Log received data immediately before processing
                 if log_chunks:
                     with open(
                         os.path.join(
@@ -166,12 +146,25 @@ async def translate_chunk_async(chunk, session, chunk_index, semaphore, log_dir)
                             f"Chunk {chunk_index + 1} received from API:\n{translated_text}\n\n"
                         )
 
-                translated_map = {
-                    uid: phrase.split(" ", 1)[1]
-                    for uid, phrase in (
-                        line.split(" ", 1) for line in translated_phrases
-                    )
-                }
+                translated_phrases = translated_text.split("\n")
+
+                # Skip lines that don't split into two parts (ID and phrase)
+                translated_map = {}
+                for line in translated_phrases:
+                    try:
+                        uid, phrase = line.split(" ", 1)
+                        translated_map[uid] = phrase
+                    except ValueError:
+                        if log_chunks:
+                            with open(
+                                os.path.join(
+                                    log_dir, f"log_chunk_{chunk_index + 1}_skipped.txt"
+                                ),
+                                "a",
+                                encoding="utf-8",
+                            ) as log_file:
+                                log_file.write(f"Skipped line: {line}\n")
+                        continue
 
                 return translated_map
 
@@ -206,12 +199,37 @@ async def translate_chunks_async(chunks, log_dir):
     return translated_chunks
 
 
+def save_reassembled_chunks(translated_chunks, file_path):
+    reassembled_file_path = file_path.replace(".yml", "_chunks_reassembled.yml")
+    with open(reassembled_file_path, "w", encoding="utf-8") as file:
+        for chunk in translated_chunks:
+            for uid, translation in chunk.items():
+                file.write(f"{uid}: {translation}\n")
+    print(f"Reassembled chunks saved to {reassembled_file_path}")
+    return reassembled_file_path
+
+
 def reassemble_text(file_content, translated_chunks):
     for chunk in translated_chunks:
         for unique_id, translation in chunk.items():
             file_content = file_content.replace(f'"{unique_id}"', f'"{translation}"')
     print(f"Reassembled translated content.")
     return file_content
+
+
+def pause_for_input_or_time():
+    if mode == "input":
+        input("Press Enter to continue...")
+    elif mode == "pause":
+        time.sleep(delay_time)
+    elif mode == "pause_on_input":
+        try:
+            print(
+                f"Pausing for {delay_time} seconds... Press Enter to resume immediately."
+            )
+            time.sleep(delay_time)
+        except KeyboardInterrupt:
+            input("Paused. Press Enter to resume...")
 
 
 async def translate_yaml_file(file_path):
@@ -229,21 +247,29 @@ async def translate_yaml_file(file_path):
     os.makedirs(log_dir, exist_ok=True)
 
     translated_chunks = await translate_chunks_async(chunks, log_dir)
-    translated_content = reassemble_text(file_content, translated_chunks)
+
+    # Save reassembled chunks to file and pause for manual review
+    reassembled_file_path = save_reassembled_chunks(translated_chunks, file_path)
+    pause_for_input_or_time()
+
+    # Re-read the reassembled chunks after modification
+    modified_chunks = {}
+    with open(reassembled_file_path, "r", encoding="utf-8") as file:
+        for line in file:
+            uid, translation = line.strip().split(": ", 1)
+            modified_chunks[uid] = translation
+
+    # Reassemble the text with the modified chunks
+    translated_content = reassemble_text(file_content, [modified_chunks])
 
     output_file_path = (
-        file_path
-        if overwrite_original
-        else file_path.replace(".yml", "_translated.yml")
+        file_path if overwrite_original else file_path.replace(".yml", "_final.yml")
     )
 
     with open(output_file_path, "w", encoding="utf-8") as output_file:
         output_file.write(translated_content)
 
-    print(f"Translated file saved as {output_file_path}")
-
-    if delay_time > 0:
-        time.sleep(delay_time)
+    print(f"Final translated file saved as {output_file_path}")
 
     return output_file_path
 

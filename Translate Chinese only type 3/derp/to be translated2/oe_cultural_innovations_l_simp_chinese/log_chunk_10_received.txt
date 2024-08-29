@@ -1,0 +1,104 @@
+Chunk 10 received from API:
+ID000900 Some resources on this land have been artificially relocated due to a major migration.  
+ID000901 Negotiating Alliance  
+ID000902 Forge an alliance with [recipient.GetTitledFirstNameNoTooltip] by stating mutual interests—The prairie forces need to unify!  
+ID000903 Same [cultural|E]: $VALUE|=+0$  
+ID000904 Negotiating Alliance  
+ID000905 Negotiating Alliance (Nomadic Vassal)  
+ID000906 Forge an alliance with [recipient.GetTitledFirstNameNoTooltip] by stating mutual interests—Facilitate achieving certain common goals!  
+ID000907 Tribal Alliance  
+ID000908 Forge a vassal relationship with [recipient.GetTitledFirstNameNoTooltip] by stating mutual interests—Facilitate achieving certain common goals!  
+ID000909 Your military strength difference: $VALUE|=+0$  
+ID000910 Diplomacy and Allies: $VALUE|=+0$  
+ID000911 Significant external threat: $VALUE|=+0$  
+ID000912 Weaker position: $VALUE|=+0$  
+ID000913 Ambitious: $VALUE|=+0$  
+ID000914 Call vassals to war  
+ID000915 Call [recipient.GetUINameNoTooltip] to war to fulfill their obligations as a vassal.  
+ID000916 Defense [war|E]: $VALUE|=+0$  
+ID000917 Is [powerful_vassals|E]: $VALUE|=+0$  
+ID000918 Nearby vassal colleagues: $VALUE|=+0$  
+ID000919 Grazing land: $VALUE|=+0$  
+ID000920 Loose tribes: $VALUE|=+0$  
+ID000921 Limited tribal authority: $VALUE|=+0$  
+ID000922 High tribal authority: $VALUE|=+0$  
+ID000923 Absolute tribal authority: $VALUE|=+0$  
+ID000924 Belligerent [ethos|E]: $VALUE|=+0$  
+ID000925 Collectivist [ethos|E]: $VALUE|=+0$  
+ID000926 Same [dynasty|E]: $VALUE|=+0$  
+ID000927 Is your [close_family_member|E]: $VALUE|=+0$  
+ID000928 Belligerent: $VALUE|=+0$  
+ID000929 Vassal stance: Pursue fame and profit: $VALUE|=+0$  
+ID000930 Vassal stance: Natives from home: $VALUE|=+0$  
+ID000931 Call to join the war (Nomadic Alliance)  
+ID000932 Chief  
+ID000933 Additional taxes  
+ID000934 The chief has completed your task and successfully paid the taxes.  
+ID000935 Authority widely spread  
+ID000936 The chief successfully spread your authority.  
+ID000937 The chief's conscripted soldiers  
+ID000938 The chief has assembled a group of conscripted soldiers for you.  
+ID000939 The chief's light cavalry  
+ID000940 The chief has assembled a group of light cavalry for you.  
+ID000941 The chief's mounted archers  
+ID000942 The chief has assembled a group of mounted archers for you.  
+ID000943 The chief's heavy cavalry  
+ID000944 The chief has assembled a group of heavy cavalry for you.  
+ID000945 Player [regiment|E][stationed_holding|E] adjustment rate  
+ID000946 Sixty percent  
+ID000947 The player gains a [GetModifier('xinzeng_zhujun_xiuzheng_001_modifier').GetNameWithTooltip] modifier, maximally preventing data inflation, indirectly adjusting the AI difficulty, optimizing the gaming experience in competition, and enjoying the thrill of battling AI.  
+ID000948 Forty percent  
+ID000949 The player gains a [GetModifier('xinzeng_zhujun_xiuzheng_002_modifier').GetNameWithTooltip] modifier, with little impact on troop stacking, but can moderately reduce the rate of data inflation.  
+ID000950 Twenty percent  
+ID000951 The player gains a [GetModifier('xinzeng_zhujun_xiuzheng_003_modifier').GetNameWithTooltip] modifier, slightly adjusting the number of stationed soldiers, and it's almost certain that your general will soon experience the thrill of crushing the AI.  
+ID000952 None  
+ID000953 Frenzied Sage AI!!!  
+ID000954 Equipment system: #P #EMP Open#!#!  
+ID000955 Equipment system: #N #EMP Close#!#!  
+ID000956 Extra military funding system toggle (increases game intensity)  
+ID000957 Extra military funding system: #P #EMP Open#!#!  
+ID000958 Extra military funding system: #N #EMP Close#!#!  
+ID000959 For this [regiment|E], select [men_at_arms|E] #P #EMP Armor#!#!  
+ID000960 For this [regiment|E], select [men_at_arms|E] #P #EMP Main Weapon#!#!  
+ID000961 For this [regiment|E], select [men_at_arms|E] #P #EMP Secondary Weapon#!#!  
+ID000962 For this [regiment|E], select [men_at_arms|E] #P #EMP Shield#!#!  
+ID000963 For this [regiment|E], select [men_at_arms|E] #P #EMP Mount#!#! or #P #EMP Related#!#!  
+ID000964 For this [regiment|E], select [men_at_arms|E] #P #EMP Garrison Strategy#!#!  
+ID000965 Click to equip #P #EMP Armor#!#! for this [regiment|E]’s [men_at_arms|E]!\n[regiment|E] requires time to adapt to new armor, and other options are unavailable until the previous adjustment ends.\nAll options are #N #EMP unavailable#!#! when the [regiment|E][stationed_holding|E]’s [tax|E] is #N #EMP less than or equal to zero#!#!  
+ID000966 Click to equip #P #EMP Main Weapon#!#! for this [regiment|E]’s [men_at_arms|E]!\n[regiment|E] requires time to adapt to new weapons, and other options are unavailable until the previous adjustment ends.\nAll options are #N #EMP unavailable#!#! when the [regiment|E][stationed_holding|E]’s [tax|E] is #N #EMP less than or equal to zero#!#!  
+ID000967 Click to equip #P #EMP Secondary Weapon#!#! for this [regiment|E]’s [men_at_arms|E]!\n[regiment|E] requires time to adapt to new weapons, and other options are unavailable until the previous adjustment ends.\nAll options are #N #EMP unavailable#!#! when the [regiment|E][stationed_holding|E]’s [tax|E] is #N #EMP less than or equal to zero#!#!  
+ID000968 Click to equip #P #EMP Shield#!#! for this [regiment|E]’s [men_at_arms|E]!\n[regiment|E] requires time to adapt to new armor, and other options are unavailable until the previous adjustment ends.\nAll options are #N #EMP unavailable#!#! when the [regiment|E][stationed_holding|E]’s [tax|E] is #N #EMP less than or equal to zero#!#!  
+ID000969 Click to select #P #EMP Mount#!#! or #P #EMP Related#!#! for this [regiment|E]’s [men_at_arms|E]!\n[regiment|E] requires time to adapt to new mounts and related items, and other options are unavailable until the previous adjustment ends.\nAll options are #N #EMP unavailable#!#! when the [regiment|E][stationed_holding|E]’s [tax|E] is #N #EMP less than or equal to zero#!#!  
+ID000970 Click to select #P #EMP Garrison Strategy#!#! for this [regiment|E]’s [men_at_arms|E]!\n[regiment|E] requires time to adapt to new garrison strategies, and other options are unavailable until the previous adjustment ends.\nAll options are #N #EMP unavailable#!#! when the [regiment|E][stationed_holding|E]’s [tax|E] is #N #EMP less than or equal to zero#!#!  
+ID000971 Forced equipment change  
+ID000972 Chain mail  
+ID000973 Plate armor  
+ID000974 Lamellar armor  
+ID000975 Heavy lamellar armor  
+ID000976 Leather armor  
+ID000977 Bamboo armor  
+ID000978 Rattan armor  
+ID000979 Forced equipment change  
+ID000980 Pike  
+ID000981 War knife  
+ID000982 Danish axe  
+ID000983 Heavy battle axe  
+ID000984 War staff  
+ID000985 Polearm  
+ID000986 Saber  
+ID000987 Longsword  
+ID000988 Heavy mace  
+ID000989 Spear  
+ID000990 Javelin  
+ID000991 Iron chain mace  
+ID000992 Hand-held cudgel  
+ID000993 Glaive  
+ID000994 Cavalry lance  
+ID000995 Horse spear  
+ID000996 Bow  
+ID000997 Longbow  
+ID000998 Crossbow  
+ID000999 Repeating crossbow  
+
+===DIAGNOSTIC=== None encountered translation issues. All lines translated successfully.
+

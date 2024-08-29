@@ -1,0 +1,102 @@
+Chunk 3 received from API:
+ID000200 Land Caravan  
+ID000201 The sound of camel bells echoes through the ages; the opening of land routes has birthed a large number of merchants who traverse the desolate sands, bringing countless exotic treasures.  
+ID000202 Land Caravan  
+ID000203 The sound of camel bells echoes through the ages; the opening of land routes has birthed a large number of merchants who traverse the desolate sands, bringing countless exotic treasures.  
+ID000204 Ice Sea Warrior  
+ID000205 The surging icy ocean has brought forth terrible destroyers.  
+ID000206 You can recruit [GetMaA('lushangshangdui').GetName] as [men_at_arms|E]  
+ID000207 You can recruit [GetMaA('binghaizhanshi').GetName] as [men_at_arms|E]  
+ID000208 Slavic Expansionism  
+ID000209 The unique pioneering spirit of the Slavs, longing for warmth due to their harsh environment, requires expansion amidst numerous contradictions.  
+ID000210 Ice Sea Battle Chronicles  
+ID000211 A hymn of blood and ice, eternally belonging to the ice sea.  
+ID000212 Mongol Chief  
+ID000213 These military leaders established during the late primitive society due to raiding and hunting needs gradually developed into fixed military organizations over time.  
+ID000214 Armored Cavalry Equipment  
+ID000215 Knights armored on both horse and human are the masters of war, sweeping through enemies like a torrent.  
+ID000216 You can recruit [GetMaA('jiaqijuzhuang').GetName][men_at_arms|E]  
+ID000217 The [knights|E] of this [culture|E] are eligible to receive [GetAccoladeType('dfbz_xinzeng_0005_attribute').GetName][accolades|E]  
+ID000218 Armored Cavalry Head  
+ID000219 Armored Cavalry Head  
+ID000220 Vanguard Armored Cavalry  
+ID000221 Vanguard Armored Cavalry  
+ID000222 Elite Armored Cavalry  
+ID000223 Charge Commanders  
+ID000224 Charge Commanders  
+ID000225 Charge Commanders  
+ID000226 Charge Commanders  
+ID000227 Charge Commanders  
+ID000228 Longsword Commanders  
+ID000229 Longsword Commanders  
+ID000230 Longsword Commanders  
+ID000231 Longsword Commanders  
+ID000232 Longsword Commanders  
+ID000233 Longsword Commanders  
+ID000234 Tooth Commander  
+ID000235 Tooth Commander  
+ID000236 Khitan  
+ID000237 You can recruit [GetMaA('nvzhen_mouke').GetName] as [men_at_arms|E]  
+ID000238 Granting land to your $jurchen$ [knights|E] will significantly increase their combat will; however, a long period of comfortable living will also quickly corrupt them.  
+ID000239 Moke  
+ID000240 Carefully selected and rigorously trained elite warriors, they are all skilled raiders and hunters from various tribes.  
+ID000241 Moke  
+ID000242 Carefully selected and rigorously trained elite warriors, they are all skilled raiders and hunters from various tribes.  
+ID000243 You must have [feudal|E] [government|E]  
+ID000244 Sultan's Guard  
+ID000245 A reliable guard composed of the Sultan's confidants, who also perform some less-than-glorious tasks for him on ordinary days.  
+ID000246 Knightly Tradition  
+ID000247 The vast plains of France are the main battlefield for knights, nurturing the fiercest knightly legions of the entire medieval period.  
+ID000248 Elite Guard  
+ID000249 Powerful rulers often need a reliable elite guard to handle various emergencies, and these individuals should be trustworthy.  
+ID000250 Axe-bearing Guard  
+ID000251 Vodka  
+ID000252 The water of life, the pride of the Rus people  
+ID000253 Fierce Folk Customs  
+ID000254 Civilization mingles with ignorance, and fierce customs prevail, primitive desires fill the hearts of all.  
+ID000255 Wart-like Armor  
+ID000256 The Qiang people are skilled in forging armor. The method begins thick, using no fire, employing cold-forging, which results in a thickness reducing two parts in three. A small portion at the end remains unfermented, resembling warts, meant to test the thickness of the non-forged parts, akin to leaving soil stubs in a riverbed, called "wart-like armor." A strong crossbow cannot penetrate it.  
+ID000257 Horizontal Mountain Qiang  
+ID000258 Tribes of Qiang widely present in the northwestern mountainous areas, traversing the mountains with extraordinary off-road capabilities.  
+ID000259 Dangxiang Horse  
+ID000260 The Dạngxiang tribe resides in the regions of Dijingze, Hengshan, and Tiandushan, which are renowned horse-producing areas. The horses are abundant and of excellent quality, as noted in the Tang dynasty poet Yuan Zhen's verse: "Buying Dạngxiang horses in the north, capturing Tibet's parrots in the west." The Song people praised Dangxiang horses as the best in the world.  
+ID000261 Cold Forged Steel  
+ID000262 The Dangxiang people's forging techniques are unparalleled and obtaining a Xia country's sword is considered a supreme honor. The sword carried by Song Emperor Qinzong was the "Xia country's sword." Su Dongpo once obtained a Western Xia sword and wrote a poem saying: “With red makeup sitting by, flowers bathed in wine, green blades drawing back, winds swirl in the hall. Spirals rise, waves cresting their backs, white dragons clutching three dragonlings. Attempting to stand utilizes a thread to strip aura, jesting with guests has the potential to move one’s emotions.”  
+ID000263 Ronin  
+ID000264 Frantically adventuring to restore former authority, they consider themselves the Imperial Guard, going everywhere acting as such.  
+ID000265 Divine Arm Bow  
+ID000266 The Divine Arm Bow can be drawn by one person, with a maximum range of four hundred meters, capable of penetrating heavy armor.  
+ID000267 Horse Governance Decay  
+ID000268 The negligence of higher rulers combined with the erroneous governance of lower officials has led the horse management of the central plains into an irreparable predicament.  
+ID000269 Horse Protection Law  
+ID000270 The situation of no horses available in the central plains has been officially reversed, a strong and effective horse governance policy has been implemented, which if the entire system functions well will benefit generations to come.  
+ID000271 Commercial Nation  
+ID000272 The Sogdian people frequently traveled along the long Silk Road between Central Asia and China, amassing vast wealth from the medieval East-West trade.  
+ID000273 Japanese Bow  
+ID000274 A type of long bow used in Japanese archery. The standard length of a Japanese bow is about seven feet and three inches.  
+ID000275 Naginata  
+ID000276 The naginata is a type of long-handled weapon used in ancient Japan, characterized by a wide blade and a large curvature in the cutting edge.  
+ID000277 Champa Rice  
+ID000278 A high-yield, early-maturing, drought-resistant rice variety produced in the Southeast Asian Peninsula, benefiting many.  
+ID000279 Introducing Champa Rice  
+ID000280 Introducing high-yield, early-maturing, drought-resistant Champa rice produced in the Southeast Asian Peninsula for the benefit of people worldwide.  
+ID000281 Vast Land and Rich Resources  
+ID000282 Born of Gong and Huang, nurtured by Huaxia. Treat well, they will surely repay the Chinese.  
+ID000283 He-Shuo Light Cavalry  
+ID000284 Historically, the region of Yan has produced many martial warriors, also situated along the border, leading to much horse trading. Under long-term interaction between the Hu and Han, every respectable family can ride.  
+ID000285 Southwest Horse  
+ID000286 The Southwest horse is spirited yet docile, adept at climbing mountains, suitable for transportation in mountainous areas, and is an important means of transport in high-altitude regions.  
+ID000287 Bai Bao Xian Bei Cavalry  
+ID000288 Yan Yun Eighteen Cavalry  
+ID000289 Xiliang Iron Cavalry  
+ID000290 Weng Niute  
+ID000291 Wuleng Ha  
+ID000292 Wu Ji Ye Te  
+ID000293 Qiexue Army  
+ID000294 Guozi Horse  
+ID000295 Guozi Horse  
+ID000296 Iron Pagoda  
+ID000297 Iron Pagoda  
+ID000298 Tiger Step Guard  
+ID000299 Iron Sparrow
+

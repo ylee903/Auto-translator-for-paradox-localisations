@@ -1,0 +1,53 @@
+Chunk 12 received from API:
+ID001100 Respond to Factions  
+ID001101 Respond to Factions  
+ID001102 Nomadic AI Development Direction: Imperial Conqueror (AI Persecutes Vassals)  
+ID001103 This type of regime is characterized by a powerful military force and leadership, often establishing a vast empire through the conquest of surrounding areas. The Mongol Empire is a typical example of an imperial conqueror. Genghis Khan and his successors unified the Mongolian steppes and rapidly conquered large territories in Asia and Europe, establishing a massive empire.  
+ID001104 Persecute Vassals  
+ID001105 Persecute Vassals  
+ID001106 Nomadic AI Development Direction: Imperial Conqueror (Conquer/Quick Expansion)  
+ID001107 Nomadic AI Development Direction: Imperial Conqueror (Conquer/Quick Expansion).  
+ID001108 Conquer/Quick Expansion  
+ID001109 Conquer/Quick Expansion  
+ID001110 Nomadic AI Development Direction: Cultural Preserver (Buff Added)  
+ID001111 This type of regime usually retains and transmits the original culture, language, and religion during the conquest process, promoting the integration of different cultures. The Turkic Khaganate is a cultural preserver. When the Turkic Khaganate conquered Central Asia, it preserved the original Turkic culture and language and promoted Turkic culture in the regions it governed.  
+ID001112 Inheritance  
+ID001113 Inheritance  
+ID001114 Nomadic AI Development Direction: Diplomacy and Allies (Buff Added)  
+ID001115 This type of regime may be more inclined to establish alliances with neighboring regimes through diplomatic means to maintain its interests and stability. The Khwarazmian Empire adopted a flexible diplomatic policy in Central Asia, establishing alliances with Islamic countries to maintain its position.  
+ID001116 Diplomacy  
+ID001117 Diplomacy  
+ID001118 Nomadic AI Development Direction: Diplomacy and Allies (AI Diplomatic Strategy)  
+ID001119 This type of regime may be more inclined to establish alliances with neighboring regimes through diplomatic means to maintain its interests and stability. The Khwarazmian Empire adopted a flexible diplomatic policy in Central Asia, establishing alliances with Islamic countries to maintain its position.  
+ID001120 Diplomacy  
+ID001121 Diplomacy  
+ID001122 Exhausted March  
+ID001123 The inside was soaked by rainwater and mud, and the heavy armor made the soldiers feel overwhelmed. Prolonged trekking made their eyes bloodshot and their legs tremble. The soldiers' faces were filled with exhaustion and anxiety, their eyes dull, no longer sparkled with their former sharpness. Weapons became heavy and clumsy, blades covered with dirt and stains. Each step felt like carrying a thousand-pound burden, horses panting heavily, gasping accompanied the marching troops.#!  
+ID001124 Speed up, you lazy pigs!  
+ID001125 Move! You lazy pigs! Those who fall behind won't have dinner tonight!  
+ID001126 Your excellent military training tells you how to effectively mobilize the entire army  
+ID001127 The soldiers complained loudly about the hardships of the march, ignoring your urging  
+ID001128 Alright, regroup.  
+ID001129 Enemy Attack  
+ID001130 As dusk approached, dark clouds gathered, and visibility became increasingly obscured. The sound of clashing armor echoed constantly among the soldiers. Suddenly, a loud shout pierced the silence, and several shadows quickly sprang out, knives and spears flashing with cold light.  
+ID001131 Maintain formation!  
+ID001132 Come up with a way to capture the incoming scouts and delay the enemy's next move  
+ID001133 You are unusually calm and seize the opportunity to capture the enemy's scout in one fell swoop  
+ID001134 You are at a loss, and the enemy escapes with a strike, leading to potential crises ahead  
+ID001135 Meet the Enemy Outside the City  
+ID001136 The distant fortress came into view. The high walls and the bright banners on them warned me of the dangers ahead. Suddenly, the gates of the fortress slowly opened, and a troop of soldiers surged out, forming a tight military formation, like a wall of steel, quietly waiting for our army's arrival.  
+ID001137 Charge in!  
+ID001138 Trust my soldiers, ambush them!  
+ID001139 Defenders  
+ID001140 Cavalry Archers  
+ID001141 Ambush  
+ID001142 Diplomatic Game: Ceasefire Agreement  
+ID001143 Negotiate a preventive [truce|E] with [recipient.GetTitledFirstName] through diplomatic means  
+ID001144 Diplomatic Game: $VALUE|=+0$  
+
+===DIAGNOSTIC===  
+- The translation is accurate and clear for all phrases provided. 
+- The text appears to be from a military or strategy-themed video game localization. 
+- There were no difficulties in understanding or translating any of the lines.
+- Formatting and identifiers were maintained as per instructions.
+

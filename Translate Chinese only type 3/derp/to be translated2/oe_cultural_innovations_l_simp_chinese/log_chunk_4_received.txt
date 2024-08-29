@@ -1,0 +1,105 @@
+Chunk 4 received from API:
+ID000300 Iron Hawk  
+ID000301 Iron Hawk  
+ID000302 Iron Hawk  
+ID000303 Hengshan Foot Soldier  
+ID000304 Hengshan Foot Soldier  
+ID000305 Hengshan Foot Soldier  
+ID000306 Hengshan Foot Soldier  
+ID000307 Tangxiang Warrior  
+ID000308 Tangxiang Warrior  
+ID000309 Tangxiang Warrior  
+ID000310 Imperial Guards in Full Armor  
+ID000311 Crossbowman  
+ID000312 Mongolian Heavy Cavalry  
+ID000313 Mongolian Heavy Cavalry  
+ID000314 Mangku Da  
+ID000315 Divine Bow Archer  
+ID000316 Qindih Brave Soldier  
+ID000317 White Felt Soldier  
+ID000318 Loyal Veteran  
+ID000319 Anxi Army  
+ID000320 Look up at the sun, yet do not see Chang'an.  
+ID000321 Yamen Soldier  
+ID000322 Good Family Yamen Soldier  
+ID000323 Yamen Soldier  
+ID000324 Yamen Soldier  
+ID000325 Yamen Soldier  
+ID000326 Cavalry  
+ID000327 Cavalry  
+ID000328 Cavalry  
+ID000329 Broadsword Fighter  
+ID000330 Sword and Shield Fighter  
+ID000331 He Shuo Light Cavalry  
+ID000332 White Horse Companions  
+ID000333 Foot Soldier in Armor  
+ID000334 Silent Border Iron Cavalry  
+ID000335 Beiwai Heavy Cavalry  
+ID000336 Ronin  
+ID000337 Monk Soldier  
+ID000338 Repeating Crossbowman  
+ID000339 Repeating Crossbowman  
+ID000340 Jungle Hunter  
+ID000341 Silver Spear Auxiliary  
+ID000342 Crow Army  
+ID000343 Khitan Warrior  
+ID000344 Sogdian Yamen Soldier  
+ID000345 Jurchen Conquest (ai)  
+ID000346 Dajin  
+ID000347 Unify the Jurchen Clans  
+ID000348 Clansmen gather around me, Iron Floating Pagoda, Curved Horse, all strongmen cheer for my great cause. Warriors pay their respects to me, let us charge out of the forest and firmly hold the world in our hands.  
+ID000349 My conquest begins here.  
+ID000350 Unify the Jurchen Clans  
+ID000351 Prepare the whole army!  
+ID000352 Unify the Jurchen Clans and prepare to conquer the world  
+ID000353 Jurchen Army  
+ID000354 Jurchen Conquest War (Stage One)  
+ID000355 Jurchen Conquest War  
+ID000356 Jurchen Conquest War (Stage Two)  
+ID000357 Jurchen Conquest War (Stage Three)  
+ID000358 Surrender your lands!  
+ID000359 Your decaying rule is about to end, I, [nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName], give you three days to surrender your territory, otherwise, the consequences are yours to bear!  
+ID000360 My lord, I am willing to give up my land and submit to you...  
+ID000361 Submit to [nvzhenzhengfuzhe.GetTitledFirstName]  
+ID000362 Go to war with [nvzhenzhengfuzhe.GetTitledFirstName]  
+ID000363 Go to war with [demand_recipient.GetTitledFirstName]  
+ID000364 Get lost!  
+ID000365 To the foolish [nvzhenzhengfuzhe.GetFirstName]  
+ID000366 Take back your threat! Foolish [nvzhenzhengfuzhe.GetFirstName]! Your threats are weaker than a three-year-old child. Who do you think you are? You, the pig that dares to covet my territory.  
+ID000367 Dog thing, I will crush you to bits!  
+ID000368 Conquest Beginning  
+ID000369 I and my clansmen were summoned before [nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName], every clan leader and vassal of the Jurchens gathered here. We all know why and discussed all night within the smoke-filled tent, with no doubts arising. [nvzhenzhengfuzhe.GetFirstName] loudly calling out the names of ancestors, he walked before each Jurchen warrior and engaged with them warmly, I could feel the warriors' blood boiling. From now on, the world will tremble under the conqueror [nvzhenzhengfuzhe.GetFirstName]'s feet!  
+ID000370 For the glory of the Jurchens! For [nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName]!  
+ID000371 You repelled [attacker.GetShortUIName|U], but what about next time...  
+ID000372 Player gains land slots  
+ID000373 Crash the Lord  
+ID000374 Ready to depart!  
+ID000375 The actions went smoothly  
+ID000376 It's time to persecute the foreigners again  
+ID000377 Crash the Lord  
+ID000378 Profit from the Silk Road trade  
+ID000379 Money is justice!  
+ID000380 Money is justice!  
+ID000381 You made a big profit  
+ID000382 Establish Silver Spear Auxiliary  
+ID000383 I've made up my mind!  
+ID000384 The establishment is very successful  
+ID000385 Establish Silver Spear Auxiliary  
+ID000386 Establish Crow Army (ai) small scale  
+ID000387 Establish Crow Army (ai) large scale  
+ID000388 Establish Crow Army  
+ID000389 I've made up my mind!  
+ID000390 The establishment is very successful  
+ID000391 Establish Crow Army  
+ID000392 Crow Army  
+ID000393 Fanzhen Soldiers (ai) small scale  
+ID000394 Fanzhen Soldiers (ai) large scale  
+ID000395 Expand Yamen Soldiers  
+ID000396 I've made up my mind!  
+ID000397 You feel very prestigious  
+ID000398 I need a reliable private guard  
+ID000399 Fanzhuai Guard  
+
+===DIAGNOSTIC===  
+The text consists of a range of military units, quotes, and context-rich statements that reflect a historical or fantasy setting, primarily centered around Jurchen conquest themes. Most translations involved straightforward terms with some need for contextual interpretation regarding titles, positions, and sentiments expressed in the original Chinese text.
+
