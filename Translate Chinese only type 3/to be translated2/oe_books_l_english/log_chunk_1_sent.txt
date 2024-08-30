@@ -1,0 +1,96 @@
+Chunk 1 sent to API:
+ID000000 《$artifact_name_prefix_artifact_scope$集》
+ID000001 $artifact_name_prefix_artifact_scope$ 《捭阖录》
+ID000002 $artifact_name_prefix_artifact_scope$ 《本纪》
+ID000003 $artifact_name_prefix_artifact_scope$ 《中兴》
+ID000004 $artifact_name_prefix_artifact_scope$ 《武编》
+ID000005 $artifact_name_prefix_artifact_scope$ 《纵横》
+ID000006 $artifact_name_prefix_artifact_scope$ 《算术》
+ID000007 $artifact_name_prefix_artifact_scope$ 《权变》
+ID000008 $artifact_name_prefix_artifact_scope$ 《为学》
+ID000009 《会饮集》
+ID000010 《[Artifact.GetOwner.GetCapitalLocation.GetNameNoTooltip]集序》
+ID000011 《$artifact_name_prefix_artifact_scope$ 《虎钤经》
+ID000012 《[Artifact.GetOwner.GetCapitalLocation.GetNameNoTooltip]赋》
+ID000013 《[Artifact.GetOwner.GetPrimaryTitle.GetNameNoTierNoTooltip]辞》
+ID000014 $artifact_name_prefix_artifact_scope$ 《星经》
+ID000015 $artifact_name_prefix_artifact_scope$ 《草木志》
+ID000016 $artifact_name_prefix_artifact_scope$ 《食货志》
+ID000017 《[Artifact.GetOwner.Custom('DeviantObjectCapitalized')]之法》
+ID000018 $artifact_name_prefix_artifact_scope$ 《贪欢报》
+ID000019 《[Artifact.GetOwner.Custom('DeviantObjectCapitalized')]十八手》
+ID000020 $artifact_name_prefix_artifact_scope$ 彩饰抄本
+ID000021 《[Artifact.GetOwner.Custom('prison_pet')|U]我 [Artifact.GetOwner.Custom('PetName_uppercase')]》
+ID000022 《[Artifact.GetOwner.Custom('surprised_reaction')|U]、[Artifact.GetOwner.Custom('trait_lustful_adjective')|U]和[Artifact.GetOwner.Custom('diplomacy_skill_level')|U]
+ID000023 《六韬·三略》
+ID000024 《[Artifact.GetOwner.GetCulture.GetNameNoTooltip]兵法》
+ID000025 《[Artifact.GetOwner.GetPrimaryTitle.GetNameNoTierNoTooltip]起居注》
+ID000026 《[Artifact.GetOwner.GetPrimaryTitle.GetNameNoTierNoTooltip]政要》
+ID000027 《[Artifact.GetOwner.GetDynasty.GetBaseNameNoTooltip]氏春秋》
+ID000028 《易传》
+ID000029 $artifact_name_prefix_artifact_scope$ 《文献通考》
+ID000030 $artifact_name_prefix_artifact_scope$ 《商训》
+ID000031 《[Artifact.GetOwner.GetPrimaryTitle.GetNameNoTierNoTooltip]御览》
+ID000032 $artifact_name_prefix_artifact_scope$ 《通典》
+ID000033 $artifact_name_prefix_artifact_scope$ 《丹石解》
+ID000034 $artifact_name_prefix_artifact_scope$ 《素女经》
+ID000035 《天下至道谈》
+ID000036 $artifact_name_prefix_artifact_scope$ 《伤寒论》
+ID000037 《神农本草经》
+ID000038 $artifact_name_prefix_artifact_scope$ 《搜神记》
+ID000039 《[Artifact.GetFeatureText( 'book_subject' )]之惑》
+ID000040 《[Artifact.GetFeatureText( 'book_subject' )]之咒》
+ID000041 《$artifact_name_prefix_artifact_scope$兵法》
+ID000042 《$artifact_name_prefix_artifact_scope$剑法》
+ID000043 《[Artifact.GetOwner.GetCulture.GetHeritage.GetNameNoTooltip]神功》
+ID000044 《[Artifact.GetOwner.GetPrimaryTitle.GetNameNoTierNoTooltip]实录》
+ID000045 $artifact_name_prefix_artifact_scope$ 《韩非子》
+ID000046 《[Artifact.GetOwner.GetPrimaryTitle.GetNameNoTierNoTooltip]广记》
+ID000047 $artifact_name_prefix_artifact_scope$ 《世说新语》
+ID000048 $artifact_name_prefix_artifact_scope$ 《意林》
+ID000049 $artifact_name_prefix_artifact_scope$ 《传奇》
+ID000050 《$artifact_name_prefix_artifact_scope$诗集》
+ID000051 $artifact_name_prefix_artifact_scope$ 《笑林广记》
+ID000052 $artifact_name_prefix_artifact_scope$ 《资治通鉴》
+ID000053 $artifact_name_prefix_artifact_scope$ 《周礼》
+ID000054 [Artifact.GetOwner.GetCulture.GetNameNoTooltip] 《营造法式》
+ID000055 $artifact_name_prefix_artifact_scope$ 《艺文类聚》
+ID000056 $artifact_name_prefix_artifact_scope$ 《九章算术》
+ID000057 $artifact_name_prefix_artifact_scope$ 《外台秘要方》
+ID000058 $artifact_name_prefix_artifact_scope$ 《西厢记》
+ID000059 《洞玄子》
+ID000060 《[Artifact.GetOwner.GetPrimaryTitle.GetNameNoTierNoTooltip]十大酷刑》
+ID000061 $artifact_name_prefix_artifact_scope$ 《春秋繁露》
+ID000062 $artifact_name_prefix_artifact_scope$ 《战国策》
+ID000063 $artifact_name_prefix_artifact_scope$ 《国语》
+ID000064 《全[Artifact.GetOwner.GetPrimaryTitle.GetNameNoTierNoTooltip]诗》
+ID000065 《[Artifact.GetOwner.GetFaith.GetAdjective]祝文》
+ID000066 $artifact_name_prefix_artifact_scope$ 《大衍历》
+ID000067 $artifact_name_prefix_artifact_scope$ 《高士传》
+ID000068 《黄帝内经》
+ID000069 $artifact_name_prefix_artifact_scope$ 《本草纲目》
+ID000070 $artifact_name_prefix_artifact_scope$ 《金匮要略》
+ID000071 $artifact_name_prefix_artifact_scope$ 《洗冤集录》
+ID000072 《淮南子》
+ID000073 《抱朴子》
+ID000074 $artifact_name_prefix_artifact_scope$ 《千金方》
+ID000075 $artifact_name_prefix_artifact_scope$ 《丹房诀要》
+ID000076 $artifact_name_prefix_artifact_scope$ 《天工开物》
+ID000077 $artifact_name_prefix_artifact_scope$ 《梦溪笔谈》
+ID000078 $artifact_name_prefix_artifact_scope$ 《牡丹亭》
+ID000079 [Artifact.GetOwner.GetTitledFirstName] 《长恨歌》
+ID000080 《祥瑞[Artifact.GetOwner.Custom('LocalAnimal')|U]》
+ID000081 《食珍录》
+ID000082 《猛兽》
+ID000083 $artifact_name_prefix_artifact_scope$ 《狸奴》
+ID000084 $artifact_name_prefix_artifact_scope$ 《梦华录》
+ID000085 $artifact_name_prefix_artifact_scope$ 《侠客行》
+ID000086 《[Artifact.GetOwner.GetCapitalLocation.GetNameNoTooltip|U]宫词》
+ID000087 《[Artifact.GetOwner.GetHouse.GetBaseNameNoTooltip|U]实录》
+ID000088 《[Artifact.GetOwner.GetHouse.GetBaseNameNoTooltip|U]颂》
+ID000089 《[Artifact.GetOwner.GetPrimaryTitle.GetNameNoTierNoTooltip|U]史》
+ID000090 《[Artifact.GetOwner.GetHouse.GetBaseNameNoTooltip|U]氏春秋》
+ID000091 《[Artifact.GetOwner.GetHouse.GetBaseNameNoTooltip|U]氏秘闻》
+ID000092 [inspiration_owner.GetFirstNameNoTooltip]游记
+ID000093 [inspiration_owner.GetFirstNameNoTooltip]游记
+

@@ -1,0 +1,102 @@
+Chunk 1 received from API:
+ID000000 Escaped Sun
+ID000001 #Z A little girl in red possesses the unique and ultimate "treasure." Whenever and wherever the girl appears, everything turns to ashes amidst the explosive flames. Moreover, when the explosion's aftermath fades, the girl always disappears without a trace, and no one has ever seen her true face... There are rumors among the people that she is called "Spark Knight·Klee"...#!
+ID000002 Strange Duck
+ID000003 #Z A strange creature of unknown origin, silly and suspected to be a duck. There are rumors among the people that it is called "Psyduck"...#!
+ID000004 Suspicious Red Metal Can
+ID000005 #Z A red metal can of unknown origin, containing strange black liquid. No one knows what it is until a warrior came for the high reward and drank it... then burped...#!
+ID000006 Suspicious Blue Metal Can
+ID000007 #Z A blue metal can of unknown origin, containing strange black liquid. No one knows what it is until a warrior came for the high reward and drank it, then said: "Not as sweet as the red one..."#!
+ID000008 Suspicious Red Metal Can
+ID000009 #Z A red metal can of unknown origin, containing strange black liquid. No one knows what it is until a warrior came for the high reward and drank it, then said: "This is not sweet..."#!
+ID000010 Suspicious Silver Metal Can
+ID000011 #Z A silver metal can of unknown origin, containing strange black liquid. No one knows what it is until a warrior came for the high reward and drank it, then said: "This is not sweet either..."#!
+ID000012 Suspicious Black Metal Can
+ID000013 #Z A black metal can of unknown origin, containing strange liquid. No one knows what it is until a warrior came for the high reward and drank it, then frowned...#!
+ID000014 Exquisitely Crafted Doll
+ID000015 #Z A doll with white hair, blindfolded, dressed in strange black clothes, and holding a weapon. Despite her astonishing appearance, the exquisite craftsmanship made her a frequent topic among nobles...#!
+ID000016 Uniquely Shaped Dual Swords
+ID000017 #Z A pair of dual swords of unknown origin, with both the forging techniques and the materials being awe-inspiring...#!
+ID000018 Astonishing Doll
+ID000019 #Z Her appearance is full of incredulity, just like her origin, as if telling us about another world...#!
+ID000020 Peculiar Dual Sculpture
+ID000021 #Z Strange clothes and eerie atmosphere, suspected to be some peculiar cultists...#!
+ID000022 Remarkable Doll
+ID000023 #Z A doll that catches everyone's eyes, although it is unclear if she actually exists...#!
+ID000024 Angel or Demon
+ID000025 #Z If she is a demon, then she undoubtedly has the appearance of an angel. If she is an angel, then the world will be full of demons...#!
+ID000026 Sculpture Challenging Tradition
+ID000027 #Z When she appears, both worshippers and non-believers will fight over her...#!
+ID000028 Imaginary Doll
+ID000029 #Z With exquisite craftsmanship and an imaginative design, she instantly became a topic of conversation among nobles...#!
+ID000030 Sculpture Breaking Tradition
+ID000031 #Z Her appearance has overturned people's imagination...#!
+ID000032 Pink and Blue Doll
+ID000033 #Z Her mount doesn't seem biological, causing bewilderment...#!
+ID000034 Strange Dog and Strange Person
+ID000035 #Z No one knows why the dog is bigger than her, or why she is smaller than the dog...#!
+ID000036 Form is Emptiness
+ID000037 #Z As the name implies, form is emptiness.#!
+ID000038 Flying and Explosive Metal Box
+ID000039 #Z If you are not its owner, be careful that it might explode over your head#N!#!#!
+ID000040 Girl with Sword Taller than Herself
+ID000041 #Z When you see her#N! blood-red blade, stay away from her!#!
+ID000042 Demon or Angel
+ID000043 #Z If she is a demon, then she undoubtedly has the appearance of an angel. If she is an angel, then the world will be full of demons...#!
+ID000044 Dangerous Exotic Charm
+ID000045 #Z Beauty and danger often coexist; the more beautiful something is, the more dangerous it might be...#!
+ID000046 Pure White Carpet and Pure White Girl
+ID000047 #Z The only problem is, the carpet is difficult to clean...#!
+ID000048 Pink and Red
+ID000049 #Z Pink hair and strange clothes...#!
+ID000050 Should Probably be Underwear
+ID000051 #Z People still struggle to accept walking around the streets in underwear...#!
+ID000052 Billowing Wind
+ID000053 #Z No matter how strong the wind is, it shouldn't be like this...#!
+ID000054 Poor Girl
+ID000055 #Z It is well known that rich people can't afford to not wear clothes...#!
+ID000056 Meager Girl
+ID000057 #Z Her only reliance is the wooden stick in her hand...#!
+ID000058 Pink and White Doll
+ID000059 #Z Her mount doesn't seem biological, causing bewilderment...#!
+ID000060 Strange Chair and Weird Hairstyle
+ID000061 #Z A seat of unknown origin, with a texture as soft as a girl's skin...#!
+ID000062 Black, Scarlet, and Dagger
+ID000063 #Z Hope your neck stays away from her dagger...#!
+ID000064 Unknown Princess
+ID000065 #Z She is rumored to be a princess from some country, but no one knows where that country is...#!
+ID000066 Lost Suitcase
+ID000067 #Z This girl in strange attire is rumored to have a gigantic suitcase...#!
+ID000068 Called Ice Princess
+ID000069 #Z The far away and poems and the Ice Princess...#!
+ID000070 Called Ice Princess
+ID000071 #Z The far away and poems and the Ice Princess...#!
+ID000072 Mysterious Person
+ID000073 #Z Recently, there seems to be an increase in mysterious people...#!
+ID000074 Pink Monster
+ID000075 #Z If not for the horns on her head, people might think she is human...#!
+ID000076 Open Princess
+ID000077 #Z If you are not a princess, it's best not to dress like this outside...#!
+ID000078 Sculpture Overturning Tradition
+ID000079 #Z When she appears, both worshippers and non-believers will fight over her...#!
+ID000080 Suspected Warrior
+ID000081 #Z Both her appearance and weapon resemble a certain person...#!
+ID000082 Exotic Three Sisters
+ID000083 #Z If not for knowing better, one might think they are three righteous knights...#!
+ID000084 Friend or Foe
+ID000085 #Z If you know her, you might need to come with us...#!
+ID000086 Suspected Idol
+ID000087 #Z If you dress like this on the street, it will be very dangerous for both you and others...#!
+ID000088 Purple Hair and Black Mask
+ID000089 #Z Usually, only assassins are dressed like this...#!
+ID000090 Nun with Black Eyepatch
+ID000091 #Z The last time someone was seen with a black eyepatch was a silver-haired person...#!
+ID000092 Simple Fabric
+ID000093 #Z This kind of clothing is said to be called a "qipao"...#!
+ID000094 Demon and Sweater
+ID000095 #Z If a demon says it's called a sweater, it's best not to believe it...#!
+ID000096 Suspected Orc
+ID000097 #Z If orcs exist in this world, one stands before you...#!
+ID000098 Claiming to be a Maid
+ID000099 #Z Although claiming to be a maid, she looks very suspicious...#!
+
