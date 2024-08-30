@@ -1,0 +1,102 @@
+Chunk 5 received from API:
+ID000400 #F Cavalry elite troops of agrarian civilizations. #
+ID000401 Cavalry
+ID000402 #F Cavalry elite troops of agrarian civilizations. #
+ID000403 Militia
+ID000404 #F Men wielding long pole weapons, specializing in breaking cavalry. #
+ID000405 Sword and Shield Infantry
+ID000406 #F Fierce soldiers wielding swords in one hand and shields in the other. #
+ID000407 Northern Light Cavalry
+ID000408 #F Since ancient times, the land of Yan has been known for its warriors. Located on the frontier, there is significant horse trading, and with a mix of Hu and Han cultures over the long term, every respectable family can ride. #
+ID000409 White Horse Volunteers
+ID000410 #F Inhabitants of the frontier, tired of annual raids from foreign tribes, rallied under the call of the noble families of Youyan, reestablishing the White Horse Volunteers to flaunt Han pride. #
+ID000411 Armored Infantry
+ID000412 #F Elite infantry wearing heavy armor and wielding heavy axes, with astounding defensive power, effectively avoiding projectile damage while launching fierce counter-charges. However, equipping organized armored infantry requires a considerable amount of time and money. #
+ID000413 Jingzai Iron Cavalry
+ID000414 #F Each Jingzai soldier has five horses. The cavalrymen hail from Yizhou in northern China and can draw a 200-pound bow, displaying exceptional bravery. The horses are top-quality steeds, and both soldiers and horses are fully armored. Besides bows and arrows, they are also equipped with hooked lances. #
+ID000415 Heavy Cavalry
+ID000416 #F It's easier to shake a mountain than the army of the Yue family! #
+ID000417 Ronin
+ID000418 #F Rootless samurai who have lost their fief and master, wandering about, known for their ferocity and bloodthirstiness. #
+ID000419 Warrior Monks
+ID000420 #F Uncontrollable warrior monks, whose mad armed groups will destroy everything in their path. #
+ID000421 Repeating Crossbowmen
+ID000422 #F These crossbowmen, equipped with Zhuge repeating crossbows, can fire bolts at devastating speeds. #
+ID000423 Repeating Crossbowmen
+ID000424 #F These crossbowmen, equipped with Zhuge repeating crossbows, can fire bolts at devastating speeds. #
+ID000425 Jungle Hunters
+ID000426 #F Seasoned hunters who have hunted in the jungle for years and know everything about it. #
+ID000427 Silver Spear Guards
+ID000428 #F The most elite troops of Weibo, known for their uniformly used long spears. #
+ID000429 Crow Army
+ID000430 #F The main elite force under Li Keyong, predominantly composed of young and brave Shatuo horsemen. #
+ID000431 Khitan Warriors
+ID000432 #F Selected from the young and robust Khitan warriors, these infantry elites are adept at breaking enemy formations, having experienced many battles. #
+ID000433 Sogdian Guards
+ID000434 #F The Sogdian group has complex relations, with various factions creating private armed forces of various sizes. #
+ID000435 Jurchen Conquest (AI)
+ID000436 Jin Dynasty
+ID000437 Unify the Jurchen Tribes
+ID000438 Clan leaders gather around me, iron-clad cavalry and elite riders, all cheering for my grand endeavor.\n\nThe warriors salute me; let's charge out of the forest and grasp the world firmly in our hands.
+ID000439 My conquest begins here.
+ID000440 Unify the Jurchen Tribes
+ID000441 #F Years of effort have finally borne fruit. All clan chiefs are willing to support my rule.\n\nFrom this moment on, the world will tremble under my feet. #!
+ID000442 Prepare the entire army!
+ID000443 Unify the Jurchen tribes to prepare for world conquest
+ID000444 Jurchen Army
+ID000445 AI Jurchen Conqueror (Second Generation)
+ID000446 AI Automatically Remove Banner (Bug Prevention)
+ID000447 Jurchen Conquest War (Phase One)
+ID000448 Jurchen Conquest War
+ID000449 Jurchen Conquest War (Phase Two)
+ID000450 Jurchen Conquest War (Phase Three)
+ID000451 Surrender your lands!
+ID000452 Your rotten rule has come to an end. I, [nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName], give you three days to hand over your territory, or face the consequences!
+ID000453 My lord, I am willing to relinquish my land and submit to you...
+ID000454 Submit to [nvzhenzhengfuzhe.GetTitledFirstName]
+ID000455 Declare war on [nvzhenzhengfuzhe.GetTitledFirstName]
+ID000456 Declare war on [demand_recipient.GetTitledFirstName]
+ID000457 Get lost!
+ID000458 To the foolish [nvzhenzhengfuzhe.GetFirstName]
+ID000459 Withdraw your threat, foolish [nvzhenzhengfuzhe.GetFirstName]!\n\nYour threats hold as much weight as a three-year-old child's. Who do you think you are? You pig dreaming of stealing my land.
+ID000460 You dog, I will grind you into nothing!
+ID000461 Beginning of the Conquest
+ID000462 My clansmen and I were summoned to the tent of [nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName]. All Jurchen clan leaders and vassals gathered there. We all knew the reason and our discussions lasted all night amid the swirling smoke without any doubts arising.\n\n[nvzhenzhengfuzhe.GetFirstName] loudly called out the names of ancestors, walking past each Jurchen warrior and exchanging cordial words. I could feel the warriors' blood boiling.\n\nFrom now on, the world will tremble under the feet of the conqueror [nvzhenzhengfuzhe.GetFirstName]!
+ID000463 For the glory of the Jurchen! For [nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName]!
+ID000464 The great conquest war of the Jurchen
+ID000465 You have repelled [attacker.GetShortUIName|U], but what about next time......
+ID000466 [defender.GetShortUIName|U] has held onto the contested title, for now......
+ID000467 [defender.GetShortUIName|U] has held onto the contested title, for now......
+ID000468 Player increases land slots
+ID000469 #F Player increases land slots
+ID000470 Forced Migration
+ID000471 #F Capturing Han people from various places and relocating them en masse to the rear of the frontline. During wartime, they are sent to the front lines to fight.\nI don't keep useless people, prepare for departure! #!
+ID000472 Prepare for departure!
+ID000473 The operation went smoothly
+ID000474 Time to persecute other races again
+ID000475 Forced Migration
+ID000476 Profit from the Silk Road trade
+ID000477 #F My territory lies at the crossroads of East-West trade, offering a very advantageous position.\nWhether managing a caravan or directly collecting tolls, I can make a fortune. #!
+ID000478 Money is justice!
+ID000479 Money is justice!
+ID000480 You've made a big profit
+ID000481 Establish the Silver Spear Guards
+ID000482 #F The populace of Weibo’s two states is fierce, and the soldiers are courageous, making them the perfect choice for forming a personal guard! #!
+ID000483 My mind is made up!
+ID000484 The establishment was successful
+ID000485 Establish the Silver Spear Guards
+ID000486 Establish the Crow Army (AI) small scale
+ID000487 Establish the Crow Army (AI) large scale
+ID000488 Establish the Crow Army
+ID000489 #F The main elite force under Li Keyong, predominantly composed of young and brave Shatuo horsemen. #!
+ID000490 My mind is made up!
+ID000491 The establishment was successful
+ID000492 Establish the Crow Army
+ID000493 Crow Army
+ID000494 Regional Troops (AI) small scale
+ID000495 Regional Troops (AI) large scale
+ID000496 Expand the Guards
+ID000497 #F The presence of guards is not only a powerful private army but also a symbol of the commander’s prestige. It can deter petty criminals and holds significant practical value.\nIn any case, expanding the guards is an urgent matter. #!
+ID000498 My mind is made up!
+ID000499 You feel immensely proud
+

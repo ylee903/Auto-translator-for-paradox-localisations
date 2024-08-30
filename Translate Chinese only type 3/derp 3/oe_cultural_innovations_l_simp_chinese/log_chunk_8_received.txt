@@ -1,0 +1,102 @@
+Chunk 8 received from API:
+ID000700 Catalonian Assault Trooper
+ID000701 Assault troops who performed brilliantly during the Reconquista. They carry lightweight weapons and equipment, charging towards the enemy with high morale.
+ID000702 Catalonian Mercenary
+ID000703 These assault troops shined during the Reconquista of the Iberian Peninsula. Equipped with lightweight weapons and gear, they join various battlefields around the world as elite infantry units.
+ID000704 Byzantine Legion Infantry
+ID000705 The legion infantry are the backbone of the Byzantine army, well-equipped and highly disciplined.
+ID000706 Imperial Guard
+ID000707 These elite heavy infantry form the imperishable defense line of the Byzantine Empire. They belong to the central army and are experienced in battle.
+ID000708 Byzantine Archers
+ID000709 Archery is a compulsory course for every Byzantine warrior. These highly skilled archers, protected by their infantry lines, shoot down the enemy with exceptional accuracy.
+ID000710 Varangian Guard
+ID000711 This Byzantine royal guard has impressive combat strength. Clad in heavy armor, they swiftly decapitate enemies, loyally eliminating all foes for the Emperor.
+ID000712 Varangian Guard
+ID000713 This Byzantine royal guard has impressive combat strength. Clad in heavy armor, they swiftly decapitate enemies, loyally eliminating all foes for the Emperor.
+ID000714 Border Guards
+ID000715 To defend against surrounding Muslims, anyone with combat ability in the military district can enlist, including bandits and outlaws. They are known for their team fighting skills and skilled battle formations.
+ID000716 Border Raiders
+ID000717 To defend against surrounding Muslims, anyone with combat ability in the military district can enlist, including bandits and outlaws. Known for their lack of morals, they use flexible and varied combat methods and commit atrocities against civilians when unpaid.
+ID000718 Stone Throwers
+ID000719 Lightly armored troops who harass enemies by throwing stones. They are skilled in hit-and-run tactics.
+ID000720 Light Javelin Throwers
+ID000721 Lightly equipped javelin throwers, known for their quick actions despite simple gear.
+ID000722 Light Vanguard Cavalry
+ID000723 Byzantine light cavalry renowned for their speed and agility, equipped with bows and javelins, especially proficient in hit-and-run guerilla tactics.
+ID000724 Fortress Guards
+ID000725 Heavily armored guards stationed long-term at border fortresses.
+ID000726 Border Scouts
+ID000727 Lightly armored knights patrolling borders, immediately reporting and closely monitoring enemy movements.
+ID000728 Border Raiders
+ID000729 Quick response units designed to counter enemy cavalry, able to quickly react and engage in guerilla harassment.
+ID000730 Ansar Light Cavalry
+ID000731 These cavalrymen, traveling along the pilgrimage routes, protect groups of devout pilgrims.
+ID000732 Rapid Guards
+ID000733 An elite light cavalry unit of the Rashidun Army during the Muslim conquest of Syria, known for turning the tide at the Siege of Damascus with their incredible speed, overwhelming the Byzantine forces.
+ID000734 Guard of the Hearth
+ID000735 Ultra-heavy armored cavalry who vigilantly guard around the Emperor.
+ID000736 Guard of the Hearth
+ID000737 Ultra-heavy armored cavalry who vigilantly guard around the Emperor.
+ID000738 Mamluk Heavy Cavalry
+ID000739 These highly trained slave soldiers form our powerful heavy cavalry unit, destined to shine brightly in future battles.
+ID000740 Mamluk Mounted Archers
+ID000741 Our Mamluk slave warriors are highly combative, with the best among them rivaling the horse archery skills of nomadic tribes born on horseback.
+ID000742 Armored Camel Cavalry
+ID000743 Armoring camels is no easy task, but the rewards are worth it. Armored camels can scatter horse-mounted troops with a single charge.
+ID000744 Asawira
+ID000745 These converted Persian warriors and their armored horses once achieved great feats centuries ago.
+ID000746 Oghuz Mercenary Cavalry
+ID000747 Oghuz cavalry are excellent scouts and assault troops, traveling to Iberia to serve any employer willing to pay.
+ID000748 Abna
+ID000749 Our battle-hardened warriors can advance steadily under spears and swords. They skillfully use short spears and javelins to kill any enemy brave enough to confront them head-on. Their strong discipline makes them fearless in close combat, delivering lethal blows with short swords and daggers.
+ID000750 Ghulam Heavy Cavalry
+ID000751 These frontline heavy armored slave cavalry are both loyal and formidable, known worldwide for their fearless fighting style.
+ID000752 Ghulam Heavy Cavalry
+ID000753 These frontline heavy armored slave cavalry are both loyal and formidable, known worldwide for their fearless fighting style.
+ID000754 Kurdish Javelin Throwers
+ID000755 These ancient mountain warriors can inflict heavy damage on enemies with their simple javelins.
+ID000756 Iqta Warriors
+ID000757 Young warriors conscripted by Muslim rulers to maintain regional order.
+ID000758 Ghazi Crusade Volunteers
+ID000759 Fanatical religious warriors, crushing all heretics into dust.
+ID000760 Slave Warriors
+ID000761 Useless slave soldiers, poorly equipped and undisciplined, only fit as cannon fodder.
+ID000762 Slave Warriors
+ID000763 Useless slave soldiers, poorly equipped and undisciplined, only fit as cannon fodder.
+ID000764 Slave Warriors
+ID000765 Useless slave soldiers, poorly equipped and undisciplined, only fit as cannon fodder.
+ID000766 Slave Warriors
+ID000767 Useless slave soldiers, poorly equipped and undisciplined, only fit as cannon fodder.
+ID000768 Slave Warriors
+ID000769 Useless slave soldiers, poorly equipped and undisciplined, only fit as cannon fodder.
+ID000770 Celts
+ID000771 The Celts were an ancient European loose ethnic group united by common language and cultural traditions. They repeatedly resisted invasions, never submitting to outsiders, as if defiance was ingrained in their very bones.
+ID000772 Anglo-Saxon Select Militia
+ID000773 Early on during migrations and settlement chaos, wars were led by a few loyal warriors. By the 8th century, Anglo-Saxon leaders had their established kingdoms, requiring greater logistical efforts for land protection and warfare. To address this, the Anglo-Saxons implemented the "select fyrd" of chosen free militia.
+ID000774 Household Troops
+ID000775 During the chaotic migration of Germans to Britain, tribal chieftains and kings gathered their chosen strong warriors, equipped with the best weapons and gear. These warriors served as the king's personal guards, receiving specialized training for warfare.
+ID000776 Welsh Longbow
+ID000777 Made from yew wood, Welsh longbows are light and highly elastic, making their firepower extremely lethal.
+ID000778 Sling
+ID000779 The sling is a living fossil of human civilization; its quick-fired stones can knock down a buffalo. It also proves highly effective in warfare.
+ID000780 Highland Clans
+ID000781 The northern Scottish Highlands are home to many fierce Highland clans, retaining the ancient Celtic lifestyle and tribal alliance systems. They are born warriors, roaring through the mountains.
+ID000782 Hire Foreign Warriors
+ID000783 The Gaels of the northern Scottish Highlands are fearsome; they are unbeatable battle fanatics and are willing to fight for money. Most importantly, they rarely get involved in local political struggles. As long as they are paid well, they obey.
+ID000784 Warriors' Home
+ID000785 Since ancient times, the northern Scottish Highlands have been home to the Gaels. Our warriors proudly fight for their homeland.
+ID000786 Bread and Mead
+ID000787 The lord distributes bread to his followers, symbolizing the bond and loyalty between them. Besides the hidden meanings and symbols, these activities often serve as bonding exercises, allowing higher-ranking soldiers to communicate more freely and plan and coordinate better in real combat.
+ID000788 Winchester Book
+ID000789 Also known as the Domesday Book, it is a compilation of land surveys across England. Its purpose is to understand the king's domain and the estates of the king's direct vassals, to collect taxes, strengthen financial management, and determine the feudal obligations of vassals.
+ID000790 Conqueror's Stance
+ID000791 We have conquered the British Isles. These natives owe their allegiance to me.
+ID000792 Armorica
+ID000793 We are the Celtic islanders forced into exile here during the great Germanic migrations. The Romans called this place
+ID000794 (Armorica). After the fall of the Roman Empire, we not only maintained a relatively independent political environment but also preserved the late Roman cavalry system. Our knights are resilient and disciplined, the finest warriors on this continent.
+ID000795 Iberian City Militia
+ID000796 Iberian city militias played a crucial role during the mid-medieval period. Born amidst border conflicts, these local militias served the peninsula's monarchs. In times of crisis, they could rapidly expand their power, providing the king with greater flexibility in military, economic, or local noble constraints.
+ID000797 Spanish Nobility
+ID000798 As the Iberian region gradually liberated, we granted land ownership to our loyal lords and exempted them from some taxes. In return, they provided the cavalry needed for a series of reconquest wars.
+ID000799 Land Grant
+

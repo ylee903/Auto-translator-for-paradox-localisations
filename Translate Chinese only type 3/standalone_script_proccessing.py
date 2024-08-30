@@ -1,5 +1,7 @@
 import os
 
+# continues trnaslation of the file with the key and phrases
+
 # Define paths
 file_path = r"D:\Documents\Self help websites and data for games etc\paradox\ck3\Auto-translator-for-paradox-localisations\Translate Chinese only type 3\to be translated2\oe_cultural_innovations_l_simp_chinese.yml"
 reassembled_file_path = file_path.replace(".yml", "_chunks_reassembled.yml")

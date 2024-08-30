@@ -1,78 +1,78 @@
 Chunk 13 sent to API:
-ID001164 #T 竹甲#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('001_xinzeng_zhuangbei_006_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 竹甲#!的习惯
-ID001165 藤甲
-ID001166 #T 藤甲#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('001_xinzeng_zhuangbei_007_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 藤甲#!的习惯
-ID001167 强制换装
-ID001168 #T 强制换装#!#!\n\n强行为当前[regiment|E]换装主武器\n#N #EMP 已装配的主武器将全部销毁且修正解除#!#!
-ID001169 长枪
-ID001170 #T 长枪#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_001_modifier').GetNameWithTooltip]修正，为期#V 30年#!
-ID001171 战刀
-ID001172 #T 战刀#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_002_modifier').GetNameWithTooltip]修正，为期#V 30年#!
-ID001173 丹麦斧
-ID001174 #T 丹麦斧#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_003_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 丹麦斧#!的习惯
-ID001175 重战斧
-ID001176 #T 重战斧#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_004_modifier').GetNameWithTooltip]修正，为期#V 30年#!
-ID001177 战棍
-ID001178 #T 战棍#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_005_modifier').GetNameWithTooltip]修正，为期#V 30年#!
-ID001179 陌刀
-ID001180 #T 陌刀#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_006_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 陌刀#!的习惯
-ID001181 马刀
-ID001182 #T 马刀#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_007_modifier').GetNameWithTooltip]修正，为期#V 30年#!
-ID001183 长剑
-ID001184 #T 长剑#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_008_modifier').GetNameWithTooltip]修正，为期#V 30年#!
-ID001185 重型狼牙棒
-ID001186 #T 重型狼牙棒#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_009_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 重型狼牙棒#!的习惯
-ID001187 短矛
-ID001188 #T 短矛#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_010_modifier').GetNameWithTooltip]修正，为期#V 30年#!
-ID001189 标枪
-ID001190 #T 标枪#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_011_modifier').GetNameWithTooltip]修正，为期#V 30年#!
-ID001191 铁链夹棒
-ID001192 #T 铁链夹棒#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_012_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 铁链夹棒#!的习惯
-ID001193 手梢子棍
-ID001194 #T 手梢子棍#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_013_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 手梢子棍#!的习惯
-ID001195 果尔考儿
-ID001196 #T 果尔考儿#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_014_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 果尔考儿#!的习惯
-ID001197 骑枪
-ID001198 #T 骑枪#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_015_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 骑枪#!的习惯
-ID001199 马槊
-ID001200 #T 马槊#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_016_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 马槊#!的习惯
-ID001201 弓
-ID001202 #T 弓#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_017_modifier').GetNameWithTooltip]修正，为期#V 30年#!
-ID001203 长弓
-ID001204 #T 长弓#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_018_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]拥有#high $tradition_longbow_competitions_name$#![culture_tradition|E]
-ID001205 弩
-ID001206 #T 弩#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_019_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]拥有#high $innovation_advanced_bowmaking$#![innovations|E]或军事上有使用#high 弩#!的习惯
-ID001207 连弩
-ID001208 #T 连弩#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_020_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]拥有#high $innovation_repeating_crossbow$#![innovations|E]
-ID001209 神臂弓
-ID001210 #T 神臂弓#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_021_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]拥有#high $innovation_shenbigong$#![innovations|E]
-ID001211 和弓
-ID001212 #T 和弓#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_022_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]拥有#high $innovation_hegong$#![innovations|E]
-ID001213 骑兵弩
-ID001214 #T 骑兵弩#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_023_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 骑兵弩#!的习惯
-ID001215 超长枪
-ID001216 #T 超长枪#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_024_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 超长枪#!的习惯
-ID001217 角弓
-ID001218 #T 角弓#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_025_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 角弓#!的习惯
-ID001219 高丽弓
-ID001220 #T 高丽弓#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_026_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]拥有#high $innovation_gaoligong$#![innovations|E]
-ID001221 武士刀
-ID001222 #T 武士刀#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_027_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]拥有#high $innovation_wushijueqi$#![innovations|E]
-ID001223 薙刀
-ID001224 #T 薙刀#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_028_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]拥有#high $innovation_tidao$#![innovations|E]
-ID001225 双手巨剑
-ID001226 #T 双手巨剑#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_029_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]拥有#high $innovation_zweihanders$#![innovations|E]
-ID001227 朴刀
-ID001228 #T 朴刀#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_030_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 朴刀#!的习惯
-ID001229 投石索
-ID001230 #T 投石索#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_031_modifier').GetNameWithTooltip]修正，为期#V 30年#!
-ID001231 强制换装
-ID001232 #T 强制换装#!#!\n\n强行为当前[regiment|E]换装副武器\n#N #EMP 已装配的副武器将全部销毁且修正解除#!#!
-ID001233 角弓
-ID001234 #T 角弓#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('003_xinzeng_zhuangbei_001_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 角弓#!的习惯
-ID001235 钉锤
-ID001236 #T 钉锤#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('003_xinzeng_zhuangbei_002_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 钉锤#!的习惯
-ID001237 短剑
-ID001238 #T 短剑#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('003_xinzeng_zhuangbei_003_modifier').GetNameWithTooltip]修正，为期#V 30年#!
-ID001239 骨朵
+ID001165 #T 战棍#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_005_modifier').GetNameWithTooltip]修正，为期#V 30年#!
+ID001166 陌刀
+ID001167 #T 陌刀#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_006_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 陌刀#!的习惯
+ID001168 马刀
+ID001169 #T 马刀#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_007_modifier').GetNameWithTooltip]修正，为期#V 30年#!
+ID001170 长剑
+ID001171 #T 长剑#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_008_modifier').GetNameWithTooltip]修正，为期#V 30年#!
+ID001172 重型狼牙棒
+ID001173 #T 重型狼牙棒#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_009_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 重型狼牙棒#!的习惯
+ID001174 短矛
+ID001175 #T 短矛#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_010_modifier').GetNameWithTooltip]修正，为期#V 30年#!
+ID001176 标枪
+ID001177 #T 标枪#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_011_modifier').GetNameWithTooltip]修正，为期#V 30年#!
+ID001178 铁链夹棒
+ID001179 #T 铁链夹棒#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_012_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 铁链夹棒#!的习惯
+ID001180 手梢子棍
+ID001181 #T 手梢子棍#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_013_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 手梢子棍#!的习惯
+ID001182 果尔考儿
+ID001183 #T 果尔考儿#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_014_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 果尔考儿#!的习惯
+ID001184 骑枪
+ID001185 #T 骑枪#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_015_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 骑枪#!的习惯
+ID001186 马槊
+ID001187 #T 马槊#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_016_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 马槊#!的习惯
+ID001188 弓
+ID001189 #T 弓#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_017_modifier').GetNameWithTooltip]修正，为期#V 30年#!
+ID001190 长弓
+ID001191 #T 长弓#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_018_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]拥有#high $tradition_longbow_competitions_name$#![culture_tradition|E]
+ID001192 弩
+ID001193 #T 弩#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_019_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]拥有#high $innovation_advanced_bowmaking$#![innovations|E]或军事上有使用#high 弩#!的习惯
+ID001194 连弩
+ID001195 #T 连弩#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_020_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]拥有#high $innovation_repeating_crossbow$#![innovations|E]
+ID001196 神臂弓
+ID001197 #T 神臂弓#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_021_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]拥有#high $innovation_shenbigong$#![innovations|E]
+ID001198 和弓
+ID001199 #T 和弓#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_022_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]拥有#high $innovation_hegong$#![innovations|E]
+ID001200 骑兵弩
+ID001201 #T 骑兵弩#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_023_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 骑兵弩#!的习惯
+ID001202 超长枪
+ID001203 #T 超长枪#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_024_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 超长枪#!的习惯
+ID001204 角弓
+ID001205 #T 角弓#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_025_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 角弓#!的习惯
+ID001206 高丽弓
+ID001207 #T 高丽弓#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_026_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]拥有#high $innovation_gaoligong$#![innovations|E]
+ID001208 武士刀
+ID001209 #T 武士刀#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_027_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]拥有#high $innovation_wushijueqi$#![innovations|E]
+ID001210 薙刀
+ID001211 #T 薙刀#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_028_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]拥有#high $innovation_tidao$#![innovations|E]
+ID001212 双手巨剑
+ID001213 #T 双手巨剑#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_029_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]拥有#high $innovation_zweihanders$#![innovations|E]
+ID001214 朴刀
+ID001215 #T 朴刀#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_030_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 朴刀#!的习惯
+ID001216 投石索
+ID001217 #T 投石索#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_031_modifier').GetNameWithTooltip]修正，为期#V 30年#!
+ID001218 强制换装
+ID001219 #T 强制换装#!#!\n\n强行为当前[regiment|E]换装副武器\n#N #EMP 已装配的副武器将全部销毁且修正解除#!#!
+ID001220 角弓
+ID001221 #T 角弓#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('003_xinzeng_zhuangbei_001_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 角弓#!的习惯
+ID001222 钉锤
+ID001223 #T 钉锤#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('003_xinzeng_zhuangbei_002_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 钉锤#!的习惯
+ID001224 短剑
+ID001225 #T 短剑#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('003_xinzeng_zhuangbei_003_modifier').GetNameWithTooltip]修正，为期#V 30年#!
+ID001226 骨朵
+ID001227 #T 骨朵#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('003_xinzeng_zhuangbei_004_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 骨朵#!的习惯
+ID001228 陌刀
+ID001229 #T 陌刀#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('003_xinzeng_zhuangbei_005_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 陌刀#!的习惯
+ID001230 标枪
+ID001231 #T 标枪#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('003_xinzeng_zhuangbei_006_modifier').GetNameWithTooltip]修正，为期#V 30年#!
+ID001232 匕首
+ID001233 #T 匕首#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('003_xinzeng_zhuangbei_007_modifier').GetNameWithTooltip]修正，为期#V 30年#!
+ID001234 手弩
+ID001235 #T 手弩#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('003_xinzeng_zhuangbei_008_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 手弩#!的习惯
+ID001236 铲子
+ID001237 #T 铲子#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('003_xinzeng_zhuangbei_009_modifier').GetNameWithTooltip]修正，为期#V 30年#!
+ID001238 短柄斧
+ID001239 #T 短柄斧#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('003_xinzeng_zhuangbei_010_modifier').GetNameWithTooltip]修正，为期#V 30年#!
+ID001240 石头
 

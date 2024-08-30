@@ -1,0 +1,78 @@
+Chunk 13 received from API:
+ID001164 #T Bamboo Armor#!#!\n\n[regiment|E][stationed_holding|E] receives the [GetModifier('001_xinzeng_zhuangbei_006_modifier').GetNameWithTooltip] modifier for a duration of #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$ The [regiment|E] owner's [culture|E] has a military tradition of using #high Bamboo Armor#!
+ID001165 Rattan Armor
+ID001166 #T Rattan Armor#!#!\n\n[regiment|E][stationed_holding|E] receives the [GetModifier('001_xinzeng_zhuangbei_007_modifier').GetNameWithTooltip] modifier for a duration of #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$ The [regiment|E] owner's [culture|E] has a military tradition of using #high Rattan Armor#!
+ID001167 Forced Re-equipment
+ID001168 #T Forced Re-equipment#!#!\n\nForcibly re-equips the current [regiment|E] with a primary weapon\n#N #EMP All currently equipped primary weapons will be destroyed and the modifier removed#!#!
+ID001169 Spear
+ID001170 #T Spear#!#!\n\n[regiment|E][stationed_holding|E] receives the [GetModifier('002_xinzeng_zhuangbei_001_modifier').GetNameWithTooltip] modifier for a duration of #V 30 years#!
+ID001171 War Blade
+ID001172 #T War Blade#!#!\n\n[regiment|E][stationed_holding|E] receives the [GetModifier('002_xinzeng_zhuangbei_002_modifier').GetNameWithTooltip] modifier for a duration of #V 30 years#!
+ID001173 Danish Axe
+ID001174 #T Danish Axe#!#!\n\n[regiment|E][stationed_holding|E] receives the [GetModifier('002_xinzeng_zhuangbei_003_modifier').GetNameWithTooltip] modifier for a duration of #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$ The [regiment|E] owner's [culture|E] has a military tradition of using #high Danish Axe#!
+ID001175 Heavy Battle Axe
+ID001176 #T Heavy Battle Axe#!#!\n\n[regiment|E][stationed_holding|E] receives the [GetModifier('002_xinzeng_zhuangbei_004_modifier').GetNameWithTooltip] modifier for a duration of #V 30 years#!
+ID001177 War Club
+ID001178 #T War Club#!#!\n\n[regiment|E][stationed_holding|E] receives the [GetModifier('002_xinzeng_zhuangbei_005_modifier').GetNameWithTooltip] modifier for a duration of #V 30 years#!
+ID001179 Mo Dao
+ID001180 #T Mo Dao#!#!\n\n[regiment|E][stationed_holding|E] receives the [GetModifier('002_xinzeng_zhuangbei_006_modifier').GetNameWithTooltip] modifier for a duration of #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$ The [regiment|E] owner's [culture|E] has a military tradition of using #high Mo Dao#!
+ID001181 Scimitar
+ID001182 #T Scimitar#!#!\n\n[regiment|E][stationed_holding|E] receives the [GetModifier('002_xinzeng_zhuangbei_007_modifier').GetNameWithTooltip] modifier for a duration of #V 30 years#!
+ID001183 Long Sword
+ID001184 #T Long Sword#!#!\n\n[regiment|E][stationed_holding|E] receives the [GetModifier('002_xinzeng_zhuangbei_008_modifier').GetNameWithTooltip] modifier for a duration of #V 30 years#!
+ID001185 Heavy Mace
+ID001186 #T Heavy Mace#!#!\n\n[regiment|E][stationed_holding|E] receives the [GetModifier('002_xinzeng_zhuangbei_009_modifier').GetNameWithTooltip] modifier for a duration of #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$ The [regiment|E] owner's [culture|E] has a military tradition of using #high Heavy Mace#!
+ID001187 Short Spear
+ID001188 #T Short Spear#!#!\n\n[regiment|E][stationed_holding|E] receives the [GetModifier('002_xinzeng_zhuangbei_010_modifier').GetNameWithTooltip] modifier for a duration of #V 30 years#!
+ID001189 Javelin
+ID001190 #T Javelin#!#!\n\n[regiment|E][stationed_holding|E] receives the [GetModifier('002_xinzeng_zhuangbei_011_modifier').GetNameWithTooltip] modifier for a duration of #V 30 years#!
+ID001191 Flail
+ID001192 #T Flail#!#!\n\n[regiment|E][stationed_holding|E] receives the [GetModifier('002_xinzeng_zhuangbei_012_modifier').GetNameWithTooltip] modifier for a duration of #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$ The [regiment|E] owner's [culture|E] has a military tradition of using #high Flail#!
+ID001193 Baton
+ID001194 #T Baton#!#!\n\n[regiment|E][stationed_holding|E] receives the [GetModifier('002_xinzeng_zhuangbei_013_modifier').GetNameWithTooltip] modifier for a duration of #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$ The [regiment|E] owner's [culture|E] has a military tradition of using #high Baton#!
+ID001195 Gorkha Kukri
+ID001196 #T Gorkha Kukri#!#!\n\n[regiment|E][stationed_holding|E] receives the [GetModifier('002_xinzeng_zhuangbei_014_modifier').GetNameWithTooltip] modifier for a duration of #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$ The [regiment|E] owner's [culture|E] has a military tradition of using #high Gorkha Kukri#!
+ID001197 Lance
+ID001198 #T Lance#!#!\n\n[regiment|E][stationed_holding|E] receives the [GetModifier('002_xinzeng_zhuangbei_015_modifier').GetNameWithTooltip] modifier for a duration of #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$ The [regiment|E] owner's [culture|E] has a military tradition of using #high Lance#!
+ID001199 Ma Suo
+ID001200 #T Ma Suo#!#!\n\n[regiment|E][stationed_holding|E] receives the [GetModifier('002_xinzeng_zhuangbei_016_modifier').GetNameWithTooltip] modifier for a duration of #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$ The [regiment|E] owner's [culture|E] has a military tradition of using #high Ma Suo#!
+ID001201 Bow
+ID001202 #T Bow#!#!\n\n[regiment|E][stationed_holding|E] receives the [GetModifier('002_xinzeng_zhuangbei_017_modifier').GetNameWithTooltip] modifier for a duration of #V 30 years#!
+ID001203 Longbow
+ID001204 #T Longbow#!#!\n\n[regiment|E][stationed_holding|E] receives the [GetModifier('002_xinzeng_zhuangbei_018_modifier').GetNameWithTooltip] modifier for a duration of #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$ The [regiment|E] owner's [culture|E] has the tradition #high $tradition_longbow_competitions_name$#![culture_tradition|E]
+ID001205 Crossbow
+ID001206 #T Crossbow#!#!\n\n[regiment|E][stationed_holding|E] receives the [GetModifier('002_xinzeng_zhuangbei_019_modifier').GetNameWithTooltip] modifier for a duration of #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$ The [regiment|E] owner's [culture|E] has the innovation #high $innovation_advanced_bowmaking$#![innovations|E] or a military tradition of using #high Crossbow#!
+ID001207 Repeating Crossbow
+ID001208 #T Repeating Crossbow#!#!\n\n[regiment|E][stationed_holding|E] receives the [GetModifier('002_xinzeng_zhuangbei_020_modifier').GetNameWithTooltip] modifier for a duration of #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$ The [regiment|E] owner's [culture|E] has the innovation #high $innovation_repeating_crossbow$#![innovations|E]
+ID001209 Shenbi Bow
+ID001210 #T Shenbi Bow#!#!\n\n[regiment|E][stationed_holding|E] receives the [GetModifier('002_xinzeng_zhuangbei_021_modifier').GetNameWithTooltip] modifier for a duration of #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$ The [regiment|E] owner's [culture|E] has the innovation #high $innovation_shenbigong$#![innovations|E]
+ID001211 Hegong Bow
+ID001212 #T Hegong Bow#!#!\n\n[regiment|E][stationed_holding|E] receives the [GetModifier('002_xinzeng_zhuangbei_022_modifier').GetNameWithTooltip] modifier for a duration of #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$ The [regiment|E] owner's [culture|E] has the innovation #high $innovation_hegong$#![innovations|E]
+ID001213 Cavalry Crossbow
+ID001214 #T Cavalry Crossbow#!#!\n\n[regiment|E][stationed_holding|E] receives the [GetModifier('002_xinzeng_zhuangbei_023_modifier').GetNameWithTooltip] modifier for a duration of #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$ The [regiment|E] owner's [culture|E] has a military tradition of using #high Cavalry Crossbow#!
+ID001215 Pike
+ID001216 #T Pike#!#!\n\n[regiment|E][stationed_holding|E] receives the [GetModifier('002_xinzeng_zhuangbei_024_modifier').GetNameWithTooltip] modifier for a duration of #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$ The [regiment|E] owner's [culture|E] has a military tradition of using #high Pike#!
+ID001217 Horn Bow
+ID001218 #T Horn Bow#!#!\n\n[regiment|E][stationed_holding|E] receives the [GetModifier('002_xinzeng_zhuangbei_025_modifier').GetNameWithTooltip] modifier for a duration of #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$ The [regiment|E] owner's [culture|E] has a military tradition of using #high Horn Bow#!
+ID001219 Korean Bow
+ID001220 #T Korean Bow#!#!\n\n[regiment|E][stationed_holding|E] receives the [GetModifier('002_xinzeng_zhuangbei_026_modifier').GetNameWithTooltip] modifier for a duration of #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$ The [regiment|E] owner's [culture|E] has the innovation #high $innovation_gaoligong$#![innovations|E]
+ID001221 Katana
+ID001222 #T Katana#!#!\n\n[regiment|E][stationed_holding|E] receives the [GetModifier('002_xinzeng_zhuangbei_027_modifier').GetNameWithTooltip] modifier for a duration of #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$ The [regiment|E] owner's [culture|E] has the innovation #high $innovation_wushijueqi$#![innovations|E]
+ID001223 Naginata
+ID001224 #T Naginata#!#!\n\n[regiment|E][stationed_holding|E] receives the [GetModifier('002_xinzeng_zhuangbei_028_modifier').GetNameWithTooltip] modifier for a duration of #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$ The [regiment|E] owner's [culture|E] has the innovation #high $innovation_tidao$#![innovations|E]
+ID001225 Two-Handed Greatsword
+ID001226 #T Two-Handed Greatsword#!#!\n\n[regiment|E][stationed_holding|E] receives the [GetModifier('002_xinzeng_zhuangbei_029_modifier').GetNameWithTooltip] modifier for a duration of #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$ The [regiment|E] owner's [culture|E] has the innovation #high $innovation_zweihanders$#![innovations|E]
+ID001227 Pudao
+ID001228 #T Pudao#!#!\n\n[regiment|E][stationed_holding|E] receives the [GetModifier('002_xinzeng_zhuangbei_030_modifier').GetNameWithTooltip] modifier for a duration of #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$ The [regiment|E] owner's [culture|E] has a military tradition of using #high Pudao#!
+ID001229 Sling
+ID001230 #T Sling#!#!\n\n[regiment|E][stationed_holding|E] receives the [GetModifier('002_xinzeng_zhuangbei_031_modifier').GetNameWithTooltip] modifier for a duration of #V 30 years#!
+ID001231 Forced Re-equipment
+ID001232 #T Forced Re-equipment#!#!\n\nForcibly re-equips the current [regiment|E] with a secondary weapon\n#N #EMP All currently equipped secondary weapons will be destroyed and the modifier removed#!#!
+ID001233 Horn Bow
+ID001234 #T Horn Bow#!#!\n\n[regiment|E][stationed_holding|E] receives the [GetModifier('003_xinzeng_zhuangbei_001_modifier').GetNameWithTooltip] modifier for a duration of #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$ The [regiment|E] owner's [culture|E] has a military tradition of using #high Horn Bow#!
+ID001235 Mace
+ID001236 #T Mace#!#!\n\n[regiment|E][stationed_holding|E] receives the [GetModifier('003_xinzeng_zhuangbei_002_modifier').GetNameWithTooltip] modifier for a duration of #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$ The [regiment|E] owner's [culture|E] has a military tradition of using #high Mace#!
+ID001237 Dagger
+ID001238 #T Dagger#!#!\n\n[regiment|E][stationed_holding|E] receives the [GetModifier('003_xinzeng_zhuangbei_003_modifier').GetNameWithTooltip] modifier for a duration of #V 30 years#!
+ID001239 Club
+

@@ -1,0 +1,101 @@
+Chunk 11 sent to API:
+ID001000 翼骑兵
+ID001001 忠诚而强大的精锐骑兵，以其高机动性与毁灭性而闻名。
+ID001002 翼骑兵
+ID001003 #F 忠诚的翼骑兵不惧死亡，他们迎着枪阵冲锋!#!
+ID001004 雷蒂斯
+ID001005 #F 强大的立陶宛重骑兵，擅长对付同样身披重甲的敌人#!
+ID001006 萨莫吉蒂亚投枪术
+ID001007 波罗的森林中最有效的战争工具之一，疾驰的萨莫吉蒂亚马给予投枪千钧之力。
+ID001008 萨莫吉蒂亚投枪骑手
+ID001009 #F 数量庞大的马上投矛手，依靠迅速接敌而后倾泻枪雨造成巨量伤害，是重甲单位的头号劲敌#!
+ID001010 立陶宛骑射手
+ID001011 #F 全能的立陶宛马上弓箭手，在倾泻完全部箭矢后仍可与敌人近战肉搏#!
+ID001012 与你拥有相同[culture|E][heritage|E]的[vassals|E]更有可能加入[independence_factions|E]和[claimant_factions|E]，这不是一件坏事，起码在你还比较弱小的时候不是。
+ID001013 该[culture|E]的人民只信服诺亚后裔的统治，他们更有可以加入到反抗异[culture|E]统治者的[factions|E]中去。
+ID001014 自身[culture|E]拥有该[innovations|E]的角色可以通过与特定[culture|E]的角色结盟以招募强大的特色[men_at_arms|E]
+ID001015 大金
+ID001016 大金
+ID001017 完颜
+ID001018 大金
+ID001019 岁币
+ID001020 上层的无能由下层买单。
+ID001021 燕云十六州
+ID001022 立陶宛
+ID001023 波兰
+ID001024 可以在单场战争中为自己索取多个[claims|E]
+ID001025 中东、波斯
+ID001026 僧伽罗
+ID001027 马槊
+ID001028 军事上广泛使用札甲的地区
+ID001029 大迁徙入侵
+ID001030 大迁徙入侵
+ID001031 大迁徙
+ID001032 你舍弃了从前的那片天地，将你的人民和畜群迁徙至此，新的统治，开始了。
+ID001033 大迁徙之后
+ID001034 这片土地上的部分资源随着一次大迁徙被人为转移走了。
+ID001035 商议同盟
+ID001036 通过陈述利害关系来与[recipient.GetTitledFirstNameNoTooltip]铸就同盟——草原势力需要整合！
+ID001037 相同[cultural|E]：$VALUE|=+0$
+ID001038 @weak_hook_icon! [hook|E] 可用
+ID001039 @weak_hook_icon! [hook|E] 可用
+ID001040 商议同盟
+ID001041 商议同盟（游牧臣属）
+ID001042 通过陈述利害关系来与[recipient.GetTitledFirstNameNoTooltip]铸就同盟——促进某些共同目标的达成！
+ID001043 @weak_hook_icon! [hook|E] 可用
+ID001044 部落联盟
+ID001045 通过陈述利害关系来与[recipient.GetTitledFirstNameNoTooltip]铸就臣属关系——促进某些共同目标的达成！
+ID001046 \n签订停战协议以换取[actor.GetTitledFirstName]与[recipient.GetTitledFirstName]的部落联盟
+ID001047 [CHARACTER.GetShortUINamePossessive]对[TARGET_CHARACTER.GetShortUIName]的好感：$VALUE|=+0$
+ID001048 你们的军力差异：$VALUE|=+0$
+ID001049 外交与同盟者：$VALUE|=+0$
+ID001050 有重大外部威胁：$VALUE|=+0$
+ID001051 势单力薄：$VALUE|=+0$
+ID001052 野心家：$VALUE|=+0$
+ID001053 召集封臣参战
+ID001054 [recipient.GetUINameNoTooltip]很有必要与我加入[target.GetName]！
+ID001055 召集[recipient.GetUINameNoTooltip]参战，以履行其身为臣属的义务。
+ID001056 [war|E]形势：$VALUE|=+0$
+ID001057 [war|E]双方兵力差距：$VALUE|=+0$
+ID001058 [recipient.GetShortUIName|U]的[army|E]数量过少，参战意义不大：$VALUE|=+0$
+ID001059 防御[war|E]：$VALUE|=+0$
+ID001060 是[powerful_vassals|E]：$VALUE|=+0$
+ID001061 临近封臣同僚：$VALUE|=+0$
+ID001062 草场：$VALUE|=+0$
+ID001063 [recipient.GetShortUIName|U]的[martial|E][skill|E]：$VALUE|=+0$
+ID001064 松散部落：$VALUE|=+0$
+ID001065 有限部落权威：$VALUE|=+0$
+ID001066 高部落权威：$VALUE|=+0$
+ID001067 绝对部落权威：$VALUE|=+0$
+ID001068 [actor.GetShortUIName|U]的[prestige_level|E]：$VALUE|=+0$
+ID001069 [recipient.GetShortUIName|U]的领土在[actor.GetShortUIName|U]战败后可能丢失：$VALUE|=+0$
+ID001070 好战[ethos|E]：$VALUE|=+0$
+ID001071 集体[ethos|E]：$VALUE|=+0$
+ID001072 [recipient.GetShortUIName|U]正忙于其他[war|E]：$VALUE|=+0$
+ID001073 [actor.GetShortUIName|U]与[recipient.GetShortUIName|U]的[prestige|lE]总量差异：$VALUE|=+0$
+ID001074 [recipient.GetShortUIName|U]的[prestige_level|E]：$VALUE|=+0$
+ID001075 同[dynasty|E]：$VALUE|=+0$
+ID001076 是你的[close_family_member|E]：$VALUE|=+0$
+ID001077 [recipient.GetShortUIName|U]对[war|E]另一方的好感：$VALUE|=+0$
+ID001078 [recipient.GetShortUIName|U]被这场战争波及：$VALUE|=+0$
+ID001079 [actor.GetShortUIName|U]是ai：$VALUE|=+0$
+ID001080 [recipient.GetShortUIName|U]是你的[friend|E]：$VALUE|=+0$
+ID001081 [recipient.GetShortUIName|U]是你的[best_friend|E]：$VALUE|=+0$
+ID001082 [recipient.GetShortUIName|U]是[children|E]：$VALUE|=+0$
+ID001083 [recipient.GetShortUIName|U]是一名[prisoners|lE]：$VALUE|=+0$
+ID001084 [recipient.GetShortUIName|U]的兵力未恢复：$VALUE|=+0$
+ID001085 [recipient.GetShortUIName|U]曾应召参战过：$VALUE|=+0$
+ID001086 [recipient.GetShortUIName|U]完成过你安排的任务：$VALUE|=+0$
+ID001087 好战：$VALUE|=+0$
+ID001088 封臣立场：追名逐利：$VALUE|=+0$
+ID001089 封臣立场：本乡本土：$VALUE|=+0$
+ID001090 召集加入战争（游牧同盟）
+ID001091 [war|E]另一方是[recipient.GetShortUIName|U]的[liege|E]：$VALUE|=+0$
+ID001092 [recipient.GetShortUIName|U]的领土在[actor.GetShortUIName|U]战胜后可能丢失：$VALUE|=+0$
+ID001093 头人
+ID001094 [Title.GetNameNoTier]的头人
+ID001095 #T 安排一位头人\n花费:\n200 [gold_i]\n500 [prestige_i]#!
+ID001096 #T 花费#V 300#![prestige|E][prestige_i]要求[Title.GetNameNoTier]的头人征收一笔[gold|E][gold_i]#!\n\n#T 要求#!：\n[Title.GetNameNoTier]的头人：\n$EFFECT_LIST_BULLET$对你的[opinion|E]大于等于#V -20#!\n$EFFECT_LIST_BULLET$[gold|E]大于等于#V 200#!\n$EFFECT_LIST_BULLET$[prestige|E]大于等于#V 500#!\n$EFFECT_LIST_BULLET$[dynasty|E]中拥有[GetModifier('xinzeng_touren_001_modifier').GetNameWithTooltip]修正\n你：\n$EFFECT_LIST_BULLET$[prestige|E]大于等于#V 500#!\n$EFFECT_LIST_BULLET$[prestige_levels|E]不低于#V $prestige_level_2$#!\n\n#T 耗时#!：#V 3#!到#V 10#!个月\n\n#T 完成后#!：\n[Title.GetNameNoTier]的头人向你支付他所征收的[gold|E][gold_i](所征收的[gold|E]与指定[xinzeng_touren|E]的[stewardship_skill|E]有关)\n[Title.GetNameNoTier]的头人获得#V 300#![prestige|E]\n[Title.GetNameNoTier]的头人手下的所有[county|E]获得[GetModifier('xinzeng_touren_002_modifier').GetNameWithTooltip]修正，为期#V 10年#!\n[Title.GetNameNoTier]的头人#V 3年#!内不会接受你下派的任何任务。
+ID001097 #T 花费#V 100#![gold|E][gold_i]让[Title.GetNameNoTier]的头人在其领地内宣扬你之威严#!\n\n#T 要求#!：\n[Title.GetNameNoTier]的头人：\n$EFFECT_LIST_BULLET$对你的[opinion|E]大于等于#V -20#!\n$EFFECT_LIST_BULLET$[prestige|E]大于等于#V 500#!\n$EFFECT_LIST_BULLET$[dynasty|E]中拥有[GetModifier('xinzeng_touren_001_modifier').GetNameWithTooltip]修正\n你：\n$EFFECT_LIST_BULLET$[gold|E]大于等于#V 150#!\n$EFFECT_LIST_BULLET$[prestige_levels|E]不低于#V $prestige_level_1$#!\n\n#T 耗时#!：#V 5#!到#V 12#!个月\n\n#T 完成后#!：\n你根据[Title.GetNameNoTier]的头人的#V 宣杨效果#!获得一笔[prestige|E][prestige_i]（#V 宣杨效果#!与所指定[xinzeng_touren|E]的[diplomacy_skill|E]有关）\n[Title.GetNameNoTier]的头人获得#V 100#![gold|E]以及#V 150#![prestige|E]\n[Title.GetNameNoTier]的头人手下的所有[county|E]获得[GetModifier('xinzeng_touren_004_modifier').GetNameWithTooltip]修正，为期#V 10年#!\n[Title.GetNameNoTier]的头人#V 5年#!内不会接受你下派的任何任务。
+ID001098 #T 花费#V 50#![gold|E][gold_i]和#V 150#![prestige|E][prestige_i]要求[Title.GetNameNoTier]的头人向你提供一批[levies|E]#!\n\n#T 要求#!：\n[Title.GetNameNoTier]的头人：\n$EFFECT_LIST_BULLET$对你的[opinion|E]大于等于#V -20#!\n$EFFECT_LIST_BULLET$#V 当前军力#!大于等于#V 2000#!\n$EFFECT_LIST_BULLET$[gold|E]大于等于#V 50#!\n$EFFECT_LIST_BULLET$[prestige|E]大于等于#V 150#!\n$EFFECT_LIST_BULLET$[dynasty|E]中拥有[GetModifier('xinzeng_touren_001_modifier').GetNameWithTooltip]修正\n你：\n$EFFECT_LIST_BULLET$未处于[war|E]中，[gold|E]大于等于#V 0#!\n$EFFECT_LIST_BULLET$[prestige|E]大于等于#V 150#!\n$EFFECT_LIST_BULLET$[prestige_levels|E]不低于#V $prestige_level_1$#!\n\n#T 耗时#!：#V 3#!到#V 12#!个月\n\n#T 完成后#!：\n你获得一小批[levies|E]（[Title.GetNameNoTier]的头人向你提供的[levies|E]数量与其[martial_skill|E]以及#V 当前军力#!有关）\n[Title.GetNameNoTier]的头人获得#V 50#![gold|E]和#V 150#![prestige|E]\n[Title.GetNameNoTier]的头人获得[GetModifier('xinzeng_touren_005_modifier').GetNameWithTooltip]修正，为期#V 10年#!\n[Title.GetNameNoTier]的头人#V 10年#!内不会接受你下派的任何任务。
+

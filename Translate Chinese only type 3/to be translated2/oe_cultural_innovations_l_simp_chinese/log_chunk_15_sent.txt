@@ -1,124 +1,71 @@
 Chunk 15 sent to API:
-ID001311 #T 巩固城防#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('006_xinzeng_zhuangbei_006_001_modifier').GetNameWithTooltip]修正，为期#V 5年#!\n[regiment|E][stationed_holding|E]所在[county|E]#N #EMP 概率#!#!获得[GetModifier('006_xinzeng_zhuangbei_006_002_modifier').GetNameWithTooltip]修正，年限#V 随机#!\n[regiment|E][stationed_holding|E]所在[county|E][development|E] #N #EMP - 2 #!#!\n你：@stress_icon! #N #EMP 增加#!#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$你处于[war|lE]中\n\n坚守壁垒，使敌人无法攻进阵地；清除郊野的粮食房舍，使敌人因缺粮无遮蔽而无法久战。
-ID001312 强制征兵
-ID001313 #T 强制征兵#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('006_xinzeng_zhuangbei_007_001_modifier').GetNameWithTooltip]修正，为期#V 5年#!\n[regiment|E][stationed_holding|E]所在[county|E]获得[GetModifier('006_xinzeng_zhuangbei_007_002_modifier').GetNameWithTooltip]修正，为期#V 15年#!\n你获得[GetModifier('006_xinzeng_zhuangbei_007_003_modifier').GetNameWithTooltip]修正，为期#V 10年#!\n\n为了扩大战争动员，稍稍降低征兵门槛是合理的。
-ID001314 协助城建
-ID001315 #T 协助城建#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('006_xinzeng_zhuangbei_008_modifier').GetNameWithTooltip]修正，为期#V 5年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$你未处于[war|lE]\n$EFFECT_LIST_BULLET$[prestige_level|E]#V 大于等于#!$prestige_level_2$\n\n与其让驻军整日训练，不如征调其中部分成员参与地产建设。
-ID001316 驻军征税
-ID001317 #T 驻军征税#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('006_xinzeng_zhuangbei_009_001_modifier').GetNameWithTooltip]修正，为期#V 5年#!\n[regiment|E][stationed_holding|E]所在[county|E]获得[GetModifier('006_xinzeng_zhuangbei_009_002_modifier').GetNameWithTooltip]修正，为期#V 10年#!\n\n刺目的刀剑比和蔼的征税官有用，多出来的油水可以填饱某人的胃口。
-ID001318 巡视牧场
-ID001319 #T 巡视牧场#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('006_xinzeng_zhuangbei_010_modifier').GetNameWithTooltip]修正，为期#V 5年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$[regiment|E][stationed_holding|E]所在[barony|E]为#V 草原#![terrain|lE]\n$EFFECT_LIST_BULLET$你未处于[war|lE]\n\n为确保草场状况的万无一失，我们需要派出骑兵于此地反复巡视。
-ID001320 组织劫掠
-ID001321 #T 组织劫掠#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('006_xinzeng_zhuangbei_011_001_modifier').GetNameWithTooltip]修正，为期#V 10年#!\n你获得[GetModifier('006_xinzeng_zhuangbei_011_002_modifier').GetNameWithTooltip]修正，为期#V 15年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$[regiment|E][stationed_holding|E]处拥有[GetBuilding('war_camps_01').GetName]或者它的升级版\n$EFFECT_LIST_BULLET$[government|E]为[GetGovernment( 'tribal_government' ).GetName]\n\n将劫掠技能传之后人是部落生存与壮大的关键。
-ID001322 切舍御免
-ID001323 #T 切舍御免#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('006_xinzeng_zhuangbei_012_001_modifier').GetNameWithTooltip]修正，为期#V 20年#!\n你获得[GetModifier('006_xinzeng_zhuangbei_012_002_modifier').GetNameWithTooltip]修正，为期#V 20年#!\n[regiment|E][stationed_holding|E]所在[county|E]获得[GetModifier('006_xinzeng_zhuangbei_012_003_modifier').GetNameWithTooltip]修正，为期#V 20年#!\n你的所有[knights|E]：@dread_icon! + 5\n\n平民对武士存在难以忍受的冒犯行为时后者可以将其斩杀而不负罪责。
-ID001324 征召兵包括牧民、游荡的猎人、当地佣兵以及落魄贵族——他们数量庞大，大多骑马作战，构成了军队的主体。
-ID001325 征召兵包括农民兵、地痞、当地佣兵以及落魄贵族，装备着五花八门的工具和东拼西凑的武器——他们数量庞大，构成了大部分军队的主体。
-ID001326 征召兵包括农民兵、地痞、当地佣兵以及落魄贵族，装备着五花八门的工具和东拼西凑的武器——他们数量庞大，构成了大部分军队的主体。
-ID001327 圣战士
-ID001328 圣战士
-ID001329 劫掠者
-ID001330 劫掠者
-ID001331 部落冠军
-ID001332 部落冠军
-ID001333 $EFFECT_LIST_BULLET$该[acclaimed_knight|E]获得[GetModifier('accolade_dfbz_xinzeng_0003_buff_modifier').GetNameWithTooltip]，其领主\n麾下随机一位非统治者[knights|E]获得[GetTrait('wounded_2').GetName( GetNullCharacter )]
-ID001334 农民领袖
-ID001335 农民领袖
-ID001336 百战老农
-ID001337 [retinue_maa|E]\n#F 汇集于农民领袖麾下的百战老农，战斗经验丰富。#!
-ID001338 #color_red 不可用：[GetMaA#('accolade_maa_0004_attribute_nongmin_jun').#GetName]（需要主要[accolade_type|E]）#!
-ID001339 牙兵派系
-ID001340 牙兵[faction|E]的诉求是更多的[gold|E]，更广阔的[realm|E]以及更优越的地位。积极互动，与你的[knights|E]们保持良好#关系。\n\n#S 最后通牒#!\n所有派系成员获得[gold|E]，[prestige|E]，[army|E]以及[realm|E]\n[deposed|E]现任[liege|E]并推举一位新的[liege|E]。
-ID001341 希望攫取更多利益
-ID001342 你不是[knights|E]
-ID001343 你[liege|E]的组织形式不是#V 军府#!
-ID001344 你[liege|E]的[government|E]不是#V 军镇制#!
-ID001345 牙兵叛乱
-ID001346 渴望金钱：$VALUE|=+0$
-ID001347  #野心勃勃
-#DFBZ_XINGEE_DISLOYAL:0 
-ID001348  #奸猾
-#DFBZ_XINGEE_ARROGANT:0 
-ID001349  #傲慢
-#DFBZ_XINGEE_PARANOID:0 
-ID001350  #多疑
-#DFBZ_XINGEE_FICKLE:0 
-ID001351  #多变
-#DFBZ_XINGEE_ARBITRARY:0 
-ID001352  #专断
-#DFBZ_XINGEE_LOYAL:0 
-ID001353  #忠信
-#DFBZ_XINGEE_TRUSTING:0 
-ID001354  #轻信他人
-#DFBZ_XINGEE_CRAVEN:0 
-ID001355  #懦弱
-#DFBZ_XINGEE_LAZY:0 
-ID001356  #懒惰
-#DFBZ_XINGEE_CONTENT:0 
-ID001357  #安于现状
-#DFBZ_XINGEE_GREEDY:0 
-ID001358  #贪婪
-#DFBZ_XINGEE_TEMPERATE:0 
-ID001359  #节制
-#DFBZ_XINGEE_WRATHFUL:0 
-ID001360  #暴怒
-#DFBZ_XINGEE_HUMBLE:0 
-ID001361  #谦卑
-#DFBZ_XINGEE_COMPASSIONATE:0 
-ID001362  #慈悲
-#DFBZ_XINGEE_CALLOUS:0 
-ID001363  #冷酷
-#DFBZ_XINGEE_SADISTIC:0 
-ID001364  #虐待狂
-#DFBZ_XINGEE_VENGEFUL:0 
-ID001365  #睚眦必报
-#DFBZ_XINGEE_FORGIVING:0 
-ID001366  #宽宏大量
-
-
-xinzeng_youmu_ai_000_001_decision:0 
-ID001367 游牧ai发展方向：通用（文化交流，技术革新)(加buff，偷革新)。
-ID001368 文化交流，技术革新
-ID001369 文化交流，技术革新
-ID001370 游牧ai发展方向：通用（贸易通商)
-ID001371 游牧ai发展方向：通用（贸易通商)。
-ID001372 贸易通商
-ID001373 贸易通商
-ID001374 游牧ai发展方向：通用（征服/快速吃地)
-ID001375 游牧ai发展方向：通用（征服/快速吃地)。
-ID001376 征服/快速吃地
-ID001377 征服/快速吃地
-ID001378 游牧ai发展方向：帝国式征服者（加buff）
-ID001379 这类政权以强大的军事力量和领导力为特征，往往通过征服周边地区来建立广大的帝国。\n蒙古帝国是典型的帝国式征服者。成吉思汗及其后继者统一了蒙古草原，迅速征服了亚洲和欧洲大片领土，建立了一个庞大的帝国。
-ID001380 战争
-ID001381 战争
-ID001382 游牧ai发展方向：帝国式征服者（ai策略）
-ID001383 这类政权以强大的军事力量和领导力为特征，往往通过征服周边地区来建立广大的帝国。\n蒙古帝国是典型的帝国式征服者。成吉思汗及其后继者统一了蒙古草原，迅速征服了亚洲和欧洲大片领土，建立了一个庞大的帝国。
-ID001384 策略
-ID001385 策略
-ID001386 游牧ai发展方向：帝国式征服者（ai应对派系）
-ID001387 这类政权以强大的军事力量和领导力为特征，往往通过征服周边地区来建立广大的帝国。\n蒙古帝国是典型的帝国式征服者。成吉思汗及其后继者统一了蒙古草原，迅速征服了亚洲和欧洲大片领土，建立了一个庞大的帝国。
-ID001388 应对派系
-ID001389 应对派系
-ID001390 游牧ai发展方向：帝国式征服者（ai迫害封臣）
-ID001391 这类政权以强大的军事力量和领导力为特征，往往通过征服周边地区来建立广大的帝国。\n蒙古帝国是典型的帝国式征服者。成吉思汗及其后继者统一了蒙古草原，迅速征服了亚洲和欧洲大片领土，建立了一个庞大的帝国。
-ID001392 迫害封臣
-ID001393 迫害封臣
-ID001394 游牧ai发展方向：帝国式征服者（征服/快速吃地)
-ID001395 游牧ai发展方向：帝国式征服者（征服/快速吃地)。
-ID001396 征服/快速吃地
-ID001397 征服/快速吃地
-ID001398 游牧ai发展方向：文化传承者（加buff）
-ID001399 这类政权在征服过程中，通常会保留并传承原有的文化、语言和宗教，促使不同文化的融合。\n突厥汗国是一个文化传承#者。突厥汗国在征服中亚地区时，保留了原有的突厥文化和语言，并在统治地区推广突厥文化。
-ID001400 传承
-ID001401 传承
-ID001402 游牧ai发展方向：外交与同盟者（加buff）
-ID001403 这类政权可能更倾向于通过外交手段，与周边政权建立同盟关系，以维护自身的利益和稳定。\n花刺子模汗国在中亚地区采取了灵活的外交政策，通过与伊斯兰教国家建立同盟来维护自身的地位。
-ID001404 外交
-ID001405 外交
-ID001406 游牧ai发展方向：外交与同盟者（ai外交策略）
-ID001407 这类政权可能更倾向于通过外交手段，与周边政权建立同盟关系，以维护自身的利益和稳定。\n花刺子模汗国在中亚地区采取了灵活的外交政策，通过与伊斯兰教国家建立同盟来维护自身的地位。
-ID001408 外交
-ID001409 外交
-ID001410 疲惫行军
+ID001302 #T 协助城建#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('006_xinzeng_zhuangbei_008_modifier').GetNameWithTooltip]修正，为期#V 5年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$你未处于[war|lE]\n$EFFECT_LIST_BULLET$[prestige_level|E]#V 大于等于#!$prestige_level_2$\n\n与其让驻军整日训练，不如征调其中部分成员参与地产建设。
+ID001303 驻军征税
+ID001304 #T 驻军征税#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('006_xinzeng_zhuangbei_009_001_modifier').GetNameWithTooltip]修正，为期#V 5年#!\n[regiment|E][stationed_holding|E]所在[county|E]获得[GetModifier('006_xinzeng_zhuangbei_009_002_modifier').GetNameWithTooltip]修正，为期#V 10年#!\n\n刺目的刀剑比和蔼的征税官有用，多出来的油水可以填饱某人的胃口。
+ID001305 巡视牧场
+ID001306 #T 巡视牧场#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('006_xinzeng_zhuangbei_010_modifier').GetNameWithTooltip]修正，为期#V 5年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$[regiment|E][stationed_holding|E]所在[barony|E]为#V 草原#![terrain|lE]\n$EFFECT_LIST_BULLET$你未处于[war|lE]\n\n为确保草场状况的万无一失，我们需要派出骑兵于此地反复巡视。
+ID001307 组织劫掠
+ID001308 #T 组织劫掠#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('006_xinzeng_zhuangbei_011_001_modifier').GetNameWithTooltip]修正，为期#V 10年#!\n你获得[GetModifier('006_xinzeng_zhuangbei_011_002_modifier').GetNameWithTooltip]修正，为期#V 15年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$[regiment|E][stationed_holding|E]处拥有[GetBuilding('war_camps_01').GetName]或者它的升级版\n$EFFECT_LIST_BULLET$[government|E]为[GetGovernment( 'tribal_government' ).GetName]\n\n将劫掠技能传之后人是部落生存与壮大的关键。
+ID001309 切舍御免
+ID001310 #T 切舍御免#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('006_xinzeng_zhuangbei_012_001_modifier').GetNameWithTooltip]修正，为期#V 20年#!\n你获得[GetModifier('006_xinzeng_zhuangbei_012_002_modifier').GetNameWithTooltip]修正，为期#V 20年#!\n[regiment|E][stationed_holding|E]所在[county|E]获得[GetModifier('006_xinzeng_zhuangbei_012_003_modifier').GetNameWithTooltip]修正，为期#V 20年#!\n你的所有[knights|E]：@dread_icon! + 5\n\n平民对武士存在难以忍受的冒犯行为时后者可以将其斩杀而不负罪责。
+ID001311 征召兵包括牧民、游荡的猎人、当地佣兵以及落魄贵族——他们数量庞大，大多骑马作战，构成了军队的主体。
+ID001312 征召兵包括农民兵、地痞、当地佣兵以及落魄贵族，装备着五花八门的工具和东拼西凑的武器——他们数量庞大，构成了大部分军队的主体。
+ID001313 征召兵包括农民兵、地痞、当地佣兵以及落魄贵族，装备着五花八门的工具和东拼西凑的武器——他们数量庞大，构成了大部分军队的主体。
+ID001314 圣战士
+ID001315 圣战士
+ID001316 劫掠者
+ID001317 劫掠者
+ID001318 部落冠军
+ID001319 部落冠军
+ID001320 $EFFECT_LIST_BULLET$该[acclaimed_knight|E]获得[GetModifier('accolade_dfbz_xinzeng_0003_buff_modifier').GetNameWithTooltip]，其领主\n麾下随机一位非统治者[knights|E]获得[GetTrait('wounded_2').GetName( GetNullCharacter )]
+ID001321 农民领袖
+ID001322 农民领袖
+ID001323 百战老农
+ID001324 [retinue_maa|E]\n#F 汇集于农民领袖麾下的百战老农，战斗经验丰富。#!
+ID001325 #color_red 不可用：[GetMaA#('accolade_maa_0004_attribute_nongmin_jun').#GetName]（需要主要[accolade_type|E]）#!
+ID001326 游牧ai发展方向：通用（文化交流，技术革新)(加buff，偷革新)
+ID001327 游牧ai发展方向：通用（文化交流，技术革新)(加buff，偷革新)。
+ID001328 文化交流，技术革新
+ID001329 文化交流，技术革新
+ID001330 游牧ai发展方向：通用（贸易通商)
+ID001331 游牧ai发展方向：通用（贸易通商)。
+ID001332 贸易通商
+ID001333 贸易通商
+ID001334 游牧ai发展方向：通用（征服/快速吃地)
+ID001335 游牧ai发展方向：通用（征服/快速吃地)。
+ID001336 征服/快速吃地
+ID001337 征服/快速吃地
+ID001338 游牧ai发展方向：帝国式征服者（加buff）
+ID001339 这类政权以强大的军事力量和领导力为特征，往往通过征服周边地区来建立广大的帝国。\n蒙古帝国是典型的帝国式征服者。成吉思汗及其后继者统一了蒙古草原，迅速征服了亚洲和欧洲大片领土，建立了一个庞大的帝国。
+ID001340 战争
+ID001341 战争
+ID001342 游牧ai发展方向：帝国式征服者（ai策略）
+ID001343 这类政权以强大的军事力量和领导力为特征，往往通过征服周边地区来建立广大的帝国。\n蒙古帝国是典型的帝国式征服者。成吉思汗及其后继者统一了蒙古草原，迅速征服了亚洲和欧洲大片领土，建立了一个庞大的帝国。
+ID001344 策略
+ID001345 策略
+ID001346 游牧ai发展方向：帝国式征服者（ai应对派系）
+ID001347 这类政权以强大的军事力量和领导力为特征，往往通过征服周边地区来建立广大的帝国。\n蒙古帝国是典型的帝国式征服者。成吉思汗及其后继者统一了蒙古草原，迅速征服了亚洲和欧洲大片领土，建立了一个庞大的帝国。
+ID001348 应对派系
+ID001349 应对派系
+ID001350 游牧ai发展方向：帝国式征服者（ai迫害封臣）
+ID001351 这类政权以强大的军事力量和领导力为特征，往往通过征服周边地区来建立广大的帝国。\n蒙古帝国是典型的帝国式征服者。成吉思汗及其后继者统一了蒙古草原，迅速征服了亚洲和欧洲大片领土，建立了一个庞大的帝国。
+ID001352 迫害封臣
+ID001353 迫害封臣
+ID001354 游牧ai发展方向：帝国式征服者（征服/快速吃地)
+ID001355 游牧ai发展方向：帝国式征服者（征服/快速吃地)。
+ID001356 征服/快速吃地
+ID001357 征服/快速吃地
+ID001358 游牧ai发展方向：外交与同盟者（加buff）
+ID001359 这类政权可能更倾向于通过外交手段，与周边政权建立同盟关系，以维护自身的利益和稳定。\n花刺子模汗国在中亚地区采取了灵活的外交政策，通过与伊斯兰教国家建立同盟来维护自身的地位。
+ID001360 外交
+ID001361 外交
+ID001362 游牧ai发展方向：外交与同盟者（ai外交策略）
+ID001363 这类政权可能更倾向于通过外交手段，与周边政权建立同盟关系，以维护自身的利益和稳定。\n花刺子模汗国在中亚地区采取了灵活的外交政策，通过与伊斯兰教国家建立同盟来维护自身的地位。
+ID001364 外交
+ID001365 外交
+ID001366 该死，他们已经做好了迎敌准备！
+ID001367 外交博弈：停战协议
+ID001368 以外交手段与[recipient.GetTitledFirstName]商定预防性[truce|E]
+ID001369 [recipient.GetShortUIName|U]是帝国式征服者：$VALUE|=+0$
+ID001370 外交博弈：$VALUE|=+0$
 

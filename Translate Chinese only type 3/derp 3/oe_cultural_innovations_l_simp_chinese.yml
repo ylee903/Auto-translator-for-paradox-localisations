@@ -1,0 +1,2010 @@
+﻿l_simp_chinese:
+
+ #NEW
+ tradition_yues_name:0 "百越雄心"
+ tradition_yues_desc:0 "百越泛指东亚沿海即大河边栖息的族群，他们曾是东亚大陆最早的定居者。"
+
+ tradition_java_warriors_name:0 "千岛之王"
+ tradition_java_warriors_desc:0 "南岛诸族穿梭于千万岛屿，同潮汐与风暴朝昔相伴，主宰着日光之下的海域。"
+ 
+ tradition_tunguse_name:0 "白山黑水"
+ tradition_tunguse_desc:0 "兴安岭、长白山、嫩江和黑龙江流域滋养着诸多部落，在柳树娘娘的庇佑下，他们滋生壮大，并一波波走出森林。"
+
+ innovation_nanman_group:0 "丛林之主"
+ innovation_nanman_group_desc:0 "从哀牢山到武夷山，散布着剽勇的采猎族群，蚩尤争霸中原之事已成传说，而他们从未遗落光荣。"
+
+ tradition_yamato_name:0 "武运昌隆"
+ tradition_yamato_desc:0 "大和人坚信，从神话时代起，自己受命于天；落花一瞬，哀乐有时，抚琴千日，剑心合一。"
+
+ innovation_goryeo_group:0 "山高水丽"
+ innovation_goryeo_group_desc:0 "与中原史官认定的濊貊族系不同，高丽诸族自诩檀君之后，并曾由扶余后裔的高句丽中兴。"
+ 
+ innovation_mongolic_group:0 "苍狼白鹿"
+ innovation_mongolic_group_desc:0 "敕勒川，阴山下。天似穹庐，笼盖四野。天苍苍，野茫茫。风吹草低见牛羊。"
+ 
+ tradition_chinese_succession_name:0 "宗法传统"
+ tradition_chinese_succession_desc:0 "为了大规模密集劳作，人们聚族繁衍，厚生重死，在宗族的约束中生活，父辈拥有至高的权威，奉行家族嫡长子世袭制，不得毁伤肌体，首先孝敬亲族进而推己及人，违反宗法者则人尽可鄙。"
+ culture_parameter_can_have_tradition_succession_law:0 "实行可指认继承人的嫡长子世袭制"
+
+ innovation_centralization_of_authority:0 "车书万里"
+ innovation_centralization_of_authority_desc:0 "车同轨、书同文、行同伦。早熟的大一统中央集权制度，可以组织大规模生产，而至高无上的皇权占有和处置一切。"
+ 
+ culture_parameter_unlock_maa_mangudai:0 "可以招募[GetMaA('mangudai').GetName][men_at_arms|E]"
+ culture_parameter_unlock_maa_asia_tunguse_ss:0 "可以招募[GetMaA('asia_tunguse_ss').GetName][men_at_arms|E]"
+ culture_parameter_unlock_maa_samurai:0 "可以招募[GetMaA('samurai').GetName][men_at_arms|E]"
+ culture_parameter_unlock_maa_java_warrior:0 "可以招募[GetMaA('java_warrior').GetName][men_at_arms|E]"
+ culture_parameter_unlock_maa_china_east_ms:0 "可以招募[GetMaA('china_east_ms').GetName][men_at_arms|E]"
+ culture_parameter_unlock_maa_china_south_wd:0 "可以招募[GetMaA('china_south_wd').GetName][men_at_arms|E]"
+
+
+ innovation_world_cathay:0 "契丹军制"
+ innovation_world_cathay_desc:0 "太宗选天下精甲三十万为皮室军。初，太祖以行营为宫，选诸部豪健千馀人，置为腹心部……则皮室军自太祖时已有，即腹心部是也，太宗增多至三十万耳。"
+
+ innovation_battleships:0 "艨艟斗舰"
+ innovation_battleships_desc:0 "千寻铁锁沉江底，一片降幡出石头。"
+
+ innovation_outrigger_boats:0 "独木舟"
+ innovation_battleships_desc:0 "道不行，乘桴浮于海。"
+ 
+
+ innovation_target_region_liangjing:0 "两京禁卫"
+ innovation_target_region_liangjing_desc:0 "暂辍清斋出太常，空携诗卷赴甘棠。\n府公既有朝中旧，司马应容酒后狂。\n案牍来时唯署字，风烟入兴便成章。\n两京大道多游客，每遇词人战一场。"
+
+
+ innovation_china_east:0 "吴钩"
+ innovation_china_east_desc:0 "汉鼎不烹曹操肉，吴钩空断伍员头。"
+ innovation_china_north:0 "幽州良驹"
+ innovation_china_north_desc:0 "文法奸酋引骑兵，飞随银鹘弓刀满。"
+ innovation_world_asia_korea:0 "高丽猎手"
+ innovation_world_asia_korea_desc:0 "高丽其地，山广林丰；其人擅制围猎之器，尤擅制弓，盖以为军用，多良弓好手。"
+ innovation_china_south:0 "西蜀连弩"
+ innovation_china_south_desc:0 "昔闻天兵入西蜀，鞞鼓乱挝裂岩谷。"
+ innovation_china_centre:0 "中原军制"
+ innovation_china_centre_desc:0 "醉卧沙场君莫笑，古来征战几人回。"
+ innovation_china_west:0 "陌刀"
+ innovation_china_west_desc:0 "霜矛雪甲寒如水，候卒何由知首尾。"
+
+
+
+ innovation_xiakeshang:0 "下克上"
+ innovation_xiakeshang_desc:0 "在现有制度下运用各种手段让自己取代上级。"
+ innovation_wushijueqi:0 "武士崛起"
+ innovation_wushijueqi_desc:0 "武士们伴随着社会的混乱和皇权衰落的过程而出现。"
+ innovation_zuqing:0 "足轻"
+ innovation_zuqing_desc:0 "足轻是日本古代最低等的步兵之称呼，他们平常从事劳役，战时成为步卒。"
+ innovation_gaolishen:0 "高丽参"
+ innovation_gaolishen_desc:0 "大补元气，生津安神，上国独爱之。"
+ innovation_gaoligong:0 "高丽弓"
+ innovation_gaoligong_desc:0 "古高丽的最强战力，少有的亮点之一。"
+ innovation_biebanwu:0 "别班武"
+ innovation_biebanwu_desc:0 "高丽为对抗女真入侵而精心打造的对骑兵部队。"
+ archers_pursuit_add:0 "[archers|E][pursuit|E]"
+ innovation_mengguma:0 "蒙古马"
+ innovation_mengguma_desc:0 "蒙古马体形矮小，其貌不扬，头大颈短，体魄强健，胸宽鬃长，皮厚毛粗，能吃苦，适应能力强，能抵御西伯利亚暴雪；能扬蹄踢碎狐狼的脑袋。"
+ innovation_huihuqingqi:0 "回鹘轻骑"
+ innovation_huihuqingqi_desc:0 "回鹘人虽与突厥各部不和，但仍保有传统的牧居生活，他们借由当地所产的哈萨克马组成了强有力的骑兵部队，用以护卫陆上商队的安全。"
+ innovation_hasakema:0 "哈萨克马"
+ innovation_hasakema_desc:0 "产于天山北坡、准噶尔西部山地和阿尔泰山西段一带的马种。骨骼粗实、皮厚毛密，鬃、鬣、尾毛浓密，体型较粗重。外貌匀称，有良好的兼用型结构。是在粗放的群牧饲养条件下形成的一个古老地方马种。"
+
+ innovation_ximalayazhanshi:0 "喜马拉雅战士"
+ innovation_ximalayazhanshi_desc:0 "我们早已适应高原山地间崎岖的地形与稀薄的空气，外来者难以忍受这里的环境，更不足以对我们造成威胁。我们的战士穿梭于群山之间，俯瞰着入侵者一个个倒下。高原是上天赐予的屏障，外来者入藏举步维艰，但同时，我们的战士下到低地也会有严重的不良反应。"
+
+ innovation_hequma:0 "河曲马"
+ innovation_hequma_desc:0 "河曲马是一个古老而优良的地方马种，体形高大，背脊平坦，挽乘兼顾，持久耐劳，并且适应当地地理与生态环境和抗病能力强，早在秦汉时期就被作为战马使用，在历史上常用它作为贡礼。"
+ innovation_xianbeitieqi:0 "鲜卑铁骑"
+ innovation_xianbeitieqi_desc:0 "吐谷浑保留下来的鲜卑传统之一，自北魏孝文帝起，历任统治者都会悉心组建重装骑兵部队以震慑周边宵小。"
+ tuyuhunjiaqijuzhuang:0 "吐谷浑甲骑具装"
+ tuyuhunjiaqijuzhuang_flavor:0 "人马具甲的吐谷浑武士，保留着良好的鲜卑传统，是冲阵杀敌的好手。"
+
+ jiaqijuzhuang:0 "具装甲骑"
+ jiaqijuzhuang_flavor:0 "人马具甲的重装武士，依照古老的战斗传统冲阵杀敌。"
+
+ tujuezhongqibing:0 "突厥重骑兵"
+ tujuezhongqibing_flavor:0 "西突厥是马背上的民族，自突厥崛起时代保留下来的冶铁铸造工艺遇上中亚地区丰富的铁矿资源造就了这支名噪一时的重装骑兵部队，他们是草原上的恶狼，是周边文明的噩梦。"
+ ai_tujuezhongqibing:0 "突厥重骑兵"
+ ai_tujuezhongqibing_flavor:0 "西突厥是马背上的民族，自突厥崛起时代保留下来的冶铁铸造工艺遇上中亚地区丰富的铁矿资源造就了这支名噪一时的重装骑兵部队，他们是草原上的恶狼，是周边文明的噩梦。"
+
+ innovation_kuman_buluo:0 "库曼部落"
+ innovation_kuman_buluo_desc:0 "库曼人的联合之法无比强大，各个部族的强大骑兵均为我所用。"
+ kuman_jipuqieke:0 "库曼基普切克"
+ kuman_jipuqieke_flavor:0 "来自各个部族的轻装库曼骑兵，以其高机动性而著称。"
+
+ innovation_muzhi_weilan:0 "木制围栏"
+ innovation_muzhi_weilan_desc:0 "我们就地取材在定居点附近大量部署木制围栏，这能很好的阻拦入侵者的步伐。"
+
+ akesu:0 "阿克速"
+ akesu_flavor:0 "人马具甲的保加尔武士，以密集阵型发起冲锋，最大程度地发挥他们的力量和速度。"
+
+ mazhaer_qingqi:0 "昆诺" #（马扎尔轻骑）
+ mazhaer_qingqi_flavor:0 "轻装上阵的马扎尔战士，他们乘马踏来之时整个潘诺尼亚都为之颤抖。"
+ xiongyali_luowoshi:0 "洛沃什"
+ xiongyali_luowoshi_flavor:0 "英勇的披甲马扎尔骑士，既能在远处配合轻骑发射箭雨，又能在战阵焦灼时发起冲锋。"
+ xiongyali_wuzhuang_minbing:0 "武装民兵"
+ xiongyali_wuzhuang_minbing_flavor:0 "稍加训练，拥有简易武备的轮班民兵，队伍中混有少量弓箭手，但战斗力依旧不佳。"
+ xiongyali_saikaiyi_gongqibing:0 "塞凯伊弓骑兵"
+ xiongyali_saikaiyi_gongqibing_flavor:0 "久居潘诺尼亚的塞凯伊弓骑兵，是侧翼扰敌和追杀溃军的好手。"
+
+
+ jiaseni_war_elephant:0 "伽色尼战象"
+ jiaseni_war_elephant_flavor:0 "引进自印度的战争巨兽，经过长期的驯养与磨合逐渐适应了战场上的噪音与长矛，厚实的象皮配上全身防护的铁甲，他们能够无视猛烈的攻击并以万钧之势冲垮敌军。"
+ ai_jiaseni_war_elephant:0 "伽色尼战象"
+ ai_jiaseni_war_elephant_flavor:0 "引进自印度的战争巨兽，经过长期的驯养与磨合逐渐适应了战场上的噪音与长矛，厚实的象皮配上全身防护的铁甲，他们能够无视猛烈的攻击并以万钧之势冲垮敌军。"
+ ai_01_jiaseni_war_elephant:0 "伽色尼战象"
+ ai_01_jiaseni_war_elephant_flavor:0 "引进自印度的战争巨兽，经过长期的驯养与磨合逐渐适应了战场上的噪音与长矛，厚实的象皮配上全身防护的铁甲，他们能够无视猛烈的攻击并以万钧之势冲垮敌军。"
+
+ innovation_wushidao:0 "武士道"
+ innovation_wushidao_desc:0 "毫不留念的死，毫不顾忌的死，毫不犹豫的死。"
+ innovation_yulie:0 "渔猎"
+ innovation_yulie_desc:0 "小到鱼虾鳖蟹贝、大到捕鲸，战海兽，这是一种古老的行当。"
+ innovation_zhucaoerju:0 "逐草而居"
+ innovation_zhucaoerju_desc:0 "古代游牧民族生活的主要特征之一，一生追逐草原，熟知草原上的所有事物。"
+# zhucaoerju_miaoshu:1 "[army|E][commander|E]拥有该[innovations|E]，且途经#V $草原$#!地区时，行军速度将大幅提升"
+ zhucaoerju_miaoshu:1 "该[culture|E]的角色带领[army|E]途经#V $草原$#!或#V $平原$#!时，行军速度将大幅提升"
+
+ innovation_miaojiangwugu:0 "苗疆巫蛊"
+ innovation_miaojiangwugu_desc:0 "先民的伟大智慧。"
+ innovation_dfwc_chiyouxuemai:0 "蚩尤血脉"
+ innovation_dfwc_chiyouxuemai_desc:0 "传说中制造兵器的人，又传为主兵之神，与黄帝、炎帝并称中华三祖 ，被诸多苗人认为祖先。其后衍生出的苗人之凶悍团结之精神为世人所赞叹。"
+
+ ayinubuzuzhanshi:0 "阿伊努部族战士"
+ ayinubuzuzhanshi_flavor:0 "阿伊努人自称“乌塔里”，即“伙伴”，他们珍视并肩作战的族人，并以此在日本列岛的诸多纷争中艰难求生。"
+
+
+ innovation_dongbeiya_qisheshou:0 "东北亚骑射手"
+ innovation_dongbeiya_qisheshou_desc:0 "充分适应东北亚茂密森林的骑射战士，比之草原上的其他游牧势力更加适应当地战争环境。"
+
+ dongbeiya_qisheshou:0 "骑射手"
+ dongbeiya_qisheshou_flavor:0 "充分适应东北亚茂密森林的骑射战士，比之草原上的其他游牧势力更加适应当地战争环境。"
+
+ 
+ fangren:0 "防人"
+ fangren_flavor:0 "为防临国威胁，从边区农村招募的临时性兵士。"
+ wushi:0 "徒武者"
+ wushi_flavor:0 "杀人、抢劫、强盗即为武士。"
+ zuqing:0 "枪足轻"
+ zuqing_flavor:0 "平常从事劳役，战时成为步卒。"
+ tianhuangweidui:0 "北面武士"
+ tianhuangweidui_flavor:0 "驻在院御所北面之下，守护上皇、供奉御幸的武士。"
+ hegongshou:0 "和弓手"
+ hegongshou_flavor:0 "大和民族传统弓道在战场上的延续。"
+ tidaodui:0 "薙刀郎党"
+ tidaodui_flavor:0 "使用长而锋利的薙刀作为武器，在战场上或结阵阻敌或分散掩杀，是相当难缠的对手。"
+
+
+ tieyuanliehu:0 "高丽弓手"
+ tieyuanliehu_flavor:0 "娴熟的弓手与猎人，穿行于朝鲜半岛复杂的山地森林之间，运用高超的射击技术予以敌人痛击。"
+ gaoli_zuobiechao:0 "左别抄"
+ gaoli_zuobiechao_flavor:0 "技艺纯熟的带盾轻步兵，知道如何避开飞来的矢雨。"
+
+ biebanwu:0 "别班武"
+ biebanwu_flavor:0 "为对抗女真人所创的精锐重步兵部队，是对付骑兵的好手。"
+ hualang:0 "花郎"
+ hualang_flavor:0 "少年高丽贵族自幼习武，不仅射艺超群，容貌仪态更为世人所赞叹。"
+
+ jinjun:0 "禁军"
+ jinjun_flavor:0 "独属于皇帝的军队，职责是保卫皇宫以及皇帝本人，经过层层选拔，武艺极为高强。"
+ tang_beiya_jinjun:0 "北衙禁军"
+ tang_beiya_jinjun_flavor:0 "拱卫京师的强军劲旅。"
+ yulinjun:0 "羽林军"
+ yulinjun_flavor:0 "直属于帝王，担任护卫帝王或皇宫、首都警备任务的军队。"
+ xiangjun:0 "厢军"
+ xiangjun_flavor:0 "属地方常备军，是禁军主要的来源之一。"
+ fanzhenjun:0 "藩镇兵"
+ fanzhenjun_flavor:0 "各道节度使，都团练使统领的藩镇军团。"
+ bianjun:0 "边军"
+ bianjun_flavor:0 "为防外敌，征募诸边镇军户参战。"
+ difangjun:0 "地方军"
+ difangjun_flavor:0 "各地自行征募的兵卒，质量良莠不齐。"
+ china_modao_ai:0 "陌刀队"
+ china_modao_ai_flavor:0 "陌刀队。"
+
+ xiangyong:0 "乡勇"
+ xiangyong_flavor:0 "临时招募的地方乡兵，随军战守，各自成营。"
+
+ miaorenwushi:0 "苗人武士"
+ miaorenwushi_flavor:0 "苗人全民皆兵，遇到突发的战事，苗人武士便会自发携带武器粮食在他们的“老虎汉”（武士首领）的率领下奔赴战场。"
+
+ shuibu_shi:0 "水步师"
+ shuibu_shi_flavor:0 "由擅长水战的南方步兵组成，负责水陆并进，保卫河道交通。必要时沿河网密道穿插深入，给予敌军意外打击。"
+
+ xiang_jiashi:0 "象甲士"
+ xiang_jiashi_flavor:0 "身披厚重象皮战甲的精英战士，不惧敌人的连天箭雨。"
+
+ innovation_wulumi_ruanjian:0 "乌鲁米软剑"
+ innovation_wulumi_ruanjian_desc:0 "达嚫印度的传统武术之一，以其迅捷的速度和高超的技巧而闻名。"
+ wulumi_jianshi:0 "乌鲁米剑士"
+ wulumi_jianshi_flavor:0 "善用软剑的达罗毗荼战士，以极快的速度突入敌阵，对范围内敌人造成巨额伤害。"
+
+ laqipute_zhanshi:0 "罗阇普特战士"
+ laqipute_zhanshi_flavor:0 "骑马作战的刹帝利战士，拉其普特人的弯刀会准确落到敌人头顶。"
+ nayaer_bubing:0 "纳亚尔步兵"
+ nayaer_bubing_flavor:0 "长期修习卡拉里帕亚特武术的达嚫印度战士，手持长矛、默契配合。" #卡拉里帕亚特武术：Kalarippayat
+
+ sengjialuo_jinweijun:0 "僧伽罗近卫军"
+ sengjialuo_jinweijun_flavor:0 "忠勇无畏的僧伽罗近卫军团，竭力护卫领主周全。"
+
+ innovation_conglinzhizhua:0 "丛林之爪"
+ innovation_conglinzhizhua_desc:0 "我们模仿丛林之王老虎的爪子制成了这一强大武器——爪刃。"
+ zhuaren_zhanshi:0 "爪刃战士"
+ zhuaren_zhanshi_flavor:0 "南岛茂密丛林中潜伏的魅影，使用迅捷的爪刃割开敌人的咽喉。"
+
+ caoyuanyoumumin:0 "草原游骑"
+ caoyuanyoumumin_flavor:0 "#F 饥肠辘辘的牧人结伴而行，不放过任何填饱肚子的机会#。"
+ caoyuanyoumumin_shijian:0 "草原游骑"
+ caoyuanyoumumin_shijian_flavor:0 "#F 饥肠辘辘的牧人结伴而行，不放过任何填饱肚子的机会#。"
+
+ huihuqingqi:0 "回鹘轻骑"
+ huihuqingqi_flavor:0 "#F 由回鹘武士组成的骑兵部队，弓马娴熟#。"
+
+ zanpuweishubu:0 "赞普卫戍部"
+ zanpuweishubu_flavor:0 "#F 赞普的精锐卫戍部队，由吐蕃本部执行军事任务的高等属民"桂"组成。#。"
+ zanpuweishubu_ai:0 "赞普卫戍部"
+ zanpuweishubu_ai_flavor:0 "#F 赞普的精锐卫戍部队，由吐蕃本部执行军事任务的高等属民"桂"组成。#。"
+ wuruguiqibing:0 "五茹桂骑兵"
+ wuruguiqibing_flavor:0 "#F 由吐蕃本部执行军事任务的高等属民"桂"组成，装备精良，人马具甲的吐蕃精锐重骑兵。游走于高原之上，时刻准备予以敌人痛击#。"
+ yongdongdaihuchi:0 "庸东岱护持"
+ yongdongdaihuchi_flavor:0 "#F 由主要从事农牧业，身份低下的"庸"组成的轻装步兵。善使长矛与投石索，游走绕后、骚扰截击是他们的主要作战方式#。"
+
+ culture_parameter_unlock_maa_wushi:0 "可以招募[GetMaA('wushi').GetName]作为[men_at_arms|E]"
+ culture_parameter_unlock_maa_zuqing:0 "可以招募[GetMaA('zuqing').GetName]作为[men_at_arms|E]"
+
+
+
+
+ tradition_hanyongwushuang_name:0 "悍勇无双"
+ tradition_hanyongwushuang_desc:1 "只有强者才配活下去。"
+ culture_parameter_brave_trait_more_common:0 "[GetTrait('brave').GetName( GetNullCharacter )][trait|E]更加常见"
+ culture_parameter_strong_trait_more_common:0 "[GetTrait('strong').GetName( GetNullCharacter )][trait|E]更加常见"
+ culture_parameter_blademaster_1_trait_more_common:0 "[GetTrait('blademaster_1').GetName( GetNullCharacter )][trait|E]更加常见"
+ culture_parameter_blademaster_2_trait_more_common:0 "[GetTrait('blademaster_2').GetName( GetNullCharacter )][trait|E]更加常见"
+ culture_parameter_blademaster_3_trait_more_common:0 "[GetTrait('blademaster_3').GetName( GetNullCharacter )][trait|E]更加常见"
+ culture_parameter_physique_good_1_trait_more_common:0 "[GetTrait('physique_good_1').GetName( GetNullCharacter )][trait|E]更加常见"
+ culture_parameter_physique_good_2_trait_more_common:0 "[GetTrait('physique_good_2').GetName( GetNullCharacter )][trait|E]更加常见"
+ culture_parameter_physique_good_3_trait_more_common:0 "[GetTrait('physique_good_3').GetName( GetNullCharacter )][trait|E]更加常见"
+ culture_parameter_content_trait_more_common:0 "[GetTrait('content').GetName( GetNullCharacter )][trait|E]更加常见"
+ culture_parameter_ambitious_trait_more_common:0 "[GetTrait('ambitious').GetName( GetNullCharacter )][trait|E]更加常见"
+ tradition_zhanzhengyishu_name:0 "战争艺术"
+ tradition_zhanzhengyishu_desc:1 "战争是门艺术，赢家通吃，输家一无所有。"
+ tradition_anxianzide_name:0 "安闲自得"
+ tradition_anxianzide_desc:1 "生命很重要，快乐更重要。"
+ culture_have_courtly:1 "该[culture|E]有$ethos_courtly_name$的[ethos|E]"
+ tradition_qishishourong_name:0 "骑士收容"
+ tradition_qishishourong_desc:1 "骄傲的骑士总是不善于经营自家地产，落魄的他们选择了完全依附于其他富裕的统治者。"
+ luopoqishi:0 "落魄骑士"
+ luopoqishi_flavor:0 "落魄到除了一身武力别无所有的封建骑士，带领一小队侍从依附在富裕的统治者治下，奢望着再次发迹的一天。"
+ culture_parameter_unlock_maa_luopoqishi:0 "可以招募[GetMaA('luopoqishi').GetName]作为[men_at_arms|E]"
+ not_spiritual_desc:0 "该[culture|E]没有$ethos_spiritual_name$的[ethos|E]"
+ lushangshangdui:0 "陆上商队"
+ lushangshangdui_flavor:0 "驼铃声声，岁月悠悠，陆路的贯通催生出了大批的商人，他们走在荒渺的黄沙之间，带来无数异域珍宝。"
+ lushangshangdui_ai:0 "陆上商队"
+ lushangshangdui_ai_flavor:0 "驼铃声声，岁月悠悠，陆路的贯通催生出了大批的商人，他们走在荒渺的黄沙之间，带来无数异域珍宝。"
+
+ binghaizhanshi:0 "冰海战士"
+ binghaizhanshi_flavor:0 "冰洋翻涌，带来了可怕的毁灭者。"
+ culture_parameter_unlock_maa_lushangshangdui:0 "可以招募[GetMaA('lushangshangdui').GetName]作为[men_at_arms|E]"
+ culture_parameter_unlock_maa_binghaizhanshi:0 "可以招募[GetMaA('binghaizhanshi').GetName]作为[men_at_arms|E]"
+ tradition_silafukuozhangzhuyi_name:0 "斯拉夫扩张主义"
+ tradition_silafukuozhangzhuyi_desc:1 "斯拉夫人特有的开拓精神，地处苦寒所以向往温软，矛盾重重所以需要扩张。"
+ tradition_binghaizhanji_name:0 "冰海战记"
+ tradition_binghaizhanji_desc:1 "血与冰的赞歌，冰海永存。"
+
+ tradition_menganmouke_name:0 "猛安谋克"
+ tradition_menganmouke_desc:1 "这些原始社会后期由于征掠、围猎的需要而设的军事首领，随着时间的推移逐渐发展为了固定的军事组织。"
+ culture_parameter_menganmouke_cbs: "[casus_belli|E]花费：[prestige_i]#P -30%#!
+
+ tradition_jiaqijuzhuang_name:0 "甲骑具装"
+ tradition_jiaqijuzhuang_desc:1 "人马具甲的武士是战争的主宰，他们以摧枯拉朽之势横扫万钧。"
+ culture_parameter_unlock_maa_jiaqijuzhuang: "可以招募[GetMaA('jiaqijuzhuang').GetName][men_at_arms|E]"
+ culture_parameter_jiesuo_xunhao_jiaqi_juntou:0 "该[culture|E]的[knights|E]有资格获得[GetAccoladeType('dfbz_xinzeng_0005_attribute').GetName][accolades|E]" 
+ dfbz_xinzeng_0005_attribute:0 "甲骑军头"
+ accolade_dfbz_xinzeng_0005:0 "甲骑军头"
+ accolade_maa_0005_001_attribute_jiaqijuzhuang:0 "先锋具装甲骑"
+ accolade_maa_0005_001_attribute_jiaqijuzhuang_flavor:1 "[retinue_maa|E]\n#F 跟随军头陷阵冲锋的精锐甲骑，作为矛头直插敌军要害。#!"
+ ai_accolade_maa_0005_001_attribute_jiaqijuzhuang:0 "先锋具装甲骑"
+ ai_accolade_maa_0005_001_attribute_jiaqijuzhuang_flavor:1 "[retinue_maa|E]\n#F 跟随军头陷阵冲锋的精锐甲骑，作为矛头直插敌军要害。#!"
+ accolade_maa_0005_002_attribute_jiaqijuzhuang:0 "亲卫具装甲骑"
+ accolade_maa_0005_002_attribute_jiaqijuzhuang_flavor:1 "[retinue_maa|E]\n#F 护卫战阵核心的精锐甲骑，若有必要，亦可对敌军进行毁灭性 击。  #!"
+
+ dfbz_xinzeng_0006_attribute:0 "横冲都将"
+ accolade_dfbz_xinzeng_0006:0 "横冲都将"
+ accolade_maa_0006_001_attribute_hengchongdu:0 "横冲都"
+ accolade_maa_0006_001_attribute_hengchongdu_flavor:1 "[retinue_maa|E]\n#F 运用重装甲骑抓住敌军转瞬之间的破绽并发起猛烈冲击，以此达到一击制敌的效果。#!"
+ ai_accolade_maa_0006_001_attribute_hengchongdu:0 "横冲都"
+ ai_accolade_maa_0006_001_attribute_hengchongdu_flavor:1 "[retinue_maa|E]\n#F 运用重装甲骑抓住敌军转瞬之间的破绽并发起猛烈冲击，以此达到一击制敌的效果。#!"
+ accolade_maa_0006_002_attribute_hengchongdu:0 "横冲都"
+ accolade_maa_0006_002_attribute_hengchongdu_flavor:1 "[retinue_maa|E]\n#F 运用重装甲骑抓住敌军转瞬之间的破绽并发起猛烈冲击，以此达到一击制敌的效果。#!"
+
+ dfbz_xinzeng_0007_attribute:0 "长剑都将"
+ accolade_dfbz_xinzeng_0007:0 "长剑都将"
+ accolade_maa_0007_001_attribute_changjiandu:0 "长剑都"
+ accolade_maa_0007_001_attribute_changjiandu_flavor:1 "[retinue_maa|E]\n#F 手持巨型陌刀的无双悍将，顷刻间斩敌于马下。#!"
+ ai_accolade_maa_0007_001_attribute_changjiandu:0 "长剑都"
+ ai_accolade_maa_0007_001_attribute_changjiandu_flavor:1 "[retinue_maa|E]\n#F 手持巨型陌刀的无双悍将，顷刻间斩敌于马下。#!"
+ accolade_maa_0007_002_attribute_changjiandu:0 "长剑都"
+ accolade_maa_0007_002_attribute_changjiandu_flavor:1 "[retinue_maa|E]\n#F 手持巨型陌刀的无双悍将，顷刻间斩敌于马下。#!"
+ accolade_maa_0007_003_attribute_changjiandu:0 "长剑都"
+ accolade_maa_0007_003_attribute_changjiandu_flavor:1 "[retinue_maa|E]\n#F 手持巨型陌刀的无双悍将，顷刻间斩敌于马下。#!"
+
+ dfbz_xinzeng_0008_attribute:0 "牙将"
+ accolade_dfbz_xinzeng_0008:0 "牙将"
+ yajiang_xunhao_xiaoguo_001:0 "$EFFECT_LIST_BULLET$解锁#V 部分#!牙将任务[decision|E]\n$EFFECT_LIST_BULLET$小幅提升任务完成度"
+ yajiang_xunhao_xiaoguo_002:0 "$EFFECT_LIST_BULLET$解锁#V 多数#!牙将任务[decision|E]\n$EFFECT_LIST_BULLET$中幅提升任务完成度"
+ yajiang_xunhao_xiaoguo_003:0 "$EFFECT_LIST_BULLET$解锁#V 全部#!牙将任务[decision|E]\n$EFFECT_LIST_BULLET$大幅提升任务完成度"
+
+
+ world_steppe_cathay:0 "契丹"
+
+ culture_parameter_unlock_maa_nvzhen_mouke:0 "可以招募[GetMaA('nvzhen_mouke').GetName]作为[men_at_arms|E]"
+ culture_parameter_menganmouke_shouyutouxian_xiaoguo:0 "赐予你手下的$jurchen$[knights|E]土地将大幅增加他们的战斗意志，\n但长期的安逸生活亦会很快将他们腐蚀。" 
+# [GetPlayer.Custom( 'KnightCulture' )]
+ nvzhen_mouke:0 "谋克"
+ nvzhen_mouke_flavor:0 "经过精挑细选、层层选拔的精英战士，他们无不是各个部族中征掠、围猎的好手。"
+ nvzhen_mouke_ai:0 "谋克"
+ nvzhen_mouke_ai_flavor:0 "经过精挑细选、层层选拔的精英战士，他们无不是各个部族中征掠、围猎的好手。"
+ must_be_feudal:0 "你必须拥有[feudal|E][government|E]"
+ culture_parameter_silafukuozhangzhuyi_cbs:0 "[casus_belli|E]花费：[prestige_i]#P -40%#! "
+ culture_parameter_minfengbiaohan_cbs:0 "[casus_belli|E]花费：[prestige_i]#P -40%#! "
+
+ sudanweidui:0 "苏丹卫队"
+ sudanweidui_flavor:0 "一支由苏丹亲信组成的可靠卫队，平日里也为苏丹做些见不得光的工作 "
+
+
+
+ innovation_qishichuantong:0 "骑士传统"
+ innovation_qishichuantong_desc:0 "法国广袤的平原是骑士的主战场，这里孕育了整个中世纪最最凶悍的骑士兵团"
+
+ innovation_sudanweidui:0 "亲卫队"
+ innovation_sudanweidui_desc:0 "强大的统治者往往需要一支可靠的亲卫队应对各种突发状况，并且这些人最好值得信赖。"
+ alabo_chifu_jinwei:0 "持斧近卫"
+ alabo_chifu_jinwei_flavor:0 "#F 长斧是权力的象征，亦是力量的象征。这支近卫军属于一位强大的统治者#。"
+
+ innovation_futejia:0 "伏特加"
+ innovation_futejia_desc:0 "生命之水，罗斯民族的骄傲"
+ innovation_minfengbiaohan:0 "民风彪悍"
+ innovation_minfengbiaohan_desc:0 "文明蒙昧，民风彪悍，原始的欲望充斥在每个人心中"
+
+ innovation_houzijia:0 "瘊子甲"
+ innovation_houzijia_desc:0 "羌人善锻甲，凡锻甲之法，其始甚厚，不用火，冷锻之，比元厚三分减二乃成。其末留箸头许不锻，隐然如瘊子，欲以验未锻时厚薄，如浚河留土笋也，谓之“瘊子甲”。强弩射之，不能入."
+ innovation_hengshanqiang:0 "横山羌"
+ innovation_hengshanqiang_desc:0 "广泛存在于西北山区的羌人部族，以卓绝的越野能力纵横于群山之间。"
+ innovation_dangxiangma:0 "党项马"
+ innovation_dangxiangma_desc:0 "党项族居住的地斤泽、横山、天都山一带都是著名产马地区。马多而品种优良，唐代诗人元稹有“北买党项马，西擒吐蕃鹦”之句。宋人更是称誉党项马为天下之最。"
+ innovation_lengduangang:0 "冷锻钢"
+ innovation_lengduangang_desc:0 "党项人的锻钢技术超绝于世，世人以得到一把夏国剑为无上荣光。宋钦宗本人随身佩带的宝剑就是‘夏国剑’。苏东坡曾得到一把西夏剑，作诗云：‘红妆拥坐花照酒，青萍拔鞘堂生风。螺旋铓锷波起脊，白蛟双挟三蛟龙。试人一缕立褫魄，戏客三招森动容。’。"
+
+ innovation_langren:0 "浪人"
+ innovation_langren_desc:0 "为恢复昔日的权威而疯狂冒险，以天皇亲兵自居，到处以"爱国者" 的面目出现，因有一技之长而能量惊人。"
+ innovation_shenbigong:0 "神臂弓"
+ innovation_shenbigong_desc:0 "神臂弓一人可开,最大射程达四百米,能贯重甲。"
+ innovation_mazhengfeichi:0 "马政废弛"
+ innovation_mazhengfeichi_desc:0 "上层统治者的忽视加上下层官员的错误施政已经让中原马政陷入了积重难返的困境。"
+ innovation_baomafa:0 "保马法"
+ innovation_baomafa_desc:0 "中原无马可用的局面正式扭转，强有效的马政政策施行了起来，如果整套体系运转良好的话将泽披万世。"
+
+ innovation_shangyeminzu:0 "商业民族"
+ innovation_shangyeminzu_desc:0 "粟特人通过漫长的丝绸之路频繁往来于中亚与中国之间，从中世纪东西方贸易中攫取了大量财富。"
+ innovation_hegong:0 "和弓"
+ innovation_hegong_desc:0 "日本弓道所使用的一类长弓。标准的和弓长度约为七尺三寸。"
+ innovation_tidao:0 "薙刀"
+ innovation_tidao_desc:0 "薙刀是古代日本使用的一种长柄兵器，其刀幅较宽，刀刃部分有很大弧度。"
+
+ innovation_zhanchengdao:0 "占城稻"
+ innovation_zhanchengdao_desc:0 "出产于中南半岛的高产、早熟、耐旱的稻种，造福甚广。"
+
+ innovation_yinjinzhanchengdao:0 "引进占城稻"
+ innovation_yinjinzhanchengdao_desc:0 "引进出产于中南半岛高产、早熟、耐旱的占城稻，造福天下百姓。"
+
+ innovation_didawubo:0 "地大物博"
+ innovation_didawubo_desc:0 "生吾炎黄，育我华夏。待之有为，必报中华。"
+
+ innovation_heshuoqingqi:0 "河朔轻骑"
+ innovation_heshuoqingqi_desc:0 "自古燕地多武人，又处边塞，马匹贸易颇多，长期胡汉交杂下，良家子人人得骑。"
+
+ innovation_xinanma:0 "西南马"
+ innovation_xinanma_desc:0 "西南马性情灵敏而温驯，善于爬山，适于山地驮运，为高原山地的重要运输工具。"
+
+
+
+ baibaoxianbeiqi:0 "百保鲜卑骑"
+ baibaoxianbeiqi_flavor:0 "#F 甲骑具装中的佼佼者，常以少敌多而取得大胜，其战斗力之强悍冠古绝今，由以一当百的鲜卑武士组成#。"
+ yanyunshibaqi:0 "燕云十八骑"
+ yanyunshibaqi_flavor:0 "#F 传说中隋将罗艺所辖部队,在大漠中奔袭千里深入突厥腹地,一夜之间屠灭两万突厥人#。"
+ xiliangtieqi:0 "西凉铁骑"
+ xiliangtieqi_flavor:0 "#F 西凉铁骑作战彪悍凶狠，尤其适合沙漠戈壁的长距离持久奔袭作战。#。"
+ wengniute:0 "翁牛特"
+ wengniute_flavor:0 "#F 翁牛特意为“有王之民”，是铁木哥斡赤斤的直属部落。#。"
+ wuliangha:0 "兀良哈"
+ wuliangha_flavor:0 "#F 兀良哈是成吉思汗的名将者勒篾的后裔所率之部。#。"
+ wuyejite:0 "乌济业特"
+ wuyejite_flavor:0 "#F 乌济业特的起源可能是蒙古化的女真人。#。"
+ qiexue:0 "怯薛军"
+ qiexue_flavor:0 "#F 成吉思汗钦点的禁卫军，由百人的贴身护卫发展为一万人的勇猛军队，包括1千名宿卫，1千名弓箭手，8千名散班。#。"
+
+
+ guaizima:0 "拐子马"
+ guaizima_flavor:0 "#F 拐子马通常布置在两翼，利用其高度的机动性、以及集团冲锋时所产生的巨大冲击力，用以对敌军迂回包抄，而后突击。#。"
+ guaizima_ai:0 "拐子马"
+ guaizima_ai_flavor:0 "#F 拐子马通常布置在两翼，利用其高度的机动性、以及集团冲锋时所产生的巨大冲击力，用以对敌军迂回包抄，而后突击。#。"
+
+
+ tiefutu:0 "铁浮图"
+ tiefutu_flavor:0 "#F 铁浮图人马俱着重甲，堵墙而进，除长枪外身背长刀，铁棍，下马力战不落下风。#。"
+ tiefutu_ai:0 "铁浮图"
+ tiefutu_ai_flavor:0 "#F 铁浮图人马俱着重甲，堵墙而进，除长枪外身背长刀，铁棍，下马力战不落下风。#。"
+ dajin_hubuwei:0 "虎步卫"
+ dajin_hubuwei_flavor:0 "#F 精挑细选的铁浮图战士，他们身披重甲手持骨朵，步战时亦不落下风。#。"
+
+ tieyaozi:0 "铁鹞子"
+ tieyaozi_flavor:0 "#F 铁鹞子最初是西夏开国皇帝李元昊的亲兵部队，由近亲贵族子弟组成，乘善马，着重甲，对步兵杀伤极强。#。"
+ tieyaozi_ai_01:0 "铁鹞子"
+ tieyaozi_ai_01_flavor:0 "#F 铁鹞子最初是西夏开国皇帝李元昊的亲兵部队，由近亲贵族子弟组成，乘善马，着重甲，对步兵杀伤极强。#。"
+ tieyaozi_ai_02:0 "铁鹞子"
+ tieyaozi_ai_02_flavor:0 "#F 铁鹞子最初是西夏开国皇帝李元昊的亲兵部队，由近亲贵族子弟组成，乘善马，着重甲，对步兵杀伤极强。#。"
+ tieyaozi_ai_01_01:0 "铁鹞子"
+ tieyaozi_ai_01_01_flavor:0 "#F 铁鹞子最初是西夏开国皇帝李元昊的亲兵部队，由近亲贵族子弟组成，乘善马，着重甲，对步兵杀伤极强。#。"
+
+
+ bubazi:0 "横山步跋子"
+ bubazi_flavor:0 "#F 以横山羌人为主力的步跋子，耐力相比于同时期的汉人更强，抗寒能力更佳。广泛活跃于溪涧、山谷等高低起伏不平不利于骑兵机动的特定区域。在这些作战区域内，他们机动性极高，可以快速腾挪于战场各处。#。"
+ bubazi_ai_01:0 "横山步跋子"
+ bubazi_ai_01_flavor:0 "#F 以横山羌人为主力的步跋子，耐力相比于同时期的汉人更强，抗寒能力更佳。广泛活跃于溪涧、山谷等高低起伏不平不利于骑兵机动的特定区域。在这些作战区域内，他们机动性极高，可以快速腾挪于战场各处。#。"
+ bubazi_ai_02:0 "横山步跋子"
+ bubazi_ai_02_flavor:0 "#F 以横山羌人为主力的步跋子，耐力相比于同时期的汉人更强，抗寒能力更佳。广泛活跃于溪涧、山谷等高低起伏不平不利于骑兵机动的特定区域。在这些作战区域内，他们机动性极高，可以快速腾挪于战场各处。#。"
+ bubazi_ai_01_01:0 "横山步跋子"
+ bubazi_ai_01_01_flavor:0 "#F 以横山羌人为主力的步跋子，耐力相比于同时期的汉人更强，抗寒能力更佳。广泛活跃于溪涧、山谷等高低起伏不平不利于骑兵机动的特定区域。在这些作战区域内，他们机动性极高，可以快速腾挪于战场各处。#。"
+ dangxiangwushi:0 "党项武士"
+ dangxiangwushi_flavor:0 "#F 身批重装瘊子甲的党项武士，武艺高强，刀枪难入。#。"
+ dangxiangwushi_ai:0 "党项武士"
+ dangxiangwushi_ai_flavor:0 "#F 身批重装瘊子甲的党项武士，武艺高强，刀枪难入。#。"
+ dangxiangwushi_ai_01:0 "党项武士"
+ dangxiangwushi_ai_01_flavor:0 "#F 身批重装瘊子甲的党项武士，武艺高强，刀枪难入。#。"
+
+ xixia_yuweinei_001:0 "御围内六班具装直"
+ xixia_yuweinei_001_flavor:0 "#F 守备中央的西夏具装亲兵。#。"
+ xixia_jinnushi:0 "劲弩士"
+ xixia_jinnushi_flavor:0 "#F 面对关外游牧势力骚扰时，利用娴熟的射手筑起防线至关重要。#。"
+
+
+ mengguzhongqibing:0 "蒙古重骑兵"
+ mengguzhongqibing_flavor:0 "#F 世界征服者手中的苏鲁锭，毁灭了无数文明的可怖凶兽。#。"
+ mengguzhongqibing_ai:0 "蒙古重骑兵"
+ mengguzhongqibing_ai_flavor:0 "#F 世界征服者手中的苏鲁锭，毁灭了无数文明的可怖凶兽。#。"
+ manggudai:0 "忙古歹"
+ manggudai_flavor:0 "#F 无可匹敌的蒙古重装弓骑兵。#。"
+ shenbigongshou:0 "神臂弓手"
+ shenbigongshou_flavor:0 "#F 装备有神臂弓的精锐弓手部队，予以重甲敌军痛击。#。"
+ qindihanzu:0 "秦地悍卒"
+ qindihanzu_flavor:0 "#F 秦地恶，人多悍勇，结募成伍，可破阵。#。"
+ baierbing:0 "白毦兵"
+ baierbing_flavor:0 "#F 三国时期蜀国曾组织的精锐部队，主要由奔走于蜀地山林间的苗蛮异族构成。#。"
+
+
+ guiyilapbing:0 "归义老兵"
+ anxijun:0 "安西军"
+ anxijun_flavor:0 "#F“ "抬头见日，却不见长安。"大唐的利剑，也是帝国最后的荣耀。#。"
+ yabing:0 "牙兵"
+ yabing_flavor:0 "#F 牙兵,又称衙兵，藩镇之最亲兵，极为精锐，负责保卫衙城和藩帅，是藩镇军的核心力量。#。"
+ liangjiazi_yabing:0 "良家子牙兵"
+ liangjiazi_yabing_flavor:0 "#F 无有后顾之忧的高素质重装步兵。#。"
+ shijian_yabing:0 "牙兵"
+ shijian_yabing_flavor:0 "#F 牙兵,又称衙兵，藩镇之最亲兵，极为精锐，负责保卫衙城和藩帅，是藩镇军的核心力量。#。"
+ yabing_tang:0 "牙兵"
+ yabing_tang_flavor:0 "#F 牙兵,又称衙兵，藩镇之最亲兵，极为精锐，负责保卫衙城和藩帅，是藩镇军的核心力量。#。"
+ yabing_tang_ai:0 "牙兵"
+ yabing_tang_ai_flavor:0 "#F 牙兵,又称衙兵，藩镇之最亲兵，极为精锐，负责保卫衙城和藩帅，是藩镇军的核心力量。#。"
+ majun:0 "马军"
+ majun_flavor:0 "#F 农耕文明的马上精锐部队。#。"
+ majun_ai:0 "马军"
+ majun_ai_flavor:0 "#F 农耕文明的马上精锐部队。#。"
+ majun_ai_shijian:0 "马军"
+ majun_ai_shijian_flavor:0 "#F 农耕文明的马上精锐部队。#。"
+ podaoshou:0 "朴刀手"
+ podaoshou_flavor:0 "#F 人手一条长柄朴刀，专司破骑的好汉。#。"
+ dasong_daopaishou:0 "刀牌手"
+ dasong_daopaishou_flavor:0 "#F 一手持刀、一手持盾牌的悍卒猛士。#。"
+
+ heshuoqingqi:0 "河朔轻骑"
+ heshuoqingqi_flavor:0 "#F 自古燕地多武人，又处边塞，马匹贸易颇多，长期胡汉交杂下，良家子人人得骑.#。"
+ baimayicong:0 "白马义从"
+ baimayicong_flavor:0 "#F 久居边塞的军民不堪外族年年袭扰，幽燕豪族振臂高呼，于是重建白马义从，扬汉儿威风。#。"
+
+ burenjia:0 "步人甲"
+ burenjia_flavor:0 "#F 身披重甲手持重斧的精锐步兵部队，防御力惊人，有效的规避抛射物伤害的同时还能发起猛烈的反冲锋。但步人甲的成建制装备需要大量时间与金钱#。"
+ jingsaitieqi:0 "静塞铁骑"
+ jingsaitieqi_flavor:0 "#F 静塞军一人5马，骑士均是塞北易州人，能开200斤的硬弓，剽悍异常。马匹也都是清一色的良驹，从军士到战马全部披重甲，兵器除了弓箭外，全部配有钩连长枪。#。"
+
+ beiwei_zhongqibing:0 "背嵬重骑兵"
+ beiwei_zhongqibing_flavor:0 "#F 撼山易，撼岳家军难！#。"
+
+
+ langren:0 "浪人"
+ langren_flavor:0 "#F 失去封禄，离开主人家到处流浪的落魄武士，凶悍嗜杀，暴虐异常#。"
+ yixiangyikui:0 "僧兵"
+ yixiangyikui_flavor:0 "#F 难以控制的僧兵众，发疯的僧团武装会毁灭遇到的所有事物。#。"
+
+
+ chu_ko_nu_ai:0 "连弩士"
+ chu_ko_nu_ai_flavor:0 "#F 这些装备诸葛连弩的弩手能够以毁灭性的速度射出弩箭#。"
+ chu_ko_nu_ai_song:0 "连弩士"
+ chu_ko_nu_ai_song_flavor:0 "#F 这些装备诸葛连弩的弩手能够以毁灭性的速度射出弩箭#。"
+
+ conglinlieshou:0 "丛林猎手"
+ conglinlieshou_flavor:0 "#F 常年在丛林中游猎的老练猎人，熟知丛林里的一切#。"
+
+ yinqiangxiaojiedu:0 "银枪效节都"
+ yinqiangxiaojiedu_flavor:0 "#F 魏博最精锐的部队，统一使用长枪而得名#。"
+
+ yaerjun:0 "鸦儿军"
+ yaerjun_flavor:0 "#F 李克用帐下的主力精锐部队，主要由骁勇善战的年轻沙陀骑手组成#。"
+
+ qidanwushi:0 "契丹武士"
+ qidanwushi_flavor:0 "#F 从青壮年契丹战士中精挑细选出来的步战精英，个个都是身经百战的破阵好手#。"
+
+ suteyabing:0 "粟特牙兵"
+ suteyabing_flavor:0 "#F 粟特集团关系错综复杂，各股势力相互勾连，组建了大大小小的私人武装#。"
+
+
+nvzhen_zhanzheng_01_decision:0 "女真征服（ai）"
+nvzhen_zhanzheng_01_decision_tooltip:0 " "
+nvzhen_zhanzheng_01_decision_confirm:0 " "
+ xinzeng_dajin:0 "大金"
+ NEW_CREATED_TITLE_DAJIN_NAME:0 "[old_title.GetBaseNameNoTierNoTooltip]"
+ tongyinvzhen.0001.t:0 "统一女真诸部"
+ tongyinvzhen.0001.desc:0 "氏族首领们聚拢在我身边，铁浮图，拐子马，所有强者都为我的大业欢呼。\n\n战士们向我致意，让我们冲出森林，将世界牢牢纂于掌中。"
+ tongyinvzhen.0001.a:0 "我的征服自此而始。"
+
+ tongyinvzhen_decision:0 "统一女真诸部"
+ tongyinvzhen_decision_desc:0 "#F 多年来的努力终于有了成果，所有部族的族长都愿意支持我的统治\n\n从此刻开始，世界将在我脚下颤抖。#!"
+ tongyinvzhen_decision_confirm:0 "全军整备！"
+ tongyinvzhen_decision_tooltip:0 "统一女真诸部准备征服世界"
+ nvzhendajun:0 "女真大军"
+
+
+ ai_nvzhenzhengfuzhe_erdai_decision:0 " ai女真征服者（二代）"
+ ai_nvzhenzhengfuzhe_erdai_decision_confirm:0 " "
+ ai_nvzhenzhengfuzhe_erdai_decision_tooltip:0 " "
+
+ ai_yichuqizhi_decision:0 "ai自动移除旗帜（防bug）"
+ ai_yichuqizhi_decision_confirm:0 " "
+ ai_yichuqizhi_decision_tooltip:0 " "
+
+ ai_nvzhenzhengfuzhanzheng_01_decision:0 "女真征服战争（一阶段）"
+ ai_nvzhenzhengfuzhanzheng_decision_desc:0 "女真征服战争"
+ ai_nvzhenzhengfuzhanzheng_01_decision_confirm:0 " "
+ ai_nvzhenzhengfuzhanzheng_01_decision_tooltip:0 " "
+
+ ai_nvzhenzhengfuzhanzheng_02_decision:0 "女真征服战争（二阶段）"
+ ai_nvzhenzhengfuzhanzheng_02_decision_confirm:0 " "
+ ai_nvzhenzhengfuzhanzheng_02_decision_tooltip:0 " "
+
+ ai_nvzhenzhengfuzhanzheng_03_decision:0 "女真征服战争（三阶段）"
+ ai_nvzhenzhengfuzhanzheng_03_decision_confirm:0 " "
+ ai_nvzhenzhengfuzhanzheng_03_decision_tooltip:0 " "
+
+ nvzhenzhengfuzhanzheng.0001.t:0 "交出你的土地！"
+ nvzhenzhengfuzhanzheng.0001.d:0 "你腐朽的统治是时候结束了，我，[nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName]，给你三天时间交出你的地盘，否则后果自负！"
+ nvzhenzhengfuzhanzheng.0001.a:0 "我的大人，我愿意放弃我的土地并臣服于您......"
+ chenfuyu_nvzhenzhengfuzhe_tooltip:0 "臣服于[nvzhenzhengfuzhe.GetTitledFirstName]"
+ fankang_nvzhenzhengfuzhe_tooltip:0 "与[nvzhenzhengfuzhe.GetTitledFirstName]开战"
+ nvzhenzhengfuzhe_kaizhan_tooltip:0 "向[demand_recipient.GetTitledFirstName]开战"
+ nvzhenzhengfuzhanzheng.0001.b:0 "滚！"
+
+ nvzhenzhengfuzhanzheng.0003:0 "致愚蠢的[nvzhenzhengfuzhe.GetFirstName]"
+ nvzhenzhengfuzhanzheng.0003.desc:0 "收回你的威胁！愚蠢的[nvzhenzhengfuzhe.GetFirstName]！\n\n你的威胁比三岁小孩还无力，你以为你是谁？你这妄想染指我的领土的猪猡。"
+ nvzhenzhengfuzhanzheng.0003.a:0 "狗东西，我要把你碾的连渣都不剩！"
+
+ nvzhenzhengfuzhanzheng.0002.t:0 "征服伊始"
+ nvzhenzhengfuzhanzheng.0002.desc:0 "我和我的族人们被召集于[nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName]帐前，女真人的每一个氏族首领和封臣都汇聚于此。我们都知道为何，并在烟雾缭绕的穹庐内进行了整夜的商议，其间没有产生任何怀疑。\n\n[nvzhenzhengfuzhe.GetFirstName]高声呼喊着祖先的姓名，他走过每一位女真战士的面前并与之亲切交流，我能感受到战士们的热血在沸腾。\n\n从现在开始，世界将在征服者[nvzhenzhengfuzhe.GetFirstName]脚下颤抖!"
+ nvzhenzhengfuzhanzheng.0002.a:0 "为了女真人的荣耀！为了[nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName]！"
+
+ NVZHEN_CONQUEST_WAR_NAME:1 "$jurchen$人的大征服战争"
+ nvzhenzhengfuzhanzheng_defeat_defender_desc:0 "你击退了[attacker.GetShortUIName|U]，但下一次呢......"
+ nvzhenzhengfuzhanzheng_defeat_attacker_desc:0 "[defender.GetShortUIName|U]守住了受争夺的头衔，暂时的......"
+ nvzhenzhengfuzhanzheng_defeat_desc:0 "[defender.GetShortUIName|U]守住了受争夺的头衔，暂时的......"
+
+ xinzeng_wanjia_zengjia_dichangezi_decision:0 "玩家增加地产格子"
+ xinzeng_wanjia_zengjia_dichangezi_decision_desc:0 "#F 玩家增加地产格子"
+ xinzeng_wanjia_zengjia_dichangezi_decision_confirm:0 " "
+ xinzeng_wanjia_zengjia_dichangezi_decision_tooltip:0 " "
+
+ zhuanglinglang_decision:0 "撞令郎"
+ zhuanglinglang_decision_desc:0 "#F 将各地的汉人捕捉起来批量迁徙到战线后方，战时送到前线作战\n我不养废物，准备出发！#!"
+ zhuanglinglang_decision_confirm:0 "准备出发！"
+ zhuanglinglang_decision_chenggong_tooltip:0 "行动很顺利"
+ zhuanglinglang_decision_tooltip:0 "又到迫害异族的时候了"
+ zhuanglinglang:0 "撞令郎"
+
+ lushangshangdui_decision:0 "从丝路贸易中攫取利润"
+ lushangshangdui_decision_desc:0 "#F 我的领土处于东西方贸易往来的要道之上，位置十分优越\n不论是经营一支商队还是直接拦路收取过路费都能让我大赚一笔#!"
+ lushangshangdui_decision_confirm:0 "金钱就是正义！"
+ lushangshangdui_decision_tooltip:0 "金钱就是正义！"
+ lushangshangdui_decision_chenggong_tooltip:0 "你赚了笔大的"
+
+ yinqiangxiaojiedu_decision:0 "组建银枪效节都"
+ yinqiangxiaojiedu_decision_desc:0 "#F 魏博二州民风彪悍，士卒凶猛，是构建亲卫军的不二之选！#!"
+ yinqiangxiaojiedu_decision_confirm:0 "我意已决！"
+ yinqiangxiaojiedu_decision_chenggong_tooltip:0 "组建很成功"
+ yinqiangxiaojiedu_decision_tooltip:0 "组建银枪效节都"
+
+ai_yaerjun_01_decision:0 "组建鸦儿军（ai）小规模"
+ai_yaerjun_01_decision_tooltip:0 " "
+ai_yaerjun_01_decision_confirm:0 " 
+
+ai_yaerjun_decision:0 "组建鸦儿军（ai）大规模"
+ai_yaerjun_decision_tooltip:0 " "
+ai_yaerjun_decision_confirm:0 " "
+
+ yaerjun_decision:0 "组建鸦儿军"
+ yaerjun_decision_desc:0 "#F 李克用帐下的主力精锐部队，主要由骁勇善战的年轻沙陀骑手组成#!"
+ yaerjun_decision_confirm:0 "我意已决！"
+ yaerjun_decision_chenggong_tooltip:0 "组建很成功"
+ yaerjun_decision_tooltip:0 "组建鸦儿军"
+ yaerjun:0 "鸦儿军"
+
+ fanzhenbing_01_decision:0 "藩镇兵（ai）小规模"
+ fanzhenbing_01_decision_tooltip:0 " "
+ fanzhenbing_01_decision_confirm:0 " "
+
+ fanzhenbing_02_decision:0 "藩镇兵（ai）大规模"
+ fanzhenbing_02_decision_tooltip:0 " "
+ ffanzhenbing_02_decision_confirm:0 " "
+
+ kuochongyabing_decision:0 "扩充牙兵"
+ kuochongyabing_decision_desc:0 "#F 牙兵的存在不只是一只强大的私人武装，更是藩帅的脸面所在，既能震慑宵小，又有不小的实用价值\n无论如何，扩招牙兵迫在眉睫#!"
+ kuochongyabing_decision_confirm:0 "我意已决！"
+ kuochongyabing_decision_chenggong_tooltip:0 "你感觉倍有面子"
+ kuochongyabing_decision_tooltip:0 "我需要一支可靠的私人卫队"
+ fanshuaiweidui:0 "藩帅卫队"
+
+
+ ai_yikui_decision:0 "发动一揆（ai）"
+ ai_yikui_decision_tooltip:0 " "
+ ai_yikui_decision_confirm:0 " "
+
+ yikui_decision:0 "发动一揆"
+ yikui_decision_desc:0 "#F 神の前で誓い、武装蜂起を開始するために団結します#!"
+ yikui_decision_confirm:0 "そりゃいい!"
+ yikui_decision_chenggong_tooltip:0 "蜂起は成功するだろう"
+ yikui_decision_tooltip:0 "僧侶や兵士を動員する"
+ sengtuanwuzhuang:0 "僧侶の連隊が武装している"
+
+ yulinjun_decision:0 "组建羽林军"
+ yulinjun_decision_desc:0 "#F 玄宗时北衙六军带甲五十万，天下请伏\n今日之朕，比之玄宗如何？#!"
+ yulinjun_decision_confirm:0 "天命在此！"
+ yulinjun_decision_chenggong_tooltip:0 "天下请伏"
+ yulinjun_decision_tooltip:0 "盛世当用强兵，组建羽林军！"
+ zujian_yulinjun.0001.t:0 "组建羽林军"
+ zujian_yulinjun.0001.desc:0 "大唐盛世时，通过由长安直抵地中海沿岸的丝绸之路，将古老而灿烂的中华文明传播四海，世界各国的国君、使臣、客商、僧侣、学生、工匠、医生、胡姬纷至沓而来。他们进入大唐帝国的领土，看到那些车水马龙的繁华都市，无不由衷的惊叹。\n今日！\n再造盛唐！"
+ zujian_yulinjun.0001.a:0 "我的威名将传遍四海。"
+
+
+ longwujunjun_decision:0 "组建龙武军"
+ longwujunjun_decision_desc:0 "#F 太宗时选飞骑中骁健之士，组成百骑，作为骑从护卫。武周时将百骑扩编为千骑，中宗时又扩为万骑，分为左右营，置使作为统领。中宗驾崩后，玄宗在万骑将领葛福顺支持下，剿灭韦皇后、安乐公主一党，推举睿宗为帝。玄宗即位后，万骑左右营与左右羽林军并称北门四军。开元二十七年，万骑左右营正式改为左右龙武军#!"
+ longwujunjun_decision_confirm:0 "天命在此！"
+ longwujunjun_decision_chenggong_tooltip:0 "天下请伏"
+ longwujunjun_decision_tooltip:0 "盛世当用强兵，组建龙武军！"
+ zujian_longwujunjun.0001.t:0 "组建龙武军"
+ zujian_longwujunjun.0001.desc:0 "大唐盛世时，通过由长安直抵地中海沿岸的丝绸之路，将古老而灿烂的中华文明传播四海，世界各国的国君、使臣、客商、僧侣、学生、工匠、医生、胡姬纷至沓而来。他们进入大唐帝国的领土，看到那些车水马龙的繁华都市，无不由衷的惊叹。\n今日！\n再造盛唐！"
+ zujian_longwujunjun.0001.a:0 "我的威名将传遍四海。"
+ longwujun:0 "龙武军"
+
+ ai_mazhengfeichi_decision:0 "振兴马政（ai）"
+ ai_mazhengfeichi_decision_tooltip:0 " "
+ ai_mazhengfeichi_decision_confirm:0 " "
+
+ mazhengfeichi_decision:0 "振兴马政"
+ mazhengfeichi_decision_desc:0 "#F 燕云十六州已被北方游牧民族政权所夺走，大宋建立后，失了燕云这块养育马匹的风水宝地，我们的马政之况越加低下。虽太祖赵匡胤制定了非常健全的马政制度，但随着北宋社稷的安稳，国内各项制度平稳运行，经济文化发达繁荣昌盛，大宋的统治阶级长期处于和平年代，我们似乎已经忘记了战争时期马政的重要性。我们纵情声色，沉迷于纸醉金迷的浮华之中痴迷享乐，即使有前代奠基者培养的良好的牧马地，马源以及完备的马政制度，但当朝的统治阶级对于马政方面确实十分消极而忽视。我们对于马政制度的忽视日益影响着及下的官员的态度，他们所做出的各项于马政并无好处的政令和决策亦是马政此后日益衰败的根本原因。#!"
+ mazhengfeichi_decision_confirm:0 "推行保马法，泽披后世！"
+ mazhengfeichi_decision_effect_tooltip:0 "推行保马法......"
+ mazhengfeichi_decision_tooltip:0 "颁布保马法，泽披后世！"
+ mazhengfeichi_decision.0001.t:0 "颁布保马法！"
+ mazhengfeichi_decision.0001.desc:0 "规定河北、河东、陕西、京东、西五路及开封府界诸县保甲养马，户一匹，物力高而自愿者二匹，给以官马，或官给钱自买。养马户可减免部分赋税。三等以上户十户为一保，四等以下户十户为一社。保户马病死，由养马户单独赔偿；社户马病死，由养马户与其他九户共偿其半。\n\n传朕旨意：颁布保马法！"
+ mazhengfeichi_decision.0001.l:0 "善！"
+ mazhengfeichi_decision.0001.l.tt:0 "你解锁了[GetMaA('majun').GetName][men_at_arms|E]。\n你解锁了[GetMaA('jingsaitieqi').GetName][men_at_arms|E]。"
+
+ diquceshi_decision:0 "地区测试（ai）"
+ diquceshi_decision_tooltip:0 " "
+ diquceshi_decision_confirm:0 " "
+
+ #zhaomunubing_decision:0 "招募奴兵（ai）"
+ #zhaomunubing_decision_desc:0 "招募奴兵（ai）"
+ #zhaomunubing_decision_tooltip:0 " "
+ #zhaomunubing_decision_confirm:0 " "
+
+ #buchongnubing_decision:0 "补充奴兵（ai）"
+ #buchongnubing_decision_tooltip:0 " "
+ #buchongnubing_decision_confirm:0 " "
+ #nubing:0 "奴兵"
+
+ ai_yanshenggong_decision:0 "仁者爱人（ai）"
+ ai_yanshenggong_decision_desc:0 "仁者爱人（ai）"
+ ai_yanshenggong_decision_tooltip:0 " "
+ ai_yanshenggong_decision_confirm:0 " "
+
+ menggujuntuan:0 "蒙古军团"
+ chengjisihanjundui_decision:0 "成吉思汗火星兵（ai）"
+ chengjisihanjundui_decision_desc:0 "成吉思汗火星兵（ai）"
+ chengjisihanjundui_decision_tooltip:0 " "
+ chengjisihanjundui_decision_confirm:0 " "
+
+ tongyinvzhen_ai_decision:0 "统一女真诸部（ai）"
+ tongyinvzhen_ai_decision_tooltip:0 " "
+ tongyinvzhen_ai_decision_confirm:0 " "
+
+ tieyaozi_decision:0 "组建铁鹞子（ai）"
+ tieyaozi_decision_desc:0 "组建铁鹞子（ai）"
+ tieyaozi_decision_tooltip:0 " "
+ tieyaozi_decision_confirm:0 " "
+
+ jinjun_decision:0 "组建禁军（ai）"
+ jinjun_decision_desc:0 "组建禁军（ai）"
+ jinjun_decision_tooltip:0 " "
+ jinjun_decision_confirm:0 " "
+
+ ai_nushou_decision:0 "扩充弩手（ai）"
+ ai_nushou_decision_tooltip:0 " "
+ ai_nushou_decision_confirm:0 " "
+
+ ai_modao_decision:0 "扩充陌刀手（ai）"
+ ai_modao_decision_tooltip:0 " "
+ ai_modao_decision_confirm:0 " "
+
+ ai_kuochongyabing_decision:0 "扩充牙兵（ai）"
+ ai_kuochongyabing_decision_tooltip:0 " "
+ ai_kuochongyabing_decision_confirm:0 " "
+
+ xunlian_tiefutu_decision:0 "训练铁浮图（ai）"
+ xunlian_tiefutu_decision_desc:0 "训练铁浮图（ai）"
+ xunlian_tiefutu_decision_tooltip:0 " "
+ xunlian_tiefutu_decision_confirm:0 " "
+
+ ai_majun_decision:0 "扩充马军（ai）"
+ ai_majun_decision:_tooltip:0 " "
+ ai_majun_decision:_confirm:0 " "
+
+ minyuanfeit_decision:0 "民怨沸腾（ai）"
+ minyuanfeit_decision:_tooltip:0 " "
+ minyuanfeit_decision:_confirm:0 " "
+
+ dfwc_xinzeng.0001.t:0 "群情激愤"
+ dfwc_xinzeng.0001.desc:0 "连年的战争与负债使我神经紧绷，终于，就在今天，我的护卫跌跌撞撞的冲进来告诉我：愤怒的民众正在举行集会，准备推翻我的统治！\n我待他们不薄，他们为什么要这么对我！\n这群该死的贱民！"
+ dfwc_xinzeng.0001.a:0 "得赶紧想个法子安抚他们。"
+ dfwc_xinzeng.0001.a.tt_success:0 "我的话事人带来了消息，民众的怒火平息了，他们甚至捐赠了一批物资给我"
+ dfwc_xinzeng.0001.a.tt_failure:0 "我的演讲跟屎一样，我完了"
+ dfwc_xinzeng.0001.b:0 "派出军队，让贱民们见识见识刀剑的威力！"
+ dfwc_xinzeng.0001.b.tt_success:0 "我的护卫们大步冲向人群，乱刀砍死了几个带头闹事的贱民"
+ dfwc_xinzeng.0001.b.tt_failure:0 "贱民们的战斗力超乎我的想象，我完了"
+ dfwc_xinzeng.0001.d:0 "随他们去吧。"
+ dfwc_xinzeng.0001.d.tt:0 "事情越来越脱离你的控制"
+
+xinzeng_dayuebing_decision:0 "举行大阅兵"
+xinzeng_dayuebing_decision_desc:0 "我的军队需要我，我的人民需要我，我封臣需要我。\n我精心准备了一场大阅兵，这肯定能起到很大的作用。"
+dayuebing_decision_chenggong_tooltip:0 "阅兵进展很顺利"
+xinzeng_dayuebing_decision_tooltip:0 "准备阅兵！"
+xinzeng_dayuebing_decision_confirm:0 "开始吧！"
+dfwc_xinzeng_dayuebing.0001.t:0 "大阅兵"
+dfwc_xinzeng_dayuebing.0001.desc:0 "阅兵现场人头攒动，各部门列好队形等待检阅。我准备了很多份演讲稿，只待阅兵结束就发表慰问词\n但是天色已晚，剩下的时间不多了，我应该先向谁致辞？"
+dfwc_xinzeng_dayuebing.0001.a:0 "先从我手下冲锋在前的勇士们开始"
+dfwc_xinzeng_dayuebing.0001.b:0 "我应该表现的更加亲近底层战士些"
+dfwc_xinzeng_dayuebing.0001.c:0 "没有我亲爱的封臣就没有我的今天！"
+dfwc_xinzeng_dayuebing.0001.a.a:0 "我最英勇的武士们齐声高呼万岁，即使隔了这么远我依旧能感受到他们的热情。"
+
+ yakongjianemo:0 "亚空间恶魔"
+ Khorne_fangxuegui:0 "恐虐放血鬼"
+ Khorne_fangxuegui_flavor:0 "#F 崇奉恐虐的部落中充满了凶猛的放血鬼。他们是致命的战士，在血神的凡人信徒中有着崇高的地位。他们狂怒无比，渴望鲜血，正如恐虐降世一般。厮杀之时，他们会飞快地冲杀，将敌人次第斩作两截，之后迅速离去，再觅新敌。放血鬼每斩杀一个敌人，便会高呼一声，恐怖的吼声在修罗场上四处回荡，闻者无不心惊胆寒。#。"
+
+ Slaanesh_seniezhuxinzhe:0 "色孽逐心者"
+ Slaanesh_seniezhuxinzhe_flavor:0 "#F 逐心者醉心玩乐，残忍恶毒。他们最喜欢捉弄不幸的凡人，会将人弄得窘迫不堪，并跨越穷山恶水将其追杀。眼看就要得逞时，他们又会暂停追杀，让猎物重拾力量，并且给他们一丝逃生的希望。这种猎杀行动会持续数月甚至数年之久，逐心者会将凡人的精神与身体逼到崩溃的边缘。凡人只有在精神崩溃之后，才会屈服于他们，这样他们就可以停止狩猎，然后将凡人的灵魂带回混沌魔域。#。"
+
+ Khorne_decision:0 "成为恐虐神选！"
+ Khorne_decision_desc:0 "血祭血神，颅献颅座！！！\n\n\n解除封印开启大远征（点之前记得存档，后果不可逆，放出什么神仙本人概不负责）"
+ Khorne_decision_tooltip:0 "血祭血神，颅献颅座！！！"
+ Khorne_decision_confirm:0 "血祭血神，颅献颅座！！！"
+
+ Slaanesh_decision:0 "成为色孽神选！"
+ Slaanesh_decision_desc:0 "享受无尽的欢愉吧！！！\n\n\n解除封印开启大远征（点之前记得存档，后果不可逆，放出什么神仙本人概不负责）"
+ Slaanesh_decision_tooltip:0 "享受无尽的欢愉吧！！！"
+ Slaanesh_decision_confirm:0 "享受无尽的欢愉吧！！！"
+
+
+ xinzeng_wanjia_zhaoji_mumin_decision:0 "征召牧民参战"
+ xinzeng_wanjia_zhaoji_mumin_decision_desc:0 "#F 我的土地上牧民众多，如果有必要的话，他们可以迅速转化为骑马战士.\n现在，我需要动员一切可用之兵#!"
+ xinzeng_dfwc_miaoshu_001:0 "应召而来的[GetMaA('caoyuanyoumumin_shijian').GetName]的数量和费用根据你的[realm_size|E]、[martial_skill|E]和#V $当前总兵力$#!决定。"
+ xinzeng_wanjia_zhaoji_mumin_decision_tooltip:0 "为了草原的荣耀！"
+ xinzeng_wanjia_zhaoji_mumin_decision_confirm:0 "吹响号角！"
+
+ ai_zujian_walanjiweidui_decision:0 "组建瓦兰吉卫队(ai)"
+ ai_zujian_walanjiweidui_decision_tooltip:0 "组建瓦兰吉卫队(ai)"
+ ai_zujian_walanjiweidui_decision_confirm:0 "组建瓦兰吉卫队(ai)"
+
+ zujian_walanjiweidui_decision:0 "组建瓦兰吉卫队"
+ zujian_walanjiweidui_decision_desc:0 "#F 北欧人和罗斯人的战斗力世人有目共睹，如果能以重金将他们召至我的麾下，打造一支步战强军将不是问题#!"
+ zujian_walanjiweidui_decision_confirm:0 "我的忠诚的战士们在哪里？！"
+ zujian_walanjiweidui_decision_effect_tooltip:0 "将有一批瓦兰吉战士慕名而来......\n你的名声在北方人的圈子里大肆传播开来，接下来的20年内都将有[GetMaA('walanjiweidui').GetName][men_at_arms|E]可供你差遣。"
+ zujian_walanjiweidui_decision_tooltip:0 "我需要组建一支强大并且忠诚的禁卫军！"
+ zujian_walanjiweidui_decision_chenggong_tooltip:0 "我的信使告诉我：北方战士们很快就到！"
+ zujian_walanjiweidui_decision.0001.t:0 "瓦兰吉战士到来"
+ zujian_walanjiweidui_decision.0001.desc:0 "一艘又一艘形态各异的长船停靠于港口内，剽悍的北方战士鱼贯而出，他们身上的锁子甲在阳光下折射出血污死寂般的铁黑色，我不敢相信自己的眼睛，这些强大的战士即将为我所用！\n\n我挺挺胸膛，努力摆出一位王者应有的姿态。我试图从他们深凹的眼眶里找出一丝畏惧——对于一位正站在他们面前的活生生的皇帝的畏惧。\n\n这些北方人丝毫不避讳我的目光，就这么直勾勾的与我对视。\n\n天哪！这些人的目光真让人头皮发麻......"
+ zujian_walanjiweidui_decision.0001.l:0 "多么无畏而强大的战士啊......"
+
+ guyongbing_jielue.0011.t:0 "雇佣兵屠城"
+ guyongbing_jielue.0011.desc:0 "一群疯狂的佣兵洗劫了[county.GetNameNoTierNoTooltip]，他们夺走了当地的一切，没留一个活口......\n很显然，这群佣兵并不满足于我给的酬金"
+ guyongbing_jielue.0011.a:0 "该死的，他们是抢到手黄金了，那我的呢！"
+ guyongbing_jielue.0011.b:0 "必须严惩！"
+
+ ai_caoyuandongyuan_decision:0 "草原动员（ai）"
+ ai_caoyuandongyuan_decision_tooltip:0 "烈火与尖刀！！！"
+ ai_caoyuandongyuan_decision_confirm:0 "来啊，传我号令！"
+
+ caoyuandongyuan_decision:0 "草原动员"
+ caoyuandongyuan_decision_desc:0 "我的族人们渴望财富，他们摩拳擦掌，跃跃欲试，很显然，我现在应该将所有能上马的战士都召集起来。"
+ caoyuandongyuan_decision_tooltip:0 "烈火与尖刀！！！"
+ caoyuandongyuan_decision_confirm:0 "来啊，传我号令！"
+ caoyuandongyuan_tiaojian:0 "动员所需的威望和金钱与威望等级，威望总量，军事点数，管理点数，宗族威望等级，总兵力，政体等一系列因素均有关"
+ caoyuandongyuan.0001.t:0 "草原动员"
+ caoyuandongyuan.0001.desc:0 "战士们奔走相告，无以计数的牧民拖家带口来到我的大帐前，无边的烟尘从地平线上升起，所有能上马的战士都汇拢了过来，焦躁与不安的气息四处弥漫，只等我一声令下......"
+ caoyuandongyuan.0001.a:0 "我们需要战争！"
+ caoyuandongyuan.0001.b:0 "或许我不该这么莽撞......"
+ horse_archers_shijian:0 "弓骑兵"
+ horse_archers_shijian_flavor:0 "#F 游牧部落的弓骑兵可以射出冰雹般的箭雨，同时几乎不可能被追上。#。"
+ light_horsemen_shijian:0 "轻骑兵"
+ light_horsemen_shijian_flavor:0 "#F 这些骑兵轻装而敏捷，极善于侧翼夹击，在冲杀溃逃敌军时能造成毁灭性的杀伤。#。"
+ caoyuantuqi_shijian:0 "草原突骑"
+ caoyuantuqi_shijian_flavor:0 "#F 赤兔无人用，当须吕布骑。吾闻果下马，羁策任蛮儿。#。"
+ tujuezhongqibing_shijian:0 "突厥重骑兵"
+ tujuezhongqibing_shijian_flavor:0 "#F 西突厥是马背上的民族，自突厥崛起时代保留下来的冶铁铸造工艺遇上中亚地区丰富的铁矿资源造就了这支名噪一时的重装骑兵部队，他们是草原上的恶狼，是周边文明的噩梦。#。"
+
+armored_horsemen_shijian:0 "重骑兵"
+armored_horsemen_shijian_flavor:0 "#F 这些骑兵身披重甲，全副武装，主宰了开阔平原上的战斗。#!"
+
+ sugelangaodizhanshi:0 "苏格兰高地战士"
+ sugelangaodizhanshi_flavor:0 "穿梭于苏格兰北部高地的勇猛战士，他们的格子衫上闪耀着不屈之光。"
+
+ kaiertezhanshi:0 "凯尔特战士"
+ kaiertezhanshi_flavor:0 "遍布战纹、赤裸上身的凯尔特氏族战士，让不可一世的罗马军团吃尽苦头。"
+
+ anglo_saxon_minbing:0 "盎格鲁-撒克逊民兵"
+ anglo_saxon_minbing_flavor:0 "这些自由民兵的装备和供给堪称精良，他们平时接受强大的亲卫军的训练与监督，战斗意志格外突出。"
+ anglo_saxon_qinweijun:0 "御卫"
+ anglo_saxon_qinweijun_flavor:0 "御卫军拥有整支军队中最精良的装备，他们是王公贵族选拔出来的强大战士。"
+
+ Welsh_changgongshou:0 "威尔士长弓手"
+ Welsh_changgongshou_flavor:0 "这些强大的威尔士弓手个个射艺非凡，他们手中的紫杉长弓每一次翕动都能带走一个敌军士兵的性命。"
+ Welsh_changgongshou_01:0 "威尔士长弓手"
+ Welsh_changgongshou_01_flavor:0 "这些强大的威尔士弓手个个射艺非凡，他们手中的紫杉长弓每一次翕动都能带走一个敌军士兵的性命。"
+
+ shandi_youqibing:0 "山地游骑兵"
+ shandi_youqibing_flavor:0 "威尔士山区技艺高超的轻型骑兵，自由驰骋于森林与山地之间。"
+
+ zhaodi_youqi:0 "沼泽猎手"
+ zhaodi_youqi_flavor:0 "爱尔兰沼泽遍布，但优秀的骑手总能找到捷径。"
+
+ irish_toushishou:0 "爱尔兰投石手"
+ irish_toushishou_flavor:0 "投石索的使用可以追溯到石器时代的猎人先民，如果飞速掷出的石块正中目标头部，即使是一头野牛也会很快倒毙，我们精挑细选的强壮战士能够轻易做到这点。"
+ ai_irish_toushishou:0 "爱尔兰投石手"
+ ai_irish_toushishou_flavor:0 "投石索的使用可以追溯到石器时代的猎人先民，如果飞速掷出的石块正中目标头部，即使是一头野牛也会很快倒毙，我们精挑细选的强壮战士能够轻易做到这点。"
+
+ waixiangyongshi:0 "外乡勇士"
+ waixiangyongshi_flavor:0 "这些来自苏格兰北部高地的盖尔雇佣兵个个武艺非凡，只要钱给的到位，什么都不是问题。"
+
+ gaierlaobing:0 "盖尔老兵"
+ gaierlaobing_flavor:0 "这些来自苏格兰北部高地的盖尔雇佣兵闲暇之余很乐意为同族的领主效力。"
+
+ awaerqingqi:0 "阿瓦尔轻骑"
+ awaerqingqi_flavor:0 "阿瓦尔是一支强大的草原民族，他们的铁蹄自东方踏来。"
+ awaer_zhongqibing:0 "阿瓦尔重骑兵"
+ awaer_zhongqibing_flavor:0 "古老而强大的重装骑兵。"
+
+ awaer_baojialiya_zhongqibing:0 "保加利亚重骑兵"
+ awaer_baojialiya_zhongqibing_flavor:0 "保加利亚人征服阿瓦尔人后将他们编入骑兵部队，利用他们超绝的马战经验打造了这支骑兵劲旅。"
+ ai_awaer_baojialiya_zhongqibing:0 "保加利亚重骑兵"
+ ai_awaer_baojialiya_zhongqibing_flavor:0 "保加利亚人征服阿瓦尔人后将他们编入骑兵部队，利用他们超绝的马战经验打造了这支骑兵劲旅。"
+ ai_hussar:0 "骠骑兵"
+ ai_hussar_flavor:1 "#F 威名远扬的东欧$hussar$是突袭的大师，可以快速消灭逃散的敌军。#!"
+
+ kuangzhanshi:0 "狂战士"
+ kuangzhanshi_flavor:0 "一旦这些战士的血液开始沸腾，只有敌人的死才能让他们感到满足。"
+ kuangzhanshi_001:0 "狂战士"
+ kuangzhanshi_001_flavor:0 "一旦这些战士的血液开始沸腾，只有敌人的死才能让他们感到满足。"
+
+ weijing_nuli:0 "萨尔"
+ weijing_nuli_flavor:0 "体面的雅尔不会让自家的奴隶拿武器上战场，但今时不同往日......"
+
+ beiou_tingwei:0 "庭卫"
+ beiou_tingwei_flavor:0 "体面的领主应该有一支自家的宫廷卫士，一群能够应对各种突发状况的强大战士。"
+
+ nuomanqibing:0 "诺曼骑兵"
+ nuomanqibing_flavor:0 "诺曼人将大量精力投入到骑兵训练中，他们装备相对较轻的锁子甲，并开创了夹枪冲锋这一战法，愈发适应战场上的多变形势。"
+
+ fangqi_qishi:0 "方旗骑士"
+ fangqi_qishi_flavor:0 "区别于普通骑士的锥形三角旗，这些贵族骑士有权在战场上使用象征身份与地位的方形旗帜，他们是身经百战，意志坚定的无畏斗士。"
+
+ pijia_junshi:0 "披甲军士"
+ pijia_junshi_flavor:0 "身披重甲的高级军事随从，作为一股不小的战力为领主服务。"
+
+ xuetu_qishi:0 "学徒骑士"
+ xuetu_qishi_flavor:0 "每一位渴望成为骑士的少年都应该着重积累实战经验，战场就是他们的校园。"
+
+ keen:0 "克恩"
+ keen_flavor:0 "克恩是一种爱尔兰轻步兵，常与盖尔佣兵一起投入战斗，他们装备简陋却战斗力非凡，常为人们所称道。"
+
+ lashidunzhongqibing:0 "拉什顿重骑兵"
+ lashidunzhongqibing_flavor:0 "这支穆斯林征服期间成立的精锐骑兵部队几乎人人都骑乘着纯血阿拉伯马，他们的长矛冲锋足以毁灭任何敌人。"
+
+ amolikanqibing:0 "阿莫里坎重骑兵"
+ amolikanqibing_flavor:0 "受阿兰人与晚期罗马军制影响，布列塔尼人大量运用骑兵作战，他们的特点是纪律性极强，协同作战能力好。"
+
+ abidebubing:0 "阿比德步兵"
+ abidebubing_flavor:0 "这支混编轻步兵部队来源复杂，狂热的宗教志愿军与北非的黑人奴兵夹杂其中，他们为了一场浩大的圣战汇集于此，他们相信并肩作战的穆斯林兄弟们，他们相信先知，他们信仰真主。"
+
+ moerjinwei:0 "摩尔近卫"
+ moerjinwei_flavor:0 "摩尔战士保留着浓厚的部落传统，他们战斗时一往无前。"
+
+ moerqibing:0 "摩尔骑兵"
+ moerqibing_flavor:0 "摩尔骑兵在摩尔人大征服时期大量服役，他们将北非传统骑术与伊比利亚地区战况相结合，战斗力尤为剽悍。"
+
+ xibanyabiaoqiangqibing:0 "西班牙标枪骑手"
+ xibanyabiaoqiangqibing_flavor:0 "为了应对大量投入战场的摩尔骑兵，我们将骑术高超的战士组织起来，他们身着皮革盔甲，手持标枪长矛，不断盘旋骚扰敌军，伺机突入敌阵一举击溃之。"
+
+ jiaotuanqishi:0 "教团骑士"
+ jiaotuanqishi_flavor:0 "身披重甲的狂热骑士，擅长重装骑士冲锋。"
+
+ jiatailuoniyatujibing:0 "加泰罗尼亚突击兵"
+ jiatailuoniyatujibing_flavor:0 "收复失地运动中表现亮眼的突击步兵，他们携带轻便的武器与行装，士气高昂地向敌人发起冲锋。"
+
+ jiatailuoniyatujibing_01:0 "加泰罗尼亚雇佣兵"
+ jiatailuoniyatujibing_01_flavor:0 "他们是伊比利亚半岛收复失地运动中表现亮眼的突击步兵，他们携带轻便的武器与行装，作为精锐步兵部队加入到世界各处大大小小的战场之中。"
+
+ baizhantingjuntuanbubing:0 "拜占庭军团步兵"
+ baizhantingjuntuanbubing_flavor:0 "军团步兵是拜占庭军队的中流砥柱，他们装备精良，纪律性极强。"
+
+ diguoweidui:0 "帝国卫队"
+ diguoweidui_flavor:0 "这些精锐重步兵构成了拜占庭帝国不朽的防线，他们隶属于中央军，作战经验丰富。"
+
+ baizhantinggongjianshou:0 "拜占庭弓箭手"
+ baizhantinggongjianshou_flavor:0 "箭术是每一个拜占庭战士的必修课，这些技艺高超的弓箭手在己方步兵阵线的掩护下，用超乎寻常的准头将敌军一一击毙。"
+
+ walanjiweidui:0 "瓦兰吉卫队"
+ walanjiweidui_flavor:0 "这支拜占庭皇家近卫军战斗力惊人，他们身披重甲，以惊人的速度砍下一颗又一颗敌人的头颅，他们忠心耿耿，为皇帝陛下荡尽四方之敌。"
+ ai_walanjiweidui:0 "瓦兰吉卫队"
+ ai_walanjiweidui_flavor:0 "这支拜占庭皇家近卫军战斗力惊人，他们身披重甲，以惊人的速度砍下一颗又一颗敌人的头颅，他们忠心耿耿，为皇帝陛下荡尽四方之敌。"
+
+bzt_bianminweishi:0 "边民卫士"
+bzt_bianminweishi_flavor:0 "为防御周边穆斯林，本军区稍有作战能力的即可入伍，包括强盗与不法分子。他们坚持团队作战，以娴熟的战阵配合而闻名。"
+
+bzt_bianjing_jieluezhe:0 "边境劫掠者"
+bzt_bianjing_jieluezhe_flavor:0 "为防御周边穆斯林，本军区稍有作战能力的即可入伍，包括强盗与不法分子。他们毫无道德可言，以灵活多变的战斗方式和缺饷后对平民做出的恶行而闻名。"
+
+xila_toushi_bubing:0 "投石步兵"
+xila_toushi_bubing_flavor:0 "掷出石块骚扰敌人的轻装投石手，手法娴熟，一击脱离。"
+
+xila_qingzhuang_biaoqiangshou:0 "轻装标枪手"
+xila_qingzhuang_biaoqiangshou_flavor:0 "轻装出击的投枪手，装备简陋但行动迅速。"
+
+bzt_xianfeng_qingqi:0 "先锋轻骑"
+bzt_xianfeng_qingqi_flavor:0 "以速度和灵活著称的拜占庭轻骑兵，装备有弓箭、标枪，尤其擅长一击脱离的游击战术。"
+
+bzt_yingbao_huwei:0 "营堡护卫"
+bzt_yingbao_huwei_flavor:0 "长期驻扎在边境堡垒中的重装要塞守卫。"
+
+bzt_changzhuoyoushi:0 "长桌游士"
+bzt_changzhuoyoushi_flavor:0 "边境巡逻的轻装骑士，发现敌情即刻向上汇报并密切监视其动向。"
+
+bzt_bianjinglueqi:0 "边境掠骑"
+bzt_bianjinglueqi_flavor:0 "防备敌军骑兵的快速反应部队，能在第一时间做出反应并上前游击骚扰。"
+
+ ansaerqingqi:0 "安萨尔轻骑"
+ ansaerqingqi_flavor:0 "这些往来于朝圣之路的骑兵护卫着一批又一批虔诚的信徒。"
+
+ xunjieweidui:0 "迅捷卫队"
+ xunjieweidui_flavor:0 "他们是穆斯林征服叙利亚期间拉什顿军团的一支精锐轻骑兵部队，在大马士革围城战中以惊人的速度扭转了攻势，大败不可一世的拜占庭军队。"
+
+ baizhantingluwei:0 "炉卫"
+ baizhantingluwei_flavor:0 "徘徊于皇帝陛下身周，戒备森严的超重型装甲骑兵。"
+ ai_baizhantingluwei:0 "炉卫"
+ ai_baizhantingluwei_flavor:0 "徘徊于皇帝陛下身周，戒备森严的超重型装甲骑兵。"
+
+ mamulukezhongqibing:0 "马穆鲁克重骑兵"
+ mamulukezhongqibing_flavor:0 "这些经过长期训练的奴隶战士组成了我们强大的重骑兵部队，我预感他们将在未来的某场战斗中大放异彩。"
+
+ mamulukeqisheshou:0 "马穆鲁克骑射手"
+ mamulukeqisheshou_flavor:0 "我们的马穆鲁克奴隶战士极富战斗力，其中佼佼者的骑射技术甚至不逊于那些从小在马背上长大的游牧民族射手。"
+
+ tiejialuotuoqibing:0 "铁甲骆驼骑兵"
+ tiejialuotuoqibing_flavor:0 "为骆驼制作盔甲不是容易的工作，但回报非常值得。骇人的全甲骆驼一次冲锋就能让骑马的军队夹着尾巴逃跑。"
+
+ asaweila:0 "阿萨维拉"
+ asaweila_flavor:0 "这些皈依吾主的波斯武士人马具甲，他们的铁骑在几个世纪前曾立下不世之功。"
+
+ wugusiguyongqibing:0 "乌古斯雇佣骑兵"
+ wugusiguyongqibing_flavor:0 "乌古斯骑兵是优秀的侦察兵与突击手，他们远赴伊比利亚地区，为一切出得起价钱的雇主卖命。"
+
+ abuna:0 "阿布纳"
+ abuna_flavor:0 "我们千锤百炼的战士能在长矛与大刀下稳步推进，他们熟练地使用短矛与标枪，杀死任何敢于正面来犯的敌人。超强的纪律性使得他们丝毫不惧贴身肉搏，他们手中的短剑和匕首将给予敌人致命一击。"
+
+ gulamuzhongqibing:0 "古拉姆重骑兵"
+ gulamuzhongqibing_flavor:0 "这些常年战斗在一线的重装奴隶骑兵既忠诚又强大，他们以悍不畏死的战斗风格而闻名于世。"
+ saman_gulamuzhongqibing:0 "古拉姆重骑兵"
+ saman_gulamuzhongqibing_flavor:0 "这些常年战斗在一线的重装奴隶骑兵既忠诚又强大，他们以悍不畏死的战斗风格而闻名于世。"
+
+ kuerde_zhimaoshou:0 "库尔德掷矛手"
+ kuerde_zhimaoshou_flavor:0 "这些古老的山间战士能用简易的投矛对敌人造成大量伤害。"
+
+ yiketa_jianshi:0 "伊克塔剑士"
+ yiketa_jianshi_flavor:0 "穆斯林统治者征募的青壮年战士，用于维护地区秩序。"
+
+ muwaxide_shengzhanshi:0 "古扎特圣战志愿军"
+ muwaxide_shengzhanshi_flavor:0 "狂热的宗教战军，一切异端都将被碾为齑粉。"
+
+ nulizhanshi_01:0 "奴隶战士"
+ nulizhanshi_01_flavor:0 "难堪大用的奴兵，装备破烂，纪律涣散，只能用作填线的炮灰。"
+ nulizhanshi_02:0 "奴隶战士"
+ nulizhanshi_02_flavor:0 "难堪大用的奴兵，装备破烂，纪律涣散，只能用作填线的炮灰"
+ nulizhanshi_03:0 "奴隶战士"
+ nulizhanshi_03_flavor:0 "难堪大用的奴兵，装备破烂，纪律涣散，只能用作填线的炮灰"
+ nulizhanshi_04:0 "奴隶战士"
+ nulizhanshi_04_flavor:0 "难堪大用的奴兵，装备破烂，纪律涣散，只能用作填线的炮灰"
+ nulizhanshi_shijian:0 "奴隶战士"
+ nulizhanshi_shijian_flavor:0 "难堪大用的奴兵，装备破烂，纪律涣散，只能用作填线的炮灰"
+
+ innovation_kaierte:0 "凯尔特人"
+ innovation_kaierte_desc:0 "凯尔特人为上古欧洲一个由共同语言和文化传统凝合起来的松散族群，属古代型民族集团。他们一次又一次的反抗侵略，不屈服于外来者，仿佛这一切就刻在他们骨子里。"
+
+ innovation_anglo_saxon_minbing:0 "盎格鲁—撒克逊精选民兵"
+ innovation_anglo_saxon_minbing_desc:0 "早先在迁徙和定居期间的混乱时期战争是由少量的亲卫军战士主导的，而到了8世纪，盎格鲁—撒克逊人的领袖们已经有了自己的既定王国。所以从某种意义上说，需要付出更大的后勤努力来保护自己的土地和进行战争。作为一种解决方案，盎格鲁-撒克逊人开始实施所谓的“选拔的自由民兵（select fyrd）”。"
+ innovation_anglo_saxon_qinweijun:0 "组织亲卫"
+ innovation_anglo_saxon_qinweijun_desc:0 "在日耳曼人大规模迁徙到英国的混乱领域时，部落首领和国王们会召集他们选拔出来的强大战士，这些人拥有最好的武器与装备，同时他们也是国王和王公们的家兵，要为战争进行专门的训练。"
+
+ innovation_weiershichanggong:0 "威尔士长弓"
+ innovation_weiershichanggong_desc:0 "威尔士长弓的材料选用紫杉木进行制作，这种木材重量较轻而且弹性极佳，这让长弓的杀伤力十分惊人。"
+
+ innovation_toushisuo:0 "投石索"
+ innovation_toushisuo_desc:0 "投石索是人类文明的活化石，快速飞出的石块甚至能击倒一头野牛。将它用于战争亦能发挥很大作用。"
+
+ innovation_gaodishizu:0 "高地氏族"
+ innovation_gaodishizu_desc:0 "苏格兰北部高地上生活着大量彪悍的高地氏族，他们保留着原始的凯尔特生活方式以及部落联盟制度，他们是天生的战士，呼啸于群山之间。"
+
+ innovation_guyongwaixiangyongshi:0 "雇佣外乡勇士"
+ innovation_guyongwaixiangyongshi_desc:0 "苏格兰北部高地的盖尔人凶悍无比，他们是无可匹敌的战斗狂热分子，并且乐于为金钱卖命。最重要的是他们几乎不掺和我们本地的政治斗争，只要价钱合适，他们就会乖乖听话。"
+
+ innovation_yongshizhijia:0 "勇士之家"
+ innovation_yongshizhijia_desc:0 "苏格兰北部高地自古以来就是盖尔人的家园，我们的勇士很乐意为家国而战。"
+
+ innovation_mianbaoyumijiu:0 "面包与蜜酒"
+ innovation_mianbaoyumijiu_desc:0 "领主将面包分给他的追随者，象征着领主和他的战士之间的联系与忠诚。当然，即使在隐藏的意义和象征意义之外，这些娱乐活动更多的时候也是作为一种磨合练习，高级军人之间以更自由的语气进行交流，从而在实战中更好地规划和协调。"
+
+ innovation_wenchesitezhishu:0 "温彻斯特之书"
+ innovation_wenchesitezhishu_desc:0 "温彻斯特之书也被称为末日审判书，是一本英格兰全国土地调查情况的汇编。目的在于了解王田及国王的直接封臣的地产情况，以便收取租税，加强财政管理，并确定封臣的封建义务。"
+
+ innovation_zhengfuzhezitai:0 "征服者姿态"
+ innovation_zhengfuzhezitai_desc:0 "我们征服了不列颠群岛，这些土著理应效忠于我。"
+
+ innovation_amolika:0 "阿莫利卡"
+ innovation_amolika_desc:0 "我们是日耳曼大迁徙时期被迫流亡至此的海岛凯尔特人，罗马人称此地为"阿莫利卡"（Armorica），罗马帝国灭亡后我们不仅保持着相对独立的政治环境，同时还保存了罗马晚期的骑兵制度，我们的骑士坚韧而富有纪律性，是这片大陆上最优秀的战士。"
+
+ innovation_yibiliyachengshiminbing:0 "伊比利亚城市民兵"
+ innovation_yibiliyachengshiminbing_desc:0 "伊比利亚城市民兵在中世纪中期所起的作用值得重视，诞生于边境纷争的地方民兵为半岛上的君主们效力，一旦遇到各种紧迫的形势，他们可以迅速扩充自己的实力，无论在军事上还是在经济上，亦或是在制约地方贵族势力上，城市民兵都可以给国王的决策提供更多的灵活性。"
+
+ innovation_kawalailiyasi:0 "西班牙大乡绅"
+ innovation_kawalailiyasi_desc:0 "随着伊比利亚地区的逐渐解放，我们将土地保有权赐予手下忠诚的领主并免除其一部分赋税，他们则负责提供接下来一系列光复战争所需的骑兵部队。"
+
+ innovation_tudishouyu:0 "土地授予"
+ innovation_tudishouyu_desc:0 "收复失地运动如火如荼的展开，我们需要大量的士兵才能长久的压制住那些异教徒，只要能给出大量的征召兵，非贵族也能获得一定的土地。"
+
+ innovation_xigetezhanfa:0 "西哥特战法"
+ innovation_xigetezhanfa_desc:0 "我们继承了西哥特时期的作战方式，以骑兵部队为主力，着眼于马上战斗的精通。"
+
+ innovation_jiatailuoniyaguyongbing:0 "加泰罗尼亚雇佣兵"
+ innovation_jiatailuoniyaguyongbing_desc:0 "收复失地运动的军事需求刺激了伊比利亚地区精锐步兵的形成，我们的战士在战后并不打算就此隐没，他们结成一支又一支的战团以雇佣兵的形式继续活跃于世界各处大大小小的战场之上。"
+
+ innovation_xibanya_dafangzhen:0 "西班牙大方阵"
+ innovation_xibanya_dafangzhen_desc:0 "为了巩固伊比利亚陆上霸权，我们必须进行一场步兵革命，历史已经证明————组织严密的步兵战法完全可以胜任所有战场环境。"
+ xibanya_fangzhenqiangbing:0 "西班牙方阵枪兵"
+ xibanya_fangzhenqiangbing_flavor:0 "借助长而密集的枪阵和严密配合的战法，我们的军队在陆上无人能挡！"
+ xibanya_yuandunjianshi:0 "西班牙圆盾剑士"
+ xibanya_yuandunjianshi_flavor:0 "优质的钢盾和长剑组成了这支军队的獠牙，凭借长枪手的掩护，他们能够迅速给敌方枪阵撕开一个缺口，刹那间扭转战局。"
+
+ shuangshou_jianshi:0 "双手剑士"
+ shuangshou_jianshi_flavor:0 "挥舞着巨剑的精锐步兵，凭借其高超的剑术能很快将敌方枪阵撕开一个口子。"
+
+ wanggong_weishi:0 "王公卫士"
+ wanggong_weishi_flavor:0 "王公贵族的贴身护卫，由身经百战的国土佣仆老兵组成，战斗力惊人。"
+
+ jiuruishi_shanmin:0 "旧瑞士山民"
+ jiuruishi_shanmin_flavor:0 "严酷的生存环境和长久的外敌入侵让这片土地上的居民随时准备战斗以捍卫自己的生存。"
+
+ innovation_ruishi_guyongbing:0 "瑞士雇佣军"
+ innovation_ruishi_guyongbing_desc:0 "无处可去的老兵与家境贫寒的壮小伙结伴而行，旧瑞士山民的传统告诉他们战场在何方。"
+ ruishi_guyongbing:0 "瑞士雇佣兵"
+ ruishi_guyongbing_flavor:0 "与同乡和血亲们并肩作战，用斧枪和长矛组成阵线，无畏的步兵在推进。"
+
+ gongshe_minbing:0 "公社民兵"
+ gongshe_minbing_flavor:0 "自备武装，决心保卫城镇的轻装民兵。"
+ gongshe_qibing:0 "公社骑兵"
+ gongshe_qibing_flavor:0 "充分适应北意大利山区地形的轻装骑兵。"
+
+ innovation_yidali_shengche:0 "圣车"
+ innovation_yidali_shengche_desc:0 "高高竖起我们的旗帜，圣车上奏响的乐曲是神圣的护身符，为了城邦的荣誉！血战到底！"
+ yidali_shengche:0 "圣车"
+ yidali_shengche_flavor:0 "牛拉圣车巡礼于沙场，战士杀敌迸发荣光。\n圣驾决计不可陷落，战士奋勇亦不惧死亡。"
+ yidali_shengche_01:0 "圣车"
+ yidali_shengche_01_flavor:0 "牛拉圣车巡礼于沙场，战士杀敌迸发荣光。\n圣驾决计不可陷落，战士奋勇亦不惧死亡。"
+
+ innovation_paweisidadun:0 "帕维斯大盾"
+ innovation_paweisidadun_desc:0 "可靠的大型木盾，为我们的弩手提供临时掩体，亦可作为移动工事协助攻城。"
+ judun_nushou:0 "巨盾弩手"
+ judun_nushou_flavor:0 "装备有帕维斯大盾的弩手，他们可以在盾牌的庇护下进行精准打击。"
+ renaya_nushou:0 "热那亚弩手"
+ renaya_nushou_flavor:0 "闻名天下的热那亚精锐射手，他们的劲弩令敌人胆寒。"
+ beiluoweiyeli:0 "贝罗维耶里"
+ beiluoweiyeli_flavor:0 "意大利军团的精锐，身披罩甲的轻装骑兵。"
+
+ ai_biaoji_qishituan_decision:0 "ai标记骑士团"
+ ai_biaoji_qishituan_decision_tooltip:0 " "
+ ai_biaoji_qishituan_decision_confirm:0 " "
+
+ innovation_tiaodun_zongshenfangyu:0 "条顿纵深防御"
+ innovation_tiaodun_zongshenfangyu_desc:0 "广布于日耳曼大地上的各式堡垒加上负责守卫城镇的伯格曼步兵，这将大大延缓敌人的攻城速度。"
+
+ bogeman_zhongbubing:0 "伯格曼重步兵"
+ bogeman_zhongbubing_flavor:0 "负责保卫城堡，戒备外敌的精锐步兵。"
+
+ innovation_shimin_qishi:0 "大规模册封" #（大规模册封）
+ innovation_shimin_qishi_desc:0 "有钱有闲的市民和行会精英期望跻身上层社会，一个小小的骑士头衔足以满足他们。"
+ hanghui_qishi:0 "行会骑士"
+ hanghui_qishi_flavor:0 "被封为骑士，自费武装的市民骑手，数量可观但质量欠佳。"
+
+ qiangdao_qishi:0 "强盗骑士"
+ qiangdao_qishi_flavor:0 "利用堡垒优势四处劫掠的骑马强盗，他们中的一些人或许真的拥有骑士头衔，但所行之事与真正高尚的骑士相去甚远。"
+
+ jiachen_qishi:0 "家臣骑士"
+ jiachen_qishi_flavor:0 "拥有一定社会地位的日耳曼战士，他们装备精良，是帝国骑兵的主力部队。"
+
+ innovation_diguo_qishi:0 "帝国骑士"
+ innovation_diguo_qishi_desc:0 "对皇帝陛下的效忠大于一切，在各大骑士家族组成的庞大网络下，每一名强大的骑士都能发光发热。"
+ diguo_qishi:0 "帝国骑士"
+ diguo_qishi_flavor:0 "身着优质哥特式板甲，战斗技艺高超的帝国骑士。"
+
+ innovation_geteshi_banjia:0 "哥特式板甲"
+ innovation_geteshi_banjia_desc:0 "贴合人体量身打造的板甲，保证灵活性的同时更优化了整体设计，重量更轻，防御更强。"
+ buxing_diguoqishi:0 "步行帝国骑士"
+ buxing_diguoqishi_flavor:0 "身穿全身板甲的强悍骑士，依照日耳曼传统步行作战。"
+
+ innovation_milanshi_banjia:0 "米兰式板甲"
+ innovation_milanshi_banjia_desc:0 "大量武器订单的涌入催生了这种别具一格的板甲风格，线条圆润的米兰式板甲以能有够有效降低箭矢杀伤而享誉世界。"
+
+ innovation_shuili_duanchui:0 "水力锻锤"
+ innovation_shuili_duanchui_desc:0 "依靠水力驱动的庞大机械，用于粉碎矿石或是钣正金件，极大节省了厚重铠甲的锻造成本。"
+
+ innovation_baizhantingjunzhi:0 "拜占庭军制"
+ innovation_baizhantingjunzhi_desc:0 "拜占庭军队是从晚期罗马帝国的军队进化而来的，在战略、战术和组织上都较之前变得更加复杂多样。"
+
+ innovation_xunliangulamu:0 "训练古拉姆"
+ innovation_xunliangulamu_desc:0 "外敌的侵扰使我们不得不加紧军事领域的改革，我们注意到经过充分训练的奴隶战士拥有很强的战斗力，如果能进一步提高他们的组织度和纪律性，一支强大的军队将很快成型。"
+
+ innovation_beiduyinbuluoqishou:0 "贝都因部落骑手"
+ innovation_beiduyinbuluoqishou_desc:0 "贝都因的骑马传统催生了这些穿梭于渺渺沙漠的部落骑手，他们是天生的沙漠战士。"
+ beiduyinjingqi:0 "贝都因精骑"
+ beiduyinjingqi_flavor:0 "贝都因人以骑上快马为荣耀，骑马的部落勇士如同沙漠里的狂风一样呼啸着摧毁敌人的防线。"
+
+ innovation_beiduyinqingqihucong:0 "贝都因轻骑扈从"
+ innovation_beiduyinqingqihucong_desc:0 "我们通过赋予东部贝都因部落成员特权，将他们转变为高效而忠诚的保镖，这为埃及和叙利亚地区带来了和平并加强了对这一战略地区的控制。"
+ beiduyinqingqihucong:0 "贝都因轻骑扈从"
+ beiduyinqingqihucong_flavor:0 "这些贝都因人是高效而忠诚的保镖，他们如沙漠里的狂风一般呼啸着冲破敌人的防线。"
+
+ innovation_yisilanzhijian:0 "伊斯兰之剑"
+ innovation_yisilanzhijian_desc:0 "星月所见！"
+
+ innovation_qunluanzhanshi:0 "群峦战士"
+ innovation_qunluanzhanshi_desc:0 "伊朗的山区艰险无比，只有本地人才能在此地长久的生存。"
+ daermishandizhnshi:0 "答儿密山地战士"
+ daermishandizhnshi_flavor:0 "伊朗山区的强大战士，无与伦比的好战分子。"
+ daermijingyingzhanshi:0 "答儿密精英战士"
+ daermijingyingzhanshi_flavor:0 "或是寻求财富，或是躲避战乱，一部分答儿密人迁徙至此，凭借骨子里的战斗意志，他们在军队里的地位节节攀升。"
+ ai_daermijingyingzhanshi:0 "答儿密精英战士"
+ ai_daermijingyingzhanshi_flavor:0 "或是寻求财富，或是躲避战乱，一部分答儿密人迁徙至此，凭借骨子里的战斗意志，他们在军队里的地位节节攀升。"
+
+ innovation_jiaolianchuanweiduo:0 "铰链船尾舵"
+ innovation_jiaolianchuanweiduo_desc:0 "借助遥远东方传入的先进航海技术，我们的精英战士得以通过海上运输快速抵达战场。"
+
+ innovation_bosizhongqi:0 "波斯重骑"
+ innovation_bosizhongqi_desc:0 "我们传承以久的重骑兵作战方式永不过时。"
+ bosizhongqibing:0 "波斯重骑兵"
+ bosizhongqibing_flavor:0 "这些强大的骑手纵横中亚千年之久！"
+ bosi_sawalan:0 "萨瓦兰"
+ bosi_sawalan_flavor:0 "古波斯的重装骑兵，以正面战场上的勇悍而闻名。"
+ bosi_zhayedan_01:0 "扎耶丹不朽者"
+ bosi_zhayedan_01_flavor:0 "古老而强大的不朽者军团，辉煌的阿胡拉守卫者。"
+ bosi_zhayedan_02:0 "扎耶丹不朽者"
+ bosi_zhayedan_02_flavor:0 "古老而强大的不朽者军团，辉煌的阿胡拉守卫者。"
+
+ innovation_nuoyafangzhou:0 "诺亚方舟"
+ innovation_nuoyafangzhou_desc:0 "我们坚信自己是史前大洪水的唯一幸存者，我们诺亚之子绝不屈从于任何其他文明。"
+
+ innovation_gaoyuanxiongying:0 "高原雄鹰"
+ innovation_gaoyuanxiongying_desc:0 "该[culture|E]的人民正如亚美尼亚高原上的雄鹰一般冷静专注，极其强大的[martial|E]天赋使得他们往往备受统治者的青睐，但其骨子里如鹰一般难以驯服的性格又使其民族本身命途多舛。"
+ yameiniyazhongqibing:0 "阿扎塔夫雷尔"
+ yameiniyazhongqibing_flavor:0 "从古代开始，亚美尼亚就存在由精英战士组成的阿扎塔夫雷尔骑兵，他们是令人恐惧的重骑兵部队，在高原故土上自由驰骋。"
+ ai_yameiniyazhongqibing:0 "阿扎塔夫雷尔"
+ ai_yameiniyazhongqibing_flavor:0 "从古代开始，亚美尼亚就存在由精英战士组成的阿扎塔夫雷尔骑兵，他们是令人恐惧的重骑兵部队，在高原故土上自由驰骋。"
+ yameiniyabugongshou:0 "亚美尼亚步弓手"
+ yameiniyabugongshou_flavor:0 "亚美尼亚高原上潜伏的迅捷弓手，他们居高临下向敌人射出成片可怕的箭雨。"
+ yameiniyabugongshou_01:0 "亚美尼亚步弓手"
+ yameiniyabugongshou_01_flavor:0 "大量亚美尼亚人从高原上迁出，我们得以趁机将这些强大的弓箭手整合进军中。"
+
+ innovation_goulian:0 "钩镰"
+ innovation_goulian_desc:0 "这种古老的工具在战场上发扬光大，我们给它安上长杆，用以克制成群的骑兵。"
+ zhonggoulianshou:0 "重钩镰手"
+ zhonggoulianshou_flavor:0 "这些钩镰手们身穿重甲立于阵前，手中长而有力的钩镰即是他们傲视一切骑兵的资本。"
+
+ innovation_wanguoyongbingtuan:0 "万国佣兵团"
+ innovation_wanguoyongbingtuan_desc:0 "作为历史悠久的千年帝国，拜占庭对使用雇佣军早就习以为常，而种类繁多的雇佣军也在拜占庭军事史上留下了浓墨重彩的一笔。"
+ baizhantinggongqibing:0 "拜占庭弓骑佣兵"
+ baizhantinggongqibing_flavor:0 "帝国强大的制甲技术武装了这些从草原远道而来的佣兵，虽然牺牲了些许追击能力，但他们的防御力大为提升。"
+ ladingqibing:0 "拉丁骑兵"
+ ladingqibing_flavor:0 "这些非东正教的骑兵战士经过长期训练逐渐适应了与成群的突厥骑兵作战，他们是无畏的草原奔袭者。"
+
+ innovation_han_ruiqibing:0 "锐骑兵"
+ innovation_han_ruiqibing_desc:0 "经过长期的训练，我们的骑兵个个都是战场多面手。"
+ han_ruiqibing:0 "飞骑"
+ han_ruiqibing_flavor:0 "熟练使用一切马上武器，破阵只在瞬息之间。"
+
+ innovation_01_xianbeitieqi:0 "鲜卑铁骑"
+ innovation_01_xianbeitieqi_desc:0 "鲜卑传统之一，自北魏孝文帝起，历任统治者都会悉心组建重装骑兵部队以震慑周边宵小。"
+ xianbeijuzhuangqibing:0 "鲜卑具装骑兵"
+ xianbeijuzhuangqibing_flavor:0 "人马具甲的鲜卑武士，杀人技艺深深的刻入了他们的骨子里。"
+
+ dunnv:0 "盾女"
+ dunnv_flavor:0 "这些女性违背其社会的常态，与其他战士一样组成盾墙参与战斗。"
+
+ innovation_boluodi_zhanshi:0 "波罗的战士"
+ innovation_boluodi_zhanshi_desc:0 "世代的森林沼地生活催生了波罗的人民的剽悍风气，他们结伴而行不停扫荡着这片区域。"
+ boluodi_zhanshi:0 "波罗的战士"
+ boluodi_zhanshi_flavor:0 "活跃于波罗的海沿岸森林沼地的彪悍战士，借助森林与雪色发动突袭。"
+
+ innovation_falanke_fengjianzhi:0 "法兰克封建制"
+ innovation_falanke_fengjianzhi_desc:0 "查理曼大帝及其先辈为我们打造了优越的封建社会体系，我们的王国稳定而强大，并且这种优势将一直延续下去。"
+ sikalaqibing:0 "斯卡拉骑兵"
+ sikalaqibing_flavor:0 "他们是加洛林王朝的王牌骑兵部队，常被用来执行需要高机动性作战的任务。"
+ jialuolintiewei:0 "加洛林铁卫"
+ jialuolintiewei_flavor:0 "他们是王公贵族派到领地各处的亲信之人，平日里负责片区治安，战时则充当精锐步兵抗线冲锋。"
+
+ innovation_qishizhihua:0 "骑士之花"
+ innovation_qishizhihua_desc:0 "每一名骑士都是法兰西人民的骄傲。"
+ qishizhihua_miaoshu:1 "该[culture|E]的角色建造#V $一级军团训练场$#!时速度更快，强度更高，且建造完成后将获得少许[prestige_i][prestige|E]"
+ xiewaliai:0 "谢瓦利埃"
+ xiewaliai_flavor:0 "骄傲的法兰西人民有骄傲的法兰西骑兵。"
+
+ falanxi_jiandunshi:0 "剑盾士"
+ falanxi_jiandunshi_flavor:0 "全副武装的步兵集群，手中的坚盾使其免于流矢之威胁。"
+
+ innovation_goufu_shou:0 "钩斧"
+ innovation_goufu_shou_desc:0 "我们开发的这种新式长杆兵器可以很好的克制无甲单位和骑兵。"
+ goufu_shou:0 "钩斧手"
+ goufu_shou_flavor:0 "我们的步兵列装了新式钩斧，可以很好的克制无甲单位和骑兵。"
+
+# nu_qibing:0 "弩骑兵"
+ nu_qibing_01:0 "弩骑兵"
+ nu_qibing_01_flavor:0 "我们的社会形态注定了我们无法拥有大量的优质弓骑兵，但弩骑兵或许是个不错的选择。"
+
+ innovation_falanke_wugongge:0 "武功歌"
+ innovation_falanke_wugongge_desc:0 "我们的骑士拥有无可匹敌的坚定信念，我们的人民亦将长久传颂他们的伟大事迹。"
+ zhongzhuang_qiangqibing:0 "重装枪骑兵"
+ zhongzhuang_qiangqibing_flavor:0 "重装枪骑兵的集团冲锋无人可挡，即便是最坚固的战阵也将顷刻间化为飞灰。"
+ buxing_fengjianqishi:0 "步行封建骑士"
+ buxing_fengjianqishi_flavor:0 "在那些无法投入骑兵的战场上，依旧有我们无畏的骑士在顽强战斗。"
+
+ qingzhuang_qiangqibing:0 "轻装枪骑兵"
+ qingzhuang_qiangqibing_flavor:0 "来自勃艮第的轻装枪骑兵，兼具爆发力与机动性，是绝佳的侧翼突袭部队。"
+
+ innovation_falang_sheshou:0 "法郎弓手"
+ innovation_falang_sheshou_desc:0 "每个教区应从擅长使用武器的人中选出一名弓箭手，他将免于税务，在星期天和节日里练习弓箭，并在有需要时准备上战场。"
+ falang_sheshou:0 "法郎弓手"
+ falang_sheshou_flavor:0 "用于防卫边境的弓箭手，他们无需缴税，但必须上战场。"
+
+ innovation_luosi_minhui:0 "民会"
+ innovation_luosi_minhui_desc:0 "“维彻”民会最初起源于罗斯部落的定期会议，是由罗斯的公民和商人举行的民间会议，用于军事、行政和宗教等政治讨论。我们可以招募士兵保卫城市，市民和商人对城市管理的兴趣也将为城市带来繁荣。"
+ woxina_sanbing:0 "沃希那散兵"
+ woxina_sanbing_flavor:0 "#F 沃希纳散兵是罗斯军队的中流砥柱，是由罗斯城市的公民和农夫组成的士兵。他们手持长矛、战斧与盾牌，在严寒的雪地里娴熟应敌。#!"
+
+ innovation_mosike_zhuangyuanzhuyi:0 "莫斯科庄园制"
+ innovation_mosike_zhuangyuanzhuyi_desc:0 "罗斯地区封建社会的发展与西欧是不同的。我们的王国源于核心家族联盟，我们联合起来，努力增加可用的劳动力并扩大土地生产。但这并不意味着被授予土地是某种束缚，恰恰相反，我们鼓励冒险。"
+ luosi_boyaer:0 "波雅尔"
+ luosi_boyaer_flavor:0 "#F 强大的罗斯贵族骑兵，他们日夜打磨着战斗技巧，迎着皑皑白雪发起冲锋。#!"
+ luosi_dagong_weishi:0 "大公卫士"
+ luosi_dagong_weishi_flavor:0 "#F 罗斯王公的私人卫队，装备精良的重装骑兵。#!"
+ luosi_ziyouminqishou:0 "自由民骑手"
+ luosi_ziyouminqishou_flavor:0 "#F 丰厚的战利品吸引着一批又一批自由民投身战场。#!"
+ 
+ innovation_tujue_dingjuzhe:0 "突厥定居者"
+ innovation_tujue_dingjuzhe_desc:0 "长久的冲突消磨了各自的战斗意志，部分突厥人产生了定居此地的想法。"
+ luosi_tujue_fubing:0 "突厥辅兵"
+ luosi_tujue_fubing_flavor:0 "#F 突厥骑兵愿为罗斯王公效力，共同抗击草原上的其他游牧势力。#!"
+
+ innovation_boyaer_moyi:0 "波雅尔末裔"
+ innovation_boyaer_moyi_desc:0 "穷困潦倒的波雅尔后裔，他们无法像祖先那样维持统治地位，故而大量转向军营寻找机会。"
+ boyaer_weiqi_zhanshi:0 "波耶维奇战士"
+ boyaer_weiqi_zhanshi_flavor:0 "#F 即使是最末流的波雅尔，他的子孙也绝无可能是个懦夫。凭借祖上传授的各式战斗技巧，这些曾经的贵族依旧有不俗的战力#!"
+ luosi_maoxian_yingxiong:0 "冒险英雄"
+ luosi_maoxian_yingxiong_flavor:0 "#F 他们是精英中的精英，是最勇敢的爱国者和冒险家#!"
+
+ innovation_gesake_qibing:0 "哥萨克骑兵"
+ innovation_gesake_qibing_desc:0 "哥萨克骑兵以衣着鲜亮和恶名声而著称。他们聚拢为半自治的团体，过着游牧生活。如果能将他们吸纳进军队，将是一股不错的战力。"
+ gesake_qibing:0 "哥萨克骑兵"
+ gesake_qibing_flavor:0 "#F 善使长矛与马刀的哥萨克人是极佳的轻骑兵，他们的脚步将席卷整个世界#!"
+
+ xiboliya_buluo_tuxizhe:0 "西伯利亚部落突袭者"
+ xiboliya_buluo_tuxizhe_flavor:0 "#F 西伯利亚冰原上游荡的老练突袭者,在雪地针叶林中如鬼魅般穿梭#!"
+
+ innovation_wuzhuang_dongyuan:0 "武装动员"
+ innovation_wuzhuang_dongyuan_desc:0 "数量众多的军事贵族支撑起整个国家的战争机器，但是代价是什么呢......"
+ shilaheta:0 "什拉赫塔"
+ shilaheta_flavor:0 "#F 成分复杂的军事贵族，强大的重骑兵部队#!"
+ bolan_qingnu_qibing:0 "波兰轻弩骑兵"
+ bolan_qingnu_qibing_flavor:0 "#F 擅长进行游击运动战的轻装骑兵，他们特制的小巧手弩可以迅速装弹射击，假意撤走而后反身射马是他们常用的招数#!"
+ innovation_bolan_yiqibing:0 "翼骑兵"
+ innovation_bolan_yiqibing_desc:0 "忠诚而强大的精锐骑兵，以其高机动性与毁灭性而闻名。"
+ bolan_yi_qibing:0 "翼骑兵"
+ bolan_yi_qibing_flavor:0 "#F 忠诚的翼骑兵不惧死亡，他们迎着枪阵冲锋!#!"
+
+ leidisi:0 "雷蒂斯"
+ leidisi_flavor:0 "#F 强大的立陶宛重骑兵，擅长对付同样身披重甲的敌人#!"
+ innovation_samojidiya_touqiang_qishou:0 "萨莫吉蒂亚投枪术"
+ innovation_samojidiya_touqiang_qishou_desc:0 "波罗的森林中最有效的战争工具之一，疾驰的萨莫吉蒂亚马给予投枪千钧之力。"
+ samojidiya_touqiang_qishou:0 "萨莫吉蒂亚投枪骑手"
+ samojidiya_touqiang_qishou_flavor:0 "#F 数量庞大的马上投矛手，依靠迅速接敌而后倾泻枪雨造成巨量伤害，是重甲单位的头号劲敌#!"
+ litaowan_qisheshou:0 "立陶宛骑射手"
+ litaowan_qisheshou_flavor:0 "#F 全能的立陶宛马上弓箭手，在倾泻完全部箭矢后仍可与敌人近战肉搏#!"
+
+ xiakeshang_paixi:1 "与你拥有相同[culture|E][heritage|E]的[vassals|E]更有可能加入[independence_factions|E]和[claimant_factions|E]，这不是一件坏事，起码在你还比较弱小的时候不是。"
+
+ nuoyafangzhou_paixi:1 "该[culture|E]的人民只信服诺亚后裔的统治，他们更有可以加入到反抗异[culture|E]统治者的[factions|E]中去。"
+ gaoyuanxiongying_miaoshu:1 " "
+
+ wanguoyongbingtuan_miaoshu:1 "自身[culture|E]拥有该[innovations|E]的角色可以通过与特定[culture|E]的角色结盟以招募强大的特色[men_at_arms|E]"
+
+ e_xinzeng_dajin:0 "大金"
+ dynn_WHBZKZ_DAJIN:0 "大金"
+ dynn_WHBZKZ_ZONGZU:0 "完颜"
+ WHBZKZ_DAJIN:0 "大金"
+
+dajin_suibi_03_modifier:0 "岁币"
+dajin_suibi_03_modifier_desc:0 "上层的无能由下层买单。"
+
+world_yanyunshiliuzhou_001:0 "燕云十六州"
+
+custom_xinzeng_litaowan:0 "立陶宛"
+
+custom_xinzeng_bolan:0 "波兰"
+
+culture_parameter_multiple_claim_wars:0 "可以在单场战争中为自己索取多个[claims|E]"
+
+world_innovation_zhongdong_bosi:0 "中东、波斯"
+
+world_xinzeng_sengjialuo:0 "僧伽罗"
+
+world_002_xinzeng_zhuangbei_016:0 "马槊"
+
+#world_xinzeng_zhuangbei_jiazhou_zhajia:0 "军事上广泛使用札甲的地区"
+
+MIGRATION_INVASION_WAR_NAME:0 "大迁徙入侵"
+MIGRATION_INVASION_WAR_NAME_BASE:0 "大迁徙入侵"
+MIGRATION_INVASION_CB_NAME:0 "大迁徙"
+MIGRATION_INVASION_desc:0 "你舍弃了从前的那片天地，将你的人民和畜群迁徙至此，新的统治，开始了。"
+oe_migration_01_modifier:0 "大迁徙之后"
+oe_migration_01_modifier_desc:0 "这片土地上的部分资源随着一次大迁徙被人为转移走了。"
+
+xinzeng_youmutongmeng_alliance_interaction:0 "商议同盟"
+xinzeng_youmutongmeng_alliance_interaction_desc:0 "通过陈述利害关系来与[recipient.GetTitledFirstNameNoTooltip]铸就同盟——草原势力需要整合！"
+xiangtong_wenhua_interaction_reason:0 "相同[cultural|E]：$VALUE|=+0$"
+xinzeng_youmutongmeng_alliance_interaction_extra_icon:0 "@weak_hook_icon! [hook|E] 可用"
+perk_alliance_interaction_extra_icon:0 "@weak_hook_icon! [hook|E] 可用"
+caoyuan_tongmeng_01:0 "商议同盟"
+
+xinzeng_youmutongmeng_alliance_01_interaction:0 "商议同盟（游牧臣属）"
+xinzeng_youmutongmeng_alliance_01_interaction_desc:0 "通过陈述利害关系来与[recipient.GetTitledFirstNameNoTooltip]铸就同盟——促进某些共同目标的达成！"
+xinzeng_youmutongmeng_alliance_01_interaction_extra_icon:0 "@weak_hook_icon! [hook|E] 可用"
+
+xinzeng_youmutongmeng_alliance_02_interaction:0 "部落联盟"
+xinzeng_youmutongmeng_alliance_02_interaction_desc:0 "通过陈述利害关系来与[recipient.GetTitledFirstNameNoTooltip]铸就臣属关系——促进某些共同目标的达成！"
+
+
+TRUCE_BULUOLIANMENG: "\n签订停战协议以换取[actor.GetTitledFirstName]与[recipient.GetTitledFirstName]的部落联盟"
+
+AI_OPINION_CHOUHEN_REASON:1 "[CHARACTER.GetShortUINamePossessive]对[TARGET_CHARACTER.GetShortUIName]的好感：$VALUE|=+0$"   #仇恨程度
+AI_OPINION_NIMENDE_JUNLICHAJU:1 "你们的军力差异：$VALUE|=+0$"
+AI_OPINION_WAIJIAO_YU_TONGMENGZHE:1 "外交与同盟者：$VALUE|=+0$"
+AI_OPINION_YOU_ZHONGDA_WAIBUWEIXIE:1 "有重大外部威胁：$VALUE|=+0$"
+AI_OPINION_SHIDAN_LIBO:1 "势单力薄：$VALUE|=+0$"
+AI_OPINION_YEXIN_JIA:1 "野心家：$VALUE|=+0$"
+
+xinzeng_zhaojifengchen_canzhan_interaction:0 "召集封臣参战"
+xinzeng_zhaojifengchen_canzhan_interaction_notification:0 "[recipient.GetUINameNoTooltip]很有必要与我加入[target.GetName]！"
+xinzeng_zhaojifengchen_canzhan_interaction_desc:0 "召集[recipient.GetUINameNoTooltip]参战，以履行其身为臣属的义务。"
+XINZENG_OA_AI_ZHANZHENG_XINGSHI_REASON:0 "[war|E]形势：$VALUE|=+0$"
+XINZENG_OA_AI_ZHANZHENG_BINGLI_CHAJU_REASON:0 "[war|E]双方兵力差距：$VALUE|=+0$"
+XINZENG_OA_AI_ZHANZHENG_FENGCHEN_BINGLI_REASON:0 "[recipient.GetShortUIName|U]的[army|E]数量过少，参战意义不大：$VALUE|=+0$"
+XINZENG_OA_AI_FANGYU_ZHANZHENG_REASON:0 "防御[war|E]：$VALUE|=+0$"
+XINZENG_OA_AI_SHI_QIANGLIFENGCHEN_REASON:0 "是[powerful_vassals|E]：$VALUE|=+0$"
+XINZENG_OA_AI_LINJIN_FENGCHENTONGLIAO_REASON:0 "临近封臣同僚：$VALUE|=+0$"
+XINZENG_OA_AI_CAOCHANG_REASON:0 "草场：$VALUE|=+0$"
+XINZENG_OA_AI_JUNSHI_NENGLI_REASON:0 "[recipient.GetShortUIName|U]的[martial|E][skill|E]：$VALUE|=+0$"
+tribal_authority_0_REASON:0 "松散部落：$VALUE|=+0$"
+tribal_authority_1_REASON:0 "有限部落权威：$VALUE|=+0$"
+tribal_authority_2_REASON:0 "高部落权威：$VALUE|=+0$"
+tribal_authority_3_REASON:0 "绝对部落权威：$VALUE|=+0$"
+XINZENG_OA_AI_WEIWANG_DENGJI_REASON:0 "[actor.GetShortUIName|U]的[prestige_level|E]：$VALUE|=+0$"
+XINZENG_OA_AI_BAOWEI_ZIJIDE_TOUXIAN_REASON:0 "[recipient.GetShortUIName|U]的领土在[actor.GetShortUIName|U]战败后可能丢失：$VALUE|=+0$"
+XINZENG_OA_AI_HAOZHAN_MINGZUJINGSHEN_REASON:0 "好战[ethos|E]：$VALUE|=+0$"
+XINZENG_OA_AI_JITI_MINGZUJINGSHEN_REASON:0 "集体[ethos|E]：$VALUE|=+0$"
+XINZENG_OA_AI_ZHANZHENG_ZHONG_REASON:0 "[recipient.GetShortUIName|U]正忙于其他[war|E]：$VALUE|=+0$"
+XINZENG_OA_AI_FENGCHEN_WEIWANG_REASON:0 "[actor.GetShortUIName|U]与[recipient.GetShortUIName|U]的[prestige|lE]总量差异：$VALUE|=+0$"
+XINZENG_OA_AI_FENGCHEN_WEIWANG_DENGJI_REASON:0 "[recipient.GetShortUIName|U]的[prestige_level|E]：$VALUE|=+0$"
+XINZENG_OA_AI_XIANGTONG_ZONGZU_REASON:0 "同[dynasty|E]：$VALUE|=+0$"
+XINZENG_OA_AI_SHI_NIDE_ZHIQIN_REASON:0 "是你的[close_family_member|E]：$VALUE|=+0$"
+XINZENG_OA_AI_DUI_ZHANZHENG_LINGYIFANGDE_HAOGAN_REASON:0 "[recipient.GetShortUIName|U]对[war|E]另一方的好感：$VALUE|=+0$"
+XINZENG_OA_AI_BEI_ZHANZHENG_BOJI_REASON:0 "[recipient.GetShortUIName|U]被这场战争波及：$VALUE|=+0$"
+XINZENG_OA_AI_NISHI_AI_REASON:0 "[actor.GetShortUIName|U]是ai：$VALUE|=+0$"
+SHI_NIDE_PENGYOU_REASON:0 "[recipient.GetShortUIName|U]是你的[friend|E]：$VALUE|=+0$"
+SHI_NIDE_ZHIJIAO_REASON:0 "[recipient.GetShortUIName|U]是你的[best_friend|E]：$VALUE|=+0$"
+XINZENG_OA_AI_SHI_WEICHENGNIANREN_REASON:0 "[recipient.GetShortUIName|U]是[children|E]：$VALUE|=+0$"
+XINZENG_OA_AI_BEI_QIUJIN_REASON:0 "[recipient.GetShortUIName|U]是一名[prisoners|lE]：$VALUE|=+0$"
+XINZENG_OA_AI_BEIZHAOHUANZHE_BINGLI_WEIHUIFU_REASON:0 "[recipient.GetShortUIName|U]的兵力未恢复：$VALUE|=+0$"
+XINZENG_OA_AI_BEIZHAOHUANZHE_BEIZHAOHUAN_GUO_REASON:0 "[recipient.GetShortUIName|U]曾应召参战过：$VALUE|=+0$"
+XINZENG_OA_AI_WANCHENGGUO_RENWU_REASON:0 "[recipient.GetShortUIName|U]完成过你安排的任务：$VALUE|=+0$"
+XINZENG_OA_AI_HAOZHAN_REASON:0 "好战：$VALUE|=+0$"
+XINZENG_OA_AI_ZHUIMINGZHULI_REASON:0 "封臣立场：追名逐利：$VALUE|=+0$"
+XINZENG_OA_AI_BENXIANGBENTU_REASON:0 "封臣立场：本乡本土：$VALUE|=+0$"
+
+INTERACTION_GREEDY:0 "[GetTrait('greedy').GetName( recipient )]：$VALUE|=+0$"
+INTERACTION_DILIGENT:0 "[GetTrait('diligent').GetName( recipient )]：$VALUE|=+0$"
+INTERACTION_SHY:0 "[GetTrait('shy').GetName( recipient )]：$VALUE|=+0$"
+INTERACTION_GREGARIOUS:0 "[GetTrait('gregarious').GetName( recipient )]：$VALUE|=+0$"
+INTERACTION_TRUSTING:0 "[GetTrait('trusting').GetName( recipient )]：$VALUE|=+0$"
+INTERACTION_CALLOUS:0 "[GetTrait('callous').GetName( recipient )]：$VALUE|=+0$"
+INTERACTION_LOYAL:0 "[GetTrait('loyal').GetName( recipient )]：$VALUE|=+0$"
+INTERACTION_DISLOYAL:0 "[GetTrait('disloyal').GetName( recipient )]：$VALUE|=+0$"
+INTERACTION_ARBITRARY:0 "[GetTrait('arbitrary').GetName( recipient )]：$VALUE|=+0$"
+
+xinzeng_zhaoji_youmumengyou_canzhan_interaction:0 "召集加入战争（游牧同盟）"
+XINZENG_OA_AI_ZHANZHENG_LINGYIFANG_SHI_MENGYOUDE_LINGZHU_REASON:0 "[war|E]另一方是[recipient.GetShortUIName|U]的[liege|E]：$VALUE|=+0$"
+XINZENG_OA_AI_BAOWEI_ZIJIDE_TOUXIAN_01_REASON:0 "[recipient.GetShortUIName|U]的领土在[actor.GetShortUIName|U]战胜后可能丢失：$VALUE|=+0$"
+
+
+caoyuan_touren:0 "头人"
+bojueling_de_touren:0 "[Title.GetNameNoTier]的头人"
+shouyu_touren_lingdi:0 "#T 安排一位头人\n花费:\n200 [gold_i]\n500 [prestige_i]#!"
+
+touren_renwu_001:0 "#T 花费#V 300#![prestige|E][prestige_i]要求[Title.GetNameNoTier]的头人征收一笔[gold|E][gold_i]#!\n\n#T 要求#!：\n[Title.GetNameNoTier]的头人：\n$EFFECT_LIST_BULLET$对你的[opinion|E]大于等于#V -20#!\n$EFFECT_LIST_BULLET$[gold|E]大于等于#V 200#!\n$EFFECT_LIST_BULLET$[prestige|E]大于等于#V 500#!\n$EFFECT_LIST_BULLET$[dynasty|E]中拥有[GetModifier('xinzeng_touren_001_modifier').GetNameWithTooltip]修正\n你：\n$EFFECT_LIST_BULLET$[prestige|E]大于等于#V 500#!\n$EFFECT_LIST_BULLET$[prestige_levels|E]不低于#V $prestige_level_2$#!\n\n#T 耗时#!：#V 3#!到#V 10#!个月\n\n#T 完成后#!：\n[Title.GetNameNoTier]的头人向你支付他所征收的[gold|E][gold_i](所征收的[gold|E]与指定[xinzeng_touren|E]的[stewardship_skill|E]有关)\n[Title.GetNameNoTier]的头人获得#V 300#![prestige|E]\n[Title.GetNameNoTier]的头人手下的所有[county|E]获得[GetModifier('xinzeng_touren_002_modifier').GetNameWithTooltip]修正，为期#V 10年#!\n[Title.GetNameNoTier]的头人#V 3年#!内不会接受你下派的任何任务。"
+
+touren_renwu_002:0 "#T 花费#V 100#![gold|E][gold_i]让[Title.GetNameNoTier]的头人在其领地内宣扬你之威严#!\n\n#T 要求#!：\n[Title.GetNameNoTier]的头人：\n$EFFECT_LIST_BULLET$对你的[opinion|E]大于等于#V -20#!\n$EFFECT_LIST_BULLET$[prestige|E]大于等于#V 500#!\n$EFFECT_LIST_BULLET$[dynasty|E]中拥有[GetModifier('xinzeng_touren_001_modifier').GetNameWithTooltip]修正\n你：\n$EFFECT_LIST_BULLET$[gold|E]大于等于#V 150#!\n$EFFECT_LIST_BULLET$[prestige_levels|E]不低于#V $prestige_level_1$#!\n\n#T 耗时#!：#V 5#!到#V 12#!个月\n\n#T 完成后#!：\n你根据[Title.GetNameNoTier]的头人的#V 宣杨效果#!获得一笔[prestige|E][prestige_i]（#V 宣杨效果#!与所指定[xinzeng_touren|E]的[diplomacy_skill|E]有关）\n[Title.GetNameNoTier]的头人获得#V 100#![gold|E]以及#V 150#![prestige|E]\n[Title.GetNameNoTier]的头人手下的所有[county|E]获得[GetModifier('xinzeng_touren_004_modifier').GetNameWithTooltip]修正，为期#V 10年#!\n[Title.GetNameNoTier]的头人#V 5年#!内不会接受你下派的任何任务。"
+
+touren_renwu_003:0 "#T 花费#V 50#![gold|E][gold_i]和#V 150#![prestige|E][prestige_i]要求[Title.GetNameNoTier]的头人向你提供一批[levies|E]#!\n\n#T 要求#!：\n[Title.GetNameNoTier]的头人：\n$EFFECT_LIST_BULLET$对你的[opinion|E]大于等于#V -20#!\n$EFFECT_LIST_BULLET$#V 当前军力#!大于等于#V 2000#!\n$EFFECT_LIST_BULLET$[gold|E]大于等于#V 50#!\n$EFFECT_LIST_BULLET$[prestige|E]大于等于#V 150#!\n$EFFECT_LIST_BULLET$[dynasty|E]中拥有[GetModifier('xinzeng_touren_001_modifier').GetNameWithTooltip]修正\n你：\n$EFFECT_LIST_BULLET$未处于[war|E]中，[gold|E]大于等于#V 0#!\n$EFFECT_LIST_BULLET$[prestige|E]大于等于#V 150#!\n$EFFECT_LIST_BULLET$[prestige_levels|E]不低于#V $prestige_level_1$#!\n\n#T 耗时#!：#V 3#!到#V 12#!个月\n\n#T 完成后#!：\n你获得一小批[levies|E]（[Title.GetNameNoTier]的头人向你提供的[levies|E]数量与其[martial_skill|E]以及#V 当前军力#!有关）\n[Title.GetNameNoTier]的头人获得#V 50#![gold|E]和#V 150#![prestige|E]\n[Title.GetNameNoTier]的头人获得[GetModifier('xinzeng_touren_005_modifier').GetNameWithTooltip]修正，为期#V 10年#!\n[Title.GetNameNoTier]的头人#V 10年#!内不会接受你下派的任何任务。"
+
+touren_renwu_004:0 "#T 花费#V 100#![gold|E][gold_i]和#V 200#![prestige|E][prestige_i]要求[Title.GetNameNoTier]的头人向你提供一批[light_cavalry|E]#!\n\n#T 要求#!：\n[Title.GetNameNoTier]的头人：\n$EFFECT_LIST_BULLET$对你的[opinion|E]大于等于#V -20#!\n$EFFECT_LIST_BULLET$#V 当前军力#!大于等于#V 2000#!\n$EFFECT_LIST_BULLET$[army|E]中的[light_cavalry|E]数量大于等于#V 300#!\n$EFFECT_LIST_BULLET$[dynasty|E]中拥有[GetModifier('xinzeng_touren_001_modifier').GetNameWithTooltip]修正\n你：\n$EFFECT_LIST_BULLET$处于[war|E]中，[gold|E]大于等于#V 50#!\n$EFFECT_LIST_BULLET$[prestige|E]大于等于#V 100#!\n$EFFECT_LIST_BULLET$[prestige_levels|E]不低于#V $prestige_level_1$#!\n\n#T 耗时#!：#V 6#!到#V 12#!个月\n\n#T 完成后#!：\n你获得一批[light_cavalry|E]（这批[light_cavalry|E]在[war|E]结束后将会解散）（[Title.GetNameNoTier]的头人向你提供的[light_cavalry|E]数量与其[martial_skill|E]以及#V 当前军力#!有关）\n[Title.GetNameNoTier]的头人获得#V 100#![gold|E]和#V 200#![prestige|E]\n[Title.GetNameNoTier]的头人获得[GetModifier('xinzeng_touren_006_modifier').GetNameWithTooltip]修正，为期#V 15年#!\n[Title.GetNameNoTier]的头人#V 15年#!内不会接受你下派的任何任务。"
+
+touren_renwu_005:0 "#T 花费#V 150#![gold|E][gold_i]和#V 300#![prestige|E][prestige_i]要求[Title.GetNameNoTier]的头人向你提供一批[archer_cavalry|E]#!\n\n#T 要求#!：\n[Title.GetNameNoTier]的头人：\n$EFFECT_LIST_BULLET$对你的[opinion|E]大于等于#V 0#!\n$EFFECT_LIST_BULLET$#V 当前军力#!大于等于#V 2000#!\n$EFFECT_LIST_BULLET$[army|E]中的[archer_cavalry|E]数量大于等于#V 300#!\n$EFFECT_LIST_BULLET$[prestige_levels|E]不低于#V $prestige_level_2$#!\n$EFFECT_LIST_BULLET$[dynasty|E]中拥有[GetModifier('xinzeng_touren_001_modifier').GetNameWithTooltip]修正\n你：\n$EFFECT_LIST_BULLET$处于[war|E]中，[gold|E]大于等于#V 75#!\n$EFFECT_LIST_BULLET$[prestige|E]大于等于#V 150#!\n$EFFECT_LIST_BULLET$[prestige_levels|E]不低于#V $prestige_level_1$#!\n\n#T 耗时#!：#V 8#!到#V 16#!个月\n\n#T 完成后#!：\n你获得一批[archer_cavalry|E]（这批[archer_cavalry|E]在[war|E]结束后将会解散）（[Title.GetNameNoTier]的头人向你提供的[archer_cavalry|E]数量与其[martial_skill|E]以及#V 当前军力#!有关）\n[Title.GetNameNoTier]的头人获得#V 150#![gold|E]和#V 300#![prestige|E]\n[Title.GetNameNoTier]的头人获得[GetModifier('xinzeng_touren_007_modifier').GetNameWithTooltip]修正，为期#V 20年#!\n[Title.GetNameNoTier]的头人#V 20年#!内不会接受你下派的任何任务。"
+
+touren_renwu_006:0 "#T 花费#V 200#![gold|E][gold_i]和#V 400#![prestige|E][prestige_i]要求[Title.GetNameNoTier]的头人向你提供一批[heavy_cavalry|E]#!\n\n#T 要求#!：\n[Title.GetNameNoTier]的头人：\n$EFFECT_LIST_BULLET$对你的[opinion|E]大于等于#V 0#!\n$EFFECT_LIST_BULLET$#V 当前军力#!大于等于#V 2000#!\n$EFFECT_LIST_BULLET$[army|E]中的[heavy_cavalry|E]数量大于等于#V 150#!\n$EFFECT_LIST_BULLET$[prestige_levels|E]不低于#V $prestige_level_2$#!\n$EFFECT_LIST_BULLET$[dynasty|E]中拥有[GetModifier('xinzeng_touren_001_modifier').GetNameWithTooltip]修正\n你：\n$EFFECT_LIST_BULLET$处于[war|E]中，[gold|E]大于等于#V 100#!\n$EFFECT_LIST_BULLET$[prestige|E]大于等于#V 200#!\n$EFFECT_LIST_BULLET$[prestige_levels|E]不低于#V $prestige_level_1$#!\n\n#T 耗时#!：#V 8#!到#V 16#!个月\n\n#T 完成后#!：\n你获得一批[heavy_cavalry|E]（这批[heavy_cavalry|E]在[war|E]结束后将会解散）（[Title.GetNameNoTier]的头人向你提供的[heavy_cavalry|E]数量与其[martial_skill|E]以及#V 当前军力#!有关）\n[Title.GetNameNoTier]的头人获得#V 200#![gold|E]和#V 400#![prestige|E]\n[Title.GetNameNoTier]的头人获得[GetModifier('xinzeng_touren_008_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n[Title.GetNameNoTier]的头人#V 30年#!内不会接受你下派的任何任务。"
+
+xinzeng_touren_renwu.001.t:0 "额外税款"
+xinzeng_touren_renwu.001.desc:0 "头人完成了你的任务并成功上缴税款"
+
+xinzeng_touren_renwu.002.t:0 "威严广布"
+xinzeng_touren_renwu.002.desc:0 "头人成功散播了你之威严"
+
+xinzeng_touren_renwu.003.t:0 "头人的征召兵"
+xinzeng_touren_renwu.003.desc:0 "头人为你召集了一队征召兵"
+
+xinzeng_touren_renwu.004.t:0 "头人的轻骑兵"
+xinzeng_touren_renwu.004.desc:0 "头人为你召集了一队轻骑兵"
+
+xinzeng_touren_renwu.005.t:0 "头人的弓骑兵"
+xinzeng_touren_renwu.005.desc:0 "头人为你召集了一队弓骑兵"
+
+xinzeng_touren_renwu.006.t:0 "头人的重骑兵"
+xinzeng_touren_renwu.006.desc:0 "头人为你召集了一队重骑兵"
+
+
+rule_xinzeng_zhujun_xiuzheng:0 "玩家[regiment|E][stationed_holding|E]修正率"
+setting_xinzeng_zhujun_xiuzheng_001:0 "百分之六十"
+setting_xinzeng_zhujun_xiuzheng_001_desc:0 "玩家获得[GetModifier('xinzeng_zhujun_xiuzheng_001_modifier').GetNameWithTooltip]修正，最大程度防止数据膨胀，变相调整ai难度，优化游戏竞技体验，与ai斗，其乐无穷。"
+setting_xinzeng_zhujun_xiuzheng_002:0 "百分之四十"
+setting_xinzeng_zhujun_xiuzheng_002_desc:0 "玩家获得[GetModifier('xinzeng_zhujun_xiuzheng_002_modifier').GetNameWithTooltip]修正，对兵种叠叠乐影响不大，但也能适度减少数据膨胀速率。"
+setting_xinzeng_zhujun_xiuzheng_003:0 "百分之二十"
+setting_xinzeng_zhujun_xiuzheng_003_desc:0 "玩家获得[GetModifier('xinzeng_zhujun_xiuzheng_003_modifier').GetNameWithTooltip]修正，小幅度修正兵士驻扎数值，几乎可以肯定的是，你的将很快体验到爆杀ai的爽感。"
+setting_xinzeng_zhujun_xiuzheng_004:0 "无"
+setting_xinzeng_zhujun_xiuzheng_004_desc:0 "狂暴鸿儒ai ！！！"
+
+rule_dfbz_zhujun_xitong_kaiguan:0 "[men_at_arms|E]装备系统开关"
+setting_xinzeng_zhujun_xitong_kaiguan_001:0 "装备系统：#P #EMP 开#!#!"
+setting_xinzeng_zhujun_xitong_kaiguan_001_desc:0 "#P #EMP 打开#!#!装备系统。（选择此项后请手动调整#V 玩家[regiment|E][stationed_holding|E]修正率#!游戏规则，二者配合使用游戏效果更佳）"
+setting_xinzeng_zhujun_xitong_kaiguan_002:0 "装备系统：#N #EMP 关#!#!"
+setting_xinzeng_zhujun_xitong_kaiguan_002_desc:0 "#N #EMP 关闭#!#!装备系统。（选择此项后请手动将#V 玩家[regiment|E][stationed_holding|E]修正率#!游戏规则调整至#V 无#!，以免破坏游戏体验）"
+
+rule_dfbz_ewaijunfei_xitong_kaiguan:0 "额外军费系统开关（增加游戏强度）"
+setting_xinzeng_ewaijunfei_xitong_kaiguan_001:0 "额外军费系统：#P #EMP 开#!#!"
+setting_xinzeng_ewaijunfei_xitong_kaiguan_001_desc:0 "#P #EMP 打开#!#!额外军费系统.（选择此项后系统根据玩家所持兵士类型#V 配比#!每年自动结算额外军费——即每年自动获得[GetModifier('jundui_xiangguan_effect_001_modifier').GetNameWithTooltip]修正）"
+setting_xinzeng_ewaijunfei_xitong_kaiguan_002:0 "额外军费系统：#N #EMP 关#!#!"
+setting_xinzeng_ewaijunfei_xitong_kaiguan_002_desc:0 "#N #EMP 关闭#!#!额外军费系统。"
+
+XINZENG_REGIMENT_ZHUANGBEI_002:0 "    主武器"
+XINZENG_REGIMENT_ZHUANGBEI_003:0 "    副武器"
+
+XINZENG_REGIMENT_ZHUANGBEI_001:0 "      甲胄    "
+
+XINZENG_REGIMENT_ZHUANGBEI_004:0 "     盾牌"
+XINZENG_REGIMENT_ZHUANGBEI_005:0 "      坐骑"
+XINZENG_REGIMENT_ZHUANGBEI_006:0 " 驻军策略"
+
+XINZENG_REGIMENT_XUANZE_ZHUANGBEI_001:0 "为此[regiment|E]的[men_at_arms|E]选择#P #EMP 甲胄#!#!"
+XINZENG_REGIMENT_XUANZE_ZHUANGBEI_002:0 "为此[regiment|E]的[men_at_arms|E]选择#P #EMP 主武器#!#!"
+XINZENG_REGIMENT_XUANZE_ZHUANGBEI_003:0 "为此[regiment|E]的[men_at_arms|E]选择#P #EMP 副武器#!#!"
+XINZENG_REGIMENT_XUANZE_ZHUANGBEI_004:0 "为此[regiment|E]的[men_at_arms|E]选择#P #EMP 盾牌#!#!"
+XINZENG_REGIMENT_XUANZE_ZHUANGBEI_005:0 "为此[regiment|E]的[men_at_arms|E]选择#P #EMP 坐骑#!#!或#P #EMP 相关#!"
+XINZENG_REGIMENT_XUANZE_ZHUANGBEI_006:0 "为此[regiment|E]的[men_at_arms|E]选择#P #EMP 驻军策略#!#!"
+
+
+xinzeng_zhuangbei_xuanxiang_miaoshu_001:0 "点击为此[regiment|E]的[men_at_arms|E]装配#P #EMP 甲胄#!#!\n[regiment|E]适应新防具需要一定时间，在上一个修正结束前其他选项不可用\n[regiment|E][stationed_holding|E]的[tax|E]#N #EMP 小于等于零#!#!时所有选项#N #EMP 不可用#!#!"
+xinzeng_zhuangbei_xuanxiang_miaoshu_002:0 "点击为此[regiment|E]的[men_at_arms|E]装配#P #EMP 主武器#!#!\n[regiment|E]适应新武器需要一定时间，在上一个修正结束前其他选项不可用\n[regiment|E][stationed_holding|E]的[tax|E]#N #EMP 小于等于零#!#!时所有选项#N #EMP 不可用#!#!"
+xinzeng_zhuangbei_xuanxiang_miaoshu_003:0 "点击为此[regiment|E]的[men_at_arms|E]装配#P #EMP 副武器#!#!\n[regiment|E]适应新武器需要一定时间，在上一个修正结束前其他选项不可用\n[regiment|E][stationed_holding|E]的[tax|E]#N #EMP 小于等于零#!#!时所有选项#N #EMP 不可用#!#!"
+xinzeng_zhuangbei_xuanxiang_miaoshu_004:0 "点击为此[regiment|E]的[men_at_arms|E]装配#P #EMP 盾牌#!#!\n[regiment|E]适应新防具需要一定时间，在上一个修正结束前其他选项不可用\n[regiment|E][stationed_holding|E]的[tax|E]#N #EMP 小于等于零#!#!时所有选项#N #EMP 不可用#!#!"
+xinzeng_zhuangbei_xuanxiang_miaoshu_005:0 "点击为此[regiment|E]的[men_at_arms|E]选择#P #EMP 坐骑#!#!或#P #EMP 相关#!#!\n[regiment|E]适应新坐骑和相关物品需要一定时间，在上一个修正结束前其他选项不可用\n[regiment|E][stationed_holding|E]的[tax|E]#N #EMP 小于等于零#!#!时所有选项#N #EMP 不可用#!#!"
+xinzeng_zhuangbei_xuanxiang_miaoshu_006:0 "点击为此[regiment|E]的[men_at_arms|E]选择#P #EMP 驻军策略#!#!\n[regiment|E]适应新驻军策略需要一定时间，在上一个修正结束前其他选项不可用\n[regiment|E][stationed_holding|E]的[tax|E]#N #EMP 小于等于零#!#!时所有选项#N #EMP 不可用#!#!"
+
+
+#甲胄
+xinzeng_zhuangbei_jiazhou_000_a:0 "强制换装"
+xinzeng_zhuangbei_jiazhou_000_b:0 "[prestige_i]300"
+xinzeng_zhuangbei_jiazhou_000_c:0 "#T 强制换装#!#!\n\n强行为当前[regiment|E]换装甲胄\n#N #EMP 已装配的甲胄将全部销毁且修正解除#!#!"
+xinzeng_zhuangbei_jiazhou_001_a:0 "锁甲"
+xinzeng_zhuangbei_jiazhou_001_b:0 "[gold_i]70"
+xinzeng_zhuangbei_jiazhou_001_c:0 "#T 锁甲#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('001_xinzeng_zhuangbei_001_modifier').GetNameWithTooltip]修正，为期#V 30年#!"
+xinzeng_zhuangbei_jiazhou_002_a:0 "板甲"
+xinzeng_zhuangbei_jiazhou_002_b:0 "[gold_i]240"
+xinzeng_zhuangbei_jiazhou_002_c:0 "#T 板甲#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('001_xinzeng_zhuangbei_002_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]拥有#high $innovation_plate_armor$#![innovations|E]"
+xinzeng_zhuangbei_jiazhou_003_a:0 "札甲"
+xinzeng_zhuangbei_jiazhou_003_b:0 "[gold_i]100"
+xinzeng_zhuangbei_jiazhou_003_c:0 "#T 札甲#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('001_xinzeng_zhuangbei_003_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 札甲#!的习惯"
+xinzeng_zhuangbei_jiazhou_004_a:0 "重型札甲"
+xinzeng_zhuangbei_jiazhou_004_b:0 "[gold_i]180"
+xinzeng_zhuangbei_jiazhou_004_c:0 "#T 重型札甲#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('001_xinzeng_zhuangbei_004_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 重型札甲#!的习惯"
+xinzeng_zhuangbei_jiazhou_005_a:0 "皮甲"
+xinzeng_zhuangbei_jiazhou_005_b:0 "[gold_i]50"
+xinzeng_zhuangbei_jiazhou_005_c:0 "#T 皮甲#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('001_xinzeng_zhuangbei_005_modifier').GetNameWithTooltip]修正，为期#V 30年#!"
+xinzeng_zhuangbei_jiazhou_006_a:0 "竹甲"
+xinzeng_zhuangbei_jiazhou_006_b:0 "[gold_i]45"
+xinzeng_zhuangbei_jiazhou_006_c:0 "#T 竹甲#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('001_xinzeng_zhuangbei_006_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 竹甲#!的习惯"
+xinzeng_zhuangbei_jiazhou_007_a:0 "藤甲"
+xinzeng_zhuangbei_jiazhou_007_b:0 "[gold_i]55"
+xinzeng_zhuangbei_jiazhou_007_c:0 "#T 藤甲#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('001_xinzeng_zhuangbei_007_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 藤甲#!的习惯"
+
+
+#主武器
+xinzeng_zhuangbei_zhuwuqi_000_a:0 "强制换装"
+xinzeng_zhuangbei_zhuwuqi_000_b:0 "[prestige_i]300"
+xinzeng_zhuangbei_zhuwuqi_000_c:0 "#T 强制换装#!#!\n\n强行为当前[regiment|E]换装主武器\n#N #EMP 已装配的主武器将全部销毁且修正解除#!#!"
+xinzeng_zhuangbei_zhuwuqi_001_a:0 "长枪"
+xinzeng_zhuangbei_zhuwuqi_001_b:0 "[gold_i]25"
+xinzeng_zhuangbei_zhuwuqi_001_c:0 "#T 长枪#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_001_modifier').GetNameWithTooltip]修正，为期#V 30年#!"
+xinzeng_zhuangbei_zhuwuqi_002_a:0 "战刀"
+xinzeng_zhuangbei_zhuwuqi_002_b:0 "[gold_i]30"
+xinzeng_zhuangbei_zhuwuqi_002_c:0 "#T 战刀#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_002_modifier').GetNameWithTooltip]修正，为期#V 30年#!"
+xinzeng_zhuangbei_zhuwuqi_003_a:0 "丹麦斧"
+xinzeng_zhuangbei_zhuwuqi_003_b:0 "[gold_i]20"
+xinzeng_zhuangbei_zhuwuqi_003_c:0 "#T 丹麦斧#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_003_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 丹麦斧#!的习惯"
+xinzeng_zhuangbei_zhuwuqi_004_a:0 "重战斧"
+xinzeng_zhuangbei_zhuwuqi_004_b:0 "[gold_i]60"
+xinzeng_zhuangbei_zhuwuqi_004_c:0 "#T 重战斧#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_004_modifier').GetNameWithTooltip]修正，为期#V 30年#!"
+xinzeng_zhuangbei_zhuwuqi_005_a:0 "战棍"
+xinzeng_zhuangbei_zhuwuqi_005_b:0 "[gold_i]15"
+xinzeng_zhuangbei_zhuwuqi_005_c:0 "#T 战棍#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_005_modifier').GetNameWithTooltip]修正，为期#V 30年#!"
+xinzeng_zhuangbei_zhuwuqi_006_a:0 "陌刀"
+xinzeng_zhuangbei_zhuwuqi_006_b:0 "[gold_i]70"
+xinzeng_zhuangbei_zhuwuqi_006_c:0 "#T 陌刀#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_006_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 陌刀#!的习惯"
+xinzeng_zhuangbei_zhuwuqi_007_a:0 "马刀"
+xinzeng_zhuangbei_zhuwuqi_007_b:0 "[gold_i]30"
+xinzeng_zhuangbei_zhuwuqi_007_c:0 "#T 马刀#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_007_modifier').GetNameWithTooltip]修正，为期#V 30年#!"
+xinzeng_zhuangbei_zhuwuqi_008_a:0 "长剑"
+xinzeng_zhuangbei_zhuwuqi_008_b:0 "[gold_i]30"
+xinzeng_zhuangbei_zhuwuqi_008_c:0 "#T 长剑#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_008_modifier').GetNameWithTooltip]修正，为期#V 30年#!"
+xinzeng_zhuangbei_zhuwuqi_009_a:0 "重型狼牙棒"
+xinzeng_zhuangbei_zhuwuqi_009_b:0 "[gold_i]60"
+xinzeng_zhuangbei_zhuwuqi_009_c:0 "#T 重型狼牙棒#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_009_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 重型狼牙棒#!的习惯"
+xinzeng_zhuangbei_zhuwuqi_010_a:0 "短矛"
+xinzeng_zhuangbei_zhuwuqi_010_b:0 "[gold_i]20"
+xinzeng_zhuangbei_zhuwuqi_010_c:0 "#T 短矛#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_010_modifier').GetNameWithTooltip]修正，为期#V 30年#!"
+xinzeng_zhuangbei_zhuwuqi_011_a:0 "标枪"
+xinzeng_zhuangbei_zhuwuqi_011_b:0 "[gold_i]40"
+xinzeng_zhuangbei_zhuwuqi_011_c:0 "#T 标枪#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_011_modifier').GetNameWithTooltip]修正，为期#V 30年#!"
+xinzeng_zhuangbei_zhuwuqi_012_a:0 "铁链夹棒"
+xinzeng_zhuangbei_zhuwuqi_012_b:0 "[gold_i]50"
+xinzeng_zhuangbei_zhuwuqi_012_c:0 "#T 铁链夹棒#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_012_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 铁链夹棒#!的习惯"
+xinzeng_zhuangbei_zhuwuqi_013_a:0 "手梢子棍"
+xinzeng_zhuangbei_zhuwuqi_013_b:0 "[gold_i]35"
+xinzeng_zhuangbei_zhuwuqi_013_c:0 "#T 手梢子棍#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_013_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 手梢子棍#!的习惯"
+xinzeng_zhuangbei_zhuwuqi_014_a:0 "果尔考儿"
+xinzeng_zhuangbei_zhuwuqi_014_b:0 "[gold_i]10"
+xinzeng_zhuangbei_zhuwuqi_014_c:0 "#T 果尔考儿#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_014_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 果尔考儿#!的习惯"
+xinzeng_zhuangbei_zhuwuqi_015_a:0 "骑枪"
+xinzeng_zhuangbei_zhuwuqi_015_b:0 "[gold_i]70"
+xinzeng_zhuangbei_zhuwuqi_015_c:0 "#T 骑枪#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_015_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 骑枪#!的习惯"
+xinzeng_zhuangbei_zhuwuqi_016_a:0 "马槊"
+xinzeng_zhuangbei_zhuwuqi_016_b:0 "[gold_i]60"
+xinzeng_zhuangbei_zhuwuqi_016_c:0 "#T 马槊#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_016_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 马槊#!的习惯"
+xinzeng_zhuangbei_zhuwuqi_017_a:0 "弓"
+xinzeng_zhuangbei_zhuwuqi_017_b:0 "[gold_i]40"
+xinzeng_zhuangbei_zhuwuqi_017_c:0 "#T 弓#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_017_modifier').GetNameWithTooltip]修正，为期#V 30年#!"
+xinzeng_zhuangbei_zhuwuqi_018_a:0 "长弓"
+xinzeng_zhuangbei_zhuwuqi_018_b:0 "[gold_i]60"
+xinzeng_zhuangbei_zhuwuqi_018_c:0 "#T 长弓#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_018_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]拥有#high $tradition_longbow_competitions_name$#![culture_tradition|E]"
+xinzeng_zhuangbei_zhuwuqi_019_a:0 "弩"
+xinzeng_zhuangbei_zhuwuqi_019_b:0 "[gold_i]45"
+xinzeng_zhuangbei_zhuwuqi_019_c:0 "#T 弩#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_019_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]拥有#high $innovation_advanced_bowmaking$#![innovations|E]或军事上有使用#high 弩#!的习惯"
+xinzeng_zhuangbei_zhuwuqi_020_a:0 "连弩"
+xinzeng_zhuangbei_zhuwuqi_020_b:0 "[gold_i]50"
+xinzeng_zhuangbei_zhuwuqi_020_c:0 "#T 连弩#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_020_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]拥有#high $innovation_repeating_crossbow$#![innovations|E]"
+xinzeng_zhuangbei_zhuwuqi_021_a:0 "神臂弓"
+xinzeng_zhuangbei_zhuwuqi_021_b:0 "[gold_i]100"
+xinzeng_zhuangbei_zhuwuqi_021_c:0 "#T 神臂弓#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_021_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]拥有#high $innovation_shenbigong$#![innovations|E]"
+xinzeng_zhuangbei_zhuwuqi_022_a:0 "和弓"
+xinzeng_zhuangbei_zhuwuqi_022_b:0 "[gold_i]30"
+xinzeng_zhuangbei_zhuwuqi_022_c:0 "#T 和弓#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_022_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]拥有#high $innovation_hegong$#![innovations|E]"
+xinzeng_zhuangbei_zhuwuqi_023_a:0 "骑兵弩"
+xinzeng_zhuangbei_zhuwuqi_023_b:0 "[gold_i]35"
+xinzeng_zhuangbei_zhuwuqi_023_c:0 "#T 骑兵弩#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_023_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 骑兵弩#!的习惯"
+xinzeng_zhuangbei_zhuwuqi_024_a:0 "超长枪"
+xinzeng_zhuangbei_zhuwuqi_024_b:0 "[gold_i]80"
+xinzeng_zhuangbei_zhuwuqi_024_c:0 "#T 超长枪#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_024_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 超长枪#!的习惯"
+xinzeng_zhuangbei_zhuwuqi_025_a:0 "角弓"
+xinzeng_zhuangbei_zhuwuqi_025_b:0 "[gold_i]50"
+xinzeng_zhuangbei_zhuwuqi_025_c:0 "#T 角弓#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_025_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 角弓#!的习惯"
+xinzeng_zhuangbei_zhuwuqi_026_a:0 "高丽弓"
+xinzeng_zhuangbei_zhuwuqi_026_b:0 "[gold_i]50"
+xinzeng_zhuangbei_zhuwuqi_026_c:0 "#T 高丽弓#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_026_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]拥有#high $innovation_gaoligong$#![innovations|E]"
+xinzeng_zhuangbei_zhuwuqi_027_a:0 "武士刀"
+xinzeng_zhuangbei_zhuwuqi_027_b:0 "[gold_i]40"
+xinzeng_zhuangbei_zhuwuqi_027_c:0 "#T 武士刀#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_027_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]拥有#high $innovation_wushijueqi$#![innovations|E]"
+xinzeng_zhuangbei_zhuwuqi_028_a:0 "薙刀"
+xinzeng_zhuangbei_zhuwuqi_028_b:0 "[gold_i]35"
+xinzeng_zhuangbei_zhuwuqi_028_c:0 "#T 薙刀#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_028_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]拥有#high $innovation_tidao$#![innovations|E]"
+xinzeng_zhuangbei_zhuwuqi_029_a:0 "双手巨剑"
+xinzeng_zhuangbei_zhuwuqi_029_b:0 "[gold_i]60"
+xinzeng_zhuangbei_zhuwuqi_029_c:0 "#T 双手巨剑#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_029_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]拥有#high $innovation_zweihanders$#![innovations|E]"
+xinzeng_zhuangbei_zhuwuqi_030_a:0 "朴刀"
+xinzeng_zhuangbei_zhuwuqi_030_b:0 "[gold_i]30"
+xinzeng_zhuangbei_zhuwuqi_030_c:0 "#T 朴刀#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_030_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 朴刀#!的习惯"
+xinzeng_zhuangbei_zhuwuqi_031_a:0 "投石索"
+xinzeng_zhuangbei_zhuwuqi_031_b:0 "[gold_i]10"
+xinzeng_zhuangbei_zhuwuqi_031_c:0 "#T 投石索#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('002_xinzeng_zhuangbei_031_modifier').GetNameWithTooltip]修正，为期#V 30年#!"
+
+#副武器
+xinzeng_zhuangbei_fuwuqi_000_a:0 "强制换装"
+xinzeng_zhuangbei_fuwuqi_000_b:0 "[prestige_i]300"
+xinzeng_zhuangbei_fuwuqi_000_c:0 "#T 强制换装#!#!\n\n强行为当前[regiment|E]换装副武器\n#N #EMP 已装配的副武器将全部销毁且修正解除#!#!"
+xinzeng_zhuangbei_fuwuqi_001_a:0 "角弓"
+xinzeng_zhuangbei_fuwuqi_001_b:0 "[gold_i]50"
+xinzeng_zhuangbei_fuwuqi_001_c:0 "#T 角弓#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('003_xinzeng_zhuangbei_001_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 角弓#!的习惯"
+xinzeng_zhuangbei_fuwuqi_002_a:0 "钉锤"
+xinzeng_zhuangbei_fuwuqi_002_b:0 "[gold_i]30"
+xinzeng_zhuangbei_fuwuqi_002_c:0 "#T 钉锤#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('003_xinzeng_zhuangbei_002_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 钉锤#!的习惯"
+xinzeng_zhuangbei_fuwuqi_003_a:0 "短剑"
+xinzeng_zhuangbei_fuwuqi_003_b:0 "[gold_i]20"
+xinzeng_zhuangbei_fuwuqi_003_c:0 "#T 短剑#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('003_xinzeng_zhuangbei_003_modifier').GetNameWithTooltip]修正，为期#V 30年#!"
+xinzeng_zhuangbei_fuwuqi_004_a:0 "骨朵"
+xinzeng_zhuangbei_fuwuqi_004_b:0 "[gold_i]35"
+xinzeng_zhuangbei_fuwuqi_004_c:0 "#T 骨朵#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('003_xinzeng_zhuangbei_004_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 骨朵#!的习惯"
+xinzeng_zhuangbei_fuwuqi_005_a:0 "陌刀"
+xinzeng_zhuangbei_fuwuqi_005_b:0 "[gold_i]60"
+xinzeng_zhuangbei_fuwuqi_005_c:0 "#T 陌刀#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('003_xinzeng_zhuangbei_005_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 陌刀#!的习惯"
+xinzeng_zhuangbei_fuwuqi_006_a:0 "标枪"
+xinzeng_zhuangbei_fuwuqi_006_b:0 "[gold_i]35"
+xinzeng_zhuangbei_fuwuqi_006_c:0 "#T 标枪#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('003_xinzeng_zhuangbei_006_modifier').GetNameWithTooltip]修正，为期#V 30年#!"
+xinzeng_zhuangbei_fuwuqi_007_a:0 "匕首"
+xinzeng_zhuangbei_fuwuqi_007_b:0 "[gold_i]10"
+xinzeng_zhuangbei_fuwuqi_007_c:0 "#T 匕首#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('003_xinzeng_zhuangbei_007_modifier').GetNameWithTooltip]修正，为期#V 30年#!"
+xinzeng_zhuangbei_fuwuqi_008_a:0 "手弩"
+xinzeng_zhuangbei_fuwuqi_008_b:0 "[gold_i]35"
+xinzeng_zhuangbei_fuwuqi_008_c:0 "#T 手弩#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('003_xinzeng_zhuangbei_008_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 手弩#!的习惯"
+xinzeng_zhuangbei_fuwuqi_009_a:0 "铲子"
+xinzeng_zhuangbei_fuwuqi_009_b:0 "[gold_i]20"
+xinzeng_zhuangbei_fuwuqi_009_c:0 "#T 铲子#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('003_xinzeng_zhuangbei_009_modifier').GetNameWithTooltip]修正，为期#V 30年#!"
+xinzeng_zhuangbei_fuwuqi_010_a:0 "短柄斧"
+xinzeng_zhuangbei_fuwuqi_010_b:0 "[gold_i]20"
+xinzeng_zhuangbei_fuwuqi_010_c:0 "#T 短柄斧#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('003_xinzeng_zhuangbei_010_modifier').GetNameWithTooltip]修正，为期#V 30年#!"
+xinzeng_zhuangbei_fuwuqi_011_a:0 "石头"
+xinzeng_zhuangbei_fuwuqi_011_b:0 "[gold_i]5"
+xinzeng_zhuangbei_fuwuqi_011_c:0 "#T 石头#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('003_xinzeng_zhuangbei_011_modifier').GetNameWithTooltip]修正，为期#V 30年#!"
+xinzeng_zhuangbei_fuwuqi_012_a:0 "单刀"
+xinzeng_zhuangbei_fuwuqi_012_b:0 "[gold_i]20"
+xinzeng_zhuangbei_fuwuqi_012_c:0 "#T 单刀#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('003_xinzeng_zhuangbei_012_modifier').GetNameWithTooltip]修正，为期#V 30年#!"
+xinzeng_zhuangbei_fuwuqi_013_a:0 "短矛"
+xinzeng_zhuangbei_fuwuqi_013_b:0 "[gold_i]20"
+xinzeng_zhuangbei_fuwuqi_013_c:0 "#T 短矛#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('003_xinzeng_zhuangbei_013_modifier').GetNameWithTooltip]修正，为期#V 30年#!"
+
+
+#副武器
+xinzeng_zhuangbei_dunpai_000_a:0 "强制换装"
+xinzeng_zhuangbei_dunpai_000_b:0 "[prestige_i]300"
+xinzeng_zhuangbei_dunpai_000_c:0 "#T 强制换装#!#!\n\n强行为当前[regiment|E]换装盾牌\n#N #EMP 已装配的盾牌将全部销毁且修正解除#!#!"
+xinzeng_zhuangbei_dunpai_001_a:0 "小圆盾"
+xinzeng_zhuangbei_dunpai_001_b:0 "[gold_i]25"
+xinzeng_zhuangbei_dunpai_001_c:0 "#T 小圆盾#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('004_xinzeng_zhuangbei_001_modifier').GetNameWithTooltip]修正，为期#V 30年#!"
+xinzeng_zhuangbei_dunpai_002_a:0 "塔盾"
+xinzeng_zhuangbei_dunpai_002_b:0 "[gold_i]60"
+xinzeng_zhuangbei_dunpai_002_c:0 "#T 塔盾#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('004_xinzeng_zhuangbei_002_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 塔盾#!的习惯"
+xinzeng_zhuangbei_dunpai_003_a:0 "塔盾"
+xinzeng_zhuangbei_dunpai_003_b:0 "[gold_i]40"
+xinzeng_zhuangbei_dunpai_003_c:0 "#T 塔盾#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('004_xinzeng_zhuangbei_003_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]拥有#high $innovation_paweisidadun$#![innovations|E]"
+xinzeng_zhuangbei_dunpai_004_a:0 "圆盾"
+xinzeng_zhuangbei_dunpai_004_b:0 "[gold_i]30"
+xinzeng_zhuangbei_dunpai_004_c:0 "#T 圆盾#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('004_xinzeng_zhuangbei_004_modifier').GetNameWithTooltip]修正，为期#V 30年#!"
+xinzeng_zhuangbei_dunpai_005_a:0 "维京圆盾"
+xinzeng_zhuangbei_dunpai_005_b:0 "[gold_i]25"
+xinzeng_zhuangbei_dunpai_005_c:0 "#T 维京圆盾#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('004_xinzeng_zhuangbei_005_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 维京圆盾#!的习惯"
+xinzeng_zhuangbei_dunpai_006_a:0 "器形盾"
+xinzeng_zhuangbei_dunpai_006_b:0 "[gold_i]45"
+xinzeng_zhuangbei_dunpai_006_c:0 "#T 器形盾#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('004_xinzeng_zhuangbei_006_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 器形盾#!的习惯"
+xinzeng_zhuangbei_dunpai_007_a:0 "筝形盾"
+xinzeng_zhuangbei_dunpai_007_b:0 "[gold_i]35"
+xinzeng_zhuangbei_dunpai_007_c:0 "#T 筝形盾#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('004_xinzeng_zhuangbei_007_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 筝形盾#!的习惯"
+xinzeng_zhuangbei_dunpai_008_a:0 "扇形盾"
+xinzeng_zhuangbei_dunpai_008_b:0 "[gold_i]35"
+xinzeng_zhuangbei_dunpai_008_c:0 "#T 扇形盾#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('004_xinzeng_zhuangbei_008_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 扇形盾#!的习惯"
+xinzeng_zhuangbei_dunpai_009_a:0 "椭圆盾"
+xinzeng_zhuangbei_dunpai_009_b:0 "[gold_i]30"
+xinzeng_zhuangbei_dunpai_009_c:0 "#T 椭圆盾#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('004_xinzeng_zhuangbei_009_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 椭圆盾#!的习惯"
+xinzeng_zhuangbei_dunpai_010_a:0 "旁牌"
+xinzeng_zhuangbei_dunpai_010_b:0 "[gold_i]25"
+xinzeng_zhuangbei_dunpai_010_c:0 "#T 旁牌#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('004_xinzeng_zhuangbei_010_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 旁牌#!的习惯"
+xinzeng_zhuangbei_dunpai_011_a:0 "旁牌"
+xinzeng_zhuangbei_dunpai_011_b:0 "[gold_i]25"
+xinzeng_zhuangbei_dunpai_011_c:0 "#T 旁牌#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('004_xinzeng_zhuangbei_011_modifier').GetNameWithTooltip]修正，为期#V 30年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$该[regiment|E]所有者的[culture|E]，军事上有使用#high 旁牌#!的习惯"
+
+
+
+xinzeng_yi_xuanze:0 "已选择"
+#坐骑及相关
+xinzeng_zhuangbei_zuoqi_001_a:0 "冲锋"
+xinzeng_zhuangbei_zuoqi_001_b:0 "[gold_i]30"
+xinzeng_zhuangbei_zuoqi_001_c:0 "#T 坐骑#P #EMP 发展方向#!#!：冲锋#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('005_xinzeng_zhuangbei_001_modifier').GetNameWithTooltip]修正，为期#V 10年#!\n\n坐骑冲锋速度的提升能让对敌伤害更上一层楼。"
+xinzeng_zhuangbei_zuoqi_002_a:0 "负重"
+xinzeng_zhuangbei_zuoqi_002_b:0 "[gold_i]30"
+xinzeng_zhuangbei_zuoqi_002_c:0 "#T 坐骑#P #EMP 发展方向#!#!：负重#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('005_xinzeng_zhuangbei_002_modifier').GetNameWithTooltip]修正，为期#V 10年#!\n\n更高的负重意味着更强的甲胄，我们的骑士生存能力将大幅提高。"
+xinzeng_zhuangbei_zuoqi_003_a:0 "追猎"
+xinzeng_zhuangbei_zuoqi_003_b:0 "[gold_i]30"
+xinzeng_zhuangbei_zuoqi_003_c:0 "#T 坐骑#P #EMP 发展方向#!#!：追猎#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('005_xinzeng_zhuangbei_003_modifier').GetNameWithTooltip]修正，为期#V 10年#!\n\n通过反复的训练让坐骑和骑士都具有更强的追踪索敌能力。"
+xinzeng_zhuangbei_zuoqi_004_a:0 "掩护"
+xinzeng_zhuangbei_zuoqi_004_b:0 "[gold_i]30"
+xinzeng_zhuangbei_zuoqi_004_c:0 "#T 坐骑#P #EMP 发展方向#!#!：掩护#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('005_xinzeng_zhuangbei_004_modifier').GetNameWithTooltip]修正，为期#V 10年#!\n\n优秀的坐骑能够将昏死的战士安然驮回营地，这多亏了双方亲密无间的关系和坚韧不拔的意志。"
+xinzeng_zhuangbei_zuoqi_005_a:0 "繁育战马"
+xinzeng_zhuangbei_zuoqi_005_b:0 "[gold_i]70"
+xinzeng_zhuangbei_zuoqi_005_c:0 "#T 繁育战马#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('005_xinzeng_zhuangbei_005_001_modifier').GetNameWithTooltip]修正，为期#V 10年#!\n你获得[GetModifier('005_xinzeng_zhuangbei_005_002_modifier').GetNameWithTooltip]修正，年限#V 随机#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$未选择坐骑发展方向\n[regiment|E][stationed_holding|E]处：\n$EFFECT_LIST_BULLET$至少一项：\n  $EFFECT_LIST_BULLET$拥有[GetBuilding('stables_01').GetName]或者它的升级版\n  $EFFECT_LIST_BULLET$拥有拥有[GetBuilding('horse_pastures_01').GetName]或者它的升级版\n  $EFFECT_LIST_BULLET$拥有拥有[GetBuilding('hillside_grazing_01').GetName]或者它的升级版\n  $EFFECT_LIST_BULLET$拥有拥有[GetBuilding('muchang_01').GetName]或者它的升级版\n或\n$EFFECT_LIST_BULLET$你的[culture|E]拥有[GetCultureTradition('tradition_horse_breeder').GetName][traditions|E]\n\n'人有人孩，马有马崽'。战马的思春之情泛滥时最好离它远点。"
+xinzeng_zhuangbei_zuoqi_006_a:0 "旋风砲"
+xinzeng_zhuangbei_zuoqi_006_b:0 "[gold_i]70"
+xinzeng_zhuangbei_zuoqi_006_c:0 "#T 旋风砲#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('005_xinzeng_zhuangbei_006_modifier').GetNameWithTooltip]修正，为期#V 10年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$你的[culture|E]是#high $heritage_qiangic_name$#![heritage|E]\n$EFFECT_LIST_BULLET$你的[culture|E]到达了#V 中世纪早期#!时代\n$EFFECT_LIST_BULLET$已选择坐骑发展方向：#V 负重#!\n\n布设并在骆驼背上的小型抛石砲，急速飞出的石块威力骇人。"
+xinzeng_zhuangbei_zuoqi_007_a:0 "披甲战象"
+xinzeng_zhuangbei_zuoqi_007_b:0 "[gold_i]300"
+xinzeng_zhuangbei_zuoqi_007_c:0 "#T 披甲战象#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('005_xinzeng_zhuangbei_007_modifier').GetNameWithTooltip]修正，为期#V 10年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$你的[culture|E]拥有#high $innovation_quilted_armor$#![innovations|E]\n\n为我们的战争巨兽披上一层厚重战甲，它们冲锋的姿态将无人能挡。"
+xinzeng_zhuangbei_zuoqi_008_a:0 "箭塔"
+xinzeng_zhuangbei_zuoqi_008_b:0 "[gold_i]100"
+xinzeng_zhuangbei_zuoqi_008_c:0 "#T 箭塔#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('005_xinzeng_zhuangbei_008_modifier').GetNameWithTooltip]修正，为期#V 10年#!\n\n位于象背上的小型箭塔，弓手藏于其中移动射击。"
+
+
+
+#驻军策略
+xinzeng_zhuangbei_zhujuncelue_001_a:0 "训练强度:Ⅰ"
+xinzeng_zhuangbei_zhujuncelue_001_b:0 "[gold_i]30"
+xinzeng_zhuangbei_zhujuncelue_001_c:0 "#T 训练强度:Ⅰ#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('006_xinzeng_zhuangbei_001_modifier').GetNameWithTooltip]修正，为期#V 5年#!\n\n保证每周至少一次训练，让士兵们不至于忘记如何挥舞武器。"
+xinzeng_zhuangbei_zhujuncelue_002_a:0 "训练强度:Ⅱ"
+xinzeng_zhuangbei_zhujuncelue_002_b:0 "[gold_i]70"
+xinzeng_zhuangbei_zhujuncelue_002_c:0 "#T 训练强度:Ⅱ#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('006_xinzeng_zhuangbei_002_modifier').GetNameWithTooltip]修正，为期#V 5年#!\n\n中等训练强度，这只军队可堪一用。"
+xinzeng_zhuangbei_zhujuncelue_003_a:0 "训练强度:Ⅲ"
+xinzeng_zhuangbei_zhujuncelue_003_b:0 "[gold_i]120"
+xinzeng_zhuangbei_zhujuncelue_003_c:0 "#T 训练强度:Ⅲ#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('006_xinzeng_zhuangbei_003_modifier').GetNameWithTooltip]修正，为期#V 5年#!\n\n驻军战斗力更上一层楼，这些士兵足以称得上精锐。"
+xinzeng_zhuangbei_zhujuncelue_004_a:0 "戒严"
+xinzeng_zhuangbei_zhujuncelue_004_b:0 "[gold_i]50，[prestige_i]150"
+xinzeng_zhuangbei_zhujuncelue_004_c:0 "#T 戒严#!#!\n\n[regiment|E][stationed_holding|E]所在[county|E]获得[GetModifier('006_xinzeng_zhuangbei_004_001_modifier').GetNameWithTooltip]修正，为期#V 5年#!\n[regiment|E][stationed_holding|E]获得[GetModifier('006_xinzeng_zhuangbei_004_002_modifier').GetNameWithTooltip]修正，为期#V 5年#!\n你：@dread_icon! + 5\n\n军队接管当地事务，不惜一切代价也要将此地牢牢控制住。"
+xinzeng_zhuangbei_zhujuncelue_005_a:0 "巩固城防"
+xinzeng_zhuangbei_zhujuncelue_005_b:0 "[gold_i]70"
+xinzeng_zhuangbei_zhujuncelue_005_c:0 "#T 巩固城防#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('006_xinzeng_zhuangbei_005_modifier').GetNameWithTooltip]修正，为期#V 5年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$你未处于[war|lE]\n\n驻军协助城防，提升整体防御等级。"
+xinzeng_zhuangbei_zhujuncelue_006_a:0 "坚壁清野"
+xinzeng_zhuangbei_zhujuncelue_006_b:0 "[gold_i]50，[prestige_i]300"
+xinzeng_zhuangbei_zhujuncelue_006_c:0 "#T 巩固城防#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('006_xinzeng_zhuangbei_006_001_modifier').GetNameWithTooltip]修正，为期#V 5年#!\n[regiment|E][stationed_holding|E]所在[county|E]#N #EMP 概率#!#!获得[GetModifier('006_xinzeng_zhuangbei_006_002_modifier').GetNameWithTooltip]修正，年限#V 随机#!\n[regiment|E][stationed_holding|E]所在[county|E][development|E] #N #EMP - 2 #!#!\n你：@stress_icon! #N #EMP 增加#!#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$你处于[war|lE]中\n\n坚守壁垒，使敌人无法攻进阵地；清除郊野的粮食房舍，使敌人因缺粮无遮蔽而无法久战。"
+xinzeng_zhuangbei_zhujuncelue_007_a:0 "强制征兵"
+xinzeng_zhuangbei_zhujuncelue_007_b:0 "[gold_i]30，[prestige_i]150"
+xinzeng_zhuangbei_zhujuncelue_007_c:0 "#T 强制征兵#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('006_xinzeng_zhuangbei_007_001_modifier').GetNameWithTooltip]修正，为期#V 5年#!\n[regiment|E][stationed_holding|E]所在[county|E]获得[GetModifier('006_xinzeng_zhuangbei_007_002_modifier').GetNameWithTooltip]修正，为期#V 15年#!\n你获得[GetModifier('006_xinzeng_zhuangbei_007_003_modifier').GetNameWithTooltip]修正，为期#V 10年#!\n\n为了扩大战争动员，稍稍降低征兵门槛是合理的。"
+xinzeng_zhuangbei_zhujuncelue_008_a:0 "协助城建"
+xinzeng_zhuangbei_zhujuncelue_008_b:0 "[gold_i]20，[prestige_i]300"
+xinzeng_zhuangbei_zhujuncelue_008_c:0 "#T 协助城建#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('006_xinzeng_zhuangbei_008_modifier').GetNameWithTooltip]修正，为期#V 5年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$你未处于[war|lE]\n$EFFECT_LIST_BULLET$[prestige_level|E]#V 大于等于#!$prestige_level_2$\n\n与其让驻军整日训练，不如征调其中部分成员参与地产建设。"
+xinzeng_zhuangbei_zhujuncelue_009_a:0 "驻军征税"
+xinzeng_zhuangbei_zhujuncelue_009_b:0 "[prestige_i]150"
+xinzeng_zhuangbei_zhujuncelue_009_c:0 "#T 驻军征税#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('006_xinzeng_zhuangbei_009_001_modifier').GetNameWithTooltip]修正，为期#V 5年#!\n[regiment|E][stationed_holding|E]所在[county|E]获得[GetModifier('006_xinzeng_zhuangbei_009_002_modifier').GetNameWithTooltip]修正，为期#V 10年#!\n\n刺目的刀剑比和蔼的征税官有用，多出来的油水可以填饱某人的胃口。"
+xinzeng_zhuangbei_zhujuncelue_010_a:0 "巡视牧场"
+xinzeng_zhuangbei_zhujuncelue_010_b:0 "[gold_i]30，[prestige_i]200"
+xinzeng_zhuangbei_zhujuncelue_010_c:0 "#T 巡视牧场#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('006_xinzeng_zhuangbei_010_modifier').GetNameWithTooltip]修正，为期#V 5年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$[regiment|E][stationed_holding|E]所在[barony|E]为#V 草原#![terrain|lE]\n$EFFECT_LIST_BULLET$你未处于[war|lE]\n\n为确保草场状况的万无一失，我们需要派出骑兵于此地反复巡视。"
+xinzeng_zhuangbei_zhujuncelue_011_a:0 "组织劫掠"
+xinzeng_zhuangbei_zhujuncelue_011_b:0 "[gold_i]50，[prestige_i]300"
+xinzeng_zhuangbei_zhujuncelue_011_c:0 "#T 组织劫掠#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('006_xinzeng_zhuangbei_011_001_modifier').GetNameWithTooltip]修正，为期#V 10年#!\n你获得[GetModifier('006_xinzeng_zhuangbei_011_002_modifier').GetNameWithTooltip]修正，为期#V 15年#!\n\n#T 要求#!#!：\n$EFFECT_LIST_BULLET$[regiment|E][stationed_holding|E]处拥有[GetBuilding('war_camps_01').GetName]或者它的升级版\n$EFFECT_LIST_BULLET$[government|E]为[GetGovernment( 'tribal_government' ).GetName]\n\n将劫掠技能传之后人是部落生存与壮大的关键。"
+xinzeng_zhuangbei_zhujuncelue_012_a:0 "切舍御免"
+xinzeng_zhuangbei_zhujuncelue_012_b:0 "[prestige_i]300"
+xinzeng_zhuangbei_zhujuncelue_012_c:0 "#T 切舍御免#!#!\n\n[regiment|E][stationed_holding|E]获得[GetModifier('006_xinzeng_zhuangbei_012_001_modifier').GetNameWithTooltip]修正，为期#V 20年#!\n你获得[GetModifier('006_xinzeng_zhuangbei_012_002_modifier').GetNameWithTooltip]修正，为期#V 20年#!\n[regiment|E][stationed_holding|E]所在[county|E]获得[GetModifier('006_xinzeng_zhuangbei_012_003_modifier').GetNameWithTooltip]修正，为期#V 20年#!\n你的所有[knights|E]：@dread_icon! + 5\n\n平民对武士存在难以忍受的冒犯行为时后者可以将其斩杀而不负罪责。"
+
+ stationed_nu_qibing_damage_add:0 "[stationed|E][nu_qibing|E][damage|E]"
+ stationed_nu_qibing_damage_mult:0 "$stationed_nu_qibing_damage_add$"
+ stationed_nu_qibing_toughness_add:0 "[stationed|E][nu_qibing|E][toughness|E]"
+ stationed_nu_qibing_toughness_mult:0 "$stationed_nu_qibing_toughness_add$"
+ stationed_nu_qibing_pursuit_add:0 "[stationed|E][nu_qibing|E][pursuit|E]"
+ stationed_nu_qibing_pursuit_mult:0 "$stationed_nu_qibing_pursuit_add$"
+ stationed_nu_qibing_screen_add:0 "[stationed|E][nu_qibing|E][screen|E]"
+ stationed_nu_qibing_screen_mult:0 "$stationed_nu_qibing_screen_add$"
+ stationed_nu_qibing_siege_value_add:0 "[stationed|E][nu_qibing|E][siege_progress|E]"
+
+
+
+
+
+XINZENG_LV_FLAVOR_001:1 "征召兵包括牧民、游荡的猎人、当地佣兵以及落魄贵族——他们数量庞大，大多骑马作战，构成了军队的主体。"
+XINZENG_LV_FLAVOR_002:1 "征召兵包括农民兵、地痞、当地佣兵以及落魄贵族，装备着五花八门的工具和东拼西凑的武器——他们数量庞大，构成了大部分军队的主体。"
+XINZENG_LV_FLAVOR_003:1 "征召兵包括农民兵、地痞、当地佣兵以及落魄贵族，装备着五花八门的工具和东拼西凑的武器——他们数量庞大，构成了大部分军队的主体。"
+
+
+
+
+dfbz_xinzeng_0001_attribute:0 "圣战士"
+accolade_dfbz_xinzeng_0001:0 "圣战士"
+
+dfbz_xinzeng_0002_attribute:0 "劫掠者"
+accolade_dfbz_xinzeng_0002:0 "劫掠者"
+
+dfbz_xinzeng_0003_attribute:0 "部落冠军"
+accolade_dfbz_xinzeng_0003:0 "部落冠军"
+accolade_dfbz_xinzeng_0003_buff:0 "$EFFECT_LIST_BULLET$该[acclaimed_knight|E]获得[GetModifier('accolade_dfbz_xinzeng_0003_buff_modifier').GetNameWithTooltip]，其领主\n麾下随机一位非统治者[knights|E]获得[GetTrait('wounded_2').GetName( GetNullCharacter )]"
+
+dfbz_xinzeng_0004_attribute:0 "农民领袖"
+accolade_dfbz_xinzeng_0004:0 "农民领袖"
+accolade_maa_0004_attribute_nongmin_jun:0 "百战老农"
+accolade_maa_0004_attribute_nongmin_jun_flavor:1 "[retinue_maa|E]\n#F 汇集于农民领袖麾下的百战老农，战斗经验丰富。#!"
+accolade_maa_0004_attribute_nongmin_jun_only_available_on_primary:0 "#color_red 不可用：[GetMaA#('accolade_maa_0004_attribute_nongmin_jun').#GetName]（需要主要[accolade_type|E]）#!"
+
+
+
+###
+#派系
+#xinzeng_001_yabing_faction:0 "牙兵派系"
+#xinzeng_001_yabing_faction_desc:0 "牙兵[faction|E]的诉求是更多的[gold|E]，更广阔的[realm|E]以及更优越的地位。积极互动，与你的[knights|E]们保持良好#关系。\n\n#S 最后通牒#!\n所有派系成员获得[gold|E]，[prestige|E]，[army|E]以及[realm|E]\n[deposed|E]现任[liege|E]并推举一位新的[liege|E]。"
+#xinzeng_001_yabing_faction_short_effect_desc:0 "希望攫取更多利益"
+#
+#DFBZ_XINZENG_BUSHI_QISHI:0 "你不是[knights|E]"
+#DFBZ_XINZENG_YABING_PAIXI_0001:0 "你[liege|E]的组织形式不是#V 军府#!"
+#DFBZ_XINZENG_YABING_PAIXI_0002:0 "你[liege|E]的[government|E]不是#V 军镇制#!" #low 或#!
+#
+#FACTION_YABING_NAME:0 "牙兵叛乱"
+#
+#FACTION_REASON_KEWANG_JINQIAN:0 "渴望金钱：$VALUE|=+0$"
+#FACTION_REASON_WEIWANG_DENGJI:0 "[prestige_level|E]：$VALUE|=+0$"
+#
+#DFBZ_XINGEE_AMBITIOUS:0 "[GetTrait('ambitious').GetName( GetNullCharacter )]：$VALUE|=+0$" #野心勃勃
+#DFBZ_XINGEE_DISLOYAL:0 "[GetTrait('disloyal').GetName( GetNullCharacter )]：$VALUE|=+0$" #奸猾
+#DFBZ_XINGEE_ARROGANT:0 "[GetTrait('arrogant').GetName( GetNullCharacter )]：$VALUE|=+0$" #傲慢
+#DFBZ_XINGEE_PARANOID:0 "[GetTrait('paranoid').GetName( GetNullCharacter )]：$VALUE|=+0$" #多疑
+#DFBZ_XINGEE_FICKLE:0 "[GetTrait('fickle').GetName( GetNullCharacter )]：$VALUE|=+0$" #多变
+#DFBZ_XINGEE_ARBITRARY:0 "[GetTrait('arbitrary').GetName( GetNullCharacter )]：$VALUE|=+0$" #专断
+#DFBZ_XINGEE_LOYAL:0 "[GetTrait('loyal').GetName( GetNullCharacter )]：$VALUE|=+0$" #忠信
+#DFBZ_XINGEE_TRUSTING:0 "[GetTrait('trusting').GetName( GetNullCharacter )]：$VALUE|=+0$" #轻信他人
+#DFBZ_XINGEE_CRAVEN:0 "[GetTrait('craven').GetName( GetNullCharacter )]：$VALUE|=+0$" #懦弱
+#DFBZ_XINGEE_LAZY:0 "[GetTrait('lazy').GetName( GetNullCharacter )]：$VALUE|=+0$" #懒惰
+#DFBZ_XINGEE_CONTENT:0 "[GetTrait('content').GetName( GetNullCharacter )]：$VALUE|=+0$" #安于现状
+#DFBZ_XINGEE_GREEDY:0 "[GetTrait('greedy').GetName( GetNullCharacter )]：$VALUE|=+0$" #贪婪
+#DFBZ_XINGEE_TEMPERATE:0 "[GetTrait('temperate').GetName( GetNullCharacter )]：$VALUE|=+0$" #节制
+#DFBZ_XINGEE_WRATHFUL:0 "[GetTrait('wrathful').GetName( GetNullCharacter )]：$VALUE|=+0$" #暴怒
+#DFBZ_XINGEE_HUMBLE:0 "[GetTrait('humble').GetName( GetNullCharacter )]：$VALUE|=+0$" #谦卑
+#DFBZ_XINGEE_COMPASSIONATE:0 "[GetTrait('compassionate').GetName( GetNullCharacter )]：$VALUE|=+0$" #慈悲
+#DFBZ_XINGEE_CALLOUS:0 "[GetTrait('callous').GetName( GetNullCharacter )]：$VALUE|=+0$" #冷酷
+#DFBZ_XINGEE_SADISTIC:0 "[GetTrait('sadistic').GetName( GetNullCharacter )]：$VALUE|=+0$" #虐待狂
+#DFBZ_XINGEE_VENGEFUL:0 "[GetTrait('vengeful').GetName( GetNullCharacter )]：$VALUE|=+0$" #睚眦必报
+#DFBZ_XINGEE_FORGIVING:0 "[GetTrait('forgiving').GetName( GetNullCharacter )]：$VALUE|=+0$" #宽宏大量
+
+
+xinzeng_youmu_ai_000_001_decision:0 "游牧ai发展方向：通用（文化交流，技术革新)(加buff，偷革新)"
+xinzeng_youmu_ai_000_001_decision_desc:0 "游牧ai发展方向：通用（文化交流，技术革新)(加buff，偷革新)。"
+xinzeng_youmu_ai_000_001_decision_confirm:0 "文化交流，技术革新"
+xinzeng_youmu_ai_000_001_decision_tooltip:0 "文化交流，技术革新"
+
+xinzeng_youmu_ai_000_002_decision:0 "游牧ai发展方向：通用（贸易通商)"
+xinzeng_youmu_ai_000_002_decision_desc:0 "游牧ai发展方向：通用（贸易通商)。"
+xinzeng_youmu_ai_000_002_decision_confirm:0 "贸易通商"
+xinzeng_youmu_ai_000_002_decision_tooltip:0 "贸易通商"
+
+xinzeng_youmu_ai_000_003_decision:0 "游牧ai发展方向：通用（征服/快速吃地)"
+xinzeng_youmu_ai_000_003_decision_desc:0 "游牧ai发展方向：通用（征服/快速吃地)。"
+xinzeng_youmu_ai_000_003_decision_confirm:0 "征服/快速吃地"
+xinzeng_youmu_ai_000_003_decision_tooltip:0 "征服/快速吃地"
+
+xinzeng_youmu_ai_001_001_decision:0 "游牧ai发展方向：帝国式征服者（加buff）"
+xinzeng_youmu_ai_001_001_decision_desc:0 "这类政权以强大的军事力量和领导力为特征，往往通过征服周边地区来建立广大的帝国。\n蒙古帝国是典型的帝国式征服者。成吉思汗及其后继者统一了蒙古草原，迅速征服了亚洲和欧洲大片领土，建立了一个庞大的帝国。"
+xinzeng_youmu_ai_001_001_decision_confirm:0 "战争"
+xinzeng_youmu_ai_001_001_decision_tooltip:0 "战争"
+xinzeng_youmu_ai_001_002_decision:0 "游牧ai发展方向：帝国式征服者（ai策略）"
+xinzeng_youmu_ai_001_002_decision_desc:0 "这类政权以强大的军事力量和领导力为特征，往往通过征服周边地区来建立广大的帝国。\n蒙古帝国是典型的帝国式征服者。成吉思汗及其后继者统一了蒙古草原，迅速征服了亚洲和欧洲大片领土，建立了一个庞大的帝国。"
+xinzeng_youmu_ai_001_002_decision_confirm:0 "策略"
+xinzeng_youmu_ai_001_002_decision_tooltip:0 "策略"
+xinzeng_youmu_ai_001_003_decision:0 "游牧ai发展方向：帝国式征服者（ai应对派系）"
+xinzeng_youmu_ai_001_003_decision_desc:0 "这类政权以强大的军事力量和领导力为特征，往往通过征服周边地区来建立广大的帝国。\n蒙古帝国是典型的帝国式征服者。成吉思汗及其后继者统一了蒙古草原，迅速征服了亚洲和欧洲大片领土，建立了一个庞大的帝国。"
+xinzeng_youmu_ai_001_003_decision_confirm:0 "应对派系"
+xinzeng_youmu_ai_001_003_decision_tooltip:0 "应对派系"
+xinzeng_youmu_ai_001_004_decision:0 "游牧ai发展方向：帝国式征服者（ai迫害封臣）"
+xinzeng_youmu_ai_001_004_decision_desc:0 "这类政权以强大的军事力量和领导力为特征，往往通过征服周边地区来建立广大的帝国。\n蒙古帝国是典型的帝国式征服者。成吉思汗及其后继者统一了蒙古草原，迅速征服了亚洲和欧洲大片领土，建立了一个庞大的帝国。"
+xinzeng_youmu_ai_001_004_decision_confirm:0 "迫害封臣"
+xinzeng_youmu_ai_001_004_decision_tooltip:0 "迫害封臣"
+xinzeng_youmu_ai_001_005_decision:0 "游牧ai发展方向：帝国式征服者（征服/快速吃地)"
+xinzeng_youmu_ai_001_005_decision_desc:0 "游牧ai发展方向：帝国式征服者（征服/快速吃地)。"
+xinzeng_youmu_ai_001_005_decision_confirm:0 "征服/快速吃地"
+xinzeng_youmu_ai_001_005_decision_tooltip:0 "征服/快速吃地"
+
+#xinzeng_youmu_ai_002_001_decision:0 "游牧ai发展方向：文化传承者（加buff）"
+#xinzeng_youmu_ai_002_001_decision_desc:0 "这类政权在征服过程中，通常会保留并传承原有的文化、语言和宗教，促使不同文化的融合。\n突厥汗国是一个文化传承#者。突厥汗国在征服中亚地区时，保留了原有的突厥文化和语言，并在统治地区推广突厥文化。"
+#xinzeng_youmu_ai_002_001_decision_confirm:0 "传承"
+#xinzeng_youmu_ai_002_001_decision_tooltip:0 "传承"
+
+
+xinzeng_youmu_ai_003_001_decision:0 "游牧ai发展方向：外交与同盟者（加buff）"
+xinzeng_youmu_ai_003_001_decision_desc:0 "这类政权可能更倾向于通过外交手段，与周边政权建立同盟关系，以维护自身的利益和稳定。\n花刺子模汗国在中亚地区采取了灵活的外交政策，通过与伊斯兰教国家建立同盟来维护自身的地位。"
+xinzeng_youmu_ai_003_001_decision_confirm:0 "外交"
+xinzeng_youmu_ai_003_001_decision_tooltip:0 "外交"
+
+xinzeng_youmu_ai_003_002_decision:0 "游牧ai发展方向：外交与同盟者（ai外交策略）"
+xinzeng_youmu_ai_003_002_decision_desc:0 "这类政权可能更倾向于通过外交手段，与周边政权建立同盟关系，以维护自身的利益和稳定。\n花刺子模汗国在中亚地区采取了灵活的外交政策，通过与伊斯兰教国家建立同盟来维护自身的地位。"
+xinzeng_youmu_ai_003_002_decision_confirm:0 "外交"
+xinzeng_youmu_ai_003_002_decision_tooltip:0 "外交"
+
+
+
+
+ #玩家行军事件（普通事件）
+xinzeng_wanjia_xingjun_001_shijian.001.t: "疲惫行军"
+xinzeng_wanjia_xingjun_001_shijian.001.desc: "内里被雨水和泥浆浸透，沉重的铠甲令战士们不堪重负。长时间的跋涉使他们双眼发红，两腿打颤。士兵们脸上满了疲惫和焦虑，眼神浑浊，不再闪烁出昔日的锐利。武器也变得沉重笨拙，剑刃上沾满了泥土与污渍。每一步都如同提着千斤重担，战马气喘吁吁，阵阵喘息声伴随着个行军队伍。#!"
+xinzeng_wanjia_xingjun_001_shijian.001.a: "加速，你们这群懒猪！"
+xinzeng_wanjia_xingjun_001_shijian.001.a.flavor: "动起来！你们这群懒猪！掉队的人今晚可没有饭吃！"
+xinzeng_wanjia_xingjun_001_shijian.001.a.tt_success: "你出色的军事素养告诉你如何有效调动整支军队"
+xinzeng_wanjia_xingjun_001_shijian.001.a.tt_failure: "士兵大声抱怨着行军的艰苦并无视了你的催促"
+xinzeng_wanjia_xingjun_001_shijian.001.b: "好吧，原地整顿。"
+
+xinzeng_wanjia_xingjun_001_shijian.002.t: "敌袭"
+xinzeng_wanjia_xingjun_001_shijian.002.desc: "天色渐昏，乌云密布，视野变得愈发模糊，士兵们的铁甲摩擦声不断回响。\n\n突然，一声嘹亮的呐喊划破死寂，几道暗影飞速闪出，刀剑和长矛闪烁着寒光。\n\n\n“敌袭！”#!"
+xinzeng_wanjia_xingjun_001_shijian.002.a: "保持阵型！"
+xinzeng_wanjia_xingjun_001_shijian.002.a.flavor: "想个法子抓住来袭的斥候，迟滞敌军的下一步行动"
+xinzeng_wanjia_xingjun_001_shijian.002.a.tt_success: "你冷静得出奇，找准时机一举擒获了敌人的斥候"
+xinzeng_wanjia_xingjun_001_shijian.002.a.tt_failure: "你手足无措，敌军一击脱离，接下来的路上将危机四伏"
+
+xinzeng_wanjia_xingjun_001_shijian.003.t: "出城迎敌"
+xinzeng_wanjia_xingjun_001_shijian.003.desc: "远处的要塞映入眼帘。\n城墙高筑，其上鲜明的旗帜告诉我前方的凶险。\n\n突然，城塞大门缓缓打开，从中涌出一队人马，摆出严密军阵，宛如一堵钢铁之墙，静静等待着我军的到来。\n\n"该死，他们已经做好了迎敌准备！"tradition_jiaqijuzhuang_name:0"
+xinzeng_wanjia_xingjun_001_shijian.003.a: "杀过去！"
+xinzeng_wanjia_xingjun_001_shijian.003.a.flavor: "相信我的士兵们，掩杀过去！"
+xinzeng_wanjia_xingjun_001_shijian.003.a.shoujun: "守军"
+xinzeng_wanjia_xingjun_001_shijian.003.a.001: "[shoujun_location.GetName]出现小股守军"
+xinzeng_wanjia_xingjun_001_shijian.003.a.002: "[shoujun_location.GetName]出现大批守军"
+xinzeng_wanjia_xingjun_001_shijian.003.a.003: "[shoujun_location.GetName]出现精锐守军"
+
+
+#战役事件
+dfbz_zhanyi_shijian.0001.t: "弓骑兵"
+dfbz_zhanyi_shijian.0001.desc: "掩杀"
+
+
+
+###游牧ai发展方向：外交与同盟者
+
+dfbz_youmu_ai_003_001_interaction:0 "外交博弈：停战协议"
+dfbz_youmu_ai_003_001_interaction_desc:0 "以外交手段与[recipient.GetTitledFirstName]商定预防性[truce|E]"
+
+dfbz_youmu_ai_003_001_interaction_yuanying_001:0 "[recipient.GetShortUIName|U]是帝国式征服者：$VALUE|=+0$" #帝国式征服者
+dfbz_youmu_ai_003_001_interaction_yuanying_002:0 "外交博弈：$VALUE|=+0$" #外交博弈
+
+
+
+
+
+
+
+#bingshi_mingcheng_1:0 "[ROOT.Char.GetLocalizedText('bingshi_mingcheng_text')]" #[ROOT.Char.GetLocalizedText('bingshi_mingcheng_text')]

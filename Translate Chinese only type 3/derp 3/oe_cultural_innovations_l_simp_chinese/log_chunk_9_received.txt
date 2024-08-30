@@ -1,0 +1,102 @@
+Chunk 9 received from API:
+ID000800 The reconquista is in full swing, and we need a large number of soldiers to suppress the heretics for an extended period. As long as many levies can be provided, even non-nobles can acquire some land.
+ID000801 Visigothic Warfare
+ID000802 We have inherited the combat methods from the Visigothic period, with cavalry units as the main force, focusing on mastery of mounted combat.
+ID000803 Catalan Mercenaries
+ID000804 The military demands of the reconquista have stimulated the formation of elite infantry in the Iberian region. Our warriors do not intend to disappear after the war; they form one group after another and continue to be active on various battlefields around the world in the form of mercenaries.
+ID000805 Spanish Phalanx
+ID000806 To consolidate Iberian land dominance, we must undergo an infantry revolution. History has proven that meticulously organized infantry tactics can adapt to any battlefield environment.
+ID000807 Spanish Phalanx Pikemen
+ID000808 With the aid of long and dense spear formations and well-coordinated tactics, our army is unstoppable on land!
+ID000809 Spanish Rondel Swordsmen
+ID000810 Made formidable by high-quality steel shields and longswords, this army's fangs can quickly tear open an enemy spear formation with the cover of pikemen, instantly turning the tide of battle.
+ID000811 Zweihänder
+ID000812 Elite infantry wielding greatswords, adept at ripping open enemy spear formations with their superb swordsmanship.
+ID000813 Noble Guards
+ID000814 Personal guards of the nobility, composed of battle-hardened vassal soldiers, with astonishing combat power.
+ID000815 Old Swiss Mountaineers
+ID000816 The harsh living conditions and long-term foreign invasions have made the residents of this land always ready to fight to defend their survival.
+ID000817 Swiss Mercenaries
+ID000818 Homeless veterans and poor young men travel together, guided by the Old Swiss Mountaineers' tradition of knowing where the battlefield is.
+ID000819 Swiss Mercenaries
+ID000820 Fighting alongside their fellow countrymen and kin, forming lines with axes and long spears, fearless infantry pushing forward.
+ID000821 Commune Militia
+ID000822 Lightly armed militia, determined to defend the town with self-provided weapons.
+ID000823 Commune Cavalry
+ID000824 Light cavalry fully adapted to the terrain of the mountainous regions of northern Italy.
+ID000825 War Wagon
+ID000826 Raise our flag high, the music played on the war wagon is a sacred talisman, for the honor of the city-state! Fight to the death!
+ID000827 War Wagon
+ID000828 Oxen-drawn war wagons patrol the battlefield, with warriors gleaming with glory as they slay enemies.\nThe holy wagon must not fall, warriors fight bravely without fear of death.
+ID000829 War Wagon
+ID000830 Oxen-drawn war wagons patrol the battlefield, with warriors gleaming with glory as they slay enemies.\nThe holy wagon must not fall, warriors fight bravely without fear of death.
+ID000831 Pavise Shield
+ID000832 Reliable large wooden shields provide temporary cover for our crossbowmen and can also serve as mobile fortifications to assist in sieges.
+ID000833 Pavise Crossbowmen
+ID000834 Crossbowmen equipped with Pavise shields, capable of precise strikes under the protection of their shields.
+ID000835 Genoese Crossbowmen
+ID000836 Renowned elite archers of Genoa, their powerful crossbows strike fear into the hearts of enemies.
+ID000837 Berrovieri
+ID000838 Elite corps of the Italian army, light cavalry clad in chainmail.
+ID000839 AI Tag Knights Templar
+ID000840 Teutonic Deep Defense
+ID000841 The various fortresses spread across the Germanic lands, along with the Burgher infantry tasked with guarding the towns, will greatly slow down the enemy's siege progress.
+ID000842 Burgher Heavy Infantry
+ID000843 Elite infantry responsible for guarding castles and defending against foreign enemies.
+ID000844 Large-Scale Enfeoffment
+ID000845 Wealthy and idle citizens and guild elites aspire to join the upper society; a small knight title is enough to satisfy them.
+ID000846 Guild Knight
+ID000847 Self-armed and knighted citizens, considerable in quantity but lacking in quality.
+ID000848 Bandit Knight
+ID000849 Mounted bandits who exploit fortress advantages to plunder, some of whom may actually hold knight titles, though their actions are far from noble.
+ID000850 Vassal Knight
+ID000851 German warriors with a certain social status, well-equipped, forming the main force of imperial cavalry.
+ID000852 Imperial Knight
+ID000853 Loyalty to the Emperor above all else. Under the vast network of knight families, every powerful knight can shine.
+ID000854 Imperial Knight
+ID000855 Imperial knights clad in quality Gothic plate armor, highly skilled in combat.
+ID000856 Gothic Plate Armor
+ID000857 Custom-fitted plate armor that optimizes overall design, ensuring flexibility while reducing weight and enhancing defense.
+ID000858 Foot Imperial Knights
+ID000859 Robust knights in full plate armor, fighting on foot according to Germanic tradition.
+ID000860 Milanese Plate Armor
+ID000861 The influx of large weapon orders has given rise to this unique style of plate armor, known for its rounded lines and renowned worldwide for its effective arrow defense.
+ID000862 Water-powered Forge Hammer
+ID000863 Massive machinery driven by water power, used for crushing ores or shaping metal pieces, greatly reducing the cost of forging heavy armor.
+ID000864 Byzantine Military System
+ID000865 The Byzantine army evolved from the late Roman Empire's military, becoming more complex and diverse in strategy, tactics, and organization.
+ID000866 Training Ghulams
+ID000867 The harassment from external enemies forces us to expedite military reforms, noting that well-trained slave soldiers possess strong combat capabilities. By further enhancing their organization and discipline, a powerful army will soon take shape.
+ID000868 Bedouin Tribal Riders
+ID000869 The Bedouin horseback tradition has given rise to these tribal riders traversing the vast deserts, born as natural desert warriors.
+ID000870 Bedouin Elite Cavalry
+ID000871 The Bedouin people take pride in riding swift horses, with tribal warriors on horseback sweeping across enemy lines like desert tempests.
+ID000872 Bedouin Light Cavalry Attendants
+ID000873 By granting privileges to eastern Bedouin tribal members, we have transformed them into efficient and loyal bodyguards, bringing peace to the regions of Egypt and Syria and enhancing control over this strategic area.
+ID000874 Bedouin Light Cavalry Attendants
+ID000875 These Bedouins are efficient and loyal bodyguards, charging through enemy lines like the desert wind.
+ID000876 Sword of Islam
+ID000877 Witnessed by the Crescent Moon and Star!
+ID000878 Mountain Warriors
+ID000879 The treacherous mountains of Iran can only sustain those who are native to the land.
+ID000880 Daylamite Highland Warriors
+ID000881 Powerful warriors from the Iranian highlands, unparalleled in their belligerence.
+ID000882 Daylamite Elite Warriors
+ID000883 Some Daylamites migrate here seeking wealth or escaping warfare. Thanks to their inherent fighting spirit, they quickly rise in ranks within the army.
+ID000884 Daylamite Elite Warriors
+ID000885 Some Daylamites migrate here seeking wealth or escaping warfare. Thanks to their inherent fighting spirit, they quickly rise in ranks within the army.
+ID000886 Sternpost Rudder
+ID000887 Leveraging advanced navigation technology from the distant East, our elite warriors can quickly reach the battlefield via sea transport.
+ID000888 Persian Heavy Cavalry
+ID000889 Our time-honored heavy cavalry combat methods never become obsolete.
+ID000890 Persian Heavy Cavalry
+ID000891 These formidable riders have dominated Central Asia for millennia!
+ID000892 Savaran
+ID000893 Heavily armed cavalry from ancient Persia, famed for their bravery on the front battle lines.
+ID000894 Zayedan Immortals
+ID000895 Ancient and powerful Immortal troops, the glorious guardians of Ahura.
+ID000896 Zayedan Immortals
+ID000897 Ancient and powerful Immortal troops, the glorious guardians of Ahura.
+ID000898 Noah's Ark
+ID000899 We firmly believe we are the sole survivors of the prehistoric flood; as descendants of Noah, we shall not submit to any other civilization.
+

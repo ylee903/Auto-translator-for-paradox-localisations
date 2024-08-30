@@ -1,73 +1,61 @@
 Chunk 14 received from API:
-ID001240 #T Club#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('003_xinzeng_zhuangbei_004_modifier').GetNameWithTooltip] modifier, lasting for #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$The owner of this [regiment|E]'s [culture|E] must have a military tradition of using #high Club#!
-ID001241 Mo Dao
-ID001242 #T Mo Dao#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('003_xinzeng_zhuangbei_005_modifier').GetNameWithTooltip] modifier, lasting for #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$The owner of this [regiment|E]'s [culture|E] must have a military tradition of using #high Mo Dao#!
-ID001243 Javelin
-ID001244 #T Javelin#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('003_xinzeng_zhuangbei_006_modifier').GetNameWithTooltip] modifier, lasting for #V 30 years#!
-ID001245 Dagger
-ID001246 #T Dagger#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('003_xinzeng_zhuangbei_007_modifier').GetNameWithTooltip] modifier, lasting for #V 30 years#!
-ID001247 Hand Crossbow
-ID001248 #T Hand Crossbow#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('003_xinzeng_zhuangbei_008_modifier').GetNameWithTooltip] modifier, lasting for #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$The owner of this [regiment|E]'s [culture|E] must have a military tradition of using #high Hand Crossbow#!
-ID001249 Shovel
-ID001250 #T Shovel#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('003_xinzeng_zhuangbei_009_modifier').GetNameWithTooltip] modifier, lasting for #V 30 years#!
-ID001251 Short-Handled Axe
-ID001252 #T Short-Handled Axe#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('003_xinzeng_zhuangbei_010_modifier').GetNameWithTooltip] modifier, lasting for #V 30 years#!
-ID001253 Stone
-ID001254 #T Stone#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('003_xinzeng_zhuangbei_011_modifier').GetNameWithTooltip] modifier, lasting for #V 30 years#!
-ID001255 Single-Edged Sword
-ID001256 #T Single-Edged Sword#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('003_xinzeng_zhuangbei_012_modifier').GetNameWithTooltip] modifier, lasting for #V 30 years#!
-ID001257 Short Spear
-ID001258 #T Short Spear#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('003_xinzeng_zhuangbei_013_modifier').GetNameWithTooltip] modifier, lasting for #V 30 years#!
-ID001259 Forced Re-equipment
-ID001260 #T Forced Re-equipment#!#!\n\nForcefully re-equips shields for the current [regiment|E]\n#N #EMP All equipped shields will be destroyed and modifiers removed#!#!
-ID001261 Small Round Shield
-ID001262 #T Small Round Shield#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('004_xinzeng_zhuangbei_001_modifier').GetNameWithTooltip] modifier, lasting for #V 30 years#!
-ID001263 Tower Shield
-ID001264 #T Tower Shield#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('004_xinzeng_zhuangbei_002_modifier').GetNameWithTooltip] modifier, lasting for #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$The owner of this [regiment|E]'s [culture|E] must have a military tradition of using #high Tower Shield#!
-ID001265 Tower Shield
-ID001266 #T Tower Shield#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('004_xinzeng_zhuangbei_003_modifier').GetNameWithTooltip] modifier, lasting for #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$The owner of this [regiment|E]'s [culture|E] must have #high $innovation_paweisidadun$#![innovations|E]
-ID001267 Round Shield
-ID001268 #T Round Shield#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('004_xinzeng_zhuangbei_004_modifier').GetNameWithTooltip] modifier, lasting for #V 30 years#!
-ID001269 Viking Round Shield
-ID001270 #T Viking Round Shield#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('004_xinzeng_zhuangbei_005_modifier').GetNameWithTooltip] modifier, lasting for #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$The owner of this [regiment|E]'s [culture|E] must have a military tradition of using #high Viking Round Shield#!
-ID001271 Kite Shield
-ID001272 #T Kite Shield#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('004_xinzeng_zhuangbei_006_modifier').GetNameWithTooltip] modifier, lasting for #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$The owner of this [regiment|E]'s [culture|E] must have a military tradition of using #high Kite Shield#!
-ID001273 Kiteshield
-ID001274 #T Kiteshield#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('004_xinzeng_zhuangbei_007_modifier').GetNameWithTooltip] modifier, lasting for #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$The owner of this [regiment|E]'s [culture|E] must have a military tradition of using #high Kiteshield#!
-ID001275 Fan-shaped Shield
-ID001276 #T Fan-shaped Shield#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('004_xinzeng_zhuangbei_008_modifier').GetNameWithTooltip] modifier, lasting for #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$The owner of this [regiment|E]'s [culture|E] must have a military tradition of using #high Fan-shaped Shield#!
-ID001277 Oval Shield
-ID001278 #T Oval Shield#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('004_xinzeng_zhuangbei_009_modifier').GetNameWithTooltip] modifier, lasting for #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$The owner of this [regiment|E]'s [culture|E] must have a military tradition of using #high Oval Shield#!
-ID001279 Targe Shield
-ID001280 #T Targe Shield#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('004_xinzeng_zhuangbei_010_modifier').GetNameWithTooltip] modifier, lasting for #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$The owner of this [regiment|E]'s [culture|E] must have a military tradition of using #high Targe Shield#!
-ID001281 Targe Shield
-ID001282 #T Targe Shield#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('004_xinzeng_zhuangbei_011_modifier').GetNameWithTooltip] modifier, lasting for #V 30 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$The owner of this [regiment|E]'s [culture|E] must have a military tradition of using #high Targe Shield#!
-ID001283 Selected
-ID001284 Charge
-ID001285 #T Mount#P #EMP Development Path#!#!: Charge#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('005_xinzeng_zhuangbei_001_modifier').GetNameWithTooltip] modifier, lasting for #V 10 years#!\n\nThe improved charge speed of the mount increases the damage dealt to the enemy.
-ID001286 Load Capacity
-ID001287 #T Mount#P #EMP Development Path#!#!: Load Capacity#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('005_xinzeng_zhuangbei_002_modifier').GetNameWithTooltip] modifier, lasting for #V 10 years#!\n\nHigher load capacity means stronger armor, significantly enhancing our knights' survivability.
-ID001288 Hunt
-ID001289 #T Mount#P #EMP Development Path#!#!: Hunt#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('005_xinzeng_zhuangbei_003_modifier').GetNameWithTooltip] modifier, lasting for #V 10 years#!\n\nThrough repeated training, both mount and knight develop stronger tracking and enemy-seeking capabilities.
-ID001290 Cover
-ID001291 #T Mount#P #EMP Development Path#!#!: Cover#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('005_xinzeng_zhuangbei_004_modifier').GetNameWithTooltip] modifier, lasting for #V 10 years#!\n\nAn excellent mount can safely carry unconscious warriors back to camp, thanks to their close bond and indomitable will.
-ID001292 Breeding War Horses
-ID001293 #T Breeding War Horses#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('005_xinzeng_zhuangbei_005_001_modifier').GetNameWithTooltip] modifier, lasting for #V 10 years#! You gain the [GetModifier('005_xinzeng_zhuangbei_005_002_modifier').GetNameWithTooltip] modifier, duration #V Random#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$No mount development path selected\nLocation of [regiment|E][stationed_holding|E]:\n$EFFECT_LIST_BULLET$At least one of:\n  $EFFECT_LIST_BULLET$Owns [GetBuilding('stables_01').GetName] or its upgrade version\n  $EFFECT_LIST_BULLET$Owns [GetBuilding('horse_pastures_01').GetName] or its upgrade version\n  $EFFECT_LIST_BULLET$Owns [GetBuilding('hillside_grazing_01').GetName] or its upgrade version\n  $EFFECT_LIST_BULLET$Owns [GetBuilding('muchang_01').GetName] or its upgrade version\nOr\n$EFFECT_LIST_BULLET$Your [culture|E] has [GetCultureTradition('tradition_horse_breeder').GetName][traditions|E]\n\n'Just as people have children, horses have foals.' When the war horses are in heat, it's best to stay away from them.
-ID001294 Cyclone Cannon
-ID001295 #T Cyclone Cannon#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('005_xinzeng_zhuangbei_006_modifier').GetNameWithTooltip] modifier, lasting for #V 10 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$Your [culture|E] is #high $heritage_qiangic_name$#![heritage|E]\n$EFFECT_LIST_BULLET$Your [culture|E] has entered the #V Early Middle Ages#!\n$EFFECT_LIST_BULLET$Selected mount development path: #V Load Capacity#!\n\nSetting up a small trebuchet on the back of a camel, the rapidly flying stones have terrifying power.
-ID001296 Armored War Elephant
-ID001297 #T Armored War Elephant#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('005_xinzeng_zhuangbei_007_modifier').GetNameWithTooltip] modifier, lasting for #V 10 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$Your [culture|E] has #high $innovation_quilted_armor$#![innovations|E]\n\nEquipping our war beasts with heavy armor, their charging posture will be unstoppable.
-ID001298 Arrow Tower
-ID001299 #T Arrow Tower#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('005_xinzeng_zhuangbei_008_modifier').GetNameWithTooltip] modifier, lasting for #V 10 years#!\n\nA small arrow tower on the back of an elephant, where archers can move and shoot from within.
-ID001300 Training Intensity: I
-ID001301 #T Training Intensity: I#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('006_xinzeng_zhuangbei_001_modifier').GetNameWithTooltip] modifier, lasting for #V 5 years#!\n\nEnsuring training at least once a week so that soldiers do not forget how to wield their weapons.
-ID001302 Training Intensity: II
-ID001303 #T Training Intensity: II#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('006_xinzeng_zhuangbei_002_modifier').GetNameWithTooltip] modifier, lasting for #V 5 years#!\n\nModerate training intensity, this army is usable.
-ID001304 Training Intensity: III
-ID001305 #T Training Intensity: III#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('006_xinzeng_zhuangbei_003_modifier').GetNameWithTooltip] modifier, lasting for #V 5 years#!\n\nThe garrison's combat power reaches a new level, these soldiers can be called elite.
-ID001306 Martial Law
-ID001307 #T Martial Law#!#!\n\nThe [county|E] where [regiment|E][stationed_holding|E] is located gains the [GetModifier('006_xinzeng_zhuangbei_004_001_modifier').GetNameWithTooltip] modifier, lasting for #V 5 years#!\n[regiment|E][stationed_holding|E] gains the [GetModifier('006_xinzeng_zhuangbei_004_002_modifier').GetNameWithTooltip] modifier, lasting for #V 5 years#!\nYou: @dread_icon! + 5\n\nThe army takes over local affairs, determined to keep this place firmly under control at all costs.
-ID001308 Strengthening City Defense
-ID001309 #T Strengthening City Defense#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('006_xinzeng_zhuangbei_005_modifier').GetNameWithTooltip] modifier, lasting for #V 5 years#!\n\n#T Requirements#!#!:\n$EFFECT_LIST_BULLET$You are not at [war|lE]\n\nThe garrison assists in city defense, increasing the overall defense level.
-ID001310 Scorched Earth
+ID001241 #T Stone#!#!\n\n[regiment|E][stationed_holding|E] gains [GetModifier('003_xinzeng_zhuangbei_011_modifier').GetNameWithTooltip] modifier for #V 30 years#!
+ID001242 Broadsword
+ID001243 #T Broadsword#!#!\n\n[regiment|E][stationed_holding|E] gains [GetModifier('003_xinzeng_zhuangbei_012_modifier').GetNameWithTooltip] modifier for #V 30 years#!
+ID001244 Spear
+ID001245 #T Spear#!#!\n\n[regiment|E][stationed_holding|E] gains [GetModifier('003_xinzeng_zhuangbei_013_modifier').GetNameWithTooltip] modifier for #V 30 years#!
+ID001246 Mandatory Reequip
+ID001247 #T Mandatory Reequip#!#!\n\nForcibly reequips the current [regiment|E] with shields\n#N #EMP All equipped shields will be destroyed and the modifier will be lifted#!#!
+ID001248 Small Round Shield
+ID001249 #T Small Round Shield#!#!\n\n[regiment|E][stationed_holding|E] gains [GetModifier('004_xinzeng_zhuangbei_001_modifier').GetNameWithTooltip] modifier for #V 30 years#!
+ID001250 Tower Shield
+ID001251 #T Tower Shield#!#!\n\n[regiment|E][stationed_holding|E] gains [GetModifier('004_xinzeng_zhuangbei_002_modifier').GetNameWithTooltip] modifier for #V 30 years#!\n\n#T Requirements#!#!：\n$EFFECT_LIST_BULLET$ The [regiment|E] owner's [culture|E] has a tradition of using #high Tower Shields#!.
+ID001252 Tower Shield
+ID001253 #T Tower Shield#!#!\n\n[regiment|E][stationed_holding|E] gains [GetModifier('004_xinzeng_zhuangbei_003_modifier').GetNameWithTooltip] modifier for #V 30 years#!\n\n#T Requirements#!#!：\n$EFFECT_LIST_BULLET$ The [regiment|E] owner's [culture|E] has #high $innovation_paweisidadun$#![innovations|E].
+ID001254 Round Shield
+ID001255 #T Round Shield#!#!\n\n[regiment|E][stationed_holding|E] gains [GetModifier('004_xinzeng_zhuangbei_004_modifier').GetNameWithTooltip] modifier for #V 30 years#!
+ID001256 Viking Round Shield
+ID001257 #T Viking Round Shield#!#!\n\n[regiment|E][stationed_holding|E] gains [GetModifier('004_xinzeng_zhuangbei_005_modifier').GetNameWithTooltip] modifier for #V 30 years#!\n\n#T Requirements#!#!：\n$EFFECT_LIST_BULLET$ The [regiment|E] owner's [culture|E] has a tradition of using #high Viking Round Shields#!.
+ID001258 Kite Shield
+ID001259 #T Kite Shield#!#!\n\n[regiment|E][stationed_holding|E] gains [GetModifier('004_xinzeng_zhuangbei_006_modifier').GetNameWithTooltip] modifier for #V 30 years#!\n\n#T Requirements#!#!：\n$EFFECT_LIST_BULLET$ The [regiment|E] owner's [culture|E] has a tradition of using #high Kite Shields#!.
+ID001260 Fan Shield
+ID001261 #T Fan Shield#!#!\n\n[regiment|E][stationed_holding|E] gains [GetModifier('004_xinzeng_zhuangbei_007_modifier').GetNameWithTooltip] modifier for #V 30 years#!\n\n#T Requirements#!#!：\n$EFFECT_LIST_BULLET$ The [regiment|E] owner's [culture|E] has a tradition of using #high Fan Shields#!.
+ID001262 Oval Shield
+ID001263 #T Oval Shield#!#!\n\n[regiment|E][stationed_holding|E] gains [GetModifier('004_xinzeng_zhuangbei_009_modifier').GetNameWithTooltip] modifier for #V 30 years#!\n\n#T Requirements#!#!：\n$EFFECT_LIST_BULLET$ The [regiment|E] owner's [culture|E] has a tradition of using #high Oval Shields#!.
+ID001264 Side Shield
+ID001265 #T Side Shield#!#!\n\n[regiment|E][stationed_holding|E] gains [GetModifier('004_xinzeng_zhuangbei_010_modifier').GetNameWithTooltip] modifier for #V 30 years#!\n\n#T Requirements#!#!：\n$EFFECT_LIST_BULLET$ The [regiment|E] owner's [culture|E] has a tradition of using #high Side Shields#!.
+ID001266 Side Shield
+ID001267 #T Side Shield#!#!\n\n[regiment|E][stationed_holding|E] gains [GetModifier('004_xinzeng_zhuangbei_011_modifier').GetNameWithTooltip] modifier for #V 30 years#!\n\n#T Requirements#!#!：\n$EFFECT_LIST_BULLET$ The [regiment|E] owner's [culture|E] has a tradition of using #high Side Shields#!.
+ID001270 Selected
+ID001271 Charge
+ID001272 #T Mount#P #EMP Development Direction#!#!：Charge#!#!\n\n[regiment|E][stationed_holding|E] gains [GetModifier('005_xinzeng_zhuangbei_001_modifier').GetNameWithTooltip] modifier for #V 10 years#!\n\nThe improvement in mount charging speed will enhance damage to enemies.
+ID001273 Burden
+ID001274 #T Mount#P #EMP Development Direction#!#!：Burden#!#!\n\n[regiment|E][stationed_holding|E] gains [GetModifier('005_xinzeng_zhuangbei_002_modifier').GetNameWithTooltip] modifier for #V 10 years#!\n\nA higher burden means stronger armor, significantly increasing our knights' survivability.
+ID001275 Pursuit
+ID001276 #T Mount#P #EMP Development Direction#!#!：Pursuit#!#!\n\n[regiment|E][stationed_holding|E] gains [GetModifier('005_xinzeng_zhuangbei_003_modifier').GetNameWithTooltip] modifier for #V 10 years#!\n\nThrough repeated training, both mounts and knights will have improved tracking and reconnaissance abilities.
+ID001277 Cover
+ID001278 #T Mount#P #EMP Development Direction#!#!：Cover#!#!\n\n[regiment|E][stationed_holding|E] gains [GetModifier('005_xinzeng_zhuangbei_004_modifier').GetNameWithTooltip] modifier for #V 10 years#!\n\nExcellent mounts can safely carry unconscious soldiers back to camp, thanks to the close relationship and unwavering will of both sides.
+ID001279 Breeding Warhorses
+ID001280 #T Breeding Warhorses#!#!\n\n[regiment|E][stationed_holding|E] gains [GetModifier('005_xinzeng_zhuangbei_005_001_modifier').GetNameWithTooltip] modifier for #V 10 years#!\nYou gain [GetModifier('005_xinzeng_zhuangbei_005_002_modifier').GetNameWithTooltip] modifier for #V random#!\n\n#T Requirements#!#!：\n$EFFECT_LIST_BULLET$ No mount development direction selected\nAt [regiment|E][stationed_holding|E] you should:\n$EFFECT_LIST_BULLET$ Have at least one of the following:\n  $EFFECT_LIST_BULLET$ Own [GetBuilding('stables_01').GetName] or its upgraded version\n  $EFFECT_LIST_BULLET$ Own [GetBuilding('horse_pastures_01').GetName] or its upgraded version\n  $EFFECT_LIST_BULLET$ Own [GetBuilding('hillside_grazing_01').GetName] or its upgraded version\n  $EFFECT_LIST_BULLET$ Own [GetBuilding('muchang_01').GetName] or its upgraded version\nor\n$EFFECT_LIST_BULLET$ Your [culture|E] has [GetCultureTradition('tradition_horse_breeder').GetName][traditions|E]\n\n"When there are people, there are children; when there are horses, there are foals." It's best to keep a distance when warhorses are in heat.
+ID001281 Whirlwind Ballista
+ID001282 #T Whirlwind Ballista#!#!\n\n[regiment|E][stationed_holding|E] gains [GetModifier('005_xinzeng_zhuangbei_006_modifier').GetNameWithTooltip] modifier for #V 10 years#!\n\n#T Requirements#!#!：\n$EFFECT_LIST_BULLET$ Your [culture|E] is #high $heritage_qiangic_name$#![heritage|E]\n$EFFECT_LIST_BULLET$ Your [culture|E] has reached #V Early Medieval#! era\n$EFFECT_LIST_BULLET$ Selected mount development direction: #V Burden#!\n\nA small catapult set up on the back of a camel, hurling stones at high speed with tremendous power.
+ID001283 Armored War Elephant
+ID001284 #T Armored War Elephant#!#!\n\n[regiment|E][stationed_holding|E] gains [GetModifier('005_xinzeng_zhuangbei_007_modifier').GetNameWithTooltip] modifier for #V 10 years#!\n\n#T Requirements#!#!：\n$EFFECT_LIST_BULLET$ Your [culture|E] has #high $innovation_quilted_armor$#![innovations|E]\n\nDressing our war beasts in heavy armor, their charging postures will be unstoppable.
+ID001285 Arrow Tower
+ID001286 #T Arrow Tower#!#!\n\n[regiment|E][stationed_holding|E] gains [GetModifier('005_xinzeng_zhuangbei_008_modifier').GetNameWithTooltip] modifier for #V 10 years#!\n\nA small arrow tower located on the back of an elephant, where archers hide and shoot on the move.
+ID001287 Training Intensity: I
+ID001288 #T Training Intensity: I#!#!\n\n[regiment|E][stationed_holding|E] gains [GetModifier('006_xinzeng_zhuangbei_001_modifier').GetNameWithTooltip] modifier for #V 5 years#!\n\nEnsuring training at least once a week, so soldiers do not forget how to wield their weapons.
+ID001289 Training Intensity: II
+ID001290 #T Training Intensity: II#!#!\n\n[regiment|E][stationed_holding|E] gains [GetModifier('006_xinzeng_zhuangbei_002_modifier').GetNameWithTooltip] modifier for #V 5 years#!\n\nModerate training intensity, this army is capable enough for use.
+ID001291 Training Intensity: III
+ID001292 #T Training Intensity: III#!#!\n\n[regiment|E][stationed_holding|E] gains [GetModifier('006_xinzeng_zhuangbei_003_modifier').GetNameWithTooltip] modifier for #V 5 years#!\n\nThe combat power of the stationed troops increases significantly, these soldiers can be deemed elite.
+ID001293 Martial Law
+ID001294 #T Martial Law#!#!\n\n[regiment|E] in the [county|E] will gain [GetModifier('006_xinzeng_zhuangbei_004_001_modifier').GetNameWithTooltip] modifier for #V 5 years#!\n[regiment|E][stationed_holding|E] gains [GetModifier('006_xinzeng_zhuangbei_004_002_modifier').GetNameWithTooltip] modifier for #V 5 years#!\nYou: @dread_icon! + 5\n\nThe military takes over local affairs, ensuring tight control of the area at all costs.
+ID001295 Fortification
+ID001296 #T Fortification#!#!\n\n[regiment|E][stationed_holding|E] gains [GetModifier('006_xinzeng_zhuangbei_005_modifier').GetNameWithTooltip] modifier for #V 5 years#!\n\n#T Requirements#!#!：\n$EFFECT_LIST_BULLET$ You are not in [war|lE]\n\nStationed troops assist in fortification, enhancing overall defense level.
+ID001297 Hold the Fort and Clear the Field
+ID001298 #T Hold the Fort and Clear the Field#!#!\n\n[regiment|E][stationed_holding|E] gains [GetModifier('006_xinzeng_zhuangbei_006_001_modifier').GetNameWithTooltip] modifier for #V 5 years#!\n[regiment|E][stationed_holding|E] in the [county|E] will have a #N #EMP chance#!#! to gain [GetModifier('006_xinzeng_zhuangbei_006_002_modifier').GetNameWithTooltip] modifier, duration #V random#!\n[regiment|E][stationed_holding|E] in the [county|E][development|E] has #N #EMP - 2#!#!\nYou: @stress_icon! #N #EMP increases#!#!\n\n#T Requirements#!#!：\n$EFFECT_LIST_BULLET$ You are in [war|lE]\n\nHolding the fortress, making it impossible for the enemy to infiltrate; clearing out the fields of food stores leads to the enemy being unable to sustain a long battle due to lack of supplies.
+ID001299 Forced Conscription
+ID001300 #T Forced Conscription#!#!\n\n[regiment|E][stationed_holding|E] gains [GetModifier('006_xinzeng_zhuangbei_007_001_modifier').GetNameWithTooltip] modifier for #V 5 years#!\n[regiment|E][stationed_holding|E] in the [county|E] gains [GetModifier('006_xinzeng_zhuangbei_007_002_modifier').GetNameWithTooltip] modifier for #V 15 years#!\nYou gain [GetModifier('006_xinzeng_zhuangbei_007_003_modifier').GetNameWithTooltip] modifier for #V 10 years#!\n\nIt is reasonable to lower conscription thresholds slightly to expand the war mobilization. 
+ID001301 Assist in City Building
 

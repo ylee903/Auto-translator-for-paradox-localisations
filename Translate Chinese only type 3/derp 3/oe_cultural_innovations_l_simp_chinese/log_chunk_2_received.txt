@@ -1,0 +1,99 @@
+Chunk 2 received from API:
+ID000100 A death without nostalgia, a death without scruple, a death without hesitation.
+ID000101 Fishing and Hunting
+ID000102 From fish, shrimp, turtle, crab, and shellfish to whaling and sea monster hunting, this is an ancient profession.
+ID000103 Nomadic Pastoralism
+ID000104 One of the main characteristics of ancient nomadic life: a lifetime of chasing the grasslands, familiar with everything on the grasslands.
+ID000105 If [army|E][commander|E] possesses this [innovations|E], the march speed will be greatly increased when passing through #V $grasslands$#! regions.
+ID000106 Characters of this [culture|E] leading an [army|E] will have greatly increased march speed when passing through #V $grasslands$#! or #V $plains$#!.
+ID000107 Miao Witchcraft and Gu Poison
+ID000108 The great wisdom of the ancestors.
+ID000109 Chiyou's Bloodline
+ID000110 The legendary creator of weapons, also revered as the God of War, known alongside the Yellow Emperor and the Flame Emperor as one of the three great ancestors of China. The fierce and united spirit of the Miao people that descended from him is admired by many.
+ID000111 Ainu Tribal Warriors
+ID000112 The Ainu call themselves "Utari," meaning "comrades." They highly value their fellow warriors and have survived various conflicts in the Japanese archipelago through such camaraderie.
+ID000113 Northeast Asian Mounted Archers
+ID000114 These mounted archers are well-adapted to the dense forests of Northeast Asia and are more accustomed to local warfare than other nomadic forces of the grasslands.
+ID000115 Mounted Archers
+ID000116 These mounted archers are well-adapted to the dense forests of Northeast Asia and are more accustomed to local warfare than other nomadic forces of the grasslands.
+ID000117 Border Patrol Warriors
+ID000118 Temporary soldiers recruited from frontier rural areas to guard against neighboring threats.
+ID000119 Warriors by Trade
+ID000120 Killers, robbers, and bandits acting as warriors.
+ID000121 Pike Infantry
+ID000122 Usually involved in labor, becoming foot soldiers in times of war.
+ID000123 Northern Guards
+ID000124 Warriors stationed under the north side of the imperial residence, protecting the retired Emperor and serving during his travels.
+ID000125 Yamato Archers
+ID000126 The continuation of traditional Yamato archery on the battlefield.
+ID000127 Naginata Lancers
+ID000128 Armed with long, sharp naginata, they are formidable opponents on the battlefield, either blocking the enemy in formations or killing scattered foes.
+ID000129 Korean Archers
+ID000130 Skilled archers and hunters that move through the complex mountainous forests of the Korean Peninsula, using their exceptional shooting skills to strike the enemy hard.
+ID000131 Soba Guards
+ID000132 Skilled light infantry with shields, adept at avoiding flying arrows.
+ID000133 Byeolban Soldiers
+ID000134 Elite heavy infantry created to counter Jurchens, specialized in fighting cavalry.
+ID000135 Hwarang
+ID000136 Young Korean aristocrats trained in martial arts from a young age, renowned not only for their exceptional archery but also for their distinguished appearance and demeanor.
+ID000137 Imperial Guard
+ID000138 The Emperor's exclusive army, tasked with protecting the imperial palace and the Emperor himself, highly skilled through rigorous selection.
+ID000139 Northern Imperial Guard
+ID000140 An elite force protecting the capital.
+ID000141 Feathered Guard
+ID000142 Troops directly under the Emperor, responsible for guarding the Emperor or the imperial palace and the capital.
+ID000143 Provincial Army
+ID000144 Regional standing army, one of the main sources of the Imperial Guard.
+ID000145 Vassal State Troops
+ID000146 Troops led by governance officials in various regions.
+ID000147 Border Army
+ID000148 Recruited from frontier military households to defend against foreign enemies.
+ID000149 Local Troops
+ID000150 Soldiers recruited locally, with varying quality.
+ID000151 Mo Dao Squad
+ID000152 Mo Dao Squad.
+ID000153 Village Braves
+ID000154 Locally recruited temporary soldiers, who camp and fight alongside the army.
+ID000155 Miao Warriors
+ID000156 All Miao people are soldiers. In the event of an emergency, Miao warriors would spontaneously carry weapons and food to the battlefield under the leadership of their "Tiger Chief" (warrior leader).
+ID000157 Amphibious Infantry
+ID000158 Southern infantry skilled in aquatic combat, responsible for securing waterways and land routes simultaneously. They can penetrate deep through interconnected river networks to deliver unexpected attacks on the enemy.
+ID000159 Armored Elephant Warriors
+ID000160 Elite warriors clad in heavy elephant hide armor, unfazed by volleys of arrows.
+ID000161 Urumi Sword
+ID000162 One of the traditional martial arts of India, known for its swift speed and high-level technique.
+ID000163 Urumi Swordsman
+ID000164 Dravidian warriors adept in wielding the flexible Urumi sword, capable of quickly penetrating enemy lines and causing significant damage to surrounding enemies.
+ID000165 Rajput Warriors
+ID000166 Kshatriya warriors who fight on horseback, with their distinctive curved blades striking accurately on the enemy's head.
+ID000167 Nair Infantry
+ID000168 Dravidian warriors who have long practiced the martial art of Kalaripayattu, wielding spears and working in perfect coordination.
+ID000169 Sinhalese Guards
+ID000170 The brave and loyal Sinhalese Guard Regiment, dedicated to safeguarding their lord.
+ID000171 Jungle Claw
+ID000172 We mimicked the claws of the jungle king, the tiger, to create this powerful weapon—claw blades.
+ID000173 Claw Blade Warriors
+ID000174 Shadows lurking in the dense jungles of the Southern Islands, cutting the enemy's throat with swift claw blades.
+ID000175 Steppe Riders
+ID000176 #F Hungry herders travel together, seizing every opportunity to fill their stomachs#.
+ID000177 Steppe Riders
+ID000178 #F Hungry herders travel together, seizing every opportunity to fill their stomachs#.
+ID000179 Uyghur Light Cavalry
+ID000180 #F Cavalry formed by Uyghur warriors, skilled in archery and horsemanship#.
+ID000181 Tsanpos Stalwart Guard
+ID000182 #F The elite guard of the Tsanpo, composed of high-ranking subjects from the Tibetan main division who carry out military tasks.#.
+ID000184 Tsanpos Stalwart Guard
+ID000185 #F The elite guard of the Tsanpo, composed of high-ranking subjects from the Tibetan main division who carry out military tasks.#.
+ID000187 Wurugui Cavalry
+ID000188 #F Composed of high-ranking subjects from the Tibetan main division, this elite heavy cavalry of Tibet is well-equipped and armored, maneuvering across the plateau and always ready to strike enemies hard.#.
+ID000190 Easternday Guardians
+ID000191 #F Lightly armed infantry mainly composed of those engaged in agriculture and animal husbandry, from lower social standings. They are skilled in using long spears and slings, specializing in flanking, harassment, and interception.#.
+
+ID000193 Can recruit [GetMaA('wushi').GetName] as [men_at_arms|E]
+ID000194 Can recruit [GetMaA('zuqing').GetName] as [men_at_arms|E]
+ID000195 Peerless Bravery
+ID000196 Only the strong are worthy of living.
+ID000197 [GetTrait('brave').GetName( GetNullCharacter )][trait|E] more common
+ID000198 [GetTrait('strong').GetName( GetNullCharacter )][trait|E] more common
+ID000199 [GetTrait('blademaster_1').GetName( GetNullCharacter )][trait|E] more common
+

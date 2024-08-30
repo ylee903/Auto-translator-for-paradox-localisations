@@ -1,102 +1,120 @@
 Chunk 6 received from API:
-ID000500 I need a reliable personal guard
-ID000501 Fanzhen Guard
-ID000502 Launch a Peasant Revolt (ai)
-ID000503 Launch a Peasant Revolt
-ID000504 #F Sworn before God, we band together to start an armed uprising#!
-ID000505 The uprising will succeed
-ID000506 Mobilize monks and soldiers
-ID000507 The monk regiment is armed
-ID000508 Form the Imperial Guards
-ID000509 #F During Xuanzong's time, the Northern Army's six corps numbered 500,000 armored troops, and all under heaven bowed in submission\nHow does the present me compare with Xuanzong?#!
-ID000510 The mandate of heaven is here!
-ID000511 The world submits
-ID000512 In times of prosperity, strong armies are needed. Form the Imperial Guards!
-ID000513 Form the Imperial Guards
-ID000514 During the Tang Dynasty's prosperity, the Silk Road extended from Chang'an (Xi'an) to the Mediterranean coast, spreading the ancient and splendid Chinese civilization far and wide. Rulers, envoys, merchants, monks, students, artisans, doctors, and foreign dancers from all over the world came in droves. They entered the territory of the Tang Empire and were genuinely amazed by the bustling cities and heavy traffic.\nToday!\nRevive the Prosperous Tang!
-ID000515 My fame will spread across the four seas.
-ID000516 Form the Longwu Guards
-ID000517 #F In Taizong's time, a hundred elite riders were selected to form a guard unit. During Wu Zetian's reign, the unit was expanded to a thousand riders and further expanded to ten thousand during Zhongzong's time, divided into left and right camps with commanders in place. After Zhongzong's death, Xuanzong, with the support of the leader of the ten thousand riders, Ge Fushun, exterminated the faction of Empress Wei and Princess Anle and promoted Ruizong to emperor. After Xuanzong's accession, the left and right camps of the ten thousand riders were renamed the Longwu Guards#!
-ID000518 The mandate of heaven is here!
-ID000519 The world submits
-ID000520 In times of prosperity, strong armies are needed. Form the Longwu Guards!
-ID000521 Form the Longwu Guards
-ID000522 During the Tang Dynasty's prosperity, the Silk Road extended from Chang'an (Xi'an) to the Mediterranean coast, spreading the ancient and splendid Chinese civilization far and wide. Rulers, envoys, merchants, monks, students, artisans, doctors, and foreign dancers from all over the world came in droves. They entered the territory of the Tang Empire and were genuinely amazed by the bustling cities and heavy traffic.\nToday!\nRevive the Prosperous Tang!
-ID000523 My fame will spread across the four seas.
-ID000524 Longwu Guards
-ID000525 Revitalize Horse Politics (ai)
-ID000526 Revitalize Horse Politics
-ID000527 #F The sixteen prefectures of Yanyun have been taken by the northern nomadic regimes. After the establishment of the Song Dynasty, losing Yanyun, a prime land for raising horses, our horse politics have diminished significantly. Although Emperor Taizu Zhao Kuangyin established a sound horse policy, as the Northern Song Dynasty stabilized and the internal systems were smoothly operating, the economy and culture flourished. The ruling class of the Song Dynasty, having been in peace for a long time, seems to have forgotten the importance of horse politics during wartime. Indulging in decadence, they obsessed over the pleasures of life, neglecting horse farms and sources cultivated by predecessors, resulting in a significant downturn. The current regime's ruling class's negligence and apathy toward horse politics are the fundamental reasons for the ongoing decline of horse politics. This oversight has influenced lower officials' attitudes, leading to unfavorable policies and decisions for horse politics, exacerbating its collapse. #!
-ID000528 Implement the Horse Protection Act, benefiting future generations!
-ID000529 Implement the Horse Protection Act......
-ID000530 Promulgate the Horse Protection Act, benefiting future generations!
-ID000531 Promulgate the Horse Protection Act!
-ID000532 Regulate the counties of Hebei, Hedong, Shaanxi, Jingdong, the five western roads, and Kaifeng to maintain a horse-raising system. Each household should raise one horse, and those with abundant resources may raise two voluntarily, either provided by the government or purchased with government funds. Horse-raising households may receive tax exemptions. Ten households from the top three classes form one group, and ten households from the fourth class form one community. If a household's horse dies, the household must compensate alone; if a community horse dies, the household and the nine other households share half the compensation.\n\nBy my decree: Promulgate the Horse Protection Act!
-ID000533 Good!
-ID000534 You have unlocked [GetMaA('majun').GetName][men_at_arms|E].\nYou have unlocked [GetMaA('jingsaitieqi').GetName][men_at_arms|E].
-ID000535 Region Testing (ai)
-ID000536 Recruit Slave Soldiers (ai)
-ID000537 Recruit Slave Soldiers (ai)
-ID000538 Replenish Slave Soldiers (ai)
-ID000539 Slave Soldiers
-ID000540 Benevolent Love for People (ai)
-ID000541 Benevolent Love for People (ai)
-ID000542 Mongol Horde
-ID000543 Genghis Khan's Martian Soldiers (ai)
-ID000544 Genghis Khan's Martian Soldiers (ai)
-ID000545 Unite the Jurchen Tribes (ai)
-ID000546 Form the Iron Carter (ai)
-ID000547 Form the Iron Carter (ai)
-ID000548 Form the Imperial Guards (ai)
-ID000549 Form the Imperial Guards (ai)
-ID000550 Expand Crossbowmen (ai)
-ID000551 Expand Maodao Soldiers (ai)
-ID000552 Expand Yabing (ai)
-ID000553 Train Tiefutu (ai)
-ID000554 Train Tiefutu (ai)
-ID000555 Expand Cavalry (ai)
-ID000556 Public Grievances Boiling Over (ai)
-ID000557 Public Outrage
-ID000558 Years of war and debt have left me on edge. Finally, today, my guards stumbled in to tell me: furious citizens are holding an assembly, preparing to overthrow my rule!\nI have not treated them unfairly; why would they do this to me!\nDamn these wretched peasants!
-ID000559 I must quickly think of a way to appease them.
-ID000560 My spokesperson brought the news: the people's anger has subsided, and they even donated a batch of supplies to me.
-ID000561 My speech was terrible; I'm done for.
-ID000562 Send the troops; let the peasants see the power of swords!
-ID000563 My guards rushed into the crowd and hacked to death several ringleaders.
-ID000564 The peasants' fighting capacity exceeded my expectations; I'm done for.
-ID000565 Let them be.
-ID000566 Things are increasingly getting out of your control.
-ID000567 Hold a Grand Parade
-ID000568 My army needs me, my people need me, and my vassals need me.\nI meticulously prepared for a grand parade, which surely will have a significant impact.
-ID000569 The parade is progressing smoothly
-ID000570 Prepare for the parade!
-ID000571 Begin!
-ID000572 Grand Parade
-ID000573 The parade ground was crowded, with each department lined up in formation awaiting inspection. I had prepared many speeches to deliver after the parade\nHowever, it's getting late, with little time left. Who should I address first?
-ID000574 Start with the brave warriors at the forefront under my command
-ID000575 I should appear more approachable to the lower-ranking soldiers
-ID000576 Without my beloved vassals, I wouldn't be here today!
-ID000577 My bravest warriors shouted long live in unison; even at such a distance, I can still feel their enthusiasm.
-ID000578 Warp Space Demon
-ID000579 Khornate Bloodletter
-ID000580 #F Khornate Bloodletters are ferocious warriors within the Khorne-worshipping tribes, holding a high status among Khorne's mortal followers. They are extremely furious, thirsting for blood, just as Khorne does. During battle, they charge swiftly, cutting the enemy in half one after another, then quickly move on to find new foes. With each enemy they slay, they let out a terrifying roar that echoes across the battlefield, striking fear into all who hear it. #!
-ID000581 Slaanesh Seeker
-ID000582 #F The Seekers of Slaanesh are sadistically cruel, reveling in torment. They delight in toying with unfortunate mortals, driving them to despair, and will chase them across mountains and rivers. Just when their prey is about to give up, they pause, allowing them to regain some strength and hope for escape. This hunt can last for months or even years, pushing mortals to the brink of mental and physical collapse. Only when a mortal's spirit is entirely broken will they succumb to the Seekers, who will then stop the hunt and drag their souls back to the Chaos Realm. #!
-ID000583 Become a Champion of Khorne!
-ID000584 Blood for the Blood God, Skulls for the Skull Throne!!!\n\n\nLift the seal and start the Great Crusade (remember to save before clicking, consequences irreversible, I’m not responsible for any unleashed deities)
-ID000585 Blood for the Blood God, Skulls for the Skull Throne!!!
-ID000586 Blood for the Blood God, Skulls for the Skull Throne!!!
-ID000587 Become a Champion of Slaanesh!
-ID000588 Revel in endless pleasure!!!\n\n\nLift the seal and start the Great Crusade (remember to save before clicking, consequences irreversible, I’m not responsible for any unleashed deities)
-ID000589 Revel in endless pleasure!!!
-ID000590 Revel in endless pleasure!!!
-ID000591 Mobilize Nomads
-ID000592 #F My land is filled with nomads who can quickly be turned into mounted warriors if necessary.\nNow, I need to mobilize all available soldiers#!
-ID000593 The quantity and cost of the summoned [GetMaA('caoyuanyoumumin_shijian').GetName] will be determined by your [realm_size|E], [martial_skill|E], and #V $current total military strength$#!.
-ID000594 For the honor of the steppes!
-ID000595 Sound the horn!
-ID000596 Form the Varangian Guard (ai)
-ID000597 Form the Varangian Guard (ai)
-ID000598 Form the Varangian Guard (ai)
-ID000599 Form the Varangian Guard
+ID000500 #F Swear before the gods and unite to start an armed uprising!#  
+ID000501 The uprising will be successful.  
+ID000502 Mobilize monks and soldiers.  
+ID000503 The monk regiment is armed.  
+ID000504 Form the Yu Lin Army.  
+ID000505 #F During Xuanzong's reign, the Northern Ya army had 500,000 armored troops, and the world surrendered. How does today’s emperor compare to Xuanzong?#  
+ID000506 The mandate of heaven is here!  
+ID000507 The world shall surrender.  
+ID000508 A prosperous era requires strong troops, form the Yu Lin Army!  
+ID000509 Form the Yu Lin Army.  
+ID000510 During the prosperous era of the Tang Dynasty, the ancient and brilliant Chinese civilization spread to all corners of the world through the Silk Road from Chang'an to the Mediterranean coast. Monarchs, envoys, merchants, monks, students, craftsmen, doctors, and singers from various countries all flocked here. They entered the territory of the Tang Empire and were in awe of the bustling cities filled with traffic. Today! Revive the Tang Dynasty!  
+ID000511 My fame will spread across the seas.  
+ID000512 Form the Longwu Army.  
+ID000513 #F During Taizong's reign, elite horsemen were selected to form a hundred riders for personal guard. During Wu Zhou's time, this was expanded to a thousand, and during Zhongzong's time, it further expanded to ten thousand, divided into left and right camps, with officers as commanders. After Zhongzong's death, Xuanzong, with the support of the ten thousand riders' leader Ge Fushun, eliminated the faction of Empress Wei and Princess Anle, and nominated Ruizong as emperor. After Xuanzong ascended the throne, the ten thousand riders' left and right camps were collectively referred to as the Four Armies of the North Gate. In the 27th year of Kaiyuan, the ten thousand riders' left and right camps were officially renamed the Longwu Army.#  
+ID000514 The mandate of heaven is here!  
+ID000515 The world shall surrender.  
+ID000516 A prosperous era requires strong troops, form the Longwu Army!  
+ID000517 Form the Longwu Army.  
+ID000518 During the prosperous era of the Tang Dynasty, through the Silk Road from Chang'an to the Mediterranean coast, the ancient and brilliant Chinese civilization spread across the seas, attracting monarchs, envoys, merchants, monks, students, craftsmen, doctors, and singers from all nations. They entered the territory of the Tang Empire and marveled at the bustling cities. Today! Revive the Tang Dynasty!  
+ID000519 My fame will spread across the seas.  
+ID000520 Longwu Army.  
+ID000521 Revitalize the horse management (ai).  
+ID000522 Revitalize the horse management.  
+ID000523 #F The Sixteen Prefectures of Yanyun have been seized by the northern nomadic states. After the establishment of the Song Dynasty, we lost this fertile land that nurtures horses, leading to a decline in our horse management. Although Taizu Zhao Kuangyin established a sound horse management system, with the stability of the Northern Song dynasty, domestic institutions functioned smoothly, and the economy and culture thrived. The ruling class of the Song Dynasty has been in peacetime for a long time, and we seem to have forgotten the importance of horse management during times of war. We indulge in pleasures, getting lost in the extravagance of money, even if there are good pastures cultivated by our predecessors and a complete horse management system. However, the current ruling class is indeed very passive and neglectful towards horse management. Our neglect of the horse management system is increasingly influencing the attitudes of the officials below, and their directives and decisions, which are detrimental to horse management, are fundamentally responsible for the gradual decline of horse management afterwards.#  
+ID000524 Implement the Horse Protection Law, benefiting future generations!  
+ID000525 Implement the Horse Protection Law...  
+ID000526 Enact the Horse Protection Law, benefiting future generations!  
+ID000527 Enact the Horse Protection Law!  
+ID000528 It is stipulated that in Hebei, Hedong, Shaanxi, Jingdong, the five routes and various counties within Kaifeng Prefecture, households should keep one horse, and those with abundant resources and willing should keep two horses, provided with official horses or given funds to purchase. Households raising horses can be exempted from certain taxes. Ten households of third class or higher form one protection unit, while households of fourth class or lower form one community. If a horse from a protection unit dies from illness, the unit will compensate individually; if a horse from the community dies, the unit and the other nine households will share the cost.  
+  
+Proclaim my decree: Enact the Horse Protection Law!  
+ID000529 Good!  
+ID000530 You have unlocked [GetMaA('majun').GetName][men_at_arms|E].  
+You have unlocked [GetMaA('jingsaitieqi').GetName][men_at_arms|E].  
+ID000531 Regional testing (ai).  
+ID000532 Benevolent ones love others (ai).  
+ID000533 Benevolent ones love others (ai).  
+ID000534 Mongolian Legion.  
+ID000535 Genghis Khan's Fire Star Warriors (ai).  
+ID000536 Genghis Khan's Fire Star Warriors (ai).  
+ID000537 Unite the various Jin tribes (ai).  
+ID000538 Form the Iron Hawk (ai).  
+ID000539 Form the Iron Hawk (ai).  
+ID000540 Form the Imperial Guards (ai).  
+ID000541 Form the Imperial Guards (ai).  
+ID000542 Expand the crossbowmen (ai).  
+ID000543 Expand the polearm soldiers (ai).  
+ID000544 Expand the tooth soldiers (ai).  
+ID000545 Train the Iron Pagoda (ai).  
+ID000546 Train the Iron Pagoda (ai).  
+ID000547 The public is outraged.  
+ID000548 Years of war and debt have made me tense. Finally, today, my guards burst in, telling me: angry citizens are rallying to overthrow my rule!  
+I have treated them well. Why are they doing this to me!  
+These damned lowly people!  
+ID000549 I must quickly think of a way to appease them.  
+ID000550 My emissary has brought news that the public's anger has calmed, and they even donated a batch of supplies to me.  
+ID000551 My speech was terrible. I'm finished.  
+ID000552 Send out the military to show these filthy commoners the power of the sword!  
+ID000553 My guards charged into the crowd, killing several ringleaders with their swords.  
+ID000554 The fighting ability of these commoners exceeds my expectations. I'm finished.  
+ID000555 Let them be.  
+ID000556 Things are getting more and more out of your control.  
+ID000557 Hold a grand military parade.  
+ID000558 My army needs me, my people need me, my vassals need me.  
+I have meticulously prepared for a grand military parade; this will surely make a big impact.  
+ID000559 The military parade is progressing smoothly.  
+ID000560 Prepare for the military parade!  
+ID000561 Let’s begin!  
+ID000562 Grand military parade.  
+ID000563 The parade site is buzzing with people as each department lines up, waiting for the review. I have prepared many speeches, just waiting to express my condolences after the parade.  
+But the sky is getting dark, and there's not much time left. Who should I address first?  
+ID000564 Start with the brave warriors who charge forward under my command.  
+ID000565 I should appear closer to the grassroots warriors.  
+ID000566 Without my dear vassals, there would be no today for me!  
+ID000567 My bravest warriors shout long live together; even from this distance, I can still feel their enthusiasm.  
+ID000568 Subspace demons.  
+ID000569 Torture and blood-sucking demons.  
+ID000570 #F The tribes that worship torture are filled with ferocious blood-sucking demons. They are lethal warriors, holding high status among the mortal believers of the blood god. They are incredibly furious, thirsting for blood, just like torture descending to the world. During battle, they rush quickly, slaughtering enemies one by one, then swiftly leaving to find new foes. Every time a blood-sucking demon slays an enemy, it lets out a shout; the terrifying roar echoes across the battlefield, leaving all who hear it horrified.#  
+ID000571 Lustful heart chasers.  
+ID000572 #F The heart chasers indulge in pleasure, cruel and vicious. They love to torment unfortunate mortals, making them uncomfortable, and chase them across rugged mountains and rivers. Just when they seem about to succeed, they will pause the chase, allowing the prey to regain strength and giving them a glimmer of hope for escape. This hunting can last for months or even years, pushing mortals' spirits and bodies to the brink of collapse. Mortals only yield to them after their mental breakdown, allowing them to stop the hunt and take the mortals' souls back to the chaotic demon realms.#  
+ID000573 Become the chosen of the torture god!  
+ID000574 Sacrifice blood to the blood god, offer up skulls!!!  
+\n\nUnseal and start the great expedition (save before clicking, the consequences are irreversible; I take no responsibility for whatever deity is released).  
+ID000575 Sacrifice blood to the blood god, offer up skulls!!!  
+ID000576 Sacrifice blood to the blood god, offer up skulls!!!  
+ID000577 Become the chosen of the lustful!  
+ID000578 Enjoy endless pleasures!!!  
+\n\nUnseal and start the great expedition (save before clicking, the consequences are irreversible; I take no responsibility for whatever deity is released).  
+ID000579 Enjoy endless pleasures!!!  
+ID000580 Enjoy endless pleasures!!!  
+ID000581 Summon the herders to fight.  
+ID000582 #F My land has many herders, who can quickly transform into mounted warriors if necessary.  
+Now, I need to mobilize all available soldiers#!  
+ID000583 The number and cost of the summoned [GetMaA('caoyuanyoumumin_shijian').GetName] depend on your [realm_size|E], [martial_skill|E], and #V $current total troop strength$#!  
+ID000584 For the glory of the grasslands!  
+ID000585 Sound the horn!  
+ID000586 Form the Varangian Guard (ai).  
+ID000587 Form the Varangian Guard (ai).  
+ID000588 Form the Varangian Guard (ai).  
+ID000589 Form the Varangian Guard.  
+ID000590 #F The combat effectiveness of the Norse and Rus is well known, and if I can summon them with great rewards, building a strong infantry army will not be an issue#!  
+ID000591 Where are my loyal warriors?!  
+ID000592 A group of Varangian warriors will come out of admiration...  
+Your reputation has spread widely in the circle of northern people; for the next 20 years, there will be [GetMaA('walanjiweidui').GetName][men_at_arms|E] at your disposal.  
+ID000593 I need to form a strong and loyal imperial guard!  
+ID000594 My messenger tells me: the northern warriors will arrive soon!  
+ID000595 The Varangian warriors have arrived.  
+ID000596 One after another, long ships of various shapes dock at the port, fierce northern warriors pour out, their chainmail reflecting the blood-soaked, dead-like iron black under the sunlight. I can hardly believe my eyes; these powerful warriors are about to be at my service!  
+I puff my chest and try to present myself with the demeanor of a king. I seek a hint of fear from their deep-set eyes—fear of a living emperor standing before them.  
+These northern people do not shy away from my gaze, staring straight at me.  
+Heavens! The gaze of these men is truly chilling...  
+ID000597 What fearless and powerful warriors...  
+ID000598 Mercenary city slaughter.  
+ID000599 A group of crazy mercenaries ransacked [county.GetNameNoTierNoTooltip], taking everything local, leaving not a single survivor...  
+Clearly, these mercenaries are not satisfied with the rewards I have given.  
+
+===DIAGNOSTIC=== 
+Translation focuses on historical and fictional context. Some phrases could have multiple interpretations but were approached with the intent to maintain the original meaning and tone. Specific identifiers and formatting were retained as per request. If there are any ambiguities or culturally specific references that require clarification, please specify for further assistance.
 

@@ -1,0 +1,96 @@
+Chunk 1 received from API:
+ID000000 Hundred Yue Ambition
+ID000001 The Hundred Yue refers to the groups living along the East Asian coast and the riversides, who were among the earliest settlers of the East Asian continent.
+ID000002 King of the Thousand Islands
+ID000003 The Austronesian tribes travel among thousands of islands, constantly accompanied by tides and storms, ruling the seas under the sun.
+ID000004 White Mountains and Black Waters
+ID000005 The Greater Khingan Range, Changbai Mountains, Nenjiang, and Heilongjiang basins nourish numerous tribes. Under the protection of the Willow Goddess, they thrive and emerge from the forests in waves.
+ID000006 Lords of the Jungle
+ID000007 From the Ailao Mountains to the Wuyi Mountains, there are brave and hardy hunting tribes. The tale of Chiyou contending for the Central Plains has become legend, but they have never abandoned their glory.
+ID000008 Prosperous Martial Destiny
+ID000009 The Yamato people firmly believe that they have been chosen by the heavens since the mythological era. The fall of the blossom is momentary; joy and sorrow have their times; they play the zither for thousands of days, uniting heart and sword.
+ID000010 Beautiful Mountains and Rivers
+ID000011 Unlike the genealogies recognized by Central Plains historians, the Goryeo tribes self-proclaim descent from Dangun and once experienced a renaissance under the descendants of Buyeo's Goguryeo.
+ID000012 Blue Wolf and White Deer
+ID000013 Chi-le-chuan, under Yinshan. The sky resembles a dome, covering all four fields. The sky is vast, the plains are boundless. The wind bends the grass low revealing the cattle and sheep.
+ID000014 Patriarchal Tradition
+ID000015 For large-scale intensive labor, people form clans, valuing life and commemorating death, living under clan constraints. Fathers hold supreme authority, practicing primogeniture; harming one's body is forbidden, first honoring the clan and then extending to others. Those who violate clan laws are despised by all.
+ID000016 Implements an identifiable heir primogeniture system
+ID000017 Unified Carriages and Scripts
+ID000018 Unified carriages, standardized scripts, and uniform conduct. The early mature unified centralized system can organize large-scale production while the supreme imperial power owns and disposes of everything.
+ID000025 Khitan Military System
+ID000026 Emperor Taizong selected 300,000 elite soldiers for the Pi Room Army. Initially, Emperor Taizu established the headquarters camp, selecting over a thousand strongmen from various tribes to form the core unit... Thus, the Pi Room Army existed since Taizu's time as the core unit; Taizong merely expanded it to 300,000.
+ID000027 Ironclad Warships
+ID000028 Thousand-fathom iron chains sink to the riverbed, one surrendering banner appears from the Stone City.
+ID000029 Dugout Canoe
+ID000030 When the way is obstructed, ride a raft floating on the sea.
+ID000031 Twin Capitals Guards
+ID000032 Temporarily halting purification rites to leave the Grand Temple, carrying poetry rolls to the camphor tree. \nA prefect with old acquaintances in the court, Sima should tolerate drunken madness. \nWhen documents arrive, only signing is necessary; the scenery inspires poetry naturally. \nThe main avenue of the twin capitals is frequented by visitors; each encounter with a poet results in a challenge.
+ID000033 Wu Hook
+ID000034 The Han cauldron did not cook Cao Cao's flesh, the Wu hook merely severed Wu Yuan's head.
+ID000035 Fine Horses of Youzhou
+ID000036 Warlord cunning leader led cavalry, swiftly followed by silver falcons, bows, and swords.
+ID000037 Goryeo Hunters
+ID000038 In the land of Goryeo, with vast mountains and rich forests, the people excel in crafting hunting tools, especially bows, which are extensively used in the military and possess great archery skills.
+ID000039 Sichuan Crossbows
+ID000040 Once heard of heavenly soldiers entering Sichuan, drums and gongs loudly clashing through rocky valleys.
+ID000041 Central Plains Military System
+ID000042 Drunk on the battlefield, laugh not, how many return from ancient wars?
+ID000043 Zhanmadao
+ID000044 Frost spears and snow armor are as cold as water; how can the guards know the beginning and end?
+ID000045 Gekokujō
+ID000046 Using various methods within the existing system to replace the superiors.
+ID000047 Rise of the Samurai
+ID000048 The samurai emerged amidst social chaos and the decline of imperial power.
+ID000049 Ashigaru
+ID000050 Ashigaru is the term for the lowest class of foot soldiers in ancient Japan. They engaged in labor during peacetime and served as infantry during wartime.
+ID000051 Goryeo Ginseng
+ID000052 Greatly replenishes vital energy, generates fluids and calms the mind, adored exclusively by higher states.
+ID000053 Goryeo Bow
+ID000054 The strongest military force of ancient Goryeo, one of the rare highlights.
+ID000055 Byeolban Warriors
+ID000056 Special cavalry units of Goryeo, crafted to counter the Jurchen invasions.
+ID000057 Mongolian Horse
+ID000058 The Mongolian horse is small in stature and unremarkable in appearance, with a large head and short neck, robust physique, broad chest, long mane, thick skin, and coarse hair. It endures hardship, has strong adaptability, and can withstand Siberian snowstorms; it can kick and crush the heads of foxes and wolves with its hooves.
+ID000059 Uyghur Light Cavalry
+ID000060 Although the Uyghur people are at odds with various Turkic tribes, they retain their traditional nomadic lifestyle, forming a powerful cavalry unit with local Kazakh horses to protect land caravans.
+ID000061 Kazakh Horse
+ID000062 A horse breed produced in the northern slopes of Tian Shan, the western mountains of Junggar, and the western section of Altai Mountains. It has solid bones, thick skin, dense hair, and full mane, crest, and tail hair, with a relatively heavy build. It is well-proportioned with a good combination of structures suitable for various uses. Formed under extensive pastoral conditions, it is an ancient local breed.
+ID000063 Himalayan Warriors
+ID000064 We are long accustomed to the rugged terrain and thin air of the plateau. Outsiders find the environment intolerable and are no threat to us. Our warriors move among the mountains, overlooking the invaders as they fall, one by one. The plateau is a heavenly barrier; invaders find it difficult to advance, but our warriors suffer severe adverse effects when descending to the lowlands.
+ID000065 Hequ Horse
+ID000066 Hequ horse is an ancient and excellent local breed, tall in stature with a flat back, suitable for both draft and riding. It is enduring, resilient, well adapted to local geography and ecological environment, and has strong disease resistance. It was used as war horses as early as the Qin and Han dynasties and historically often served as tribute.
+ID000067 Xianbei Iron Cavalry
+ID000068 One of the preserved Xianbei traditions by Tuyuhun; starting from Emperor Xiaowen of Northern Wei, successive rulers carefully formed heavily armored cavalry units to intimidate neighboring threats.
+ID000069 Tuyuhun Armored Cavalry
+ID000070 Tuyuhun warriors fully armored, preserving excellent Xianbei traditions, adept at breaking through enemy lines and killing.
+ID000071 Fully Armored Cavalry
+ID000072 Warriors and horses fully armored, following ancient battle traditions to break through enemy lines and kill.
+ID000073 Turkic Heavy Cavalry
+ID000074 The Western Turkic are a nomadic people. Their iron smelting and forging skills, preserved since the rise of the Turks, combined with the abundant iron ore resources of Central Asia, created this famous heavy cavalry unit. They are wolves of the grasslands, nightmares to surrounding civilizations.
+ID000075 Turkic Heavy Cavalry
+ID000076 The Western Turkic are a nomadic people. Their iron smelting and forging skills, preserved since the rise of the Turks, combined with the abundant iron ore resources of Central Asia, created this famous heavy cavalry unit. They are wolves of the grasslands, nightmares to surrounding civilizations.
+ID000077 Cuman Tribes
+ID000078 The unification methods of the Cuman people are extremely powerful, making the strong cavalry of various tribes available for my use.
+ID000079 Cuman Kipchak
+ID000080 Lightly armed cavalry from various tribes, renowned for their high mobility.
+ID000081 Wooden Fences
+ID000082 We source materials locally to deploy a large number of wooden fences around settlements, effectively hindering the invaders' advance.
+ID000083 Bulgar Akṣu
+ID000084 Fully armored Bulgar warriors, charging in tight formations to maximize their power and speed.
+ID000085 Kunno
+ID000086 Lightly equipped Magyar warriors whose advance causes all of Pannonia to tremble.
+ID000087 Lovas
+ID000088 Brave armored Magyar knights, who can assist light cavalry from afar with arrow showers or charge when the battle becomes intense.
+ID000089 Armed Militia
+ID000090 Lightly trained rotating militia with simple armaments, including a few archers, but still lack effective combat capability.
+ID000091 Székely Horse Archers
+ID000092 Székely horse archers, settled in Pannonia for a long time, excel at harassing the enemy's flanks and pursuing routed forces.
+ID000093 Ghazni War Elephants
+ID000094 War beasts imported from India, gradually acclimated to battlefield noise and spears after long training and rapport. With thick elephant skin and fully armored, they can ignore heavy attacks and charge through enemy troops with immense force.
+ID000095 Ghazni War Elephants
+ID000096 War beasts imported from India, gradually acclimated to battlefield noise and spears after long training and rapport. With thick elephant skin and fully armored, they can ignore heavy attacks and charge through enemy troops with immense force.
+ID000097 Ghazni War Elephants
+ID000098 War beasts imported from India, gradually acclimated to battlefield noise and spears after long training and rapport. With thick elephant skin and fully armored, they can ignore heavy attacks and charge through enemy troops with immense force.
+ID000099 Bushido Tradition
+

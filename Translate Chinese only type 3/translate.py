@@ -6,7 +6,7 @@ import tiktoken
 import time
 import asyncio
 import aiohttp
-import yaml
+
 from api_key_loader import debug_load_dotenv, debug_get_api_key
 
 
@@ -15,7 +15,7 @@ delay_time = 1  # Delay between requests (in seconds)
 log_chunks = True  # Log chunks sent/received for debugging
 overwrite_original = True  # Overwrite original YAML files
 max_concurrent_requests = 3  # Control concurrency of asynchronous requests
-model_name = "gpt-4o"  # Model for both tokenization and API calls
+model_name = "gpt-4o-mini"  # Model for both tokenization and API calls
 ignore_mismatch = (
     True  # Ignore mismatches in line counts between sent and received chunks
 )
@@ -48,8 +48,43 @@ ID_FORMAT = "ID{:06d}"  # ID format: ID000000 to ID999999
 mode = "input"
 
 
+# Custom YAML-like parser
+def custom_yml_parser(file_content):
+    data = {}
+    lines = file_content.splitlines()
+    for line_number, line in enumerate(lines, start=1):
+        line = line.strip()
+
+        # Skip empty lines or lines that are comments
+        if not line or line.startswith("#"):
+            continue
+
+        # Match a key-value pair
+        match = re.match(r"^(.*?):\s*(.*)$", line)
+        if match:
+            key, value = match.groups()
+
+            # Handle cases where the value is in quotes and may contain Chinese text
+            if value.startswith('"') and value.endswith('"'):
+                value = value[1:-1]  # Strip surrounding quotes
+            elif value.startswith("'") and value.endswith("'"):
+                value = value[1:-1]  # Strip surrounding single quotes
+
+            # Add to dictionary
+            data[key] = value
+        else:
+            print(f"Warning: Skipping malformed line at {line_number}: {line}")
+
+    return data
+
+
 def extract_chinese_phrases(file_content):
-    matches = re.findall(chinese_text_regex, file_content)
+    parsed_content = custom_yml_parser(file_content)
+    matches = []
+    for key, value in parsed_content.items():
+        found = re.findall(chinese_text_regex, value)
+        if found:
+            matches.extend(found)
     print(f"Extracted {len(matches)} Chinese phrases.")
     return matches
 
@@ -252,7 +287,7 @@ async def translate_yaml_file(file_path):
 
     # Save reassembled chunks to file and pause for manual review
     reassembled_file_path = save_reassembled_chunks(translated_chunks, file_path)
-    pause_for_input_or_time()
+    pause_for_input_or_time(mode, delay_time)
 
     # Re-read the reassembled chunks after modification
     modified_chunks = {}
