@@ -1,0 +1,37 @@
+﻿l_simp_chinese:
+ nick_QiYiJun_leder: "义军头领"
+ nick_MeiShiJia: "美食家"
+ nick_JiuJianXian: "酒剑仙"
+ nick_JiuXian: "酒仙"
+ nick_ChaSheng: "茶圣"
+ nick_penglaixianshi: "蓬莱仙使"
+ nick_YuShi: "监察御史"
+ nick_Catherine: "凯瑟琳"
+
+#根据头衔等级
+#GUI colorname
+ color_tooltip_namelist: "[Character.Custom('colorroyal')][Character.GetPrimaryTitle.GetNameNoTierNoTooltip|Z][Character.Custom('colorname')]$color_tooltip_nickname$[Character.GetDynasty.GetBaseNameNoTooltip|Z][Character.GetFirstNameNoTooltip|Z]"
+ color_tooltip_nickname: "[Character.GetNickname|E] "
+ gecp_color_OUTLINER_PINNED_CHARACTER: "$color_tooltip_namelist$ ，[Character.GetAge]岁#!"
+ #gecp_army_getname: "[Army.GetNameNoTooltip] #CoSoil 将军:#![Army.GetCommander.GetDynasty.GetBaseNameNoTooltip][Army.GetCommander.GetFirstNameNoTooltip]"
+ #领[Army.GetCommander.GetPrimaryTitle.GetNameNoTierNoTooltip][Army.GetCommander.GetTitleTierName]
+ colorname_barony: "#CoCyan [Character.GetTitleTierName]#!"
+ colorname_county: "#CoGreen [Character.GetTitleTierName]#!"
+ colorname_duchy: "#CoPR [Character.GetTitleTierName]#!"
+ colorname_kingdom: "#CoPurple [Character.GetTitleTierName]#!"
+ colorname_empire: "#CoRed [Character.GetTitleTierName]#!"
+#根据头衔等级
+#皇/王族成员
+ im_crown_prince: "[ROOT.Char.GetFather.GetPrimaryTitle.GetNameNoTierNoTooltip|Z]#CoGR 皇太子#! "
+ im_prince_e: "[ROOT.Char.GetFather.GetPrimaryTitle.GetNameNoTierNoTooltip|Z]#CoGolden 皇子#! "
+ im_princess_e: "[ROOT.Char.GetFather.GetPrimaryTitle.GetNameNoTierNoTooltip|Z]#CoGolden 皇女#! "
+ im_prince_b: "[ROOT.Char.GetTopLiege.GetPrimaryTitle.GetNameNoTierNoTooltip|Z]#CoTomato 亲王#! "
+ im_princess_b: "[ROOT.Char.GetTopLiege.GetPrimaryTitle.GetNameNoTierNoTooltip|Z]#CoTomato 公主#! "
+ im_crown_prince_k: "[ROOT.Char.GetFather.GetPrimaryTitle.GetNameNoTierNoTooltip|Z]#CoPurple 世子#! "
+ im_prince_k: "[ROOT.Char.GetFather.GetPrimaryTitle.GetNameNoTierNoTooltip|Z]#CoPurple 王子#! "
+ im_princess_k: "[ROOT.Char.GetFather.GetPrimaryTitle.GetNameNoTierNoTooltip|Z]#CoPurple 郡主#! "
+#皇/王族成员
+#财产信息
+ character_gold_list: " [Character.GetGold|0]"
+ game_concept_jiangjun_int: "将军"
+ game_concept_jiangjun_int_desc: "周天子统率的部队为六军，春秋时期，诸侯大国三军、次国二军、小国一军，以卿统军，故称卿为将军；战国时，始为正式官名。\n在游戏中是指挥一支[army|E]的角色。你的任何[courtiers|E]或直属[vassals|E]都有资格被任命为将军（受限于年龄、[health|E]和[doctrines|E]）。\n[battle|E]中，将军的[martial_skill|E]极大地影响[advantage|E]。只要有将军在场，就会掷出额外的[rolls|E]以增加$game_concept_advantage$。\n此外，[commander_traits|E]也在战斗内外给军队提供多种不同的额外增益。"
