@@ -81,6 +81,7 @@ def custom_yml_parser(file_content):
     return data
 
 
+# Function to extract Chinese phrases from key-value pairs
 def extract_chinese_phrases(file_content):
     parsed_content = custom_yml_parser(file_content)
     matches = []
@@ -92,6 +93,7 @@ def extract_chinese_phrases(file_content):
     return matches
 
 
+# Function to replace Chinese phrases with unique IDs
 def replace_with_ids(file_content, phrases):
     id_map = {}
     for i, phrase in enumerate(phrases):
