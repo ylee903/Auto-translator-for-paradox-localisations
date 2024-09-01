@@ -73,10 +73,11 @@ def custom_yml_parser(file_content):
             elif value.startswith("'") and value.endswith("'"):
                 value = value[1:-1]  # Strip surrounding single quotes
 
-            # Add to dictionary
+            # Add to dictionary, ensuring only relevant key-value pairs are processed
             data[key] = value
         else:
-            print(f"Warning: Skipping malformed line at {line_number}: {line}")
+            # Log the skipped line for reference, but do not process it
+            print(f"Skipping non-key-value line at {line_number}: {line}")
 
     return data
 
