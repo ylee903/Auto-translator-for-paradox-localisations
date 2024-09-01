@@ -99,6 +99,7 @@ def replace_with_ids(file_content, phrases):
     id_map = {}
     for i, phrase in enumerate(phrases):
         unique_id = ID_FORMAT.format(i)
+        # Ensure replacement only occurs in the value part of key-value pairs
         file_content = file_content.replace(f'"{phrase}"', f'"{unique_id}"')
         id_map[unique_id] = phrase
     print(f"Replaced phrases with {len(id_map)} unique IDs.")
