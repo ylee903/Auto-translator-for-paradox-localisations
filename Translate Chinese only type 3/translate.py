@@ -65,10 +65,13 @@ def custom_yml_parser(file_content):
         if not line or line.startswith("#"):
             continue
 
-        # Match a key-value pair
+        # Match a key-value pair, handling potential numbers before quoted text
         match = re.match(r"^(.*?):\s*(.*)$", line)
         if match:
             key, value = match.groups()
+
+            # Handle cases where the value contains a numeric prefix followed by quoted text
+            value = re.sub(r"^\d+\s+", "", value)  # Strip numeric prefixes if present
 
             # Handle cases where the value is in quotes and may contain Chinese text
             if value.startswith('"') and value.endswith('"'):
