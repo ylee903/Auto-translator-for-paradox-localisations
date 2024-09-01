@@ -37,9 +37,12 @@ openai.api_key = api_key
 encoding = tiktoken.encoding_for_model(model_name)
 
 # Regular expression for extracting Chinese text
-
 # chinese_text_regex = r'"([^"]*[\u4e00-\u9fff][^"]*)"'
 chinese_text_regex = r"[\u4e00-\u9fff]+"
+complex_phrase_regex = (
+    r"[\[\(][^\[\]]*[\u4e00-\u9fff]+[^\[\]]*[\]\)]|\"[^\"]*[\u4e00-\u9fff]+[^\"]*\""
+)
+anything_regex = r".+"
 
 
 # Define token and line limits
@@ -82,15 +85,15 @@ def custom_yml_parser(file_content):
     return data
 
 
-# Function to extract Chinese phrases from key-value pairs
+# Function to extract phrases containing Chinese text and context
 def extract_chinese_phrases(file_content):
     parsed_content = custom_yml_parser(file_content)
     matches = []
     for key, value in parsed_content.items():
-        found = re.findall(chinese_text_regex, value)
+        found = re.findall(anything_regex, value)
         if found:
             matches.extend(found)
-    print(f"Extracted {len(matches)} Chinese phrases.")
+    print(f"Extracted {len(matches)} phrases containing Chinese text.")
     return matches
 
 
@@ -99,8 +102,8 @@ def replace_with_ids(file_content, phrases):
     id_map = {}
     for i, phrase in enumerate(phrases):
         unique_id = ID_FORMAT.format(i)
-        # Ensure replacement only occurs in the value part of key-value pairs
-        file_content = file_content.replace(f'"{phrase}"', f'"{unique_id}"')
+        # Ensure replacement occurs for entire phrases
+        file_content = file_content.replace(phrase, unique_id)
         id_map[unique_id] = phrase
     print(f"Replaced phrases with {len(id_map)} unique IDs.")
     return file_content, id_map

@@ -1,0 +1,5 @@
+Chunk 1 received from API:
+ID000000 0 "Dynastic Legacy"  
+===DIAGNOSTIC===  
+The translation for "国祚传承" is derived from common gaming terminology in the context of lineage and dynasty in strategy games. The term reflects the concept of preserving and passing down a family or dynasty’s legacy.
+
