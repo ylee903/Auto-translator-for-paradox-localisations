@@ -1,0 +1,200 @@
+l_simp_chinese:
+
+ #NEW
+ tradition_yues_name:0 "Hundred Yue Ambition"
+ tradition_yues_desc:0 "The Hundred Yue generally refers to the coastal groups of East Asia, who were the earliest settlers of the East Asian continent."
+
+ tradition_java_warriors_name:0 "King of the Thousand Islands"
+ tradition_java_warriors_desc:0 "The peoples of the Southern Islands traverse countless islands, existing with tides and storms, dominating the waters under the sun."
+ 
+ tradition_tunguse_name:0 "White Mountain and Black Water"
+ tradition_tunguse_desc:0 "The ranges of the Xing'an Mountains, Changbai Mountains, Nen River, and Heilong River basins nurture many tribes, who, under the protection of the Willow Goddess, thrive and march forth from the forests in waves."
+
+ innovation_nanman_group:0 "Lord of the Jungle"
+ innovation_nanman_group_desc:0 "From Ailao Mountain to Wuyi Mountain, fierce hunting tribes are scattered, the legendary struggle for dominance by Chi You in the Central Plains has become folklore, yet they have never lost their glory."
+
+ tradition_yamato_name:0 "Prosperous Military Fortune"
+ tradition_yamato_desc:0 "The Yamato people firmly believe they have been appointed by heaven since mythological times; a moment of falling flowers, joy and sorrow sometimes, playing the lute for a thousand days, their hearts united with the sword."
+
+ innovation_goryeo_group:0 "Tall Mountains and Beautiful Waters"
+ innovation_goryeo_group_desc:0 "Unlike the historical officials' assertion of the Mohe tribe, the various tribes of Goguryeo claim descent from Dangun and were revitalized by descendants of Buyeo."
+ 
+ innovation_mongolic_group:0 "Azure Wolf and White Deer"
+ innovation_mongolic_group_desc:0 "The Chulu River, under the Yin Mountains. The sky resembles a tent, covering all directions. The sky is vast, the wilderness expansive. The wind blows, grass bends to reveal cattle and sheep."
+ 
+ tradition_chinese_succession_name:0 "Clan Law Tradition"
+ tradition_chinese_succession_desc:0 "For large-scale and intensive labor, people gather in clans to multiply and prosper, living under the constraints of their lineage, where elders hold supreme authority, adhering to a system of hereditary succession for the firstborn son, where one's body must not be harmed, showing filial piety first to kin and thereby extending it to others, those who violate clan law are contemptible to everyone."
+ culture_parameter_can_have_tradition_succession_law:0 "Implementing the hereditary system for identifiable successors through the firstborn son"
+
+ innovation_centralization_of_authority:0 "Carriages and Books for Thousands of Miles"
+ innovation_centralization_of_authority_desc:0 "Shared tracks, common writing, unified order. The early mature centralized system can organize large-scale production, while supreme imperial authority owns and controls all."
+ 
+ culture_parameter_unlock_maa_mangudai:0 "Can recruit [GetMaA('mangudai').GetName][men_at_arms|E]"
+ culture_parameter_unlock_maa_asia_tunguse_ss:0 "Can recruit [GetMaA('asia_tunguse_ss').GetName][men_at_arms|E]"
+ culture_parameter_unlock_maa_samurai:0 "Can recruit [GetMaA('samurai').GetName][men_at_arms|E]"
+ culture_parameter_unlock_maa_java_warrior:0 "Can recruit [GetMaA('java_warrior').GetName][men_at_arms|E]"
+ culture_parameter_unlock_maa_china_east_ms:0 "Can recruit [GetMaA('china_east_ms').GetName][men_at_arms|E]"
+ culture_parameter_unlock_maa_china_south_wd:0 "Can recruit [GetMaA('china_south_wd').GetName][men_at_arms|E]"
+
+
+ innovation_world_cathay:0 "Khitan Military System"
+ innovation_world_cathay_desc:0 "Emperor Taizong selected three hundred thousand elite armored troops for the Pishi army. Initially, Emperor Taizu used the marching camp as a palace, selecting over a thousand strong men from various tribes to form the backbone troops... thus the Pishi army had been established since the time of Emperor Taizu, meaning the backbone troops had existed; Taizong increased their numbers to three hundred thousand."
+
+ innovation_battleships:0 "Zheng Zhu and Fighting Ships"
+ innovation_battleships_desc:0 "千寻铁锁沉江底，一片降幡出石头。"
+
+ innovation_outrigger_boats:0 "Dugout Canoe"
+ innovation_battleships_desc:0 "If the way does not work, ride a raft and float on the sea."
+ 
+
+ innovation_target_region_liangjing:0 "Imperial Guards of the Two Capitals"
+ innovation_target_region_liangjing_desc:0 "Temporarily leaving the purification hall, I carry poetry to Gantang."
+
+
+ innovation_china_east:0 "My lord has old ties in the court, and Sima drunkenly laughs after wine."
+ innovation_china_east_desc:0 "汉鼎不烹曹操肉，ID000032空断伍员头。"
+ innovation_china_north:0 "The main roads of the two capitals are full of travelers; whenever poets meet, they battle one another."
+ innovation_china_north_desc:0 "Wu Hooks"
+ innovation_world_asia_korea:0 "The Han cauldron does not cook Cao Cao's meat, the Wu hook vainly severed the head of Wu Yuan."
+ innovation_world_asia_korea_desc:0 "Excellent Horses of Youzhou"
+ innovation_china_south:0 "The cunning chieftains attract cavalry with documents, flying alongside silver falcon bows and blades."
+ innovation_china_south_desc:0 "Goryeo Hunters"
+ innovation_china_centre:0 "In Goryeo's land, the mountains are vast and the forests rich; its people excel in making traps for game, especially skilled in bowmaking, primarily for military use, producing many excellent bowmen."
+ innovation_china_centre_desc:0 "Crossbows of Western Shu"
+ innovation_china_west:0 "In ancient tales, heavenly soldiers entered Western Shu, the drums beat chaotically and split the rocky valleys."
+ innovation_china_west_desc:0 "Central Plains Military System"
+
+
+
+ innovation_xiakeshang:0 "Do not laugh at the drunk on the battlefield, how many have returned from ancient wars?"
+ innovation_xiakeshang_desc:0 "Overcoming the Superior"
+ innovation_wushijueqi:0 "Employing various means under the existing system to replace superiors."
+ innovation_wushijueqi_desc:0 "Rise of the Samurai"
+ innovation_zuqing:0 "The samurai emerged amid social chaos and the decline of imperial power."
+ innovation_zuqing_desc:0 "ID000048是日本古代最低等的步兵之称呼，他们ID000121"
+ innovation_gaolishen:0 "Ashigaru is the term for the lowest-ranked infantry in ancient Japan, normally engaged in labor, they become foot soldiers in wartime."
+ innovation_gaolishen_desc:0 "Goryeo Ginseng"
+ innovation_gaoligong:0 "Greatly replenishes vitality, generates fluids to calm the mind, a treasure loved by the upper country."
+ innovation_gaoligong_desc:0 "Goryeo Bow"
+ innovation_biebanwu:0 "The most powerful military force of ancient Goryeo, one of the rare highlights."
+ innovation_biebanwu_desc:0 "Bianban Wu"
+ archers_pursuit_add:0 "Goryeo crafted with care against Jurchen invasions to counter cavalry units."
+ innovation_mengguma:0 "[archers|E][pursuit|E]"
+ innovation_mengguma_desc:0 "ID000057体形矮小，其貌不扬，头大颈短，体魄强健，胸宽鬃长，皮厚毛粗，能吃苦，适应能力强，能抵御西伯利亚暴雪；能扬蹄踢碎狐狼的脑袋。"
+ innovation_huihuqingqi:0 "The Mongolian horse is small in stature and unremarkable in appearance, with a large head, short neck, robust physique, wide chest, long mane, thick skin and rough coat, able to endure hardship, highly adaptable, able to withstand Siberian snowstorms; it can kick apart the skulls of foxes and wolves."
+ innovation_huihuqingqi_desc:0 "Uighur Light Cavalry"
+ innovation_hasakema:0 "Although the Uighurs are not on good terms with various Turkic groups, they still retain traditional pastoral lifestyles, forming a powerful cavalry unit with local Kazakh horses to protect the safety of land trade caravans."
+ innovation_hasakema_desc:0 "Kazakh Horse"
+
+ innovation_ximalayazhanshi:0 "A breed of horse originating from the north slope of Tian Shan, the western山 of Dzhungar, and the western segment of Altai Mountains. Thick-boned, with a thick skin and dense fur, a bushy mane, and a robust build. Balanced appearance, with good versatile structure. This is an ancient local horse breed formed under rough conditions of communal grazing."
+ innovation_ximalayazhanshi_desc:0 "Himalayan Warriors"
+
+ innovation_hequma:0 "We have long adapted to the rugged terrain and thin air of the plateau; outsiders find it difficult to endure this environment, let alone pose a threat to us. Our warriors move through the mountains, watching one invader fall after another. The plateau serves as a gift from heaven, a barrier where intruders struggle to step into Tibet, yet at the same time, our warriors may suffer severe adverse reactions when descending to lowland areas."
+ innovation_hequma_desc:0 "ID000065是一个古老而优良的地方马种，体形高大，背脊平坦，挽乘兼顾，持久耐劳，并且适应当地地理与生态环境和抗病能力强，早在秦汉时期就被作为战马使用，在历史上常用它作为贡礼。"
+ innovation_xianbeitieqi:0 "The Hequ Horse is an ancient and excellent local horse breed, tall, with a flat back, suitable for pulling and riding, durable and hard-working, well-adapted to local geography and ecology, with strong disease resistance, being used as a war horse as early as the Qin and Han dynasties and frequently sent as tribute historically."
+ innovation_xianbeitieqi_desc:0 "Xianbei Iron Cavalry"
+ tuyuhunjiaqijuzhuang:0 "One of the Xianbei traditions preserved by the Tuyuhun, since the time of Emperor Xiaowendi of Northern Wei, succeeding rulers have diligently formed heavy cavalry units to intimidate surrounding smaller groups."
+ tuyuhunjiaqijuzhuang_flavor:0 "Tuyuhun Armored Cavalry"
+
+ jiaqijuzhuang:0 "Armored warriors of Tuyuhun, maintaining fine Xianbei traditions, are skilled at charging and fighting."
+ jiaqijuzhuang_flavor:0 "Armored Cavalry"
+
+ tujuezhongqibing:0 "Heavily armored samurai, adhering to ancient combat traditions for charging and engaging in battle."
+ tujuezhongqibing_flavor:0 "Turkic Heavy Cavalry"
+ ai_tujuezhongqibing:0 "Heavily armored samurai, adhering to ancient combat traditions for charging and engaging in battle."
+ ai_tujuezhongqibing_flavor:0 "Turkic Heavy Cavalry"
+
+ innovation_kuman_buluo:0 "The Western Turkic tribes are people on horseback, wherein the ancient tradition of iron smelting combined with the rich iron ore resources of Central Asia birthed this famous heavy cavalry unit, fierce wolves of the grasslands, and the nightmares of surrounding cultures."
+ innovation_kuman_buluo_desc:0 "Kuman Tribe"
+ kuman_jipuqieke:0 "The united strength of the Kumans is unparalleled, with each tribe's powerful cavalry at my command."
+ kuman_jipuqieke_flavor:0 "Kuman Kipchak"
+
+ innovation_muzhi_weilan:0 "Light Kuman cavalry from various tribes, known for their high mobility."
+ innovation_muzhi_weilan_desc:0 "我们就地取材在定居点附近大量部署ID000081，这能很好的阻拦入侵者的步伐。"
+
+ akesu:0 "We make use of abundant timber nearby to deploy numerous wooden fences at our settlements, which can effectively obstruct the steps of invaders."
+ akesu_flavor:0 "Akarsu"
+
+ mazhaer_qingqi:0 ID000085
+ mazhaer_qingqi_flavor:0 ""Kunno" # (Madar Light Cavalry)"
+ xiongyali_luowoshi:0 "Lightly armored Mazari warriors, when they ride into battle, the entire Pannonia shudders."
+ xiongyali_luowoshi_flavor:0 "Lavosh"
+ xiongyali_wuzhuang_minbing:0 "Brave armored Mazari knights, capable of coordinating with light cavalry to rain arrows from afar and charge when the battle becomes intense."
+ xiongyali_wuzhuang_minbing_flavor:0 "Armed Militias"
+ xiongyali_saikaiyi_gongqibing:0 "Slightly trained, equipped with crude weaponry, with a small number of archers among them, though their combat effectiveness remains poor."
+ xiongyali_saikaiyi_gongqibing_flavor:0 "久居潘诺尼亚的ID000091，是侧翼扰敌和追杀溃军的好手。"
+
+
+ jiaseni_war_elephant:0 "The Szekler bow cavalry, long settled in Pannonia, are adept at distracting enemies from the flanks and pursuing fleeing foes."
+ jiaseni_war_elephant_flavor:0 "Gassani War Elephants"
+ ai_jiaseni_war_elephant:0 "The Szekler bow cavalry, long settled in Pannonia, are adept at distracting enemies from the flanks and pursuing fleeing foes."
+ ai_jiaseni_war_elephant_flavor:0 "Gassani War Elephants"
+ ai_01_jiaseni_war_elephant:0 "The Szekler bow cavalry, long settled in Pannonia, are adept at distracting enemies from the flanks and pursuing fleeing foes."
+ ai_01_jiaseni_war_elephant_flavor:0 "Gassani War Elephants"
+
+ innovation_wushidao:0 "Introduced from India, these massive war beasts have gradually adapted to the noise and spears of the battlefield through long training and acclimatization; with thick elephant hide and fully armored iron gear, they can disregard fierce attacks and charge through enemy forces with tremendous force."
+ innovation_wushidao_desc:0 "Bushido"
+ innovation_yulie:0 "A death without hesitation, a death without regard, a death without wavering."
+ innovation_yulie_desc:0 "Fishing and Hunting"
+ innovation_zhucaoerju:0 "From the smallest fish, shrimp, turtles, crabs, and shellfish to hunting whales and sea beasts, this is an ancient occupation."
+ innovation_zhucaoerju_desc:0 "Residing by the Pastures"
+# zhucaoerju_miaoshu:1 "[army|E][commander|E]拥有该[innovations|E]，且途经#V $草原$#!地区时，行军速度将大幅提升"
+ zhucaoerju_miaoshu:1 "One of the main characteristics of ancient nomadic peoples' lives, pursuing the grasslands all their lives, well-acquainted with everything on the prairie."
+
+ innovation_miaojiangwugu:0 "When the characters of this [culture|E] lead [army|E] through #V $grassland$#! or #V $plain$#!, their marching speed will greatly increase."
+ innovation_miaojiangwugu_desc:0 "Miaojiang Witchcraft"
+ innovation_dfwc_chiyouxuemai:0 "The great wisdom of the ancestors."
+ innovation_dfwc_chiyouxuemai_desc:0 "Bloodline of Chi You"
+
+ ayinubuzuzhanshi:0 "The legendary creator of weapons, also revered as the god of war, alongside the Yellow Emperor and the Flame Emperor, known as the three ancestral founders of China, regarded as an ancestor by many Miao people. The fierce and united spirit stemmed from the Miao people has earned admiration from the world."
+ ayinubuzuzhanshi_flavor:0 "Ainu Tribal Warriors"
+
+
+ innovation_dongbeiya_qisheshou:0 "The Ainu people refer to themselves as "Utari," meaning "partners," valuing their kin who fight alongside them, striving hard to survive amidst the various conflicts on the Japanese islands."
+ innovation_dongbeiya_qisheshou_desc:0 "Northeast Asian Horse Archers"
+
+ dongbeiya_qisheshou:0 "Cavalry archers fully adapted to the dense forests of Northeast Asia, more suited to the local war environment than other nomadic forces on the plains."
+ dongbeiya_qisheshou_flavor:0 "Northeast Asian Horse Archers"
+
+ 
+ fangren:0 "Cavalry archers fully adapted to the dense forests of Northeast Asia, more suited to the local war environment than other nomadic forces on the plains."
+ fangren_flavor:0 "Defensive Personnel"
+ wushi:0 "Temporarily recruited soldiers from rural border regions to guard against threats from neighboring countries."
+ wushi_flavor:0 "Martial Practitioners"
+ zuqing:0 "枪ID000048"
+ zuqing_flavor:0 "Gun Ashigaru"
+ tianhuangweidui:0 "Normally engaged in labor, they become foot soldiers during wartime."
+ tianhuangweidui_flavor:0 "Northern Samurai"
+ hegongshou:0 "Stationed beneath the north side of the palace, guarding the emperor and attending to royal affairs."
+ hegongshou_flavor:0 "He Bowmen"
+ tidaodui:0 "The continuation of Yamato people's traditional archery on the battlefield."
+ tidaodui_flavor:0 "Naginata Warriors"
+
+
+ tieyuanliehu:0 "ID000052手"
+ tieyuanliehu_flavor:0 "Goryeo Archers"
+ gaoli_zuobiechao:0 "Skilled archers and hunters who navigate the complex mountainous forests of the Korean Peninsula, delivering painful strikes to the enemy with their exceptional shooting skills."
+ gaoli_zuobiechao_flavor:0 "Left Byōshō"
+
+ biebanwu:0 "The most powerful military force of ancient Goryeo, one of the rare highlights."
+ biebanwu_flavor:0 "Bianban Wu"
+ hualang:0 "An elite infantry unit created to combat the Jurchen, skilled at dealing with cavalry."
+ hualang_flavor:0 "Hwarang"
+
+ jinjun:0 "Young Goryeo nobles who practiced martial arts from a young age, not only excelling in archery but also admired for their appearance and demeanor."
+ jinjun_flavor:0 "Imperial Guard"
+ tang_beiya_jinjun:0 "北衙ID000136"
+ tang_beiya_jinjun_flavor:0 "Northern Guard"
+ yulinjun:0 "A strong military force guarding the capital city."
+ yulinjun_flavor:0 "Yu Lin Army"
+ xiangjun:0 "The army directly under the emperor, tasked with guarding the emperor or the palace, and capital defense duties."
+ xiangjun_flavor:0 "属地方常备军，是ID000136主要的来源之一。"
+ fanzhenjun:0 "Local standing army commanded by regional governors, being one of the main sources for the imperial guard."
+ fanzhenjun_flavor:0 "Military Governors’ Troops"
+ bianjun:0 "Local military contingents commanded by various regional military governors."
+ bianjun_flavor:0 "Frontier Troops"
+ difangjun:0 "Recruited to prevent external enemies, drawn from various border towns."
+ difangjun_flavor:0 "Local Army"
+ china_modao_ai:0 "ID000042队"
+ china_modao_ai_flavor:0 "ID000042队。"
+

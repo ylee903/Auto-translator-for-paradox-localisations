@@ -264,7 +264,12 @@ def save_reassembled_chunks(translated_chunks, file_path, log_dir):
 def reassemble_text(file_content, translated_chunks):
     for chunk in translated_chunks:
         for unique_id, translation in chunk.items():
+            print(unique_id)
+            print(translation)
             file_content = file_content.replace(f'"{unique_id}"', f'"{translation}"')
+            print(file_content)
+            file_content = file_content.replace(f"'{unique_id}'", " ")
+            print(file_content)
     print(f"Reassembled translated content.")
     return file_content
 
@@ -323,6 +328,7 @@ async def translate_yaml_file(file_path):
 
     # Reassemble the text with the modified chunks
     translated_content = reassemble_text(file_content, [modified_chunks])
+    print(translated_content)
 
     output_file_path = (
         file_path if overwrite_original else file_path.replace(".yml", "_final.yml")
