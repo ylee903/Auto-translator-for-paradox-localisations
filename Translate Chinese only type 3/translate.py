@@ -37,7 +37,8 @@ openai.api_key = api_key
 encoding = tiktoken.encoding_for_model(model_name)
 
 # Regular expression for extracting Chinese text
-chinese_text_regex = r'"([^"]*[\u4e00-\u9fff][^"]*)"'
+# chinese_text_regex = r'"([^"]*[\u4e00-\u9fff][^"]*)"'
+chinese_text_regex = r'".*[\u4e00-\u9fff].*"'  # pick up any string that contains at least one Chinese character
 
 # Define token and line limits
 TOKEN_LIMIT = 3500  # Adjust if necessary for other models

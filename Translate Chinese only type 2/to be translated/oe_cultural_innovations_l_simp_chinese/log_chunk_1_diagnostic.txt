@@ -1,0 +1,5 @@
+Diagnostic for chunk 1:
+Translation provided for one line:
+1. Chinese text: 组成。#。
+2. English translation: Formed. #.
+
