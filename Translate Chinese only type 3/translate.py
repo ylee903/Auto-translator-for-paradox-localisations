@@ -15,7 +15,7 @@ delay_time = 1  # Delay between requests (in seconds)
 log_chunks = True  # Log chunks sent/received for debugging
 overwrite_original = True  # Overwrite original YAML files
 max_concurrent_requests = 3  # Control concurrency of asynchronous requests
-model_name = "gpt-4o-mini"  # Model for both tokenization and API calls
+model_name = "gpt-4o"  # Model for both tokenization and API calls
 ignore_mismatch = (
     True  # Ignore mismatches in line counts between sent and received chunks
 )
@@ -37,7 +37,8 @@ openai.api_key = api_key
 encoding = tiktoken.encoding_for_model(model_name)
 
 # Regular expression for extracting Chinese text
-chinese_text_regex = r'"([^"]*[\u4e00-\u9fff][^"]*)"'
+chinese_text_regex = r"[\u4e00-\u9fff]+"
+chinese_text_regex = r".*"
 
 # Define token and line limits
 TOKEN_LIMIT = 3000  # Adjust if necessary for other models
