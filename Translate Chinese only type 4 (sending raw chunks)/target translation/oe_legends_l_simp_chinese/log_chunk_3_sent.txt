@@ -1,0 +1,56 @@
+
+
+guanyu_legend: "威震华夏关云长"
+zhangfei_legend: "燕人张翼德演义"
+zhugeliang_legend: "诸葛武侯之功业"
+lvbu_legend: "吕温侯传奇"
+zhaoyun_legend: "常胜将军赵子龙"
+machao_legend: "锦马超传奇"
+Gaesomun_legend: "渊盖苏文之业"
+xuanzang_legend: "大唐玄奘西游记"
+dunhuang_legend: "敦煌英雄"
+yuefei_legend: "岳家军传奇"
+yangye_legend: "杨家将演义"
+Masakado_legend: "平将门传奇"
+
+revolt_maitreya_name: "弥勒下生"
+revolt_mingism_name: "明王出世"
+revolt_taiping_name: "替天行道"
+revolt_holder_name: "[title.GetHolder.GetDynastyNameNoTooltip|U][title.GetNameNoTierNoTooltip|U]已死，[founder.GetDynastyNameNoTooltip|U]氏当立"
+revolt_vassal_name: "[founder.GetTopLiege.GetDynastyNameNoTooltip|U][founder.GetTopLiege.GetPrimaryTitle.GetNameNoTierNoTooltip|U]已死，[founder.GetDynastyNameNoTooltip|U]氏当立"
+revolt_title_name: "[founder.GetPrimaryTitle.GetNameNoTierNoTooltip|U]兴，天子[founder.GetDynastyNameNoTooltip|U]"
+revolt_title_desc: "腐朽的王朝天命不再，[founder.Custom('OE_GetTitledFirstName')|U]从灰烬中重生，在[founder.GetHerHis]仁慈的统治下将迎来繁荣。"
+revolt_mingism_desc: "焚我残躯，熊熊圣火。生亦何欢，死亦何苦？为善除恶，惟光明故。喜乐悲愁，皆归尘土。怜我世人，忧患实多！怜我世人，忧患实多！"
+
+
+ god_descend_name: "[ancestor.GetFaith.WarGodName]下凡"
+ god_descend_desc: "信徒们相信[ROOT.Legend.GetProtagonist.GetTitledFirstNameNoTooltip]是[ancestor.GetFaith.WarGodName]下凡降世。"
+legend_chapter_opening_god_descend: "[ROOT.Legend.GetProtagonist.GetTitledFirstNameNoTooltip]天生异于常人，信徒们相信[ROOT.Legend.GetProtagonist.GetHerHim]是[ROOT.Legend.GetProtagonist.GetFaith.WarGodName]下凡降世。"
+
+legend_events.0001.desc.mid.common_ancestor: "“日安，[ROOT.Char.GetTitleAsNameNoTooltip|U]，或许我应当称呼您为‘[legend_character.GetFaith.HighGodName|U]之子’？实际上，我遍寻记录，发现您祖先的‘神’事实上是一位完成了无数英勇事迹的英勇凡人。"
+
+legend_events.0001.desc.mid.ancestral_dynasty: "[chronicler.GetSheHe|U]诚惶诚恐地跪下来再三叩首。“啊，圣明的[ROOT.Char.GetTitleAsNameNoTooltip|U]。我有充分的理由猜测您是前朝[ancestor.GetDynastyNameNoTooltip|U][ancestor.Custom('GetUIGuohao')]皇室的血裔！"
+
+ legend_events.0001.desc.mid.loyalty_descent: "“今天[ROOT.Char.GetFaith.HighGodName|U]对你的家族微笑，[ROOT.Char.GetTitleAsNameNoTooltip|U]。我一直在搜索关于你的偶像[legend_character.GetName]的信息，并且找到了足以让[legend_character.GetHerHim]成为[GetTrait('saint').GetNameNoTooltip( ROOT.Char )]的消息！"
+
+legend_events.0001.desc.mid.loyalty_descent_not_in_history: "“今天[ROOT.Char.GetFaith.HighGodName|U]对你的家族微笑，[ROOT.Char.GetTitleAsNameNoTooltip|U]。我一直在搜索关于你的祖先[legend_character.GetName]的信息，并且找到了足以让其成为[GetTrait('saint').GetNameNoTooltip( ROOT.Char )]的消息！"
+
+legend_events.0001.desc.mid.fairy_descent: "“今天[ROOT.Char.HighGodName|U]对你的家族微笑，[ROOT.Char.GetTitleAsNameNoTooltip|U]。我一直在搜索关于你的祖先的信息，并且找到了证据：您的祖先之一是强大的[Localize( creature )]！"
+
+ legend_events.0001.desc.mid.auspicious: "“[ROOT.Char.GetFaith.HighGodName|U]今天对我们微笑，[ROOT.Char.GetTitleAsNameNoTooltip]，[Localize( god )]的祥瑞出现在[ROOT.Char.GetLocation.GetName]。正如在你出生那天一样，这代表你将会成就伟大的事业。"
+
+
+
+ legend_events.0001.desc.mid.slew_dragon: "“好消息，[ROOT.Char.GetTitleAsNameNoTooltip|U]！我一直在搜寻关于[legend_character.GetName]的巨著和传奇，我有理由相信[legend_character.GetSheHe]曾经杀死一头蛟龙！"
+
+
+ commision_legend_join_house_decision_disappearing_tt: "皇族后裔[legend|E]必须存在于你的[realm|E]内"
+
+
+penglai: "蓬莱"
+taohuayuan: "桃花源"
+beiming: "北溟"
+qingqiu: "青丘"
+
+GetWritingMaterial_bamboo_slip: "竹简"
+GetWritingMaterial_bamboo_slip_plural: "简册"

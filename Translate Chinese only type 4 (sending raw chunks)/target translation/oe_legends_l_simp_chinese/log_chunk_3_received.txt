@@ -1,0 +1,49 @@
+guanyu_legend: "The Legend of Guan Yu, Who Shakes the Land of China"
+zhangfei_legend: "The Story of Zhang Yi De from Yan"
+zhugeliang_legend: "Achievements of Zhuge Wu Hou"
+lvbu_legend: "The Legend of Lü Wen Hou"
+zhaoyun_legend: "The Invincible General Zhao Zi Long"
+machao_legend: "The Legend of Jin Ma Chao"
+Gaesomun_legend: "The Achievements of Yuan Gai Su Wen"
+xuanzang_legend: "Journey to the West of Tang Xuanzang"
+dunhuang_legend: "Hero of Dunhuang"
+yuefei_legend: "The Legend of the Yue Family Army"
+yangye_legend: "The Story of the Yang Family Generals"
+Masakado_legend: "The Legend of Taira no Masakado"
+
+revolt_maitreya_name: "Maitreya's Descent"
+revolt_mingism_name: "The Emergence of the Ming King"
+revolt_taiping_name: "Acting for Heaven"
+revolt_holder_name: "[title.GetHolder.GetDynastyNameNoTooltip|U][title.GetNameNoTierNoTooltip|U] is dead, the [founder.GetDynastyNameNoTooltip|U] family should take the throne"
+revolt_vassal_name: "[founder.GetTopLiege.GetDynastyNameNoTooltip|U][founder.GetTopLiege.GetPrimaryTitle.GetNameNoTierNoTooltip|U] is dead, the [founder.GetDynastyNameNoTooltip|U] family should take the throne"
+revolt_title_name: "[founder.GetPrimaryTitle.GetNameNoTierNoTooltip|U] rises, the Son of Heaven [founder.GetDynastyNameNoTooltip|U]"
+revolt_title_desc: "The corrupt dynasty's mandate is no more, [founder.Custom('OE_GetTitledFirstName')|U] reborn from the ashes, will usher in prosperity under [founder.GetHerHis] benevolent rule."
+revolt_mingism_desc: "Burn my remains, the blazing holy fire. What joy in life, what suffering in death? To eliminate evil and do good, only for the light. Joy and sorrow, all return to dust. Pity the world, there are many troubles! Pity the world, there are many troubles!"
+
+god_descend_name: "[ancestor.GetFaith.WarGodName] Descends"
+god_descend_desc: "The followers believe that [ROOT.Legend.GetProtagonist.GetTitledFirstNameNoTooltip] is the reincarnation of [ancestor.GetFaith.WarGodName]."
+legend_chapter_opening_god_descend: "[ROOT.Legend.GetProtagonist.GetTitledFirstNameNoTooltip] is born different from ordinary people, and followers believe that [ROOT.Legend.GetProtagonist.GetHerHim] is the reincarnation of [ROOT.Legend.GetProtagonist.GetFaith.WarGodName]."
+
+legend_events.0001.desc.mid.common_ancestor: "“Good day, [ROOT.Char.GetTitleAsNameNoTooltip|U]. Perhaps I should call you ‘child of [legend_character.GetFaith.HighGodName|U]’? In fact, I searched through records and found that your ancestor’s ‘deity’ was actually a brave mortal who accomplished countless heroic deeds.”
+
+legend_events.0001.desc.mid.ancestral_dynasty: "[chronicler.GetSheHe|U] knelt down in trepidation, bowing repeatedly. “Ah, wise [ROOT.Char.GetTitleAsNameNoTooltip|U]. I have ample reason to speculate you are a blood descendant of the royal family of [ancestor.GetDynastyNameNoTooltip|U] [ancestor.Custom('GetUIGuohao')]!”
+
+legend_events.0001.desc.mid.loyalty_descent: "“Today [ROOT.Char.GetFaith.HighGodName|U] smiles upon your family, [ROOT.Char.GetTitleAsNameNoTooltip|U]. I have been searching for information about your idol [legend_character.GetName], and found enough to make [legend_character.GetHerHim] a [GetTrait('saint').GetNameNoTooltip( ROOT.Char )]!"
+
+legend_events.0001.desc.mid.loyalty_descent_not_in_history: "“Today [ROOT.Char.GetFaith.HighGodName|U] smiles upon your family, [ROOT.Char.GetTitleAsNameNoTooltip|U]. I have been searching for information about your ancestor [legend_character.GetName], and found enough to make them a [GetTrait('saint').GetNameNoTooltip( ROOT.Char )]!"
+
+legend_events.0001.desc.mid.fairy_descent: "“Today [ROOT.Char.HighGodName|U] smiles upon your family, [ROOT.Char.GetTitleAsNameNoTooltip|U]. I have been searching for information about your ancestor, and found evidence: one of your ancestors was a powerful [Localize( creature )]!"
+
+legend_events.0001.desc.mid.auspicious: "“Today [ROOT.Char.GetFaith.HighGodName|U] smiles upon us, [ROOT.Char.GetTitleAsNameNoTooltip], the auspicious omen of [Localize( god )] has appeared in [ROOT.Char.GetLocation.GetName]. Just like on the day you were born, this signifies that you will accomplish great things."
+
+legend_events.0001.desc.mid.slew_dragon: "“Good news, [ROOT.Char.GetTitleAsNameNoTooltip|U]! I have been searching for great works and legends about [legend_character.GetName], and I have reason to believe [legend_character.GetSheHe] once slayed a dragon!"
+
+commision_legend_join_house_decision_disappearing_tt: "Royal descendants [legend|E] must exist within your [realm|E]"
+
+penglai: "Penglai"
+taohuayuan: "Peach Blossom Spring"
+beiming: "North Abyss"
+qingqiu: "Qingqiu"
+
+GetWritingMaterial_bamboo_slip: "Bamboo Slips"
+GetWritingMaterial_bamboo_slip_plural: "Bamboo Books"
