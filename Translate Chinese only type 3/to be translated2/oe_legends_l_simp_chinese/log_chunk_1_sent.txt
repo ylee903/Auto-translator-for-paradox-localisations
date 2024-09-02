@@ -1,0 +1,102 @@
+Chunk 1 sent to API:
+ID000000 起源传奇
+ID000001 [Localize( ancestor_flag )|U]後裔
+ID000002 [Localize( ancestor_flag )]之血在我们的体内流淌，赋予我们缔造民族的力量。
+ID000003 黄帝
+ID000004 炎帝
+ID000005 蚩尤
+ID000006 盘王
+ID000007 夏后氏
+ID000008 天后
+ID000009 祝融
+ID000010 太昊
+ID000011 少昊
+ID000012 望帝
+ID000013 檀君
+ID000014 天照
+ID000015 雒龙君
+ID000016 无诸
+ID000017 阿史那
+ID000018 天父地母
+ID000019 奇首之裔
+ID000020 龛福之裔
+ID000021 孛儿帖赤那之裔
+ID000022 伊质泥师都之裔
+ID000023 卜古之裔
+ID000024 鹘提悉补野之裔
+ID000025 九隆之裔
+ID000026 阿摩美久之裔
+ID000027 雄王之裔
+ID000028 桓雄之裔
+ID000029 伏羲之裔
+ID000031 段赤城之裔
+ID000033 无弋爰剑
+ID000034 [ancestor.GetDynastyName|U][ancestor.Custom('GetUIGuohao')|U]正统
+ID000035 大汉正统
+ID000036 大唐正统
+ID000037 大魏正统
+ID000038 昭烈之後
+ID000039 大吴正统
+ID000040 太丘长之後
+ID000041 骨力裴罗后裔
+ID000042 $OE_Legend_AncestorFullName$是我们的血脉始祖，曾经缔造了伟大的王朝
+ID000043 [ROOT.Legend.GetProtagonist.Custom('OE_GetUINameNotMeNoTooltip')|U]诞生于$OE_Legend_AncestorFullName$的神圣血脉中。拥有如此伟大的、充斥神力的血统，谁还会怀疑[ROOT.Legend.GetProtagonist.GetSheHe]将取得伟大的成就？
+ID000044 [ROOT.Legend.GetProtagonist.GetHerHis]心中毫无疑虑；[ROOT.Legend.GetProtagonist.Custom('OE_GetTitledFirstName')]注定要统一整个[ROOT.Legend.GetProperty( 'title' ).Title.GetBaseNameNoTooltip]。以$OE_Legend_AncestorFullName$之名，下层男女贵族们的纷争将即将结束，所有人都将称[ROOT.Legend.GetProtagonist.Custom('OE_GetTitledFirstName')]为他们的领主。
+ID000045 愚者们纷纷集结来挑战[ROOT.Legend.GetProtagonist.Custom('OE_GetTitledFirstName')]，但他们就如妄图撼动大树的蚍蜉一般。[ROOT.Legend.GetProtagonist.Custom('OE_GetTitledFirstName')|U]的追随者因[ROOT.Legend.GetProtagonist.GetSheHe]为[ROOT.Legend.GetProtagonist.GetFaith.PantheonTerm]所做的伟业而不断增多，[ROOT.Legend.GetProtagonist.GetSheHe]成为了$OE_Legend_AncestorGloryName$的真实写照。
+ID000046 自$OE_Legend_AncestorGloryName$时代以来，美丽的[ROOT.Legend.GetProperty( 'title' ).Title.GetBaseNameNoTooltip]乡村一直受到强盗和土匪的困扰，但[ROOT.Legend.GetProtagonist.Custom('OE_GetTitledFirstName')]很快开始了正义之举，保护了[ROOT.Legend.GetProtagonist.GetSheHe]法理治下的人民。
+ID000047 尽管这段旅程充满了危险，但鉴于[ROOT.Legend.GetProtagonist.Custom('OE_GetTitledFirstName')]为[ROOT.Legend.GetProperty( 'title' ).Title.GetBaseNameNoTooltip]及其人民所做的一切，谁能怀疑[ROOT.Legend.GetProtagonist.GetSheHe]是[ROOT.Legend.GetProtagonist.GetFaith.PantheonTerm|U]选中的统治者呢？无论是城市还是最卑微的农舍，所有人都在欢欣鼓舞中高呼“[ROOT.Legend.GetProtagonist.Custom('OE_GetUINameNotMeNoTooltip')]”的名字！
+ID000048 忠勇$OE_Legend_AncestorBaseName$
+ID000049 忠勇护国的$OE_Legend_AncestorBaseName$，曾为朝廷立下不朽的功勋。
+ID000050 [Localize( ancestor_flag )|U]之功业
+ID000051 [Localize( ancestor_flag )|U]是一位忠勇无双的国士，为朝廷立下不朽的功勋。
+ID000052 作为[religion.GetNameNoTooltip]的伟大圣贤，$OE_Legend_AncestorBaseName$的传奇始于出生时的异象。从很小的时候起，[ancestor.GetSheHe]就感受到了[ROOT.Legend.GetOwner.GetFaith.PantheonTerm]的召唤。
+ID000053 作为[religion.GetNameNoTooltip]的伟大圣贤，[Localize( ancestor_flag )|U]的传奇始于出生时的异象。从很小的时候起，[Localize( ancestor_flag )|U]就感受到了[ROOT.Legend.GetOwner.GetFaith.PantheonTerm]的召唤。
+ID000054 [ROOT.Legend.GetOwner.GetFaith.PantheonTerm]将降大任于$OE_Legend_AncestorBaseName$：[ancestor.GetSheHe]要建功立业！所有[ROOT.Legend.GetProperty('religion').Religion.GetAdherentNamePluralNoTooltip]都将[ROOT.Legend.GetOwner.GetFaith.PantheonTerm]记在心里，但没人知道$OE_Legend_AncestorBaseName$即将永垂青史！
+ID000055 [ROOT.Legend.GetOwner.GetFaith.PantheonTerm]将降大任于[ROOT.Legend.Custom('GetAncestorNameNoTooltip')]！所有[ROOT.Legend.GetProperty('religion').Religion.GetAdherentNamePluralNoTooltip]都将[ROOT.Legend.GetOwner.GetFaith.PantheonTerm2]记在心里，但没人知道[Localize( ancestor_flag )|U]即将即将永垂青史！
+ID000056 忠义圣贤的道路被奸佞宵小纠缠，[ROOT.Legend.Custom('GetAncestorNameNoTooltip')]手握[ancestor.GetFaith.PantheonTerm]赐福的利刃，将他们全都赶了出去。但道路上仍有毒蛇猛兽游荡，会对[ROOT.Legend.GetProperty('religion').Religion.GetAdherentNamePluralNoTooltip]造成伤害，因此[ROOT.Legend.Custom('GetAncestorNameNoTooltip')]拿出[ancestor.GetHerHis]的正义武器，将[ancestor.GetFaith.WitchGodNamePossessive]赶出了这片土地。
+ID000057 [ROOT.Legend.Custom('GetAncestorNameNoTooltip')]不知疲倦地为了[ROOT.Legend.GetProperty('religion').Religion.GetNameNoTooltip]的一切而努力，与[ROOT.Legend.GetOwner.GetFaith.DevilName]朝野的爪牙作战，最终，[ROOT.Legend.GetOwner.GetHerHis]的斗争结束了。不朽的功业得以完成，[ROOT.Legend.Custom('GetAncestorNameNoTooltip')]度过了至忠至诚的一生。
+ID000058 老子
+ID000059 天师
+ID000060 白起
+ID000061 项羽
+ID000062 韩信
+ID000063 李广
+ID000064 李靖
+ID000065 马援
+ID000066 卫青
+ID000067 霍去病
+ID000068 班超
+ID000069 周处
+ID000070 桓温
+ID000071 李白
+ID000072 征侧征贰
+ID000073 [Localize( beast )|U]之子
+ID000074 祖先曾与一只强大的[Localize( beast )|U]交合，产下我们的族人
+ID000075 真龙天子
+ID000076 母媪尝息大泽之陂，梦与神遇。是时雷电晦冥，父太公往视，则见交龙于上。已而有娠，遂产高祖。
+ID000077 祥瑞[Localize( god )]
+ID000078 [Localize( god )]的景象显现在[ROOT.Legend.GetProtagonist.Custom('OE_GetUINameNotMeNoTooltip')|U]睡梦中，赋予了[ROOT.Legend.GetProtagonist.GetHerHim]神圣的使命。
+ID000079 [Localize( god )|U]在梦境之地对[ROOT.Legend.GetProtagonist.Custom('OE_GetTitledFirstName')]说话，赋予[ROOT.Legend.GetProtagonist.GetHerHim]神圣的使命。 从那时起，[ROOT.Legend.GetProtagonist.Custom('OE_GetTitledFirstName')|U]一直在祈祷并在大地上搜寻，希望能领悟来自[ROOT.Legend.GetProtagonist.GetFaith.PantheonTerm]的这一使命的真正本质。
+ID000080 [ROOT.Legend.GetProtagonist.GetFirstNamePossessive|U]的旅途将[ROOT.Legend.GetProtagonist.GetHerHim]带入一片新奇的土地，在那里生物甚至植物都是那么陌生特别。[ROOT.Legend.GetProtagonist.GetSheHe]甚至发现了此前从未有人见过的[Localize( god )|U]。
+ID000081 这片土地上妖孽横行，百姓身受水火，但在[ROOT.Legend.GetProtagonist.Custom('OE_GetTitledFirstName')]和[ROOT.Legend.GetProtagonist.GetHerHis]的追随者们的努力下，这些[ROOT.Legend.GetProtagonist.GetFaith.DevilName|U]的仆人被赶回了属于他们的[ROOT.Legend.GetProtagonist.GetFaith.NegativeAfterLife|U]，百姓得以自由。因[ROOT.Legend.GetProtagonist.Custom('OE_GetTitledFirstName')]所做的善事而，[ROOT.Legend.GetProtagonist.GetFaith.PantheonTerm3]为[ROOT.Legend.GetProtagonist.GetSheHe]生出[Localize( god )|U]，[ROOT.Legend.GetProtagonist.GetHerHis]的神圣使命已接近巅峰。
+ID000082 [ROOT.Legend.GetProtagonist.Custom('OE_GetTitledFirstName')|U]公正而虔诚地统治，[ROOT.Legend.GetProtagonist.GetHerHis]处处遵从[Localize( god )]的指引。神圣的计划得以完成，[ROOT.Legend.GetProtagonist.GetSheHe]度过了充满荣誉和虔诚的一生。
+ID000083 猫
+ID000084 犬
+ID000085 狐
+ID000086 野兔
+ID000087 狼
+ID000088 鹿
+ID000090 马
+ID000091 兔
+ID000092 野猪
+ID000093 狮
+ID000094 虎
+ID000095 熊
+ID000096 原牛
+ID000097 麒麟
+ID000098 龙
+ID000099 猞猁
+ID000100 鬣狗
+ID000102 瞪羚
+ID000103 羚羊
+

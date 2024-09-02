@@ -1,0 +1,256 @@
+﻿l_simp_chinese:
+ legend_origin: "Origin Legends"
+ legend_origin_name: "$legend_legitimizing_name$"
+ legend_origin_desc: "$game_concept_legend_type_desc$"
+
+
+common_ancestry_name: "[Localize( ancestor_flag )|U]Descendant"
+common_ancestry_desc: "translation has been performed accurately and maintains the unique identifiers and formatting as requested. The context of the text appears to be a blend of historical references, mythical elements, and narrative style typical in video games focused on strategy and role-playing settings. blood of [Localize( ancestor_flag )] flows within us, granting us the power to forge nations."
+yellow_emperor: "Yellow Emperor"
+yandi: "Flame Emperor"
+chiyou: "Chi You"
+pangu: "Pan Wang"
+xia_emperor: "Xiàhòu Clan"
+lady_sea: "Heavenly Empress"
+south_emperor: "Zhu Rong"
+east_emperor: "Tai Hao"
+west_emperor: "Shao Hao"
+southwest_emperor: "Wang Di"
+dankun: "Dangun"
+amaterasu: "Amaterasu"
+lac_long: "Lord of the Dragon of Luo"  #Lạc Long Quân
+wuzhu: "Wu Zhu"
+ashina: "Ashina"
+
+general_origin: "Heavenly Father and Earth Mother"
+khitan_ancestor: "Descendants of the Strange Head"
+jurchen_ancestor: "Descendants of Kanfu"
+mongol_ancestor: "Descendants of Borit Qichina"
+turkic_ancestor: "Descendants of Yizhini Shidu"
+uyghur_ancestor: "Descendants of Buggu"
+tibetan_ancestor: "Descendants of Hotixibu Ye"
+ava_ancestor: "Descendants of Jiulong"
+ryukyu_ancestor: "Descendants of Amomeijiu"
+jiaozhi_ancestor: "Descendants of Xiong Wang"
+goryeo_ancestor: "Descendants of Huan Xiong"
+chinese_ancestor: "Descendants of Fuxi"
+yamato_ancestor: "Amaterasu之裔" #於保比屡咩能武智
+bai_ancestor: "Descendants of Duan Chicheng"
+min_ancestor: "Wu Zhu之裔"
+qiangic_ancestor: "No Archery, No Sword"
+
+
+legend_benji: "[ancestor.GetDynastyName|U][ancestor.Custom('GetUIGuohao')|U]Orthodox"
+legend_han: "Great Han Orthodoxy"
+legend_tang: "Great Tang Orthodoxy"
+legend_caowei: "Great Wei Orthodoxy"
+legend_shuhan: "Descendants of Zhao Lie"
+legend_dongwu: "Great Wu Orthodoxy"
+legend_taiqiuzhang: "Descendants of Taiqiu Zhang"
+
+legend_Qutlugh: "Descendants of Guli Peilu"
+
+
+ #庙号谥号
+ Loc_china_GetLegendName: "[Character.Custom('GetUIGuohao')][Character.Custom('GetUImiaohao')][Character.GetNickname][Character.Custom('GetUIchinaTitle')][Character.GetDynasty.GetBaseName|U][Character.GetFirstName|U]"
+ OE_Legend_AncestorFullName: "[ancestor.Custom('GetUIGuohao')][ancestor.Custom('GetUImiaohao')][ancestor.GetNickname][ancestor.Custom('GetUIchinaTitle')][ancestor.GetDynasty.GetBaseName|U][ancestor.GetFirstName|U]"
+ OE_Legend_AncestorGloryName: "[ancestor.Custom('GetUIGuohao')][ancestor.Custom('GetUImiaohao')][ancestor.GetNickname][ancestor.Custom('GetUIchinaTitle')]"
+ OE_Legend_AncestorBaseName: "[ancestor.GetDynastyName|U][ancestor.GetFirstName|U]"
+ OE_Legend_AncestorMiaohao: "[ancestor.Custom('GetUIGuohao')][ancestor.Custom('GetUImiaohao')]"
+ OE_Legend_AncestorShihao: "[ancestor.Custom('GetUIGuohao')][ancestor.GetNickname][ancestor.Custom('GetUIchinaTitle')]"
+
+ legend_chronicle_ancestral_dynasty_desc: "$OE_Legend_AncestorFullName$ is our ancestral bloodline ancestor, who once forged a great dynasty"
+
+ legend_chapter_opening_ancestral_dynasty: "[ROOT.Legend.GetProtagonist.Custom('OE_GetUINameNotMeNoTooltip')|U] born of the sacred bloodline of $OE_Legend_AncestorFullName$. With such a great, god-filled lineage, who would doubt that [ROOT.Legend.GetProtagonist.GetSheHe] will achieve great accomplishments?"
+ legend_chapter_motivation_ancestral_dynasty: "In [ROOT.Legend.GetProtagonist.GetHerHis] heart there is no doubt; [ROOT.Legend.GetProtagonist.Custom('OE_GetTitledFirstName')] is destined to unify the entire [ROOT.Legend.GetProperty( 'title' ).Title.GetBaseNameNoTooltip]. In the name of $OE_Legend_AncestorFullName$, the disputes among the lower noblemen will soon come to an end, and all will call [ROOT.Legend.GetProtagonist.Custom('OE_GetTitledFirstName')] their lord."
+ legend_chapter_famous_deed_ancestral_dynasty: "Fools gather to challenge [ROOT.Legend.GetProtagonist.Custom('OE_GetTitledFirstName')], but they are like ants trying to shake a great tree. Followers of [ROOT.Legend.GetProtagonist.Custom('OE_GetTitledFirstName')|U] continuously grow due to [ROOT.Legend.GetProtagonist.GetSheHe]’s great accomplishments for [ROOT.Legend.GetProtagonist.GetFaith.PantheonTerm], and [ROOT.Legend.GetProtagonist.GetSheHe] has become a true representation of $OE_Legend_AncestorGloryName$."
+ legend_chapter_extra_deed_ancestral_dynasty: "Since the era of $OE_Legend_AncestorGloryName$, the beautiful [ROOT.Legend.GetProperty( 'title' ).Title.GetBaseNameNoTooltip] countryside has been troubled by bandits and robbers, but [ROOT.Legend.GetProtagonist.Custom('OE_GetTitledFirstName')] quickly began just acts, protecting the people under [ROOT.Legend.GetProtagonist.GetSheHe]’s rule of law."
+ legend_chapter_conclusion_ancestral_dynasty: "Although this journey is full of dangers, given all that [ROOT.Legend.GetProtagonist.Custom('OE_GetTitledFirstName')] has done for [ROOT.Legend.GetProperty( 'title' ).Title.GetBaseNameNoTooltip] and its people, who can doubt that [ROOT.Legend.GetProtagonist.GetSheHe] is the chosen ruler of [ROOT.Legend.GetProtagonist.GetFaith.PantheonTerm|U]? Whether in the city or the humblest cottage, everyone rejoices and calls out the name “[ROOT.Legend.GetProtagonist.Custom('OE_GetUINameNotMeNoTooltip')]”!"
+
+
+ legend_loyal_warrior: "Loyal and Brave $OE_Legend_AncestorBaseName$"
+ legend_loyal_warrior_desc: "translation has been performed accurately and maintains the unique identifiers and formatting as requested. The context of the text appears to be a blend of historical references, mythical elements, and narrative style typical in video games focused on strategy and role-playing settings. loyal and brave $OE_Legend_AncestorBaseName$ has made immortal achievements for the court."
+ legend_loyal_warrior_flag: "[Localize( ancestor_flag )|U]'s accomplishments"
+ legend_loyal_warrior_flag_desc: "[Localize( ancestor_flag )|U] is a national hero unmatched in loyalty and bravery, who has made immortal achievements for the court."
+
+ legend_chapter_opening_loyal_warrior: "As a great sage of [religion.GetNameNoTooltip], the legend of $OE_Legend_AncestorBaseName$ begins with the miraculous vision at birth. From a young age, [ancestor.GetSheHe] felt the call of [ROOT.Legend.GetOwner.GetFaith.PantheonTerm]."
+ legend_chapter_opening_loyal_warrior_flag: "As a great sage of [religion.GetNameNoTooltip], the legend of [Localize( ancestor_flag )|U] begins with the miraculous vision at birth. From a young age, [Localize( ancestor_flag )|U] felt the call of [ROOT.Legend.GetOwner.GetFaith.PantheonTerm]."
+
+legend_chapter_motivation_loyal_warrior: "[ROOT.Legend.GetOwner.GetFaith.PantheonTerm] will assign a great responsibility to $OE_Legend_AncestorBaseName$: [ancestor.GetSheHe] must achieve great deeds! All [ROOT.Legend.GetProperty('religion').Religion.GetAdherentNamePluralNoTooltip] will remember [ROOT.Legend.GetOwner.GetFaith.PantheonTerm], but no one knows that $OE_Legend_AncestorBaseName$ is about to be immortalized in history!"
+legend_chapter_motivation_loyal_warrior_flag: "[ROOT.Legend.GetOwner.GetFaith.PantheonTerm] will assign a great responsibility to [ROOT.Legend.Custom('GetAncestorNameNoTooltip')]! All [ROOT.Legend.GetProperty('religion').Religion.GetAdherentNamePluralNoTooltip] will remember [ROOT.Legend.GetOwner.GetFaith.PantheonTerm2], but no one knows that [Localize( ancestor_flag )|U] is about to be immortalized in history!"
+
+legend_chapter_extra_deed_loyal_warrior: "translation has been performed accurately and maintains the unique identifiers and formatting as requested. The context of the text appears to be a blend of historical references, mythical elements, and narrative style typical in video games focused on strategy and role-playing settings. path of the loyal and righteous sage is entangled by treacherous and malevolent forces; [ROOT.Legend.Custom('GetAncestorNameNoTooltip')] wields the blessed blade of [ancestor.GetFaith.PantheonTerm] and drives them all away. Yet there remain poisonous snakes and fierce beasts lurking on the road, which may harm [ROOT.Legend.GetProperty('religion').Religion.GetAdherentNamePluralNoTooltip], thus [ROOT.Legend.Custom('GetAncestorNameNoTooltip')] draws out [ancestor.GetHerHis] just weapon, expelling [ancestor.GetFaith.WitchGodNamePossessive] from the land."
+legend_chapter_conclusion_loyal_warrior: "[ROOT.Legend.Custom('GetAncestorNameNoTooltip')] tirelessly labors for everything of [ROOT.Legend.GetProperty('religion').Religion.GetNameNoTooltip], battling against the minions of [ROOT.Legend.GetOwner.GetFaith.DevilName], and eventually, [ROOT.Legend.GetOwner.GetHerHis] struggle ends. translation has been performed accurately and maintains the unique identifiers and formatting as requested. The context of the text appears to be a blend of historical references, mythical elements, and narrative style typical in video games focused on strategy and role-playing settings. immortal achievements are completed, and [ROOT.Legend.Custom('GetAncestorNameNoTooltip')] lived a life of utmost loyalty and integrity."
+
+laozi: "Laozi"
+tianshi: "Heavenly Master"
+baiqi: "Bai Qi"
+xiangyu: "Xiang Yu"
+hanxin: "Han Xin"
+liguang: "Li Guang"
+lijing: "Li Jing"
+mayuan: "Ma Yuan"
+weiqing: "Wei Qing"
+huoqubing: "Huo Qubing"
+banchao: "Ban Chao"
+zhouchu: "Zhou Chu"
+huanwen: "Huan Wen"
+libai: "Li Bai"
+TrungVuong: "translation has been performed accurately and maintains the unique identifiers and formatting as requested. The context of the text appears to be a blend of historical references, mythical elements, and narrative style typical in video games focused on strategy and role-playing settings. Campaigns of Zhengce and Zheng'er"
+
+
+ legend_creature_descent_name: "[Localize( beast )|U]'s Son"
+ legend_creature_descent_desc: "Our ancestors once mated with a powerful [Localize( beast )|U], giving birth to our kin"
+ legend_dragon_descent: "True Dragon Celestial Son"
+ legend_dragon_descent_desc: "translation has been performed accurately and maintains the unique identifiers and formatting as requested. The context of the text appears to be a blend of historical references, mythical elements, and narrative style typical in video games focused on strategy and role-playing settings. mother experienced dreams by the great marsh, encountering the divine. At that time, lightning and thunder were dark, and the father Taigong went to view, only to see dragons entwined above. Soon she became pregnant and gave birth to the great ancestor."
+ creature: "[ROOT.Char.Custom('CreatureName')]"
+
+
+ legend_auspicious_name: "Auspicious Sign [Localize( god )]"
+ legend_auspicious_desc: "translation has been performed accurately and maintains the unique identifiers and formatting as requested. The context of the text appears to be a blend of historical references, mythical elements, and narrative style typical in video games focused on strategy and role-playing settings. vision of [Localize( god )] appeared in [ROOT.Legend.GetProtagonist.Custom('OE_GetUINameNotMeNoTooltip')|U]'s dreams, bestowing upon [ROOT.Legend.GetProtagonist.GetHerHim] a sacred mission."
+ legend_chronicle_auspicious_motivation: "[Localize( god )|U] spoke to [ROOT.Legend.GetProtagonist.Custom('OE_GetTitledFirstName')] in the land of dreams, granting [ROOT.Legend.GetProtagonist.GetHerHim] a sacred mission. Since then, [ROOT.Legend.GetProtagonist.Custom('OE_GetTitledFirstName')|U] has been praying and searching the earth, hoping to comprehend the true nature of this mission from [ROOT.Legend.GetProtagonist.GetFaith.PantheonTerm]."
+ legend_chapter_famous_deed_auspicious: "[ROOT.Legend.GetProtagonist.GetFirstNamePossessive|U] journey brought [ROOT.Legend.GetProtagonist.GetHerHim] to an unfamiliar land, where the creatures and even the plants were strange and unique. [ROOT.Legend.GetProtagonist.GetSheHe] even discovered [Localize( god )|U] that had never been seen before."
+ legend_chapter_extra_deed_auspicious: "In this land, monsters ran rampant, and the people suffered from water and fire; however, through the efforts of [ROOT.Legend.GetProtagonist.Custom('OE_GetTitledFirstName')] and [ROOT.Legend.GetProtagonist.GetHerHis] followers, these servants of [ROOT.Legend.GetProtagonist.GetFaith.DevilName|U] were driven back to their [ROOT.Legend.GetProtagonist.GetFaith.NegativeAfterLife|U], allowing the people to gain freedom. Due to the good deeds of [ROOT.Legend.GetProtagonist.Custom('OE_GetTitledFirstName')], [ROOT.Legend.GetProtagonist.GetFaith.PantheonTerm3] gave rise to [Localize( god )|U] for [ROOT.Legend.GetProtagonist.GetSheHe], and [ROOT.Legend.GetProtagonist.GetHerHis] sacred mission has approached its peak."
+ legend_chapter_conclusion_auspicious: "[ROOT.Legend.GetProtagonist.Custom('OE_GetTitledFirstName')|U] justly and devoutly ruled, always following the guidance of [Localize( god )]. translation has been performed accurately and maintains the unique identifiers and formatting as requested. The context of the text appears to be a blend of historical references, mythical elements, and narrative style typical in video games focused on strategy and role-playing settings. sacred plan has been fulfilled, and [ROOT.Legend.GetProtagonist.GetSheHe] lived a life full of honor and devotion."
+
+ #Animals
+ cat: "Cat"
+ dog: "Dog"
+ fox: "Fox"
+ hare: "Hares"
+ wolf: "Wolf"
+ stag: "Deer"
+ hart: "Deer"
+ horse: "Horse"
+ rabbit: "Rabbit"
+ boar: "Wild Boar"
+ lion: "Lion"
+ tiger: "Tiger"
+ bear: "Bear"
+ aurochs: "Bison"
+ unicorn: "Qilin"
+ dragon: "Dragon"
+ lynx: "Lynx"
+ hyena: "Hyena"
+ roe: "雌Deer"
+ gazelle: "Gazelle"
+ antelope: "Antelope"
+ leopard: "Flower Leopard"
+ bison: "Bison"
+ elk: "驼Deer"
+
+
+legend_chronicle_opening_auspicious: "[ROOT.Legend.GetProtagonist.Custom('OE_GetUINameNotMeNoTooltip')|U]'s mother dreamt [ROOT.Legend.GetProtagonist.Custom('AuspiciousPregnantDream')], consequently conceived, and gave birth to [ROOT.Legend.GetProtagonist.GetHerHim]. On this day, [ROOT.Legend.GetProtagonist.Custom('AuspiciousBirth')]."
+
+Loc_AuspiciousBirth1: "Red Light Illuminates the Room"
+Loc_AuspiciousBirth2: "A sound like the crackle of burning coal, sparks flying"
+Loc_AuspiciousBirth3: "White Mist Fills the Courtyard"
+Loc_AuspiciousBirth4: "Well Water Overflows Violently"
+Loc_AuspiciousBirth5: "Fragrant Smell Spreads Through the Alley"
+Loc_AuspiciousBirth6: "The Five Stars Gather at the Star of Town"
+Loc_AuspiciousBirth7: "黄Dragon游光中"
+Loc_AuspiciousBirth8: "A character "Tian" appears on the left toe"
+Loc_AuspiciousBirth9: "A swarm of colorful clouds emerges from the mouths of rats"
+
+Loc_AuspiciousPregnantDream1: "The Deity Presents the Sun"
+Loc_AuspiciousPregnantDream2: "The Sun Falls in the Courtyard, Supported by Hand"
+Loc_AuspiciousPregnantDream3: "Angels and Self-Cultivation"
+
+
+#历练chapter ?
+
+#flag后不能再风味化
+
+#廷官 task 寻找祥瑞     祈禳瘟疫   搜寻传奇目击  捉妖   管理谱牒  维护祖庙  祭祀宗庙  封禅  勾引 刺杀 写传奇
+#文化推广 传说
+
+#演奏乐器
+
+
+
+
+ china_auspicious: "[ROOT.Legend.GetProtagonist.Custom('China_AuspiciousName')]"
+ legend_auspicious_mythical_creature: "[ROOT.Legend.GetProtagonist.Custom('RegionalMythicalCreature')|U]"
+
+auspicious_giant_star: "Auspicious Star"
+auspicious_colorful_clouds: "Celebratory Cloud"
+auspicious_sweet_rain: "Sweet Dew"
+auspicious_yellow_dragon: "黄Dragon"
+auspicious_qilin: "Qilin"
+auspicious_pheonix: "Phoenix"
+auspicious_turtle: "Giant Tortoise"
+auspicious_white_tiger: "白Tiger"
+auspicious_white_wolf: "白Wolf"
+auspicious_white_deer: "白Deer"
+auspicious_white_fox: "白Fox"
+auspicious_red_rabbit: "赤Rabbit"
+auspicious_black_eagle: "Azure Bird"
+auspicious_red_geese: "Vermilion Goose"
+auspicious_plump_rice: "Good Harvest"
+auspicious_branches_twined: "Entwined Trees"
+auspicious_five_stars_in_line: "Five Stars Aligned"
+auspicious_pearl_in_sea: "Sea Produces Pearls"
+auspicious_river_map: "River Produces Charts, Luo Produces Books"
+auspicious_horse_in_lake: "泽出神Horse"
+auspicious_Rejuvenation: "Dead Wood Reborn"
+
+
+#Sweet Dew降、日月光、斗極明、鐘律調、四夷化、孝道至、越裳來、瑞雪、瑞雨、瑞霞、日月合璧、五星連珠、江出大貝、Sea Produces Pearls、河出馬圖、洛出龜書、陵出黑丹、山出器車、澤出神馬、風不鳴條、海不揚波、混河載清、Dead Wood Reborn、抱珥之日、同色之星、牛生上齒、狗養斯肫、牛生厥石、鳥狀前赤、陸生蓮花、萬蠶同繭、抱日之氣、覆鼎之雲
+
+#Dragon首感孕，启母破石，天命玄鸟，履迹而孕，乘舟梦日，梦与神遇，Red Light Illuminates the Room，怀胎三年，目有重瞳，掌生文字，头生两角，身有三乳，五色云气，神授药丸，赤焰如火，王母送桃，玄女授书，白Horse青牛，苍Wolf白Deer，雷电绕于北斗，生而自言其名，斗牛之墟，甓社巨珠，武陵桃源，观棋烂柯，太白经天，十月之交，天关客星，天再旦于郑，伊洛竭而夏亡，彗星出而授殷人其柄，死伤者皆赤裸
+
+
+guanyu_legend: "The Mighty Guan Yu Shakes China"
+zhangfei_legend: "The Legend of Zhang Yide from Yan"
+zhugeliang_legend: "The Achievements of Zhuge Liang"
+lvbu_legend: "The Legend of Lu Wenhou"
+zhaoyun_legend: "常胜将军赵子Dragon"
+machao_legend: "锦Horse超传奇"
+Gaesomun_legend: "The Achievements of Yuan Gai Suwen"
+xuanzang_legend: "The Journey to the West of the Great Tang Xuanzang"
+dunhuang_legend: "Heroes of Dunhuang"
+yuefei_legend: "The Legend of the Yue Family Army"
+yangye_legend: "The Romance of the Yang Family Generals"
+Masakado_legend: "The Legend of Ping Jiangmen"
+
+revolt_maitreya_name: "Maitreya's Descendant"
+revolt_mingism_name: "The Birth of the Ming King"
+revolt_taiping_name: "Acting on Behalf of Heaven"
+revolt_holder_name: "[title.GetHolder.GetDynastyNameNoTooltip|U][title.GetNameNoTierNoTooltip|U] has died, [founder.GetDynastyNameNoTooltip|U] should ascend"
+revolt_vassal_name: "[founder.GetTopLiege.GetDynastyNameNoTooltip|U][founder.GetTopLiege.GetPrimaryTitle.GetNameNoTierNoTooltip|U] has died, [founder.GetDynastyNameNoTooltip|U] should ascend"
+revolt_title_name: "[founder.GetPrimaryTitle.GetNameNoTierNoTooltip|U] prospers, the Son of Heaven [founder.GetDynastyNameNoTooltip|U]"
+revolt_title_desc: "The decayed dynasty's mandate of heaven is no more, [founder.Custom('OE_GetTitledFirstName')|U] is reborn from the ashes, under [founder.GetHerHis]'s benevolent rule, prosperity will arrive."
+revolt_mingism_desc: "焚我残躯，BearBear圣火。生亦何欢，死亦何苦？为善除恶，惟光明故。喜乐悲愁，皆归尘土。怜我世人，忧患实多！怜我世人，忧患实多！"
+
+
+ god_descend_name: "[ancestor.GetFaith.WarGodName] descends to earth"
+ god_descend_desc: "信徒们相信[ROOT.Legend.GetProtagonist.GetTitledFirstNameNoTooltip]是[ancestor.GetFaith.WarGodName] descends to earth降世。"
+legend_chapter_opening_god_descend: "[ROOT.Legend.GetProtagonist.GetTitledFirstNameNoTooltip] is born exceptional, the followers believe [ROOT.Legend.GetProtagonist.GetHerHim] is the reincarnation of [ROOT.Legend.GetProtagonist.GetFaith.WarGodName]."
+
+legend_events.0001.desc.mid.common_ancestor: "“Good day, [ROOT.Char.GetTitleAsNameNoTooltip|U], perhaps I should call you ‘[legend_character.GetFaith.HighGodName|U]'s Son’? In fact, I searched through records and found that your ancestor's ‘deity’ was actually a heroic mortal who accomplished countless brave deeds."
+
+legend_events.0001.desc.mid.ancestral_dynasty: "[chronicler.GetSheHe|U] knelt down in trepidation and bowed repeatedly. “Ah, wise [ROOT.Char.GetTitleAsNameNoTooltip|U]. I have ample reason to suspect you are of the royal bloodline of the previous dynasty [ancestor.GetDynastyNameNoTooltip|U][ancestor.Custom('GetUIGuohao')]!"
+
+ legend_events.0001.desc.mid.loyalty_descent: "“Today [ROOT.Char.GetFaith.HighGodName|U] smiles upon your family, [ROOT.Char.GetTitleAsNameNoTooltip|U]. I have been searching for information about your idol [legend_character.GetName] and found enough to qualify [legend_character.GetHerHim] as [GetTrait('saint').GetNameNoTooltip(ROOT.Char)]!"
+
+legend_events.0001.desc.mid.loyalty_descent_not_in_history: "“Today [ROOT.Char.GetFaith.HighGodName|U] smiles upon your family, [ROOT.Char.GetTitleAsNameNoTooltip|U]. I have been searching for information about your ancestor [legend_character.GetName] and found enough to qualify them as [GetTrait('saint').GetNameNoTooltip(ROOT.Char)]!"
+
+legend_events.0001.desc.mid.fairy_descent: "“Today [ROOT.Char.HighGodName|U] smiles upon your family, [ROOT.Char.GetTitleAsNameNoTooltip|U]. I have been searching for information about your ancestors and found evidence: one of your ancestors was a powerful [Localize(creature)]!"
+
+ legend_events.0001.desc.mid.auspicious: "“[ROOT.Char.GetFaith.HighGodName|U] smiles upon us today, [ROOT.Char.GetTitleAsNameNoTooltip], the auspicious signs of [Localize(god)] appeared in [ROOT.Char.GetLocation.GetName]. Just as on the day of your birth, this signifies you will achieve great undertakings."
+
+
+
+ legend_events.0001.desc.mid.slew_dragon: "“好消息，[ROOT.Char.GetTitleAsNameNoTooltip|U]！我一直在搜寻关于[legend_character.GetName]的巨著和传奇，我有理由相信[legend_character.GetSheHe]曾经杀死一头蛟Dragon！"
+
+
+ commision_legend_join_house_decision_disappearing_tt: "Royal descendants [legend|E] must exist within your [realm|E]"
+
+
+penglai: "Penglai"
+taohuayuan: "Peach Blossom Land"
+beiming: "North Sea"
+qingqiu: "Green Hill"
+
+GetWritingMaterial_bamboo_slip: "Bamboo Slips"
+GetWritingMaterial_bamboo_slip_plural: "Simple Book"

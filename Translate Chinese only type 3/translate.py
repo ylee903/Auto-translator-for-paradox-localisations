@@ -50,6 +50,7 @@ mode = "input"
 
 
 # Custom YAML-like parser
+# Custom YAML-like parser
 def custom_yml_parser(file_content):
     data = {}
     lines = file_content.splitlines()
@@ -65,13 +66,7 @@ def custom_yml_parser(file_content):
         if match:
             key, value = match.groups()
 
-            # Handle cases where the value is in quotes and may contain Chinese text
-            if value.startswith('"') and value.endswith('"'):
-                value = value[1:-1]  # Strip surrounding quotes
-            elif value.startswith("'") and value.endswith("'"):
-                value = value[1:-1]  # Strip surrounding single quotes
-
-            # Add to dictionary
+            # Keep quotes intact for exact matching later
             data[key] = value
         else:
             print(f"Warning: Skipping malformed line at {line_number}: {line}")
@@ -95,15 +90,16 @@ def replace_with_ids(file_content, phrases, cleaned_file_path):
     for i, phrase in enumerate(phrases):
         unique_id = ID_FORMAT.format(i)
 
-        # Check for exact matches with quotes or without based on the parsing outcome
-        if f'"{phrase}"' in file_content:
-            file_content = file_content.replace(f'"{phrase}"', f'"{unique_id}"')
-        elif phrase in file_content:  # In case the parser stripped quotes
-            file_content = file_content.replace(phrase, f'"{unique_id}"')
-        else:
-            print(f"Warning: Phrase not found in content: {phrase}")
+        # Strip the quotes from the phrase before replacing it
+        stripped_phrase = phrase.strip('"')
 
-        id_map[unique_id] = phrase
+        # Replace the stripped phrase with the unique ID
+        if stripped_phrase in file_content:
+            file_content = file_content.replace(stripped_phrase, unique_id)
+            id_map[unique_id] = stripped_phrase
+        else:
+            print(f"Warning: Phrase not found in content: {stripped_phrase}")
+
     print(f"Replaced phrases with {len(id_map)} unique IDs.")
 
     # Save the cleaned content to a new file
@@ -264,7 +260,8 @@ def save_reassembled_chunks(translated_chunks, file_path):
 def reassemble_text(file_content, translated_chunks):
     for chunk in translated_chunks:
         for unique_id, translation in chunk.items():
-            file_content = file_content.replace(f'"{unique_id}"', f'"{translation}"')
+            # Replace the unique ID with the translated text without adding quotes
+            file_content = file_content.replace(unique_id, translation)
     print(f"Reassembled translated content.")
     return file_content
 

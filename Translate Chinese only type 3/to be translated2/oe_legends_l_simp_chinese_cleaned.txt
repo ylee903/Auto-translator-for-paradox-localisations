@@ -1,0 +1,256 @@
+﻿l_simp_chinese:
+ legend_origin: "ID000000"
+ legend_origin_name: "$legend_legitimizing_name$"
+ legend_origin_desc: "$game_concept_legend_type_desc$"
+
+
+common_ancestry_name: "ID000001"
+common_ancestry_desc: "ID000002"
+yellow_emperor: "ID000003"
+yandi: "ID000004"
+chiyou: "ID000005"
+pangu: "ID000006"
+xia_emperor: "ID000007"
+lady_sea: "ID000008"
+south_emperor: "ID000009"
+east_emperor: "ID000010"
+west_emperor: "ID000011"
+southwest_emperor: "ID000012"
+dankun: "ID000013"
+amaterasu: "ID000014"
+lac_long: "ID000015"  #Lạc Long Quân
+wuzhu: "ID000016"
+ashina: "ID000017"
+
+general_origin: "ID000018"
+khitan_ancestor: "ID000019"
+jurchen_ancestor: "ID000020"
+mongol_ancestor: "ID000021"
+turkic_ancestor: "ID000022"
+uyghur_ancestor: "ID000023"
+tibetan_ancestor: "ID000024"
+ava_ancestor: "ID000025"
+ryukyu_ancestor: "ID000026"
+jiaozhi_ancestor: "ID000027"
+goryeo_ancestor: "ID000028"
+chinese_ancestor: "ID000029"
+yamato_ancestor: "ID000014之裔" #於保比屡咩能武智
+bai_ancestor: "ID000031"
+min_ancestor: "ID000016之裔"
+qiangic_ancestor: "ID000033"
+
+
+legend_benji: "ID000034"
+legend_han: "ID000035"
+legend_tang: "ID000036"
+legend_caowei: "ID000037"
+legend_shuhan: "ID000038"
+legend_dongwu: "ID000039"
+legend_taiqiuzhang: "ID000040"
+
+legend_Qutlugh: "ID000041"
+
+
+ #庙号谥号
+ Loc_china_GetLegendName: "[Character.Custom('GetUIGuohao')][Character.Custom('GetUImiaohao')][Character.GetNickname][Character.Custom('GetUIchinaTitle')][Character.GetDynasty.GetBaseName|U][Character.GetFirstName|U]"
+ OE_Legend_AncestorFullName: "[ancestor.Custom('GetUIGuohao')][ancestor.Custom('GetUImiaohao')][ancestor.GetNickname][ancestor.Custom('GetUIchinaTitle')][ancestor.GetDynasty.GetBaseName|U][ancestor.GetFirstName|U]"
+ OE_Legend_AncestorGloryName: "[ancestor.Custom('GetUIGuohao')][ancestor.Custom('GetUImiaohao')][ancestor.GetNickname][ancestor.Custom('GetUIchinaTitle')]"
+ OE_Legend_AncestorBaseName: "[ancestor.GetDynastyName|U][ancestor.GetFirstName|U]"
+ OE_Legend_AncestorMiaohao: "[ancestor.Custom('GetUIGuohao')][ancestor.Custom('GetUImiaohao')]"
+ OE_Legend_AncestorShihao: "[ancestor.Custom('GetUIGuohao')][ancestor.GetNickname][ancestor.Custom('GetUIchinaTitle')]"
+
+ legend_chronicle_ancestral_dynasty_desc: "ID000042"
+
+ legend_chapter_opening_ancestral_dynasty: "ID000043"
+ legend_chapter_motivation_ancestral_dynasty: "ID000044"
+ legend_chapter_famous_deed_ancestral_dynasty: "ID000045"
+ legend_chapter_extra_deed_ancestral_dynasty: "ID000046"
+ legend_chapter_conclusion_ancestral_dynasty: "ID000047"
+
+
+ legend_loyal_warrior: "ID000048"
+ legend_loyal_warrior_desc: "ID000049"
+ legend_loyal_warrior_flag: "ID000050"
+ legend_loyal_warrior_flag_desc: "ID000051"
+
+ legend_chapter_opening_loyal_warrior: "ID000052"
+ legend_chapter_opening_loyal_warrior_flag: "ID000053"
+
+legend_chapter_motivation_loyal_warrior: "ID000054"
+legend_chapter_motivation_loyal_warrior_flag: "ID000055"
+
+legend_chapter_extra_deed_loyal_warrior: "ID000056"
+legend_chapter_conclusion_loyal_warrior: "ID000057"
+
+laozi: "ID000058"
+tianshi: "ID000059"
+baiqi: "ID000060"
+xiangyu: "ID000061"
+hanxin: "ID000062"
+liguang: "ID000063"
+lijing: "ID000064"
+mayuan: "ID000065"
+weiqing: "ID000066"
+huoqubing: "ID000067"
+banchao: "ID000068"
+zhouchu: "ID000069"
+huanwen: "ID000070"
+libai: "ID000071"
+TrungVuong: "ID000072"
+
+
+ legend_creature_descent_name: "ID000073"
+ legend_creature_descent_desc: "ID000074"
+ legend_dragon_descent: "ID000075"
+ legend_dragon_descent_desc: "ID000076"
+ creature: "[ROOT.Char.Custom('CreatureName')]"
+
+
+ legend_auspicious_name: "ID000077"
+ legend_auspicious_desc: "ID000078"
+ legend_chronicle_auspicious_motivation: "ID000079"
+ legend_chapter_famous_deed_auspicious: "ID000080"
+ legend_chapter_extra_deed_auspicious: "ID000081"
+ legend_chapter_conclusion_auspicious: "ID000082"
+
+ #Animals
+ cat: "ID000083"
+ dog: "ID000084"
+ fox: "ID000085"
+ hare: "ID000086"
+ wolf: "ID000087"
+ stag: "ID000088"
+ hart: "ID000088"
+ horse: "ID000090"
+ rabbit: "ID000091"
+ boar: "ID000092"
+ lion: "ID000093"
+ tiger: "ID000094"
+ bear: "ID000095"
+ aurochs: "ID000096"
+ unicorn: "ID000097"
+ dragon: "ID000098"
+ lynx: "ID000099"
+ hyena: "ID000100"
+ roe: "雌ID000088"
+ gazelle: "ID000102"
+ antelope: "ID000103"
+ leopard: "ID000104"
+ bison: "ID000105"
+ elk: "驼ID000088"
+
+
+legend_chronicle_opening_auspicious: "ID000107"
+
+Loc_AuspiciousBirth1: "ID000108"
+Loc_AuspiciousBirth2: "ID000109"
+Loc_AuspiciousBirth3: "ID000110"
+Loc_AuspiciousBirth4: "ID000111"
+Loc_AuspiciousBirth5: "ID000112"
+Loc_AuspiciousBirth6: "ID000113"
+Loc_AuspiciousBirth7: "黄ID000098游光中"
+Loc_AuspiciousBirth8: "ID000115"
+Loc_AuspiciousBirth9: "ID000116"
+
+Loc_AuspiciousPregnantDream1: "ID000117"
+Loc_AuspiciousPregnantDream2: "ID000118"
+Loc_AuspiciousPregnantDream3: "ID000119"
+
+
+#历练chapter ?
+
+#flag后不能再风味化
+
+#廷官 task 寻找祥瑞     祈禳瘟疫   搜寻传奇目击  捉妖   管理谱牒  维护祖庙  祭祀宗庙  封禅  勾引 刺杀 写传奇
+#文化推广 传说
+
+#演奏乐器
+
+
+
+
+ china_auspicious: "[ROOT.Legend.GetProtagonist.Custom('China_AuspiciousName')]"
+ legend_auspicious_mythical_creature: "[ROOT.Legend.GetProtagonist.Custom('RegionalMythicalCreature')|U]"
+
+auspicious_giant_star: "ID000120"
+auspicious_colorful_clouds: "ID000121"
+auspicious_sweet_rain: "ID000122"
+auspicious_yellow_dragon: "黄ID000098"
+auspicious_qilin: "ID000097"
+auspicious_pheonix: "ID000125"
+auspicious_turtle: "ID000126"
+auspicious_white_tiger: "白ID000094"
+auspicious_white_wolf: "白ID000087"
+auspicious_white_deer: "白ID000088"
+auspicious_white_fox: "白ID000085"
+auspicious_red_rabbit: "赤ID000091"
+auspicious_black_eagle: "ID000132"
+auspicious_red_geese: "ID000133"
+auspicious_plump_rice: "ID000134"
+auspicious_branches_twined: "ID000135"
+auspicious_five_stars_in_line: "ID000136"
+auspicious_pearl_in_sea: "ID000137"
+auspicious_river_map: "ID000138"
+auspicious_horse_in_lake: "泽出神ID000090"
+auspicious_Rejuvenation: "ID000140"
+
+
+#ID000122降、日月光、斗極明、鐘律調、四夷化、孝道至、越裳來、瑞雪、瑞雨、瑞霞、日月合璧、五星連珠、江出大貝、ID000137、河出馬圖、洛出龜書、陵出黑丹、山出器車、澤出神馬、風不鳴條、海不揚波、混河載清、ID000140、抱珥之日、同色之星、牛生上齒、狗養斯肫、牛生厥石、鳥狀前赤、陸生蓮花、萬蠶同繭、抱日之氣、覆鼎之雲
+
+#ID000098首感孕，启母破石，天命玄鸟，履迹而孕，乘舟梦日，梦与神遇，ID000108，怀胎三年，目有重瞳，掌生文字，头生两角，身有三乳，五色云气，神授药丸，赤焰如火，王母送桃，玄女授书，白ID000090青牛，苍ID000087白ID000088，雷电绕于北斗，生而自言其名，斗牛之墟，甓社巨珠，武陵桃源，观棋烂柯，太白经天，十月之交，天关客星，天再旦于郑，伊洛竭而夏亡，彗星出而授殷人其柄，死伤者皆赤裸
+
+
+guanyu_legend: "ID000141"
+zhangfei_legend: "ID000142"
+zhugeliang_legend: "ID000143"
+lvbu_legend: "ID000144"
+zhaoyun_legend: "常胜将军赵子ID000098"
+machao_legend: "锦ID000090超传奇"
+Gaesomun_legend: "ID000147"
+xuanzang_legend: "ID000148"
+dunhuang_legend: "ID000149"
+yuefei_legend: "ID000150"
+yangye_legend: "ID000151"
+Masakado_legend: "ID000152"
+
+revolt_maitreya_name: "ID000153"
+revolt_mingism_name: "ID000154"
+revolt_taiping_name: "ID000155"
+revolt_holder_name: "ID000156"
+revolt_vassal_name: "ID000157"
+revolt_title_name: "ID000158"
+revolt_title_desc: "ID000159"
+revolt_mingism_desc: "焚我残躯，ID000095ID000095圣火。生亦何欢，死亦何苦？为善除恶，惟光明故。喜乐悲愁，皆归尘土。怜我世人，忧患实多！怜我世人，忧患实多！"
+
+
+ god_descend_name: "ID000161"
+ god_descend_desc: "信徒们相信[ROOT.Legend.GetProtagonist.GetTitledFirstNameNoTooltip]是ID000161降世。"
+legend_chapter_opening_god_descend: "ID000163"
+
+legend_events.0001.desc.mid.common_ancestor: "ID000164"
+
+legend_events.0001.desc.mid.ancestral_dynasty: "ID000165"
+
+ legend_events.0001.desc.mid.loyalty_descent: "ID000166"
+
+legend_events.0001.desc.mid.loyalty_descent_not_in_history: "ID000167"
+
+legend_events.0001.desc.mid.fairy_descent: "ID000168"
+
+ legend_events.0001.desc.mid.auspicious: "ID000169"
+
+
+
+ legend_events.0001.desc.mid.slew_dragon: "“好消息，[ROOT.Char.GetTitleAsNameNoTooltip|U]！我一直在搜寻关于[legend_character.GetName]的巨著和传奇，我有理由相信[legend_character.GetSheHe]曾经杀死一头蛟ID000098！"
+
+
+ commision_legend_join_house_decision_disappearing_tt: "ID000171"
+
+
+penglai: "ID000172"
+taohuayuan: "ID000173"
+beiming: "ID000174"
+qingqiu: "ID000175"
+
+GetWritingMaterial_bamboo_slip: "ID000176"
+GetWritingMaterial_bamboo_slip_plural: "ID000177"
