@@ -1,0 +1,85 @@
+Chunk 12 received from API:
+ID001087 #T Cost#V 150#![gold|E][gold_i] and#V 300#![prestige|E][prestige_i] require [Title.GetNameNoTier]'s head to provide you with a batch of [archer_cavalry|E]#!\n\n#T Requirements#!：\n[Title.GetNameNoTier]'s head:\n$EFFECT_LIST_BULLET$ Your [opinion|E] is greater than or equal to #V 0#!\n$EFFECT_LIST_BULLET$ #V Current military strength#! is greater than or equal to #V 2000#!\n$EFFECT_LIST_BULLET$ The number of [archer_cavalry|E] in the [army|E] is greater than or equal to #V 300#!\n$EFFECT_LIST_BULLET$ [prestige_levels|E] is not lower than #V $prestige_level_2$#!\n$EFFECT_LIST_BULLET$ The [dynasty|E] has the [GetModifier('xinzeng_touren_001_modifier').GetNameWithTooltip] modifier\nYou:\n$EFFECT_LIST_BULLET$ Are in [war|E], with [gold|E] greater than or equal to #V 75#!\n$EFFECT_LIST_BULLET$ [prestige|E] greater than or equal to #V 150#!\n$EFFECT_LIST_BULLET$ [prestige_levels|E] not lower than #V $prestige_level_1$#!\n\n#T Time required#!: #V 8#! to #V 16#! months\n\n#T Upon completion#!:\nYou gain a batch of [archer_cavalry|E] (this batch of [archer_cavalry|E] will be disbanded after the [war|E] ends) (the number of [archer_cavalry|E] provided by [Title.GetNameNoTier]'s head is related to their [martial_skill|E] and #V Current military strength#!)\n[Title.GetNameNoTier]'s head gains #V 150#![gold|E] and #V 300#![prestige|E]\n[Title.GetNameNoTier]'s head gains the [GetModifier('xinzeng_touren_007_modifier').GetNameWithTooltip] modifier for #V 20 years#!\n[Title.GetNameNoTier]'s head will not accept any tasks assigned by you for #V 20 years#!.
+
+ID001088 #T Cost#V 200#![gold|E][gold_i] and#V 400#![prestige|E][prestige_i] require [Title.GetNameNoTier]'s head to provide you with a batch of [heavy_cavalry|E]#!\n\n#T Requirements#!：\n[Title.GetNameNoTier]'s head:\n$EFFECT_LIST_BULLET$ Your [opinion|E] is greater than or equal to #V 0#!\n$EFFECT_LIST_BULLET$ #V Current military strength#! is greater than or equal to #V 2000#!\n$EFFECT_LIST_BULLET$ The number of [heavy_cavalry|E] in the [army|E] is greater than or equal to #V 150#!\n$EFFECT_LIST_BULLET$ [prestige_levels|E] is not lower than #V $prestige_level_2$#!\n$EFFECT_LIST_BULLET$ The [dynasty|E] has the [GetModifier('xinzeng_touren_001_modifier').GetNameWithTooltip] modifier\nYou:\n$EFFECT_LIST_BULLET$ Are in [war|E], with [gold|E] greater than or equal to #V 100#!\n$EFFECT_LIST_BULLET$ [prestige|E] greater than or equal to #V 200#!\n$EFFECT_LIST_BULLET$ [prestige_levels|E] not lower than #V $prestige_level_1$#!\n\n#T Time required#!: #V 8#! to #V 16#! months\n\n#T Upon completion#!:\nYou gain a batch of [heavy_cavalry|E] (this batch of [heavy_cavalry|E] will be disbanded after the [war|E] ends) (the number of [heavy_cavalry|E] provided by [Title.GetNameNoTier]'s head is related to their [martial_skill|E] and #V Current military strength#!)\n[Title.GetNameNoTier]'s head gains #V 200#![gold|E] and #V 400#![prestige|E]\n[Title.GetNameNoTier]'s head gains the [GetModifier('xinzeng_touren_008_modifier').GetNameWithTooltip] modifier for #V 30 years#!\n[Title.GetNameNoTier]'s head will not accept any tasks assigned by you for #V 30 years#!.
+
+ID001089 Extra Taxes
+ID001090 The head successfully completed your task and paid the taxes.
+ID001091 Authority Well-Spread
+ID001092 The head successfully spread your authority.
+ID001093 The Head's Levy Troops
+ID001094 The head summoned a team of levy troops for you.
+ID001095 The Head's Light Cavalry
+ID001096 The head summoned a team of light cavalry for you.
+ID001097 The Head's Archer Cavalry
+ID001098 The head summoned a team of archer cavalry for you.
+ID001099 The Head's Heavy Cavalry
+ID001100 The head summoned a team of heavy cavalry for you.
+ID001101 Player [regiment|E][stationed_holding|E] modifier rate
+ID001102 Sixty Percent
+ID001103 The player gains the [GetModifier('xinzeng_zhujun_xiuzheng_001_modifier').GetNameWithTooltip] modifier, maximizing the prevention of data inflation, indirectly adjusting AI difficulty, optimizing the gaming experience, making competition with AI extremely enjoyable.
+ID001104 Forty Percent
+ID001105 The player gains the [GetModifier('xinzeng_zhujun_xiuzheng_002_modifier').GetNameWithTooltip] modifier, which has little effect on troop stacking but can moderately reduce the data inflation rate.
+ID001106 Twenty Percent
+ID001107 The player gains the [GetModifier('xinzeng_zhujun_xiuzheng_003_modifier').GetNameWithTooltip] modifier, slightly adjusting the stationed troop values, and your generals will soon experience the thrill of defeating AI effortlessly.
+ID001108 None
+ID001109 Berserk Scholar AI!!!
+ID001110 [men_at_arms|E] equipment system toggle
+ID001111 Equipment System: #P #EMP On#!#!
+ID001112 #P #EMP Turn On#!#! Equipment System. (After selecting this option, please manually adjust the #V Player [regiment|E][stationed_holding|E] modifier rate#! game rule for better compatibility.)
+ID001113 Equipment System: #N #EMP Off#!#!
+ID001114 #N #EMP Turn Off#!#! Equipment System. (After selecting this option, please manually adjust the #V Player [regiment|E][stationed_holding|E] modifier rate#! game rule to #V None#! to avoid disturbing the game experience.)
+ID001115 Extra Military Funds System Toggle (Increase Game Intensity)
+ID001116 Extra Military Funds System: #P #EMP On#!#!
+ID001117 #P #EMP Turn On#!#! Extra Military Funds System. (After selecting this option, the system will automatically calculate extra military funds every year based on the types of troops the player holds #V Distribution#! - this means receiving the [GetModifier('jundui_xiangguan_effect_001_modifier').GetNameWithTooltip] modifier automatically every year.)
+ID001118 Extra Military Funds System: #N #EMP Off#!#!
+ID001119 #N #EMP Turn Off#!#! Extra Military Funds System.
+ID001120     Main Weapon
+ID001121     Secondary Weapon
+ID001122       Armor    
+ID001123      Shield
+ID001124       Mount
+ID001125  Garrison Strategy
+ID001126 Choose #P #EMP Armor#!#! for the [regiment|E]'s [men_at_arms|E]!
+ID001127 Choose #P #EMP Main Weapon#!#! for the [regiment|E]'s [men_at_arms|E]!
+ID001128 Choose #P #EMP Secondary Weapon#!#! for the [regiment|E]'s [men_at_arms|E]!
+ID001129 Choose #P #EMP Shield#!#! for the [regiment|E]'s [men_at_arms|E]!
+ID001130 Choose #P #EMP Mount#!#! for the [regiment|E]'s [men_at_arms|E]! or #P #EMP Related#!!
+ID001131 Choose #P #EMP Garrison Strategy#!#! for the [regiment|E]'s [men_at_arms|E]!
+ID001132 Click to equip #P #EMP Armor#!#! for the [regiment|E]'s [men_at_arms|E]!\n[regiment|E] will take some time to adapt to the new armor; other options will not be available until the previous modification is completed.\nAll options will be #N #EMP Unavailable#!#! when the [regiment|E][stationed_holding|E]'s[tax|E] #N #EMP is less than or equal to zero#!#!
+ID001133 Click to equip #P #EMP Main Weapon#!#! for the [regiment|E]'s [men_at_arms|E]!\n[regiment|E] will take some time to adapt to the new weapon; other options will not be available until the previous modification is completed.\nAll options will be #N #EMP Unavailable#!#! when the [regiment|E][stationed_holding|E]'s[tax|E] #N #EMP is less than or equal to zero#!#!
+ID001134 Click to equip #P #EMP Secondary Weapon#!#! for the [regiment|E]'s [men_at_arms|E]!\n[regiment|E] will take some time to adapt to the new weapon; other options will not be available until the previous modification is completed.\nAll options will be #N #EMP Unavailable#!#! when the [regiment|E][stationed_holding|E]'s[tax|E] #N #EMP is less than or equal to zero#!#!
+ID001135 Click to equip #P #EMP Shield#!#! for the [regiment|E]'s [men_at_arms|E]!\n[regiment|E] will take some time to adapt to the new armor; other options will not be available until the previous modification is completed.\nAll options will be #N #EMP Unavailable#!#! when the [regiment|E][stationed_holding|E]'s[tax|E] #N #EMP is less than or equal to zero#!#!
+ID001136 Click to choose #P #EMP Mount#!#! or #P #EMP Related#!#! for the [regiment|E]'s [men_at_arms|E]!\n[regiment|E] will take some time to adapt to the new mount and related items; other options will not be available until the previous modification is completed.\nAll options will be #N #EMP Unavailable#!#! when the [regiment|E][stationed_holding|E]'s[tax|E] #N #EMP is less than or equal to zero#!#!
+ID001137 Click to choose #P #EMP Garrison Strategy#!#! for the [regiment|E]'s [men_at_arms|E]!\n[regiment|E] will take some time to adapt to the new garrison strategy; other options will not be available until the previous modification is completed.\nAll options will be #N #EMP Unavailable#!#! when the [regiment|E][stationed_holding|E]'s[tax|E] #N #EMP is less than or equal to zero#!#!
+ID001138 Mandatory Outfit Change
+ID001139 #T Mandatory Outfit Change#!#!\n\nForcefully change the armor of the current [regiment|E]\n#N #EMP All equipped armor will be destroyed and the modifier will be lifted#!#!
+ID001140 Lock Armor
+ID001141 #T Lock Armor#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('001_xinzeng_zhuangbei_001_modifier').GetNameWithTooltip] modifier, lasting for #V 30 years#! 
+ID001142 Plate Armor
+ID001143 #T Plate Armor#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('001_xinzeng_zhuangbei_002_modifier').GetNameWithTooltip] modifier, lasting for #V 30 years#!\n\n#T Requirements#!#!：\n$EFFECT_LIST_BULLET$ The owner of the [regiment|E]'s [culture|E] has #high $innovation_plate_armor$#![innovations|E]
+ID001144 Lamellar Armor
+ID001145 #T Lamellar Armor#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('001_xinzeng_zhuangbei_003_modifier').GetNameWithTooltip] modifier, lasting for #V 30 years#!\n\n#T Requirements#!#!：\n$EFFECT_LIST_BULLET$ The owner of the [regiment|E]'s [culture|E] has a military habit of using #high Lamellar Armor#! 
+ID001146 Heavy Lamellar Armor
+ID001147 #T Heavy Lamellar Armor#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('001_xinzeng_zhuangbei_004_modifier').GetNameWithTooltip] modifier, lasting for #V 30 years#!\n\n#T Requirements#!#!：\n$EFFECT_LIST_BULLET$ The owner of the [regiment|E]'s [culture|E] has a military habit of using #high Heavy Lamellar Armor#! 
+ID001148 Leather Armor
+ID001149 #T Leather Armor#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('001_xinzeng_zhuangbei_005_modifier').GetNameWithTooltip] modifier, lasting for #V 30 years#! 
+ID001150 Bamboo Armor
+ID001151 #T Bamboo Armor#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('001_xinzeng_zhuangbei_006_modifier').GetNameWithTooltip] modifier, lasting for #V 30 years#!\n\n#T Requirements#!#!：\n$EFFECT_LIST_BULLET$ The owner of the [regiment|E]'s [culture|E] has a military habit of using #high Bamboo Armor#! 
+ID001152 Rattan Armor
+ID001153 #T Rattan Armor#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('001_xinzeng_zhuangbei_007_modifier').GetNameWithTooltip] modifier, lasting for #V 30 years#!\n\n#T Requirements#!#!：\n$EFFECT_LIST_BULLET$ The owner of the [regiment|E]'s [culture|E] has a military habit of using #high Rattan Armor#! 
+ID001154 Mandatory Outfit Change
+ID001155 #T Mandatory Outfit Change#!#!\n\nForcefully change the main weapon of the current [regiment|E]\n#N #EMP All equipped main weapons will be destroyed and the modifier will be lifted#!#!
+ID001156 Spear
+ID001157 #T Spear#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('002_xinzeng_zhuangbei_001_modifier').GetNameWithTooltip] modifier, lasting for #V 30 years#! 
+ID001158 Battle Knife
+ID001159 #T Battle Knife#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('002_xinzeng_zhuangbei_002_modifier').GetNameWithTooltip] modifier, lasting for #V 30 years#! 
+ID001160 Danish Axe
+ID001161 #T Danish Axe#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('002_xinzeng_zhuangbei_003_modifier').GetNameWithTooltip] modifier, lasting for #V 30 years#!\n\n#T Requirements#!#!：\n$EFFECT_LIST_BULLET$ The owner of the [regiment|E]'s [culture|E] has a military habit of using #high Danish Axe#! 
+ID001162 Heavy Battle Axe
+ID001163 #T Heavy Battle Axe#!#!\n\n[regiment|E][stationed_holding|E] gains the [GetModifier('002_xinzeng_zhuangbei_004_modifier').GetNameWithTooltip] modifier, lasting for #V 30 years#! 
+ID001164 Battle Mace
+
+===DIAGNOSTIC===
+The translation has been carefully completed, maintaining the contextual meaning and identifiers as requested. All Chinese terminology related to game mechanics has been translated into clear English while keeping structure intact. There are no translation issues detected.
+

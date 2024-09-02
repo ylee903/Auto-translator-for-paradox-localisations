@@ -1,0 +1,104 @@
+Chunk 3 received from API:
+ID000200 [GetTrait('physique_good_1').GetName( GetNullCharacter )][trait|E] More Common  
+ID000201 [GetTrait('physique_good_2').GetName( GetNullCharacter )][trait|E] More Common  
+ID000202 [GetTrait('physique_good_3').GetName( GetNullCharacter )][trait|E] More Common  
+ID000203 [GetTrait('content').GetName( GetNullCharacter )][trait|E] More Common  
+ID000204 [GetTrait('ambitious').GetName( GetNullCharacter )][trait|E] More Common  
+ID000205 Art of War  
+ID000206 War is an art; the winner takes all, while the loser has nothing.  
+ID000207 Peaceful Contentment  
+ID000208 Life is important, but happiness is even more so.  
+ID000209 The [culture|E] should have $ethos_courtly_name$ [ethos|E]  
+ID000210 Knightly Refuge  
+ID000211 Proud knights are often not good at managing their estates, and when they fall from grace, they choose to completely depend on wealthier rulers.  
+ID000212 Fallen Knight  
+ID000213 A feudal knight who has fallen so low that they have nothing but their martial prowess, leading a small retinue under the rule of a wealthy sovereign, yearning for the day to rise again.  
+ID000214 Can recruit [GetMaA('luopoqishi').GetName] as [men_at_arms|E]  
+ID000215 The [culture|E] does not have $ethos_spiritual_name$ [ethos|E]  
+ID000216 Land Caravans  
+ID000217 The sound of camel bells echoes through the ages, as land connectivity has spawned a large number of merchants, traversing the vast sands while bringing countless exotic treasures.  
+ID000218 Land Caravans  
+ID000219 The sound of camel bells echoes through the ages, as land connectivity has spawned a large number of merchants, traversing the vast sands while bringing countless exotic treasures.  
+ID000220 Ice Sea Warriors  
+ID000221 The icy sea churns, bringing forth terrifying destroyers.  
+ID000222 Can recruit [GetMaA('lushangshangdui').GetName] as [men_at_arms|E]  
+ID000223 Can recruit [GetMaA('binghaizhanshi').GetName] as [men_at_arms|E]  
+ID000224 Slavic Expansionism  
+ID000225 The unique pioneering spirit of the Slavs, yearning for warmth in their harsh land, needs expansion due to their internal conflicts.  
+ID000226 Ice Sea Chronicles  
+ID000227 A song of blood and ice, the ice sea endures forever.  
+ID000228 Meng'an Moke  
+ID000229 Military leaders established in the late primitive society due to the need for raiding and hunting, gradually developed into a fixed military organization over time.  
+ID000230 Armored Cavalry  
+ID000231 Armored warriors on horseback are the lords of war, sweeping through their enemies with overwhelming force.  
+ID000232 The [culture|E]'s [knights|E] are eligible to receive [GetAccoladeType('dfbz_xinzeng_0005_attribute').GetName][accolades|E]  
+ID000233 Armored Cavalry Leader  
+ID000234 Armored Cavalry Leader  
+ID000235 Vanguard Armored Riders  
+ID000236 [retinue_maa|E]\n#F Elite armored cavalry following their commander into battle, thrusting directly into the enemy's vital points.#!  
+ID000237 Vanguard Armored Riders  
+ID000238 [retinue_maa|E]\n#F Elite armored cavalry following their commander into battle, thrusting directly into the enemy's vital points.#!  
+ID000239 Bodyguard Armored Riders  
+ID000240 [retinue_maa|E]\n#F Elite armored cavalry guarding the core of the formation, capable of delivering devastating strikes against the enemy if necessary.  #!  
+ID000241 Charge Commander  
+ID000242 Charge Commander  
+ID000243 Charge  
+ID000244 [retinue_maa|E]\n#F Using heavily armored cavalry to exploit the enemy's fleeting weaknesses and launch fierce charges, aiming for a decisive blow.#!  
+ID000245 Charge  
+ID000246 [retinue_maa|E]\n#F Using heavily armored cavalry to exploit the enemy's fleeting weaknesses and launch fierce charges, aiming for a decisive blow.#!  
+ID000247 Charge  
+ID000248 [retinue_maa|E]\n#F Using heavily armored cavalry to exploit the enemy's fleeting weaknesses and launch fierce charges, aiming for a decisive blow.#!  
+ID000249 Longsword Commander  
+ID000250 Longsword Commander  
+ID000251 Longsword  
+ID000252 [retinue_maa|E]\n#F A master warrior wielding a gigantic longsword, capable of swiftly cutting down enemies from horseback.#!  
+ID000253 Longsword  
+ID000254 [retinue_maa|E]\n#F A master warrior wielding a gigantic longsword, capable of swiftly cutting down enemies from horseback.#!  
+ID000255 Longsword  
+ID000256 [retinue_maa|E]\n#F A master warrior wielding a gigantic longsword, capable of swiftly cutting down enemies from horseback.#!  
+ID000257 Longsword  
+ID000258 [retinue_maa|E]\n#F A master warrior wielding a gigantic longsword, capable of swiftly cutting down enemies from horseback.#!  
+ID000259 Tooth Commander  
+ID000260 Tooth Commander  
+ID000261 $EFFECT_LIST_BULLET$ Unlocks #V Some#! Tooth Commander tasks [decision|E]\n$EFFECT_LIST_BULLET$ Slightly increases task completion rate  
+ID000262 $EFFECT_LIST_BULLET$ Unlocks #V Most#! Tooth Commander tasks [decision|E]\n$EFFECT_LIST_BULLET$ Moderately increases task completion rate  
+ID000263 $EFFECT_LIST_BULLET$ Unlocks #V All#! Tooth Commander tasks [decision|E]\n$EFFECT_LIST_BULLET$ Significantly increases task completion rate  
+ID000264 Qidan  
+ID000265 Can recruit [GetMaA('nvzhen_mouke').GetName] as [men_at_arms|E]  
+ID000266 Granting your $jurchen$ [knights|E] land will significantly increase their combat will; however, long-term comfortable living may quickly erode them.  
+ID000267 Moke  
+ID000268 Elite warriors selected through rigorous selection processes, they are masters of raiding and hunting from various tribes.  
+ID000269 Moke  
+ID000270 Elite warriors selected through rigorous selection processes, they are masters of raiding and hunting from various tribes.  
+ID000271 You must have [feudal|E][government|E]  
+ID000272 [casus_belli|E] Cost: [prestige_i] #P -40%#!  
+ID000273 [casus_belli|E] Cost: [prestige_i] #P -40%#!  
+ID000274 Sultan's Guard  
+ID000275 A reliable guard composed of the Sultan's trusted ones, they also handle some clandestine tasks for the Sultan.  
+ID000276 Knightly Tradition  
+ID000277 The vast plains of France are the main battleground for knights, giving rise to some of the most formidable knightly orders of the Middle Ages.  
+ID000278 Bodyguard  
+ID000279 Powerful rulers often need a reliable bodyguard to respond to various unexpected situations, and these people should ideally be trustworthy.  
+ID000280 Axe-wielding Guards  
+ID000281 #F Long axes are symbols of power and strength. This bodyguard unit belongs to a powerful ruler#.  
+ID000282 Vodka  
+ID000283 The water of life, pride of the Rus people  
+ID000284 Rugged Folk  
+ID000285 Civilization is rudimentary, and the folk are rugged, with primal desires filling everyone's heart.  
+ID000286 Wartime Armor  
+ID000287 The Qiang people are skilled at crafting armor, initially making it very thick, without fire, cold-forged, with a thickness of three fen less than the original. The end is left unrefined to show a thick stub, which serves as a marker for its unrefined thickness, just like leaving a soil pile in a dredged river. This is called "wartime armor." A strong bow cannot penetrate it.  
+ID000288 Qiang from Hengshan  
+ID000289 The Qiang tribes, widely present in the northwestern mountain areas, traverse the mountains with extraordinary off-road capabilities.  
+ID000290 Dangxiang Horses  
+ID000291 The regions where the Dangxiang tribe lives, such as Jingeze, Hengshan, and Tiandu Mountain, are famous horse-breeding areas. The horses are numerous and of excellent quality, as evidenced by the Tang Dynasty poet Yuan Zhen who wrote, “Buy Dangxiang horses from the north, capture the Tibetan parrot from the west.” The Song people even praised Dangxiang horses as the best under heaven.  
+ID000292 Cold-forged Steel  
+ID000293 The Dangxiang people's forging technique is renowned throughout the world; possessing a weapon known as the Summer Kingdom Sword is a supreme honor. The sword carried by Song Emperor Qinzong himself was the ‘Summer Kingdom Sword.’ Su Dongpo once obtained a sword from the Western Xia and wrote: ‘In the rosy makeup, amidst flowers and wine, the breeze stirs from the green scabbard. Spiraling tips and waves rise in peaks, with white dragons entwined in the three dragon streams. A thread of borrowed life stands in awe, as three passes move with eerie grace.’  
+ID000294 Ronin  
+ID000295 Madly risking adventures to restore past authority, they present themselves as the emperor’s elite soldiers, appearing everywhere in a certain guise, wielding remarkable skills.  
+ID000296 Divine Bow  
+ID000297 The divine bow can be drawn by one person, with a maximum range of four hundred meters, capable of piercing heavy armor.  
+ID000298 Equestrian Policy is in disarray.  
+
+===DIAGNOSTIC===  
+All translations were performed without any issues. No lines presented difficulty, maintaining the context and meaning of the original text.
+

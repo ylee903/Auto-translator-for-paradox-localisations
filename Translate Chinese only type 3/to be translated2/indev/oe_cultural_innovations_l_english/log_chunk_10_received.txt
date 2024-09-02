@@ -1,0 +1,102 @@
+Chunk 10 received from API:
+ID000900 Hooked Glaive  
+ID000901 This ancient tool shines on the battlefield, and we have attached a long pole to counter massed cavalry.  
+ID000902 Heavy Glaive User  
+ID000903 These glaive users stand at the front in heavy armor, their long and powerful glaives being their pride against all cavalry.  
+ID000904 International Mercenary Corps  
+ID000905 As a historically rich millennium empire, Byzantium has long been accustomed to using mercenaries, and the diverse types of mercenaries have left a significant mark on Byzantine military history.  
+ID000906 Byzantine Mounted Archers  
+ID000907 The empire's powerful armor technology equips these mercenaries who come from the steppes; although they sacrifice some pursuit capability, their defense has greatly improved.  
+ID000908 Latin Cavalry  
+ID000909 These non-Orthodox cavalry warriors have gradually adapted to combat against large groups of Turkic cavalry through long-term training; they are fearless raiders of the steppes.  
+ID000910 Elite Cavalry  
+ID000911 After extensive training, our cavalry are all versatile combatants on the battlefield.  
+ID000912 Shock Cavalry  
+ID000913 Proficient in using all mounted weapons, they can break formations in an instant.  
+ID000914 Xianbei Iron Cavalry  
+ID000915 One of the Xianbei traditions, since the time of Emperor Xiaowen of Northern Wei, every ruler has carefully assembled heavy cavalry units to intimidate neighboring ruffians.  
+ID000916 Xianbei Armored Cavalry  
+ID000917 Armored Xianbei warriors, their killing skills deeply engraved in their bones.  
+ID000918 Shield Maidens  
+ID000919 These women break societal norms and form shield walls to participate in battle like other warriors.  
+ID000920 Baltic Warriors  
+ID000921 Generations of life in forests and marshes have fostered the fierce spirit of the Baltic people, who roam in groups and constantly sweep through this area.  
+ID000922 Baltic Warriors  
+ID000923 Fierce warriors active in the forests and marshes along the Baltic Sea, launching raids with the aid of the woods and snow.  
+ID000924 Frankish Feudal System  
+ID000925 Charlemagne and his ancestors created an excellent feudal social system for us, which makes our kingdom stable and strong, and this advantage will continue indefinitely.  
+ID000926 Skara Cavalry  
+ID000927 They are the elite cavalry unit of the Carolingian dynasty, often used for high-mobility military tasks.  
+ID000928 Carolingian Iron Guard  
+ID000929 They are trusted individuals sent by nobles to various territories, responsible for local security in peacetime and acting as elite infantry in wartime.  
+ID000930 Knights' Flower  
+ID000931 Every knight is the pride of the French people.  
+ID000932 The[culture|E] character builds the #V $Level 1 Legion Training Ground$#! faster, with greater intensity, and will receive a small amount of [prestige_i][prestige|E] upon completion.  
+ID000933 Chevalier  
+ID000934 The proud people of France have proud French cavalry.  
+ID000935 Sword and Shield Warriors  
+ID000936 Heavily armed infantry clusters, their sturdy shields protect them from the threats of stray arrows.  
+ID000937 Hooked Axe  
+ID000938 This new type of long pole weapon we developed is effective against unarmored units and cavalry.  
+ID000939 Hooked Axe Users  
+ID000940 Our infantry are equipped with new hooked axes, which are effective against unarmored units and cavalry.  
+ID000941 Crossbow Cavalry  
+ID000942 Our societal structure determines that we cannot maintain a large number of quality mounted archers, but crossbow cavalry may be a good alternative.  
+ID000943 Song of Arms  
+ID000944 Our knights possess an unbeatable firm belief, and our people will long continue to proclaim their great deeds.  
+ID000945 Heavy Lance Cavalry  
+ID000946 The group charges of heavy lance cavalry are unstoppable, turning even the most solid battle formations to ashes in an instant.  
+ID000947 Infantry Feudal Knights  
+ID000948 On battlefields where cavalry cannot be deployed, our fearless knights still fight valiantly.  
+ID000949 Light Lance Cavalry  
+ID000950 Light lance cavalry from Burgundy, combining explosive power and maneuverability, are excellent flanking raiding forces.  
+ID000951 Frankish Archers  
+ID000952 Each parish should select an archer from among those skilled in using weapons; they will be exempt from taxes, practice archery on Sundays and holidays, and be prepared for battle when needed.  
+ID000953 Frankish Archers  
+ID000954 Archers used for defending the borders, who are exempt from taxes but must go to battle.  
+ID000955 Folk Assembly  
+ID000956 The "Viche" folk assembly originally stemmed from the periodic meetings of the Rus tribes, held by Rus citizens and merchants for political discussions on military, administrative, and religious matters. We can recruit soldiers to defend the city, and the interests of citizens and merchants in city management will bring prosperity.  
+ID000957 Voshina Irregulars  
+ID000958 #F Voshina Irregulars are the backbone of the Rus army, composed of citizens and farmers from Rus cities. They wield spears, battle axes, and shields, skillfully confronting enemies in the cold snowy terrain.#!  
+ID000959 Moscow Manor System  
+ID000960 The development of feudal society in the Rus region is different from that of Western Europe. Our kingdom originates from a core family alliance; we unite to increase the available labor force and expand land production. But this does not mean that being granted land is a kind of bondage; on the contrary, we encourage taking risks.  
+ID000961 Boyars  
+ID000962 #F Powerful noble cavalry of Rus, who hone their combat skills day and night, charging forward through the snow.#!  
+ID000963 Grand Prince's Guard  
+ID000964 #F The private guard of the Rus prince, equipped with well-equipped heavy cavalry.#!  
+ID000965 Free Peasant Cavalry  
+ID000966 #F Abundant spoils of war attract waves of free peasants to the battlefield.#!  
+ID000967 Turkic Settlers  
+ID000968 Long-standing conflicts have worn down their fighting will, and some Turkic people have begun to think about settling here.  
+ID000969 Turkic Auxiliaries  
+ID000970 #F Turkic cavalry are willing to serve the Rus prince and jointly fight against other nomadic forces in the steppes.#!  
+ID000971 Boyar Descendants  
+ID000972 Destitute descendants of boyars who cannot maintain the ruling position like their ancestors, thus turning to military camps in large numbers to seek opportunities.  
+ID000973 Boyevich Warriors  
+ID000974 #F Even the most lowly boyar, his descendants can never be cowards. With a variety of combat skills passed down from their ancestors, these former nobles still possess considerable combat power#!  
+ID000975 Adventurous Heroes  
+ID000976 #F They are the elite among elites, the bravest patriots and adventurers#!  
+ID000977 Cossack Cavalry  
+ID000978 Cossack cavalry are known for their bright clothing and infamous reputation. They gather into semi-autonomous groups and lead a nomadic lifestyle. If they can be incorporated into the army, they would provide a formidable fighting force.  
+ID000978 Cossack Cavalry  
+ID000980 #F Skilled in using lances and sabers, the Cossacks are excellent light cavalry, their hoofbeats will sweep the entire world#!  
+ID000981 Siberian Tribal Raiders  
+ID000982 #F Seasoned raiders prowling the Siberian tundra, gliding through snow-covered coniferous forests like phantoms#!  
+ID000983 Armed Mobilization  
+ID000984 The numerous military nobles support the entire nation's war machine, but at what cost...  
+ID000985 Szlachta  
+ID000986 #F A militarily complex noble class, powerful heavy cavalry units#!  
+ID000987 Polish Light Crossbow Cavalry  
+ID000988 #F Lightly armored cavalry skilled in guerrilla warfare, their specially designed small crossbows can quickly load and fire; feigning retreat and then turning to shoot at the horses is their common tactic#!  
+ID000989 Winged Cavalry  
+ID000990 Loyal and powerful elite cavalry known for their high mobility and devastating strikes.  
+ID000991 Winged Cavalry  
+ID000992 #F Loyal winged cavalry fear death, charging straight into the ranks of spears!#!  
+ID000993 Letis  
+ID000994 #F Powerful Lithuanian heavy cavalry, adept at dealing with equally heavily armored enemies#!  
+ID000995 Samogitian Javelin Art  
+ID000996 One of the most effective wartime tools in the forests of the Baltic, the galloping Samogitian horses give great force to the javelins.  
+ID000997 Samogitian Javelin Riders  
+ID000998 #F A large number of horse-mounted javelin throwers who rely on quickly engaging the enemy and then unleashing a rain of javelins to inflict massive damage, making them the prime enemy of heavily armored units#!  
+ID000999 Lithuanian Mounted Archers
+

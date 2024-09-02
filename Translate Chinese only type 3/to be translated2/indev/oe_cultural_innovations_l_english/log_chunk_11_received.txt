@@ -1,0 +1,92 @@
+Chunk 11 received from API:
+ID001000 #F The omnipotent Lithuanian mounted archer can still engage in melee combat with enemies after firing all their arrows#!
+ID001001 Vassals with the same [culture|E][heritage|E] as you are more likely to join [independence_factions|E] and [claimant_factions|E]; this is not a bad thing, at least not when you are still relatively weak.
+ID001002 The people of this [culture|E] only acknowledge the rule of Noah's descendants and are more likely to join factions to resist foreign [culture|E] rulers.
+ID001003 Characters of the same [culture|E] that possess this [innovations|E] can recruit powerful specialty [men_at_arms|E] by forming alliances with characters of specific [culture|E].
+ID001004 Gold
+ID001005 Gold
+ID001006 Wanyan
+ID001007 Gold
+ID001008 Yearly currency
+ID001009 The incompetence of the upper class is paid for by the lower class.
+ID001010 Yan and Yun Sixteen Prefectures
+ID001011 Lithuania
+ID001012 Poland
+ID001013 Can claim multiple [claims|E] in a single war.
+ID001014 The Middle East, Persia
+ID001015 Sangallo
+ID001016 Horse lance
+ID001017 Great Migration Invasion
+ID001018 Great Migration Invasion
+ID001019 Great Migration
+ID001020 You have abandoned the land of the past, migrating your people and livestock here. A new rule begins.
+ID001021 After the Great Migration
+ID001022 Some resources from this land were artificially moved away during a Great Migration.
+ID001023 Discuss Alliance
+ID001024 Forge an alliance with [recipient.GetTitledFirstNameNoTooltip] by stating your interests — the steppe powers need to integrate!
+ID001025 Same [cultural|E]: $VALUE|=+0$
+ID001026 @weak_hook_icon! [hook|E] available
+ID001027 @weak_hook_icon! [hook|E] available
+ID001028 Discuss Alliance
+ID001029 Discuss Alliance (Nomadic Vassals)
+ID001030 Forge an alliance with [recipient.GetTitledFirstNameNoTooltip] by stating your interests — promote the achievement of common goals!
+ID001031 @weak_hook_icon! [hook|E] available
+ID001032 Tribal Alliance
+ID001033 Forge a vassal relationship with [recipient.GetTitledFirstNameNoTooltip] by stating your interests — promote the achievement of common goals!
+ID001034 [CHARACTER.GetShortUINamePossessive] opinion of [TARGET_CHARACTER.GetShortUIName]: $VALUE|=+0$
+ID001035 Your military strength difference: $VALUE|=+0$
+ID001036 Diplomacy and Allies: $VALUE|=+0$
+ID001037 Significant external threats: $VALUE|=+0$
+ID001038 Weak and isolated: $VALUE|=+0$
+ID001039 Ambitious: $VALUE|=+0$
+ID001040 Call vassals to war
+ID001041 It is necessary for [recipient.GetUINameNoTooltip] to join me in [target.GetName]!
+ID001042 Call [recipient.GetUINameNoTooltip] to war to fulfill their duties as vassals.
+ID001043 [war|E] situation: $VALUE|=+0$
+ID001044 [war|E] strength disparity: $VALUE|=+0$
+ID001045 [recipient.GetShortUIName|U]'s [army|E] is insufficient to make a significant impact: $VALUE|=+0$
+ID001046 Defense of [war|E]: $VALUE|=+0$
+ID001047 Is [powerful_vassals|E]: $VALUE|=+0$
+ID001048 Neighboring vassals: $VALUE|=+0$
+ID001049 Grassland: $VALUE|=+0$
+ID001050 [recipient.GetShortUIName|U]'s [martial|E][skill|E]: $VALUE|=+0$
+ID001051 Loose tribes: $VALUE|=+0$
+ID001052 Limited tribal authority: $VALUE|=+0$
+ID001053 High tribal authority: $VALUE|=+0$
+ID001054 Absolute tribal authority: $VALUE|=+0$
+ID001055 [actor.GetShortUIName|U]'s [prestige_level|E]: $VALUE|=+0$
+ID001056 [recipient.GetShortUIName|U]'s territory may be lost after [actor.GetShortUIName|U] is defeated: $VALUE|=+0$
+ID001057 Belligerent [ethos|E]: $VALUE|=+0$
+ID001058 Collective [ethos|E]: $VALUE|=+0$
+ID001059 [recipient.GetShortUIName|U] is busy with another [war|E]: $VALUE|=+0$
+ID001060 Difference in total [prestige|lE] between [actor.GetShortUIName|U] and [recipient.GetShortUIName|U]: $VALUE|=+0$
+ID001061 [recipient.GetShortUIName|U]'s [prestige_level|E]: $VALUE|=+0$
+ID001062 Same [dynasty|E]: $VALUE|=+0$
+ID001063 Is your [close_family_member|E]: $VALUE|=+0$
+ID001064 [recipient.GetShortUIName|U]'s opinion of the other side of the [war|E]: $VALUE|=+0$
+ID001065 [recipient.GetShortUIName|U] is affected by this war: $VALUE|=+0$
+ID001066 [actor.GetShortUIName|U] is AI: $VALUE|=+0$
+ID001067 [recipient.GetShortUIName|U] is your [friend|E]: $VALUE|=+0$
+ID001068 [recipient.GetShortUIName|U] is your [best_friend|E]: $VALUE|=+0$
+ID001069 [recipient.GetShortUIName|U] is [children|E]: $VALUE|=+0$
+ID001070 [recipient.GetShortUIName|U] is a [prisoners|lE]: $VALUE|=+0$
+ID001071 [recipient.GetShortUIName|U]'s troops have not recovered: $VALUE|=+0$
+ID001072 [recipient.GetShortUIName|U] has been called to war before: $VALUE|=+0$
+ID001073 [recipient.GetShortUIName|U] has completed the tasks you assigned: $VALUE|=+0$
+ID001074 Belligerent: $VALUE|=+0$
+ID001075 Vassal stance: Pursuing fame and profit: $VALUE|=+0$
+ID001076 Vassal stance: Home and land: $VALUE|=+0$
+ID001077 Call to join the war (Nomadic Alliance)
+ID001078 The other side of the [war|E] is [recipient.GetShortUIName|U]'s [liege|E]: $VALUE|=+0$
+ID001079 [recipient.GetShortUIName|U]'s territory may be lost after [actor.GetShortUIName|U] wins: $VALUE|=+0$
+ID001080 Leader
+ID001081 Leader of [Title.GetNameNoTier]
+ID001082 #T Arrange a leader\nCost:\n200 [gold_i]\n500 [prestige_i]#!
+ID001083 #T Cost#V 300#! [prestige|E][prestige_i] requires [Title.GetNameNoTier] to levy a sum of [gold|E][gold_i]#!\n\n#T Requirements#!:\n[Title.GetNameNoTier] leader:\n$EFFECT_LIST_BULLET$ Opinion of you is greater than or equal to #V -20#!\n$EFFECT_LIST_BULLET$ [gold|E] is greater than or equal to #V 200#!\n$EFFECT_LIST_BULLET$ [prestige|E] is greater than or equal to #V 500#!\n$EFFECT_LIST_BULLET$ Have [GetModifier('xinzeng_touren_001_modifier').GetNameWithTooltip] modifier in [dynasty|E]\nYou:\n$EFFECT_LIST_BULLET$ [prestige|E] is greater than or equal to #V 500#!\n$EFFECT_LIST_BULLET$ [prestige_levels|E] is not lower than #V $prestige_level_2$#!\n\n#T Time required#!: #V 3#! to #V 10#! months\n\n#T Upon completion#!:\n[Title.GetNameNoTier]'s leader pays you the [gold|E][gold_i] they collected (the amount of [gold|E] collected is related to the specified [xinzeng_touren|E]'s [stewardship_skill|E])\n[Title.GetNameNoTier]'s leader gains #V 300#! [prestige|E]\nAll [county|E] under [Title.GetNameNoTier]'s leader receive [GetModifier('xinzeng_touren_002_modifier').GetNameWithTooltip] modifier for #V 10 years#!\n[Title.GetNameNoTier]'s leader will not accept any tasks you assign for #V 3 years#!.
+ID001084 #T Cost#V 100#! [gold|E][gold_i] allows [Title.GetNameNoTier]'s leader to promote your prestige within their territory#!\n\n#T Requirements#!:\n[Title.GetNameNoTier] leader:\n$EFFECT_LIST_BULLET$ Opinion of you is greater than or equal to #V -20#!\n$EFFECT_LIST_BULLET$ [prestige|E] is greater than or equal to #V 500#!\n$EFFECT_LIST_BULLET$ Have [GetModifier('xinzeng_touren_001_modifier').GetNameWithTooltip] modifier in [dynasty|E]\nYou:\n$EFFECT_LIST_BULLET$ [gold|E] is greater than or equal to #V 150#!\n$EFFECT_LIST_BULLET$ [prestige_levels|E] is not lower than #V $prestige_level_1$#!\n\n#T Time required#!: #V 5#! to #V 12#! months\n\n#T Upon completion#!:\nYou receive a sum of [prestige|E][prestige_i] based on the #V promotion effect#! of [Title.GetNameNoTier]'s leader (the #V promotion effect#! is related to the specified [xinzeng_touren|E]'s [diplomacy_skill|E])\n[Title.GetNameNoTier]'s leader receives #V 100#! [gold|E] and #V 150#! [prestige|E]\nAll [county|E] under [Title.GetNameNoTier]'s leader receive [GetModifier('xinzeng_touren_004_modifier').GetNameWithTooltip] modifier for #V 10 years#!\n[Title.GetNameNoTier]'s leader will not accept any tasks you assign for #V 5 years#!.
+ID001085 #T Cost#V 50#! [gold|E][gold_i] and #V 150#! [prestige|E][prestige_i] require [Title.GetNameNoTier]'s leader to provide you with a batch of [levies|E]#!\n\n#T Requirements#!:\n[Title.GetNameNoTier] leader:\n$EFFECT_LIST_BULLET$ Opinion of you is greater than or equal to #V -20#!\n$EFFECT_LIST_BULLET$ #V Current military strength#! is greater than or equal to #V 2000#!\n$EFFECT_LIST_BULLET$ [gold|E] is greater than or equal to #V 50#!\n$EFFECT_LIST_BULLET$ [prestige|E] is greater than or equal to #V 150#!\n$EFFECT_LIST_BULLET$ Have [GetModifier('xinzeng_touren_001_modifier').GetNameWithTooltip] modifier in [dynasty|E]\nYou:\n$EFFECT_LIST_BULLET$ Not engaged in [war|E], [gold|E] is greater than or equal to #V 0#!\n$EFFECT_LIST_BULLET$ [prestige|E] is greater than or equal to #V 150#!\n$EFFECT_LIST_BULLET$ [prestige_levels|E] is not lower than #V $prestige_level_1$#!\n\n#T Time required#!: #V 3#! to #V 12#! months\n\n#T Upon completion#!:\nYou gain a small batch of [levies|E] (the amount of [levies|E] provided by [Title.GetNameNoTier]'s leader is related to their [martial_skill|E] and #V Current military strength#!)\n[Title.GetNameNoTier]'s leader gains #V 50#! [gold|E] and #V 150#! [prestige|E]\n[Title.GetNameNoTier]'s leader receives [GetModifier('xinzeng_touren_005_modifier').GetNameWithTooltip] modifier for #V 10 years#!\n[Title.GetNameNoTier]'s leader will not accept any tasks you assign for #V 10 years#!.
+ID001086 #T Cost#V 100#! [gold|E][gold_i] and #V 200#! [prestige|E][prestige_i] require [Title.GetNameNoTier]'s leader to provide you with a batch of [light_cavalry|E]#!\n\n#T Requirements#!:\n[Title.GetNameNoTier] leader:\n$EFFECT_LIST_BULLET$ Opinion of you is greater than or equal to #V -20#!\n$EFFECT_LIST_BULLET$ #V Current military strength#! is greater than or equal to #V 2000#!\n$EFFECT_LIST_BULLET$ Number of [light_cavalry|E] in [army|E] is greater than or equal to #V 300#!\n$EFFECT_LIST_BULLET$ Have [GetModifier('xinzeng_touren_001_modifier').GetNameWithTooltip] modifier in [dynasty|E]\nYou:\n$EFFECT_LIST_BULLET$ Engaged in [war|E], [gold|E] is greater than or equal to #V 50#!\n$EFFECT_LIST_BULLET$ [prestige|E] is greater than or equal to #V 100#!\n$EFFECT_LIST_BULLET$ [prestige_levels|E] is not lower than #V $prestige_level_1$#!\n\n#T Time required#!: #V 6#! to #V 12#! months\n\n#T Upon completion#!:\nYou receive a batch of [light_cavalry|E] (this batch of [light_cavalry|E] will disband after the [war|E] ends) (the amount of [light_cavalry|E] provided by [Title.GetNameNoTier]'s leader is related to their [martial_skill|E] and #V Current military strength#!)\n[Title.GetNameNoTier]'s leader gains #V 100#! [gold|E] and #V 200#! [prestige|E]\n[Title.GetNameNoTier]'s leader receives [GetModifier('xinzeng_touren_006_modifier').GetNameWithTooltip] modifier for #V 15 years#!\n[Title.GetNameNoTier]'s leader will not accept any tasks you assign for #V 15 years#!.
+
+===DIAGNOSTIC===
+All provided Chinese text successfully translated into English. The technical aspects and formatting related to game identifiers and placeholders maintained correctly.
+

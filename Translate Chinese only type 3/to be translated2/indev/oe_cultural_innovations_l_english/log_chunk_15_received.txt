@@ -1,0 +1,74 @@
+Chunk 15 received from API:
+ID001302 #T Assist in Urban Construction#!#!\n\n[regiment|E][stationed_holding|E] receives [GetModifier('006_xinzeng_zhuangbei_008_modifier').GetNameWithTooltip] modifier for #V 5 years#!\n\n#T Requirements#!#!：\n$EFFECT_LIST_BULLET$You are not in [war|lE]\n$EFFECT_LIST_BULLET$[prestige_level|E]#V greater than or equal to#!$prestige_level_2$\n\nInstead of having the stationed troops train all day, it is better to draft some of them to participate in real estate construction.
+ID001303 Stationed Troop Taxation
+ID001304 #T Stationed Troop Taxation#!#!\n\n[regiment|E][stationed_holding|E] receives [GetModifier('006_xinzeng_zhuangbei_009_001_modifier').GetNameWithTooltip] modifier for #V 5 years#!\n[regiment|E][stationed_holding|E]所在[county|E] receives [GetModifier('006_xinzeng_zhuangbei_009_002_modifier').GetNameWithTooltip] modifier for #V 10 years#!\n\nA glaring sword is more effective than a kindly tax collector; the extra bounty can satisfy someone's appetite.
+ID001305 Inspect Pastures
+ID001306 #T Inspect Pastures#!#!\n\n[regiment|E][stationed_holding|E] receives [GetModifier('006_xinzeng_zhuangbei_010_modifier').GetNameWithTooltip] modifier for #V 5 years#!\n\n#T Requirements#!#!：\n$EFFECT_LIST_BULLET$[regiment|E][stationed_holding|E]所在[barony|E] is#V Prairie#![terrain|lE]\n$EFFECT_LIST_BULLET$You are not in [war|lE]\n\nTo ensure that the pastures are in perfect condition, we need to dispatch cavalry to patrol the area repeatedly.
+ID001307 Organize Raids
+ID001308 #T Organize Raids#!#!\n\n[regiment|E][stationed_holding|E] receives [GetModifier('006_xinzeng_zhuangbei_011_001_modifier').GetNameWithTooltip] modifier for #V 10 years#!\nYou receive [GetModifier('006_xinzeng_zhuangbei_011_002_modifier').GetNameWithTooltip] modifier for #V 15 years#!\n\n#T Requirements#!#!：\n$EFFECT_LIST_BULLET$There is [GetBuilding('war_camps_01').GetName] or its upgrade version in [regiment|E][stationed_holding|E] area\n$EFFECT_LIST_BULLET$[government|E] is [GetGovernment('tribal_government').GetName]\n\nPassing down the raiding skills to later generations is key to the survival and growth of the tribe.
+ID001309 Exemptions for the Nobility
+ID001310 #T Exemptions for the Nobility#!#!\n\n[regiment|E][stationed_holding|E] receives [GetModifier('006_xinzeng_zhuangbei_012_001_modifier').GetNameWithTooltip] modifier for #V 20 years#!\nYou receive [GetModifier('006_xinzeng_zhuangbei_012_002_modifier').GetNameWithTooltip] modifier for #V 20 years#!\n[regiment|E][stationed_holding|E]所在[county|E] receives [GetModifier('006_xinzeng_zhuangbei_012_003_modifier').GetNameWithTooltip] modifier for #V 20 years#!\nAll your [knights|E]: @dread_icon! + 5\n\nWhen civilians commit intolerable offenses against knights, the latter can execute them without guilt.
+ID001311 Recruits include herdsmen, wandering hunters, local mercenaries, and fallen nobles – they are numerous and mainly fight on horseback, forming the backbone of the army.
+ID001312 Recruits include peasant soldiers, ruffians, local mercenaries, and fallen nobles, equipped with a hodgepodge of tools and mismatched weapons – they are numerous and form the majority of the army's backbone.
+ID001313 Recruits include peasant soldiers, ruffians, local mercenaries, and fallen nobles, equipped with a hodgepodge of tools and mismatched weapons – they are numerous and form the majority of the army's backbone.
+ID001314 Holy Warrior
+ID001315 Holy Warrior
+ID001316 Raider
+ID001317 Raider
+ID001318 Tribal Champion
+ID001319 Tribal Champion
+ID001320 $EFFECT_LIST_BULLET$This [acclaimed_knight|E] receives [GetModifier('accolade_dfbz_xinzeng_0003_buff_modifier').GetNameWithTooltip], and one random non-ruling [knights|E] under their lord receives [GetTrait('wounded_2').GetName( GetNullCharacter )]
+ID001321 Peasant Leader
+ID001322 Peasant Leader
+ID001323 Battle-Hardened Farmer
+ID001324 [retinue_maa|E]\n#F The battle-hardened farmers gathered under the Peasant Leader, experienced in combat.#! 
+ID001325 #color_red Not available: [GetMaA#('accolade_maa_0004_attribute_nongmin_jun').#GetName] (requires main [accolade_type|E])#! 
+ID001326 Nomadic AI Development Direction: General (Cultural Exchange, Technological Innovation) (adds buff, steals innovation)
+ID001327 Nomadic AI Development Direction: General (Cultural Exchange, Technological Innovation) (adds buff, steals innovation).
+ID001328 Cultural Exchange, Technological Innovation
+ID001329 Cultural Exchange, Technological Innovation
+ID001330 Nomadic AI Development Direction: General (Trade and Commerce)
+ID001331 Nomadic AI Development Direction: General (Trade and Commerce).
+ID001332 Trade and Commerce
+ID001333 Trade and Commerce
+ID001334 Nomadic AI Development Direction: General (Conquest/Quick Land Grab)
+ID001335 Nomadic AI Development Direction: General (Conquest/Quick Land Grab).
+ID001336 Conquest/Quick Land Grab
+ID001337 Conquest/Quick Land Grab
+ID001338 Nomadic AI Development Direction: Imperial Conqueror (adds buff)
+ID001339 This type of regime is characterized by powerful military strength and leadership, often establishing large empires through the conquest of surrounding areas.\nThe Mongol Empire is a typical example of an imperial conqueror. Genghis Khan and his successors unified the Mongolian steppes and swiftly conquered vast territories in Asia and Europe, establishing a massive empire.
+ID001340 War
+ID001341 War
+ID001342 Nomadic AI Development Direction: Imperial Conqueror (AI strategies)
+ID001343 This type of regime is characterized by powerful military strength and leadership, often establishing large empires through the conquest of surrounding areas.\nThe Mongol Empire is a typical example of an imperial conqueror. Genghis Khan and his successors unified the Mongolian steppes and swiftly conquered vast territories in Asia and Europe, establishing a massive empire.
+ID001344 Strategy
+ID001345 Strategy
+ID001346 Nomadic AI Development Direction: Imperial Conqueror (AI faction responses)
+ID001347 This type of regime is characterized by powerful military strength and leadership, often establishing large empires through the conquest of surrounding areas.\nThe Mongol Empire is a typical example of an imperial conqueror. Genghis Khan and his successors unified the Mongolian steppes and swiftly conquered vast territories in Asia and Europe, establishing a massive empire.
+ID001348 Faction Responses
+ID001349 Faction Responses
+ID001350 Nomadic AI Development Direction: Imperial Conqueror (AI persecution of vassals)
+ID001351 This type of regime is characterized by powerful military strength and leadership, often establishing large empires through the conquest of surrounding areas.\nThe Mongol Empire is a typical example of an imperial conqueror. Genghis Khan and his successors unified the Mongolian steppes and swiftly conquered vast territories in Asia and Europe, establishing a massive empire.
+ID001352 Persecution of Vassals
+ID001353 Persecution of Vassals
+ID001354 Nomadic AI Development Direction: Imperial Conqueror (Conquest/Quick Land Grab)
+ID001355 Nomadic AI Development Direction: Imperial Conqueror (Conquest/Quick Land Grab).
+ID001356 Conquest/Quick Land Grab
+ID001357 Conquest/Quick Land Grab
+ID001358 Nomadic AI Development Direction: Diplomacy and Alliances (adds buff)
+ID001359 This type of regime may lean towards establishing alliances with neighboring powers through diplomatic means to protect their interests and stability.\nThe Khwarezmian Empire adopted a flexible diplomatic policy in Central Asia, establishing alliances with Islamic states to maintain their status.
+ID001360 Diplomacy
+ID001361 Diplomacy
+ID001362 Nomadic AI Development Direction: Diplomacy and Alliances (AI diplomatic strategies)
+ID001363 This type of regime may lean towards establishing alliances with neighboring powers through diplomatic means to protect their interests and stability.\nThe Khwarezmian Empire adopted a flexible diplomatic policy in Central Asia, establishing alliances with Islamic states to maintain their status.
+ID001364 Diplomacy
+ID001365 Diplomacy
+ID001366 Damn, they are already prepared for battle!
+ID001367 Diplomatic Maneuvering: Truce Agreement
+ID001368 Negotiate a preventive [truce|E] with [recipient.GetTitledFirstName] through diplomatic means
+ID001369 [recipient.GetShortUIName|U] is an Imperial Conqueror: $VALUE|=+0$
+ID001370 Diplomatic Maneuvering: $VALUE|=+0$
+
+===DIAGNOSTIC===
+The translated content retains the original context and identifiers. Some idiomatic expressions may have slight variations due to language differences, but the overall meaning has been preserved. The term "ur당ᏗᏎᏈᏊ" was interpreted based on context and culture.
+

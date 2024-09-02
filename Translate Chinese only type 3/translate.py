@@ -89,13 +89,19 @@ def extract_chinese_phrases(file_content):
     return matches
 
 
-def replace_with_ids(file_content, phrases):
+def replace_with_ids(file_content, phrases, cleaned_file_path):
     id_map = {}
     for i, phrase in enumerate(phrases):
         unique_id = ID_FORMAT.format(i)
         file_content = file_content.replace(f'"{phrase}"', f'"{unique_id}"')
         id_map[unique_id] = phrase
     print(f"Replaced phrases with {len(id_map)} unique IDs.")
+
+    # Save the cleaned content to a new file
+    with open(cleaned_file_path, "w", encoding="utf-8") as cleaned_file:
+        cleaned_file.write(file_content)
+    print(f"Cleaned file saved as {cleaned_file_path}")
+
     return file_content, id_map
 
 
@@ -275,7 +281,11 @@ async def translate_yaml_file(file_path):
         file_content = file.read()
 
     phrases = extract_chinese_phrases(file_content)
-    file_content, id_map = replace_with_ids(file_content, phrases)
+
+    # Define the path for the cleaned file
+    cleaned_file_path = file_path.replace(".yml", "_cleaned.txt")
+
+    file_content, id_map = replace_with_ids(file_content, phrases, cleaned_file_path)
     chunks = split_into_chunks(id_map)
 
     log_dir = os.path.join(
