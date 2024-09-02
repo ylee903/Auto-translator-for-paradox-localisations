@@ -94,7 +94,15 @@ def replace_with_ids(file_content, phrases, cleaned_file_path):
     id_map = {}
     for i, phrase in enumerate(phrases):
         unique_id = ID_FORMAT.format(i)
-        file_content = file_content.replace(f'"{phrase}"', f'"{unique_id}"')
+
+        # Check for exact matches with quotes or without based on the parsing outcome
+        if f'"{phrase}"' in file_content:
+            file_content = file_content.replace(f'"{phrase}"', f'"{unique_id}"')
+        elif phrase in file_content:  # In case the parser stripped quotes
+            file_content = file_content.replace(phrase, f'"{unique_id}"')
+        else:
+            print(f"Warning: Phrase not found in content: {phrase}")
+
         id_map[unique_id] = phrase
     print(f"Replaced phrases with {len(id_map)} unique IDs.")
 
