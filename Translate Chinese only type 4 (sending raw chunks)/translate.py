@@ -158,12 +158,18 @@ async def translate_chunks_async(chunks, log_dir):
     return translated_chunks
 
 
-def save_translated_chunks(translated_chunks, file_path):
-    reassembled_file_path = file_path.replace(".yml", "_translated.yml")
-    with open(reassembled_file_path, "w", encoding="utf-8") as file:
+def save_translated_chunks(translated_chunks, file_path, overwrite_original):
+    output_file_path = (
+        file_path
+        if overwrite_original
+        else file_path.replace(".yml", "_translated.yml")
+    )
+
+    with open(output_file_path, "w", encoding="utf-8") as file:
         file.write("\n".join(translated_chunks))
-    print(f"Translated file saved as {reassembled_file_path}")
-    return reassembled_file_path
+
+    print(f"Translated file saved as {output_file_path}")
+    return output_file_path
 
 
 async def translate_yaml_file(file_path):
@@ -183,7 +189,9 @@ async def translate_yaml_file(file_path):
     translated_chunks = await translate_chunks_async(chunks, log_dir)
 
     # Save the translated chunks to a file
-    translated_file_path = save_translated_chunks(translated_chunks, file_path)
+    translated_file_path = save_translated_chunks(
+        translated_chunks, file_path, overwrite_original
+    )
 
     # Pause for manual review if needed
     pause_for_input_or_time(mode, delay_time)
