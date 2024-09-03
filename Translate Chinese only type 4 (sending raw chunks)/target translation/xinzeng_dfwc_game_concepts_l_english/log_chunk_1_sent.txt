@@ -1,0 +1,49 @@
+﻿l_english:
+
+ quannengqibing:0 "全能骑兵"
+
+ zhongzhuangqibing:0 "[zhongzhuangqibing|E]"
+ yakongjianemo:0 "[yakongjianemo|E]"
+ shangdui:0 "[shangdui|E]"
+ juntuan:0 "[juntuan|E]"
+ gongshi:0 "[gongshi|E]"
+ zhanche:0 "[zhanche|E]"
+ nu_qibing:0 "[nu_qibing|E]"
+
+ xinzeng_touren:0 "[xinzeng_touren|E]"
+ xinzeng_keanpai_touren_lingdi:0 "[xinzeng_keanpai_touren_lingdi|E]"
+
+ game_concept_yakongjianemo:0 "亚空间恶魔"
+ game_concept_yakongjianemo_desc:0 "$game_concept_yakongjianemo$是扭曲的混沌造物，是毁灭的根源，是来自另一个世界的混沌的具象化产物。\n\n每一个$game_concept_yakongjianemo$都是无比强大的存在，它们是入侵者，是毁灭者，集结在被四神注视之人麾下。"
+
+ game_concept_shangdui:0 "商队"
+ game_concept_shangdui_desc:0 "$game_concept_shangdui$是陆上贸易的主要承载者，能在和平时期与各地进行贸易往来，为其拥有者带来源源不断的财富\n\n但不要指望这些$game_concept_shangdui$有多强的战斗力，他们更在行于搞钱。"
+
+ game_concept_zhongzhuangqibing:0 "中装骑兵"
+ game_concept_zhongzhuangqibing_desc:0 "$game_concept_zhongzhuangqibing$是人马具甲骑马作战的[men_at_arms|E]。\n\n$game_concept_zhongzhuangqibing$有别于一般意义上的[light_cavalry|E]和[heavy_cavalry|E]，配比良好的中型装甲让他们兼具集群冲锋和游击骚扰等多种作战能力，这使得他们很难被一般的[men_at_arms|E]所[counter|E]。"
+
+ game_concept_juntuan:0 "军团"
+ game_concept_juntuan_desc:0 "$game_concept_juntuan$是由多种战术单位组成的高度复杂化的[men_at_arms|E]。\n\n作战经验丰富的$game_concept_juntuan$往往可以[counter|E]绝大多数[men_at_arms|E]。"
+
+ game_concept_gongshi:0 "工事"
+ game_concept_gongshi_desc:0 "$game_concept_gongshi$是军中所构筑的掩体、碉堡、障碍等。\n\n良好的作战$game_concept_gongshi$可以改造战场环境，使己方作战优势更加显著。"
+
+ game_concept_zhanche:0 "战车"
+ game_concept_zhanche_desc:0 "$game_concept_zhanche$是各色轮式军事构造体的总称，这些强大的[men_at_arms|E]坚固且高效。\n\n$game_concept_zhanche$往往配置大量随从军事人员，他们分工协作，合力操纵这些高效的杀人机器。"
+
+ game_concept_nu_qibing:0 "弩骑兵"
+ game_concept_nu_qibing_desc:0 "$game_concept_nu_qibing$是骑乘作战，并装备手弩的[men_at_arms|E]。\n\n$game_concept_nu_qibing$战斗力虽不及游牧势力的专职$game_concept_archer_cavalry$，但作为$game_concept_archer_cavalry$的平替绰绰有余。"
+
+ game_concept_xinzeng_touren:0 "头人"
+ game_concept_xinzeng_touren_desc:0 "$game_concept_xinzeng_touren$是一个社群或部落中的领导者或代表，在当地社群中拥有极大影响力。\n\n他们在当地一般拥有特殊的地位和职责，例如管理社会事务、维持社会秩序、处理冲突或协调社会资源分配等等。\n\n头人的存在能为你带来诸多便利，如战时为你提供高质量[men_at_arms|E]、监督地方建设和发展、以及时刻宣扬你之威严。\n\n只有合格的头人才能完美执行你安排的任务（即[dynasty|E]中拥有[GetModifier('xinzeng_touren_001_modifier').GetNameWithTooltip]修正）\n\n头人地位不是永恒不变的，你需要时刻注意曾安排过头人的领地，既要警惕[xinzeng_touren|E][dynasty|E]的势力过于膨胀，也要注意外来者对于当地[xinzeng_touren|E]地位的篡夺。前者可能掀起自下而上的风暴进而威胁你政权的稳定，后者则直接关系到你下派的各项任务能否顺利完成。"
+
+
+ game_concept_xinzeng_keanpai_touren_lingdi:0 "可安排头人的领地"
+ game_concept_xinzeng_keanpai_touren_lingdi_desc:0 "一片你的[domain|E]，可以安排一位[xinzeng_touren|E]大展拳脚。\n\n比起直接管理地方，安排一名能力优秀的头人或许是更为明智的选择。\n\n新获得的[domain|E]需要一段时间整合才能用于安排[xinzeng_touren|E]。"
+
+
+#派系
+ #game_concept_xinzeng_001_yabing_faction:0 "$xinzeng_001_yabing_faction$"
+ #game_concept_faction_xinzeng_001_yabing:0 "牙兵派系"
+ #game_concept_xinzeng_001_yabing_factions:0 "牙兵派系"
+ #game_concept_xinzeng_001_yabing_faction_desc:1 "$game_concept_xinzeng_001_yabing_faction$的诉求是更多的[gold|E]，更广阔的[realm|E]以及更优越的地#位。与你的[knights|E]们积极互动并保持良好关系，否则权力旁落甚至是人头落地都不无可能。"

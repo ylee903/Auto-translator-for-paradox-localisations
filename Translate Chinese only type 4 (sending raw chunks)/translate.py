@@ -41,7 +41,7 @@ chinese_text_regex = r'".*[\u4e00-\u9fff].*"'
 
 # Define token and line limits
 TOKEN_LIMIT = 3500  # Adjust if necessary for other models
-LINE_LIMIT = 100  # Max lines or IDs in a chunk
+LINE_LIMIT = 900  # Max lines or IDs in a chunk
 
 # Mode selector: 'input' (pause until input received), 'pause' (waits for x seconds), or 'pause_on_input (pauses if input received within x time)' or 'normal'
 mode = "input"
@@ -101,7 +101,8 @@ async def translate_chunk_async(chunk, session, chunk_index, semaphore, log_dir)
                                 "content": (
                                     "You are a professional translator with expertise in translating video game localization files. "
                                     "You are given cut up localizations from a chinese CK3 mod localization file. This is beiong translated asynchrously. "
-                                    "Translate only the Chinese text into English while preserving the identifiers and formatting. And do not add any other elements. "
+                                    "Translate only the Chinese text into English while preserving the identifiers and formatting, and pass through any text remaining text. "
+                                    "Do not add any other elements. "
                                 ),
                             },
                             {"role": "user", "content": chunk},

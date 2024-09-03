@@ -1,0 +1,48 @@
+﻿l_english:
+
+ quannengqibing:0 "Omni-Cavalry"
+
+ zhongzhuangqibing:0 "[zhongzhuangqibing|E]"
+ yakongjianemo:0 "[yakongjianemo|E]"
+ shangdui:0 "[shangdui|E]"
+ juntuan:0 "[juntuan|E]"
+ gongshi:0 "[gongshi|E]"
+ zhanche:0 "[zhanche|E]"
+ nu_qibing:0 "[nu_qibing|E]"
+
+ xinzeng_touren:0 "[xinzeng_touren|E]"
+ xinzeng_keanpai_touren_lingdi:0 "[xinzeng_keanpai_touren_lingdi|E]"
+
+ game_concept_yakongjianemo:0 "Subspace Demon"
+ game_concept_yakongjianemo_desc:0 "$game_concept_yakongjianemo$ is a distorted chaos creation, the source of destruction, a manifestation of chaos from another world.\n\nEvery $game_concept_yakongjianemo$ is an immensely powerful existence; they are invaders, destroyers, gathering under the gaze of the Four Gods."
+
+ game_concept_shangdui:0 "Caravan"
+ game_concept_shangdui_desc:0 "$game_concept_shangdui$ are the main carriers of land trade, able to conduct trade with various places during peacetime, bringing a continuous flow of wealth to their owners.\n\nBut do not expect these $game_concept_shangdui$ to have strong combat capabilities; they are better at making money."
+
+ game_concept_zhongzhuangqibing:0 "Medium Armored Cavalry"
+ game_concept_zhongzhuangqibing_desc:0 "$game_concept_zhongzhuangqibing$ are [men_at_arms|E] who fight mounted with horse and armor.\n\n$game_concept_zhongzhuangqibing$ differ from standard [light_cavalry|E] and [heavy_cavalry|E]; their well-balanced medium armor allows them to perform a variety of combat capabilities, such as mass charges and guerrilla harassment, making them difficult to counter by average [men_at_arms|E]."
+
+ game_concept_juntuan:0 "Legion"
+ game_concept_juntuan_desc:0 "$game_concept_juntuan$ is a highly complex composition of various tactical units, made up of [men_at_arms|E].\n\nExperienced in combat, a $game_concept_juntuan$ can often counter the majority of [men_at_arms|E]."
+
+ game_concept_gongshi:0 "Fortifications"
+ game_concept_gongshi_desc:0 "$game_concept_gongshi$ refer to the shelters, bunkers, and obstacles constructed by the military.\n\nWell-made $game_concept_gongshi$ can reshape the battlefield, making friendly combat advantages even more pronounced."
+
+ game_concept_zhanche:0 "Chariot"
+ game_concept_zhanche_desc:0 "$game_concept_zhanche$ is a collective term for various wheeled military constructs; these powerful [men_at_arms|E] are sturdy and efficient.\n\n$game_concept_zhanche$ are often manned by a large number of supporting military personnel, who collaborate to operate these efficient killing machines."
+
+ game_concept_nu_qibing:0 "Crossbow Cavalry"
+ game_concept_nu_qibing_desc:0 "$game_concept_nu_qibing$ are [men_at_arms|E] that fight mounted and are equipped with crossbows.\n\nAlthough the combat power of $game_concept_nu_qibing$ is not as strong as that of specialized $game_concept_archer_cavalry$ of nomadic forces, they are more than sufficient as a substitute for $game_concept_archer_cavalry$."
+
+ game_concept_xinzeng_touren:0 "Chieftain"
+ game_concept_xinzeng_touren_desc:0 "$game_concept_xinzeng_touren$ is a leader or representative within a community or tribe, holding great influence among the local populace.\n\nThey generally possess a special status and responsibilities in local circles, such as managing social affairs, maintaining social order, resolving conflicts, or coordinating the distribution of social resources.\n\nThe presence of a chieftain can bring many conveniences, such as providing high-quality [men_at_arms|E] during wartime, overseeing local construction and development, and constantly promoting your authority.\n\nOnly qualified chieftains can perfectly execute the tasks you assign (i.e., they have the [GetModifier('xinzeng_touren_001_modifier').GetNameWithTooltip] modifier in [dynasty|E]).\n\nThe chieftain's status is not permanent; you must always monitor the territory where you have assigned chieftains, being vigilant against the [xinzeng_touren|E][dynasty|E] from becoming overly powerful, as well as against outsiders attempting to usurp the local [xinzeng_touren|E]'s status. The former could provoke a grassroots uprising that threatens the stability of your regime, while the latter directly relates to whether the various tasks you dispatch can be successfully completed."
+
+ game_concept_xinzeng_keanpai_touren_lingdi:0 "Territory for Assigning Chieftains"
+ game_concept_xinzeng_keanpai_touren_lingdi_desc:0 "A piece of your [domain|E], where you can assign a chieftain to flourish.\n\nInstead of directly managing the area, it may be wiser to appoint a capable chieftain.\n\nA newly acquired [domain|E] needs some time to integrate before it can be used to assign a [xinzeng_touren|E]."
+
+
+#Factions
+ #game_concept_xinzeng_001_yabing_faction:0 "$xinzeng_001_yabing_faction$"
+ #game_concept_faction_xinzeng_001_yabing:0 "Yabing Faction"
+ #game_concept_xinzeng_001_yabing_factions:0 "Yabing Faction"
+ #game_concept_xinzeng_001_yabing_faction_desc:1 "$game_concept_xinzeng_001_yabing_faction$ demands more [gold|E], broader [realm|E], and superior status.\nStay actively engaged with your [knights|E] and maintain good relations, or you risk losing power or even heads rolling."

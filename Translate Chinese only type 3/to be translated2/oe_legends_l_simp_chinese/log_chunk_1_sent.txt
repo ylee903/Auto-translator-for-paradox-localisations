@@ -1,0 +1,19 @@
+Chunk 1 sent to API:
+ID000000 Amaterasu之裔
+ID000001 Wuzhu之裔
+ID000002 雌Deer
+ID000003 驼Deer
+ID000004 黄Dragon游光中
+ID000005 黄Dragon
+ID000006 白Tiger
+ID000007 白Wolf
+ID000008 白Deer
+ID000009 白Fox
+ID000010 赤Rabbit
+ID000011 泽出神Horse
+ID000012 常胜将军赵子Dragon
+ID000013 锦Horse超传奇
+ID000014 焚我残躯，BearBear圣火。生亦何欢，死亦何苦？为善除恶，惟光明故。喜乐悲愁，皆归尘土。怜我世人，忧患实多！怜我世人，忧患实多！
+ID000015 信徒们相信[ROOT.Legend.GetProtagonist.GetTitledFirstNameNoTooltip]是[ancestor.GetFaith.WarGodName] descends to the mortal world降世。
+ID000016 “好消息，[ROOT.Char.GetTitleAsNameNoTooltip|U]！我一直在搜寻关于[legend_character.GetName]的巨著和传奇，我有理由相信[legend_character.GetSheHe]曾经杀死一头蛟Dragon！
+
