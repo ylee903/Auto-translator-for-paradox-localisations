@@ -1,0 +1,37 @@
+Chunk 4 sent to API:
+ID000418 丛林猎手
+ID000419 #F 常年在丛林中游猎的老练猎人，熟知丛林里的一切#。
+ID000420 银枪效节都
+ID000421 #F 魏博最精锐的部队，统一使用长枪而得名#。
+ID000422 鸦儿军
+ID000423 #F 李克用帐下的主力精锐部队，主要由骁勇善战的年轻沙陀骑手组成#。
+ID000427 #F 粟特集团关系错综复杂，各股势力相互勾连，组建了大大小小的私人武装#。
+ID000428 女真征服（ai）
+ID000429 大金
+ID000430 统一女真诸部
+ID000432 我的征服自此而始。
+ID000434 #F 多年来的努力终于有了成果，所有部族的族长都愿意支持我的统治\n\n从此刻开始，世界将在我脚下颤抖。#!
+ID000435 全军整备！
+ID000437 女真大军
+ID000438  ai女真征服者（二代）
+ID000439 ai自动移除旗帜（防bug）
+ID000440 女真征服战争（一阶段）
+ID000441 女真征服战争
+ID000444 交出你的土地！
+ID000445 你腐朽的统治是时候结束了，我，[nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName]，给你三天时间交出你的地盘，否则后果自负！
+ID000446 我的大人，我愿意放弃我的土地并臣服于您......
+ID000447 臣服于[nvzhenzhengfuzhe.GetTitledFirstName]
+ID000448 与[nvzhenzhengfuzhe.GetTitledFirstName]开战
+ID000449 向[demand_recipient.GetTitledFirstName]开战
+ID000450 滚！
+ID000451 致愚蠢的[nvzhenzhengfuzhe.GetFirstName]
+ID000452 收回你的威胁！愚蠢的[nvzhenzhengfuzhe.GetFirstName]！\n\n你的威胁比三岁小孩还无力，你以为你是谁？你这妄想染指我的领土的猪猡。
+ID000453 狗东西，我要把你碾的连渣都不剩！
+ID000454 征服伊始
+ID000455 我和我的族人们被召集于[nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName]帐前，女真人的每一个氏族首领和封臣都汇聚于此。我们都知道为何，并在烟雾缭绕的穹庐内进行了整夜的商议，其间没有产生任何怀疑。\n\n[nvzhenzhengfuzhe.GetFirstName]高声呼喊着祖先的姓名，他走过每一位女真战士的面前并与之亲切交流，我能感受到战士们的热血在沸腾。\n\n从现在开始，世界将在征服者[nvzhenzhengfuzhe.GetFirstName]脚下颤抖!
+ID000456 为了女真人的荣耀！为了[nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName]！
+ID000457 $jurchen$人的大征服战争
+ID000458 你击退了[attacker.GetShortUIName|U]，但下一次呢......
+ID000459 [defender.GetShortUIName|U]守住了受争夺的头衔，暂时的......
+ID000461 玩家增加地产格子
+

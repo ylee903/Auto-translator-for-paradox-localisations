@@ -1,0 +1,342 @@
+ID000000: Baiyue Ambition  
+ID000001: Baiyue generally refers to the coastal regions of East Asia, specifically the groups that inhabit the banks of major rivers; they were among the earliest settlers of the East Asian continent.  
+ID000002: King of the Islands  
+ID000003: The Austronesian tribes traverse countless islands, accompanied by tides and storms, dominating the seas under the sun.  
+ID000004: White Mountains and Black Waters  
+ID000005: The regions of the Xing'an Range, Changbai Mountain, Nen River, and Heilong River nurture many tribes; under the protection of the willow goddess, they thrive and emerge from the forests in waves.  
+ID000006: Lord of the Jungle  
+ID000007: From Ailao Mountain to Wuyi Mountain, brave hunting tribes scatter across the landscape; tales of Chi You vying for supremacy in the Central Plains have become legend, yet they never abandon their glory.  
+ID000008: Prosperity of Martial Arts  
+ID000009: The Yamato people firmly believe that since the mythological times, they are ordained by heaven; in the fleeting moments of falling flowers, there is joy and sorrow; after playing the zither for a thousand days, their hearts align with the sword.  
+ID000010: High Mountains and Beautiful Waters  
+ID000011: Unlike the Malgal ethnicity recognized by historians of the Central Plains, the tribes of Goryeo claim descent from Dangun and were once revived by the descendants of Buyeo.  
+ID000012: Grey Wolf and White Deer  
+ID000013: In the Chileen River Valley, under the Yin Mountain. The sky resembles a yurt, covering all around. The sky is blue, the wilderness vast. The wind blows low over the grass, revealing cattle and sheep.  
+ID000014: Clan-Based Tradition  
+ID000015: For intensive labor, people gather in clans, increasing life and decreasing death; they live under the constraints of the clan, where fathers hold supreme authority, adhering to a system of hereditary succession for the eldest son, prohibited from injury to the body, first respecting parents and then extending that respect to others, and those who violate the clan laws are considered despicable by all.  
+ID000016: Implementing a hereditary system for identifiable heirs based on the eldest son  
+ID000017: Thousands of Miles of Carriages and Books  
+ID000018: With the same tracks for carriages, same script for writing, and same ethics for conduct. The early fully unified centralized system can organize mass production, while the supreme imperial power possesses and disposes of everything.  
+ID000019: Recruitable [GetMaA('mangudai').GetName][men_at_arms|E]  
+ID000020: Recruitable [GetMaA('asia_tunguse_ss').GetName][men_at_arms|E]  
+ID000021: Recruitable [GetMaA('samurai').GetName][men_at_arms|E]  
+ID000022: Recruitable [GetMaA('java_warrior').GetName][men_at_arms|E]  
+ID000023: Recruitable [GetMaA('china_east_ms').GetName][men_at_arms|E]  
+ID000024: Recruitable [GetMaA('china_south_wd').GetName][men_at_arms|E]  
+ID000025: Khitan Military System  
+ID000026: Emperor Taizong selected 300,000 armored troops from across the realm to form the Pishi Army. Initially, Emperor Taizu used the mobile camp as his palace, selecting over a thousand strong men from various tribes to create the core division... thus, the Pishi army has existed since Emperor Taizu’s time, and the core division is this; Taizong increased its size to 300,000.  
+ID000027: Warships and Battle Boats  
+ID000028: When the Dao does not function, one floats on a wooden raft at sea.  
+ID000029: Canoes  
+ID000030: Imperial Guards of the Two Capitals  
+ID000031: Temporarily leave the liturgy to visit Taichang, carrying only poetry to Gan Tang.  
+ID000032: Wu Hook  
+ID000033: Good Horses of Youzhou  
+ID000034: The crafty chieftains lure cavalry with grammar, quickly following with silver falcons and bows.  
+ID000035: Goryeo Hunters  
+ID000036: In Goryeo, where the mountains are wide and the forests rich; the people excel at making hunting tools and are particularly skilled at making bows, used primarily for military purposes, with many excellent bowmen.  
+ID000037: Western Sichuan Repeating Crossbow  
+ID000038: Long ago, I heard that celestial troops entered Western Sichuan, pounding drums and causing rocks to shatter in the valleys.  
+ID000039: Military System of the Central Plains  
+ID000040: Drunk and resting on the battlefield, how can the ruler not laugh; since ancient times, how many have returned from war?  
+ID000041: Desolate Blade  
+ID000042: Frost Spear and Snow Armor are as cold as water; how can the soldiers know the head and tail?  
+ID000043: Downward Challenge  
+ID000044: Using various means under the current system to replace one's superior.  
+ID000045: Rise of the Samurai  
+ID000046: The samurai emerged amidst social chaos and the decline of imperial power.  
+ID000047: Ashigaru  
+ID000050: Goryeo Ginseng  
+ID000051: A great tonic for revitalizing energy, producing saliva, and calming the mind, favored by the upper country.  
+ID000052: Goryeo Bow  
+ID000053: The strongest military force of ancient Goryeo, one of the few bright spots.  
+ID000054: Biaban Wu  
+ID000055: Carefully crafted by Goryeo to counter the Jurchen invasions for cavalry units.  
+ID000056: Mongolian Horse  
+ID000058: Uyghur Light Cavalry  
+ID000059: Though the Uyghurs have disputes with various Turkic tribes, they still maintain a traditional pastoral lifestyle; utilizing horses produced locally (Kazakh horses), they formed a strong cavalry unit to protect the safety of land caravans.  
+ID000060: Kazakh Horse  
+ID000061: A horse breed originating from the northern slopes of the Tianshan Mountains, western areas of the Dzungarian Basin, and western parts of the Altai Mountains. With sturdy bones and thick skins, their manes and tails are dense, and their build is relatively heavy. They have a balanced appearance and a good functional structure, developed under extensive herding conditions.  
+ID000062: Himalayan Warriors  
+ID000063: We have long adapted to the rugged terrain and thin air of the highland mountains, making it difficult for outsiders to endure the environment here, let alone pose a threat to us. Our warriors move between the mountains, watching as each invader falls. The plateau serves as a divine barrier, making it hard for outsiders to enter Tibet, but simultaneously, our warriors also suffer severe negative reactions when descending to lower areas.  
+ID000064: Hequ Horse  
+ID000066: Xianbei Iron Cavalry  
+ID000067: One of the traditional Xianbei practices preserved by the Tuyuhun since the Northern Wei period under Emperor Xiaowen, every ruler has carefully formed heavy cavalry units to intimidate neighboring small and petty powers.  
+ID000068: Tuyuhun Armored Cavalry  
+ID000069: Armored Tuyuhun warriors retain good Xianbei traditions, being skilled in charging into battle and defeating enemies.  
+ID000070: Armored Cavalry  
+ID000071: Heavy infantry and cavalry don armor, charging in battle according to ancient combat traditions.  
+ID000072: Turkic Heavy Cavalry  
+ID000073: The Western Turks are a horseback nation; the iron smelting and casting techniques preserved since the rise of the Turks, combined with the abundant iron resources of Central Asia, created this formidable heavy cavalry unit that became notorious; they are the wolves of the steppe, nightmares for surrounding civilizations.  
+ID000076: Kuman Tribe  
+ID000077: The unification of the Kumans is incredibly strong, and the powerful cavalry of each tribe is at my disposal.  
+ID000078: Kuman Kipchaks  
+ID000079: Light Kuman cavalry from various tribes, renowned for their high mobility.  
+ID000080: Wooden Fence  
+ID000082: Akh-Sukh  
+ID000083: Armored Bulgarian warriors charge in a dense formation, maximizing their strength and speed.  
+ID000084: Kunno  
+ID000085: Lightly armored Hungarian warriors; when they arrive on horseback, all of Pannonia trembles.  
+ID000086: Lowsosh  
+ID000087: Brave armored Hungarian knights, capable of coordinating with light cavalry to unleash a rain of arrows from afar, and also charge in close battles when necessary.  
+ID000088: Armed Militia  
+ID000089: Slightly trained militia possessing simple weaponry, mixed with a few archers, yet still lacking in combat effectiveness.  
+ID000090: Sekei Bow Cavalry  
+ID000092: Gharasan War Elephants  
+ID000093: War giants introduced from India, having adapted over long periods of domestication to the noise and spear of the battlefield; with robust elephant skin paired with full-body iron armor, they can ignore fierce attacks and charge through enemy lines with immense force.  
+ID000098: Bushido  
+ID000099: Unreserved death, careless death, and unhesitating death.  
+ID000100: Fishing and Hunting  
+ID000101: From catching small fish, shrimp, turtles, and crabs, to hunting whales and sea monsters, this is an ancient trade.  
+ID000102: Pastoral Lifestyle  
+ID000103: One of the main characteristics of the ancient nomadic lifestyle, spending a lifetime chasing the grasslands and knowing everything about them.  
+ID000104: When this [culture|E] character leads [army|E] through #V $grasslands$#! or #V $plains$#!, marching speed will significantly increase.  
+ID000105: Miaojiang Witchcraft  
+ID000106: The great wisdom of the ancestors.  
+ID000107: Chi You Bloodline  
+ID000108: The legendary creator of weapons, also known as the god of war, along with the Yellow Emperor and the Flame Emperor, revered as the three ancestral founders of China, regarded as ancestors by many Miao people. The fierce and united spirit derived from the Miao people is admired worldwide.  
+ID000109: Ainu Tribe Warriors  
+ID000110: The Ainu people refer to themselves as "Utari," meaning "partners"; they cherish their tribesmen who fight side by side and struggle to survive amidst numerous conflicts in the Japanese archipelago.  
+ID000111: Northeast Asian Horse Archers  
+===DIAGNOSTIC===:  
+The: translation was performed accurately based on the provided Chinese text. No issues were encountered during the translation process.
+ID000112: Fully adapted to the dense forests of Northeast Asia, mounted archers are more suited to the local warfare environment than other nomadic forces on the grasslands.
+ID000113: Mounted Archer
+ID000115: Defender
+ID000116: Temporary troops recruited from rural border areas to defend against threats from neighboring countries.
+ID000117: Warrior
+ID000118: A warrior is one who kills, robs, and pillages.
+ID000120: Usually engaged in labor, they become infantry during wartime.
+ID000121: Northern Samurai
+ID000122: Samurai stationed beneath the northern side of the imperial residence, guarding the emperor and attending to imperial affairs.
+ID000123: Archers
+ID000124: The continuation of traditional archery from the Yamato people on the battlefield.
+ID000125: Naginata Warriors
+ID000126: Utilizing long and sharp naginatas as weapons, they pose a significant challenge on the battlefield, either forming ranks to resist the enemy or dispersing to ambush them.
+ID000128: Skilled archers and hunters navigate through the complex mountainous forests of the Korean Peninsula, delivering painful strikes to the enemy with their superior shooting skills.
+ID000129: Left Folio
+ID000130: Expert shielded infantry who know how to dodge the rain of arrows.
+ID000132: Elite heavy infantry created to combat the Jurchens; they are skilled against cavalry.
+ID000133: Hwarang
+ID000134: Young nobles of Goryeo who have practiced martial arts since childhood; not only are they exceptional in archery, but their appearance and manners are also admired by all.
+ID000135: Imperial Guard
+ID000136: An army specially dedicated to the emperor, responsible for guarding the palace and the emperor himself, selected through rigorous criteria and possessing exceptional martial skills.
+ID000138: Elite troops guarding the capital.
+ID000139: Palace Guard
+ID000140: An army directly under the emperor, responsible for the protection of the emperor or the palace, and the defense of the capital.
+ID000141: Auxiliary Troops
+ID000143: Provincial Troops
+ID000144: Provincial army led by governors and military commanders in various regions.
+ID000145: Border Troops
+ID000146: Recruited from various border towns to prevent foreign enemies.
+ID000147: Local Army
+ID000148: Soldiers recruited locally, with varying quality.
+ID000151: Militia
+ID000152: Temporarily recruited local soldiers who camp and defend together.
+ID000153: Miao Warrior
+ID000155: Water Infantry
+ID000156: Composed of southern infantry skilled in naval battles, responsible for ensuring water and land movement, and guarding river traffic. They can infiltrate through river networks to strike at the enemy unexpectedly when necessary.
+ID000157: Elephant Armored Warriors
+ID000158: Elite warriors clad in heavy elephant hide armor, unafraid of the enemy's rain of arrows.
+ID000159: Urumi Sword
+ID000160: One of the traditional martial arts from India, known for its swift speed and exceptional technique.
+ID000161: Urumi Swordsman
+ID000162: Darvish warriors proficient with the soft sword, rapidly penetrating enemy formations to deal massive damage to enemies in the area.
+ID000163: Rajput Warrior
+ID000164: Cavalry warriors of the Kshatriya class, their curved swords strike accurately at their enemies.
+ID000165: Nayyar Infantry
+ID000166: Darvish warriors from India who have long practiced Kalaripayattu martial arts, wielding spears and cooperating seamlessly.
+ID000167: Sinhalese Guard
+ID000169: Claws of the Jungle
+ID000170: We have made this powerful weapon—the claw blade—by imitating the claws of the king of the jungle, the tiger.
+ID000171: Claw Blade Warrior
+ID000172: A phantom lurking in the dense jungles of the Southern Islands, using swift claw blades to cut open the throats of their enemies.
+ID000173: Grassland Horse Archer
+ID000174: #F Hungry pastoralists travel in groups, seizing every opportunity to fill their bellies#.
+ID000178: #F Cavalry unit composed of Uighur warriors, skilled in archery and horsemanship#.
+ID000179: Zampu Guard Unit
+ID000180: #F The elite guard unit of the Zampu, composed of high-ranking subjects from Tibet performing military tasks#.
+ID000183: Wuru Gui Cavalry
+ID000184: #F Composed of high-ranking subjects from Tibet performing military tasks, well-equipped and armored elite Tibetan heavy cavalry. They roam the plateau, always ready to deliver fierce blows to their enemies#.
+ID000185: Yongdong Dai Protection
+ID000186: #F Light infantry composed of "Yong," who primarily engage in agriculture and are of low status. They are adept at using spears and slings, employing a strategy of harassment and ambush#.
+ID000187: You can recruit [GetMaA('wushi').GetName] as [men_at_arms|E]
+ID000188: You can recruit [GetMaA('zuqing').GetName] as [men_at_arms|E]
+ID000189: Brave and Fearless
+ID000190: Only the strong deserve to live.
+ID000191: [GetTrait('brave').GetName(GetNullCharacter)][trait|E] more common
+ID000192: [GetTrait('strong').GetName(GetNullCharacter)][trait|E] more common
+ID000193: [GetTrait('blademaster_1').GetName(GetNullCharacter)][trait|E] more common
+ID000194: [GetTrait('blademaster_2').GetName(GetNullCharacter)][trait|E] more common
+ID000195: [GetTrait('blademaster_3').GetName(GetNullCharacter)][trait|E] more common
+ID000196: [GetTrait('physique_good_1').GetName(GetNullCharacter)][trait|E] more common
+ID000197: [GetTrait('physique_good_2').GetName(GetNullCharacter)][trait|E] more common
+ID000198: [GetTrait('physique_good_3').GetName(GetNullCharacter)][trait|E] more common
+ID000199: [GetTrait('content').GetName(GetNullCharacter)][trait|E] more common
+ID000200: [GetTrait('ambitious').GetName(GetNullCharacter)][trait|E] more common
+ID000201: The Art of War
+ID000202: War is an art; the winner takes all, while the loser has nothing.
+ID000203: Peaceful and Content
+ID000204: Life is important, but happiness is more important.
+ID000205: The [culture|E] should have $ethos_courtly_name$ as its [ethos|E]
+ID000206: Knightly Refuge
+ID000207: Proud knights often struggle with managing their estates and choose to completely depend on wealthier rulers.
+ID000208: Fallen Knight
+ID000209: A feudal knight who has fallen so low that they have nothing but martial power, leading a small retinue of followers while hoping for the day they rise again under a wealthy ruler.
+ID000210: You can recruit [GetMaA('luopoqishi').GetName] as [men_at_arms|E]
+ID000211: The [culture|E] lacks $ethos_spiritual_name$ as its [ethos|E]
+ID000212: Land Caravan
+ID000213: The sound of camel bells echoes as time flows, the connectivity of land routes has given rise to a large number of merchants who traverse the desolate sands, bringing countless exotic treasures.
+ID000216: Ice Sea Warriors
+ID000217: The icy ocean churns, bringing forth terrifying destroyers.
+ID000218: You can recruit [GetMaA('lushangshangdui').GetName] as [men_at_arms|E]
+ID000219: You can recruit [GetMaA('binghaizhanshi').GetName] as [men_at_arms|E]
+ID000220: Slavic Expansionism
+ID000221: The unique pioneering spirit of the Slavs, situated in harsh cold, longs for warmth, and its inherent contradictions necessitate expansion.
+ID000222: Songs of Blood and Ice
+ID000223: A hymn of blood and ice, the icy sea endures.
+ID000224: Meng'an Moke
+ID000225: These military leaders, established in the later stages of primitive society for raids and hunting needs, gradually developed into a fixed military organization over time.
+ID000226: Armored Cavalry
+ID000227: Cavalry warriors equipped with armor are the masters of war, sweeping everything away with their overwhelming force.
+ID000228: You can recruit [GetMaA('jiaqijuzhuang').GetName] as [men_at_arms|E]
+All: lines were correctly translated. No issues encountered during the translation process.
+ID000229: The [culture|E]'s [knights|E] are eligible for [GetAccoladeType('dfbz_xinzeng_0005_attribute').GetName][accolades|E]  
+ID000230: Armored Cavalry Commander  
+ID000233: [retinue_maa|E]\n#F Elite armored cavalry that follow the commander into battle, striking directly at the enemy's vital points.#!  
+ID000237: [retinue_maa|E]\n#F Elite armored cavalry that protects the core of the battle formation and can deliver devastating blows to the enemy if necessary.#!  
+ID000238: Frontal Charge Commander  
+ID000240: Frontal Charge  
+ID000241: [retinue_maa|E]\n#F Heavy cavalry that exploits fleeting weaknesses in the enemy's line to launch fierce charges, achieving decisive victories in single strikes.#!  
+ID000246: Longsword Commander  
+ID000248: Longsword  
+ID000256: Tooth General  
+ID000261: Khitan  
+ID000262: You can recruit [GetMaA('nvzhen_mouke').GetName] as [men_at_arms|E]  
+ID000263: Granting land to your $jurchen$ [knights|E] will significantly boost their combat will, \nbut a prolonged life of comfort will also quickly corrupt them.  
+ID000264: Strategist  
+ID000265: Elite soldiers selected through rigorous processes, all of whom are skilled raiders and hunters from various tribes.  
+ID000268: You must have [feudal|E][government|E]  
+ID000269: [casus_belli|E] cost: [prestige_i]#P -40%#!  
+ID000271: Sultan's Guard  
+ID000272: A reliable guard composed of the Sultan's confidants, also doing some shady work for the Sultan in daily life.  
+ID000273: Knightly Traditions  
+ID000274: The vast plains of France serve as the main battlefield for knights, where the fiercest knightly companies of the medieval period were nurtured.  
+ID000275: Honor Guard  
+ID000277: Axe-wielding Guards  
+ID000278: #F The long axe is a symbol of power and strength. This guard unit belongs to a powerful ruler.#  
+ID000279: Vodka  
+ID000280: The water of life, the pride of the Ross people.  
+ID000281: Fierce Folk  
+ID000283: Wart-covered Armor  
+ID000285: Highland Qiang  
+ID000286: The Qiang tribes, widely found in the northwest mountainous regions, excel in off-road abilities and navigate the mountains effortlessly.  
+ID000287: Tangut Horse  
+ID000289: Cold-forged Steel  
+ID000290: The Tangut people's steel forging technology is unparalleled, and possessing a sword from the Xia Kingdom is considered an immense honor. The sword carried by Song Qinzong himself was the 'Xia Kingdom Sword.' Su Dongpo once received a Western Xia sword and wrote: ‘Red makeup gathers at the flower, while green reeds draw the blade in the hall, a spiral root raises the waves, a white dragon clasps three dragons.’  
+ID000291: Ronin  
+ID000292: Madly risking everything to restore past authority, claiming to be the Emperor's personal troops, appearing everywhere as a "patriot," wielding an extraordinary skill.  
+ID000293: Divine Bow  
+ID000295: Horse Management Neglected  
+ID000296: The upper rulers' neglect combined with the lower officials' poor governance has plunged the Central Plains horse management into an irreversible predicament.  
+ID000297: Horse Protection Law  
+ID000298: The situation of having no horses available in the Central Plains has officially reversed, effective horse management policies have been implemented, and if the entire system operates smoothly, it will benefit generations to come.  
+ID000299: Commercial Nation  
+ID000300: The Sogdian people frequently traveled along the long Silk Road between Central Asia and China, reaping immense wealth from medieval East-West trade.  
+ID000301: Peace Bow  
+ID000303: Naginata  
+ID000305: Champa Rice  
+ID000306: A high-yield, early-maturing, drought-resistant rice variety produced in the Southeast Asian Peninsula, benefiting a wide range.  
+ID000309: Vast Land and Rich Resources  
+ID000310: Born from Yandi and Huangdi, nurturing Huaxia. When treated well, they will surely repay China.  
+ID000311: He-Shuo Light Cavalry  
+ID000312: Since ancient times, Yan has produced many warriors, and with its location at the border, horse trading has been plentiful. Long-term interactions between Hu and Han have enabled everyone from good families to ride.  
+ID000313: Southwestern Horses  
+ID000315: Baibaoxianbei Cavalry  
+ID000317: Yanyun Eighteen Cavalries  
+ID000318: #F Legend has it that the troops led by Suiju general Luo Yi charged deep into the Turkic center across the desert, annihilating twenty thousand Turks overnight.#  
+ID000319: Xiliang Iron Cavalry  
+ID000321: Wengniute  
+ID000323: Wulanghai  
+ID000325: Wujieyete  
+ID000327: Kesheng Army  
+ID000328: #F The Imperial Guard personally appointed by Genghis Khan, evolving from a hundred personal guards to a valiant army of ten thousand, including one thousand veterans, one thousand archers, and eight thousand foot soldiers.#  
+ID000329: Curved Horse  
+ID000333: Iron Pagoda  
+ID000337: Tiger Step Guard  
+ID000339: Iron Hawk  
+ID000347: Highland Foot Soldiers  
+ID000355: Tangut Warriors  
+ID000361: The Six Classes of Fully Equipped Guards within the Royal Arena  
+ID000362: #F The fully equipped personal soldiers defending the center of Western Xia.#  
+ID000363: Crossbow Soldiers  
+ID000364: #F It is crucial to build defense lines with skilled archers when facing harassment from nomadic forces outside the passes.#  
+ID000365: Mongolian Heavy Cavalry  
+ID000366: #F The Sulukht of the world conquerors is a terrifying beast that has destroyed countless civilizations.#  
+ID000369: Mangudai  
+ID000370: #F Unmatched Mongolian heavy armored cavalry.#  
+ID000373: Qin Territory Brave Soldiers  
+ID000374: #F The Qin land is fierce, densely populated with brave warriors who can form battle units.#  
+ID000375: White Felt Troops  
+ID000376: #F An elite unit organized during the Three Kingdoms period by the Shu Kingdom, mainly consisting of Miao and other tribes active in the mountainous forests of Shu.#  
+ID000377: Guoyi Veterans  
+ID000378: Anxi Army  
+ID000379: #F “Looking up to see the sun but not seeing Chang'an." The sharp sword of the Tang Dynasty, and also the final glory of the Empire.#  
+ID000380: Tooth Soldiers  
+ID000383: #F High-quality armored infantry without worries or concerns.#  
+ID000390: Cavalry  
+ID000391: #F Elite cavalry troops of the agricultural civilization.#  
+ID000396: Pukou Soldier  
+ID000397: #F Each person wields a long-handle Pukou knife, specializing in breaking cavalry charges.#  
+ID000398: Saber and Shield Soldiers  
+ID000399: #F Fierce warriors holding a knife in one hand and a shield in the other.#  
+ID000401: #F Since ancient times, Yan has produced many warriors, and with its location at the border, horse trading has been plentiful. Long-term interactions between Hu and Han have enabled everyone from good families to ride.#  
+ID000402: White Horse Yizong  
+ID000404: Infantry Armor  
+ID000406: Jing塞 Iron Cavalry  
+ID000407: #F Each soldier of the Jing塞 army has five horses. The knights are all from the northern region of Yizhou and can draw a bow weighing 200 jin, known for their ferocity. All horses are high-quality steeds, fully armored with heavy armor, and apart from bows and arrows, all are equipped with hooked long spears.#  
+ID000408: Beihou Heavy Cavalry  
+ID000409: #F Shaking the mountain is easy, shaking the Yue Family Army is hard!#  
+ID000411: #F Dispossessed warriors wandering without a master after losing their fief, fierce and bloodthirsty, extraordinarily brutal.#  
+ID000412: Monk Soldiers  
+ID000414: Repeating Crossbow Soldiers  
+ID000415: #F These crossbowmen equipped with Zhuge's repeating crossbow can shoot bolts with devastating speed.#  
+===DIAGNOSTIC===:  
+All: translations are consistent and preserve the identifiers and formatting as required. No issues were encountered during the translation.
+ID000418: Jungle Hunter  
+ID000419: #F A seasoned hunter who has roamed the jungle for years, well-versed in everything within the jungle.#  
+ID000420: Silver Lance Corps  
+ID000421: #F The most elite force of Weibo, named for their uniform use of long spears.#  
+ID000422: Crow Army  
+ID000423: #F The main elite force under Li Keyong, mainly composed of brave young Shato cavalry.#  
+ID000427: #F The Sogdian group has complex relationships, with various factions intertwined, forming numerous private armed groups.#  
+ID000428: Jurchen Conquest (AI)  
+ID000429: Great Jin  
+ID000430: Unified Jurchen Tribes  
+ID000432: My conquest begins here.  
+ID000434: #F Years of effort have finally borne fruit; all the tribal leaders are willing to support my rule.\n\nFrom this moment on, the world will tremble beneath my feet.#  
+ID000435: Prepare the entire army!  
+ID000437: Great Jurchen Army  
+ID000438: AI Jurchen Conqueror (II)  
+ID000439: AI Automatically Remove Flag (Anti-Bug)  
+ID000440: Jurchen Conquest War (Phase One)  
+ID000441: Jurchen Conquest War  
+ID000444: Hand over your lands!  
+ID000445: Your decayed rule is coming to an end. I, [nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName], give you three days to surrender your territory, or face the consequences!  
+ID000446: My lord, I am willing to give up my lands and submit to you...  
+ID000447: Submit to [nvzhenzhengfuzhe.GetTitledFirstName]  
+ID000448: Go to war with [nvzhenzhengfuzhe.GetTitledFirstName]  
+ID000449: Go to war with [demand_recipient.GetTitledFirstName]  
+ID000450: Get lost!  
+ID000451: To the foolish [nvzhenzhengfuzhe.GetFirstName]  
+ID000452: Take back your threats! Foolish [nvzhenzhengfuzhe.GetFirstName]! \n\nYour threats are weaker than a three-year-old child’s. Who do you think you are? You pig who fantasizes about touching my territory.  
+ID000453: Dog! I will crush you into dust!  
+ID000454: Beginning of the Conquest  
+ID000455: I and my tribesmen were summoned before [nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName], where every clan leader and vassal of the Jurchen gathered. We all knew why and engaged in an all-night discussion within the smoky tent, during which no doubts arose.\n\n[nvzhenzhengfuzhe.GetFirstName] shouted the names of our ancestors loudly, walking past each Jurchen warrior and communicating warmly with them. I could feel the warriors' blood boiling. \n\nFrom now on, the world will tremble beneath Conqueror [nvzhenzhengfuzhe.GetFirstName]!  
+ID000456: For the glory of the Jurchens! For [nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName]!  
+ID000457: Great Conquest War of the $jurchen$  
+ID000458: You repelled [attacker.GetShortUIName|U], but what about next time...  
+ID000459: [defender.GetShortUIName|U] held onto the contested title, temporarily...  
+ID000461: Player Gains Property Tile  
+===DIAGNOSTIC===:  
+-: All translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.

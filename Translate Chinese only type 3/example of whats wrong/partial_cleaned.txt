@@ -1,0 +1,610 @@
+﻿l_simp_chinese:
+
+ #NEW
+ tradition_yues_name:0 "ID000000"
+ tradition_yues_desc:0 "ID000001"
+
+ tradition_java_warriors_name:0 "ID000002"
+ tradition_java_warriors_desc:0 "ID000003"
+ 
+ tradition_tunguse_name:0 "ID000004"
+ tradition_tunguse_desc:0 "ID000005"
+
+ innovation_nanman_group:0 "ID000006"
+ innovation_nanman_group_desc:0 "ID000007"
+
+ tradition_yamato_name:0 "ID000008"
+ tradition_yamato_desc:0 "ID000009"
+
+ innovation_goryeo_group:0 "ID000010"
+ innovation_goryeo_group_desc:0 "ID000011"
+ 
+ innovation_mongolic_group:0 "ID000012"
+ innovation_mongolic_group_desc:0 "ID000013"
+ 
+ tradition_chinese_succession_name:0 "ID000014"
+ tradition_chinese_succession_desc:0 "ID000015"
+ culture_parameter_can_have_tradition_succession_law:0 "ID000016"
+
+ innovation_centralization_of_authority:0 "ID000017"
+ innovation_centralization_of_authority_desc:0 "ID000018"
+ 
+ culture_parameter_unlock_maa_mangudai:0 "ID000019"
+ culture_parameter_unlock_maa_asia_tunguse_ss:0 "ID000020"
+ culture_parameter_unlock_maa_samurai:0 "ID000021"
+ culture_parameter_unlock_maa_java_warrior:0 "ID000022"
+ culture_parameter_unlock_maa_china_east_ms:0 "ID000023"
+ culture_parameter_unlock_maa_china_south_wd:0 "ID000024"
+
+
+ innovation_world_cathay:0 "ID000025"
+ innovation_world_cathay_desc:0 "ID000026"
+
+ innovation_battleships:0 "ID000027"
+ innovation_battleships_desc:0 "千寻铁锁沉江底，一片降幡出石头。"
+
+ innovation_outrigger_boats:0 "ID000029"
+ innovation_battleships_desc:0 "ID000028"
+ 
+
+ innovation_target_region_liangjing:0 "ID000030"
+ innovation_target_region_liangjing_desc:0 "ID000031"
+
+
+ innovation_china_east:0 "ID000032"
+ innovation_china_east_desc:0 "汉鼎不烹曹操肉，ID000032空断伍员头。"
+ innovation_china_north:0 "ID000034"
+ innovation_china_north_desc:0 "ID000035"
+ innovation_world_asia_korea:0 "ID000036"
+ innovation_world_asia_korea_desc:0 "ID000037"
+ innovation_china_south:0 "ID000038"
+ innovation_china_south_desc:0 "ID000039"
+ innovation_china_centre:0 "ID000040"
+ innovation_china_centre_desc:0 "ID000041"
+ innovation_china_west:0 "ID000042"
+ innovation_china_west_desc:0 "ID000043"
+
+
+
+ innovation_xiakeshang:0 "ID000044"
+ innovation_xiakeshang_desc:0 "ID000045"
+ innovation_wushijueqi:0 "ID000046"
+ innovation_wushijueqi_desc:0 "ID000047"
+ innovation_zuqing:0 "ID000048"
+ innovation_zuqing_desc:0 "ID000048是日本古代最低等的步兵之称呼，他们ID000120"
+ innovation_gaolishen:0 "ID000050"
+ innovation_gaolishen_desc:0 "ID000051"
+ innovation_gaoligong:0 "ID000052"
+ innovation_gaoligong_desc:0 "ID000053"
+ innovation_biebanwu:0 "ID000054"
+ innovation_biebanwu_desc:0 "ID000055"
+ archers_pursuit_add:0 "[archers|E][pursuit|E]"
+ innovation_mengguma:0 "ID000056"
+ innovation_mengguma_desc:0 "ID000056体形矮小，其貌不扬，头大颈短，体魄强健，胸宽鬃长，皮厚毛粗，能吃苦，适应能力强，能抵御西伯利亚暴雪；能扬蹄踢碎狐狼的脑袋。"
+ innovation_huihuqingqi:0 "ID000058"
+ innovation_huihuqingqi_desc:0 "ID000059"
+ innovation_hasakema:0 "ID000060"
+ innovation_hasakema_desc:0 "ID000061"
+
+ innovation_ximalayazhanshi:0 "ID000062"
+ innovation_ximalayazhanshi_desc:0 "ID000063"
+
+ innovation_hequma:0 "ID000064"
+ innovation_hequma_desc:0 "ID000064是一个古老而优良的地方马种，体形高大，背脊平坦，挽乘兼顾，持久耐劳，并且适应当地地理与生态环境和抗病能力强，早在秦汉时期就被作为战马使用，在历史上常用它作为贡礼。"
+ innovation_xianbeitieqi:0 "ID000066"
+ innovation_xianbeitieqi_desc:0 "ID000067"
+ tuyuhunjiaqijuzhuang:0 "ID000068"
+ tuyuhunjiaqijuzhuang_flavor:0 "ID000069"
+
+ jiaqijuzhuang:0 "ID000070"
+ jiaqijuzhuang_flavor:0 "ID000071"
+
+ tujuezhongqibing:0 "ID000072"
+ tujuezhongqibing_flavor:0 "ID000073"
+ ai_tujuezhongqibing:0 "ID000072"
+ ai_tujuezhongqibing_flavor:0 "ID000073"
+
+ innovation_kuman_buluo:0 "ID000076"
+ innovation_kuman_buluo_desc:0 "ID000077"
+ kuman_jipuqieke:0 "ID000078"
+ kuman_jipuqieke_flavor:0 "ID000079"
+
+ innovation_muzhi_weilan:0 "ID000080"
+ innovation_muzhi_weilan_desc:0 "我们就地取材在定居点附近大量部署ID000080，这能很好的阻拦入侵者的步伐。"
+
+ akesu:0 "ID000082"
+ akesu_flavor:0 "ID000083"
+
+ mazhaer_qingqi:0 "ID000084" #（马扎尔轻骑）
+ mazhaer_qingqi_flavor:0 "ID000085"
+ xiongyali_luowoshi:0 "ID000086"
+ xiongyali_luowoshi_flavor:0 "ID000087"
+ xiongyali_wuzhuang_minbing:0 "ID000088"
+ xiongyali_wuzhuang_minbing_flavor:0 "ID000089"
+ xiongyali_saikaiyi_gongqibing:0 "ID000090"
+ xiongyali_saikaiyi_gongqibing_flavor:0 "久居潘诺尼亚的ID000090，是侧翼扰敌和追杀溃军的好手。"
+
+
+ jiaseni_war_elephant:0 "ID000092"
+ jiaseni_war_elephant_flavor:0 "ID000093"
+ ai_jiaseni_war_elephant:0 "ID000092"
+ ai_jiaseni_war_elephant_flavor:0 "ID000093"
+ ai_01_jiaseni_war_elephant:0 "ID000092"
+ ai_01_jiaseni_war_elephant_flavor:0 "ID000093"
+
+ innovation_wushidao:0 "ID000098"
+ innovation_wushidao_desc:0 "ID000099"
+ innovation_yulie:0 "ID000100"
+ innovation_yulie_desc:0 "ID000101"
+ innovation_zhucaoerju:0 "ID000102"
+ innovation_zhucaoerju_desc:0 "ID000103"
+# zhucaoerju_miaoshu:1 "[army|E][commander|E]拥有该[innovations|E]，且途经#V $草原$#!地区时，行军速度将大幅提升"
+ zhucaoerju_miaoshu:1 "ID000104"
+
+ innovation_miaojiangwugu:0 "ID000105"
+ innovation_miaojiangwugu_desc:0 "ID000106"
+ innovation_dfwc_chiyouxuemai:0 "ID000107"
+ innovation_dfwc_chiyouxuemai_desc:0 "ID000108"
+
+ ayinubuzuzhanshi:0 "ID000109"
+ ayinubuzuzhanshi_flavor:0 "ID000110"
+
+
+ innovation_dongbeiya_qisheshou:0 "ID000111"
+ innovation_dongbeiya_qisheshou_desc:0 "ID000112"
+
+ dongbeiya_qisheshou:0 "ID000113"
+ dongbeiya_qisheshou_flavor:0 "ID000112"
+
+ 
+ fangren:0 "ID000115"
+ fangren_flavor:0 "ID000116"
+ wushi:0 "ID000117"
+ wushi_flavor:0 "ID000118"
+ zuqing:0 "枪ID000048"
+ zuqing_flavor:0 "ID000120"
+ tianhuangweidui:0 "ID000121"
+ tianhuangweidui_flavor:0 "ID000122"
+ hegongshou:0 "ID000123"
+ hegongshou_flavor:0 "ID000124"
+ tidaodui:0 "ID000125"
+ tidaodui_flavor:0 "ID000126"
+
+
+ tieyuanliehu:0 "ID000052手"
+ tieyuanliehu_flavor:0 "ID000128"
+ gaoli_zuobiechao:0 "ID000129"
+ gaoli_zuobiechao_flavor:0 "ID000130"
+
+ biebanwu:0 "ID000054"
+ biebanwu_flavor:0 "ID000132"
+ hualang:0 "ID000133"
+ hualang_flavor:0 "ID000134"
+
+ jinjun:0 "ID000135"
+ jinjun_flavor:0 "ID000136"
+ tang_beiya_jinjun:0 "北衙ID000135"
+ tang_beiya_jinjun_flavor:0 "ID000138"
+ yulinjun:0 "ID000139"
+ yulinjun_flavor:0 "ID000140"
+ xiangjun:0 "ID000141"
+ xiangjun_flavor:0 "属地方常备军，是ID000135主要的来源之一。"
+ fanzhenjun:0 "ID000143"
+ fanzhenjun_flavor:0 "ID000144"
+ bianjun:0 "ID000145"
+ bianjun_flavor:0 "ID000146"
+ difangjun:0 "ID000147"
+ difangjun_flavor:0 "ID000148"
+ china_modao_ai:0 "ID000042队"
+ china_modao_ai_flavor:0 "ID000042队。"
+
+ xiangyong:0 "ID000151"
+ xiangyong_flavor:0 "ID000152"
+
+ miaorenwushi:0 "ID000153"
+ miaorenwushi_flavor:0 "苗人全民皆兵，遇到突发的战事，ID000153便会自发携带武器粮食在他们的“老虎汉”（武士首领）的率领下奔赴战场。"
+
+ shuibu_shi:0 "ID000155"
+ shuibu_shi_flavor:0 "ID000156"
+
+ xiang_jiashi:0 "ID000157"
+ xiang_jiashi_flavor:0 "ID000158"
+
+ innovation_wulumi_ruanjian:0 "ID000159"
+ innovation_wulumi_ruanjian_desc:0 "ID000160"
+ wulumi_jianshi:0 "ID000161"
+ wulumi_jianshi_flavor:0 "ID000162"
+
+ laqipute_zhanshi:0 "ID000163"
+ laqipute_zhanshi_flavor:0 "ID000164"
+ nayaer_bubing:0 "ID000165"
+ nayaer_bubing_flavor:0 "ID000166" #卡拉里帕亚特武术：Kalarippayat
+
+ sengjialuo_jinweijun:0 "ID000167"
+ sengjialuo_jinweijun_flavor:0 "忠勇无畏的ID000167团，竭力护卫领主周全。"
+
+ innovation_conglinzhizhua:0 "ID000169"
+ innovation_conglinzhizhua_desc:0 "ID000170"
+ zhuaren_zhanshi:0 "ID000171"
+ zhuaren_zhanshi_flavor:0 "ID000172"
+
+ caoyuanyoumumin:0 "ID000173"
+ caoyuanyoumumin_flavor:0 "ID000174"
+ caoyuanyoumumin_shijian:0 "ID000173"
+ caoyuanyoumumin_shijian_flavor:0 "ID000174"
+
+ huihuqingqi:0 "ID000058"
+ huihuqingqi_flavor:0 "ID000178"
+
+ zanpuweishubu:0 "ID000179"
+ zanpuweishubu_flavor:0 "ID000180"
+ zanpuweishubu_ai:0 "ID000179"
+ zanpuweishubu_ai_flavor:0 "ID000180"
+ wuruguiqibing:0 "ID000183"
+ wuruguiqibing_flavor:0 "ID000184"
+ yongdongdaihuchi:0 "ID000185"
+ yongdongdaihuchi_flavor:0 "ID000186"
+
+ culture_parameter_unlock_maa_wushi:0 "ID000187"
+ culture_parameter_unlock_maa_zuqing:0 "ID000188"
+
+
+
+
+ tradition_hanyongwushuang_name:0 "ID000189"
+ tradition_hanyongwushuang_desc:1 "ID000190"
+ culture_parameter_brave_trait_more_common:0 "ID000191"
+ culture_parameter_strong_trait_more_common:0 "ID000192"
+ culture_parameter_blademaster_1_trait_more_common:0 "ID000193"
+ culture_parameter_blademaster_2_trait_more_common:0 "ID000194"
+ culture_parameter_blademaster_3_trait_more_common:0 "ID000195"
+ culture_parameter_physique_good_1_trait_more_common:0 "ID000196"
+ culture_parameter_physique_good_2_trait_more_common:0 "ID000197"
+ culture_parameter_physique_good_3_trait_more_common:0 "ID000198"
+ culture_parameter_content_trait_more_common:0 "ID000199"
+ culture_parameter_ambitious_trait_more_common:0 "ID000200"
+ tradition_zhanzhengyishu_name:0 "ID000201"
+ tradition_zhanzhengyishu_desc:1 "ID000202"
+ tradition_anxianzide_name:0 "ID000203"
+ tradition_anxianzide_desc:1 "ID000204"
+ culture_have_courtly:1 "ID000205"
+ tradition_qishishourong_name:0 "ID000206"
+ tradition_qishishourong_desc:1 "ID000207"
+ luopoqishi:0 "ID000208"
+ luopoqishi_flavor:0 "ID000209"
+ culture_parameter_unlock_maa_luopoqishi:0 "ID000210"
+ not_spiritual_desc:0 "ID000211"
+ lushangshangdui:0 "ID000212"
+ lushangshangdui_flavor:0 "ID000213"
+ lushangshangdui_ai:0 "ID000212"
+ lushangshangdui_ai_flavor:0 "ID000213"
+
+ binghaizhanshi:0 "ID000216"
+ binghaizhanshi_flavor:0 "ID000217"
+ culture_parameter_unlock_maa_lushangshangdui:0 "ID000218"
+ culture_parameter_unlock_maa_binghaizhanshi:0 "ID000219"
+ tradition_silafukuozhangzhuyi_name:0 "ID000220"
+ tradition_silafukuozhangzhuyi_desc:1 "ID000221"
+ tradition_binghaizhanji_name:0 "ID000222"
+ tradition_binghaizhanji_desc:1 "ID000223"
+
+ tradition_menganmouke_name:0 "ID000224"
+ tradition_menganmouke_desc:1 "ID000225"
+ culture_parameter_menganmouke_cbs: "[casus_belli|E]花费：[prestige_i]#P -30%#!
+
+ tradition_jiaqijuzhuang_name:0 "ID000226"
+ tradition_jiaqijuzhuang_desc:1 "ID000227"
+ culture_parameter_unlock_maa_jiaqijuzhuang: "ID000228"
+ culture_parameter_jiesuo_xunhao_jiaqi_juntou:0 "ID000229" 
+ dfbz_xinzeng_0005_attribute:0 "ID000230"
+ accolade_dfbz_xinzeng_0005:0 "ID000230"
+ accolade_maa_0005_001_attribute_jiaqijuzhuang:0 "先锋ID000070"
+ accolade_maa_0005_001_attribute_jiaqijuzhuang_flavor:1 "ID000233"
+ ai_accolade_maa_0005_001_attribute_jiaqijuzhuang:0 "先锋ID000070"
+ ai_accolade_maa_0005_001_attribute_jiaqijuzhuang_flavor:1 "ID000233"
+ accolade_maa_0005_002_attribute_jiaqijuzhuang:0 "亲卫ID000070"
+ accolade_maa_0005_002_attribute_jiaqijuzhuang_flavor:1 "ID000237"
+
+ dfbz_xinzeng_0006_attribute:0 "ID000238"
+ accolade_dfbz_xinzeng_0006:0 "ID000238"
+ accolade_maa_0006_001_attribute_hengchongdu:0 "ID000240"
+ accolade_maa_0006_001_attribute_hengchongdu_flavor:1 "ID000241"
+ ai_accolade_maa_0006_001_attribute_hengchongdu:0 "ID000240"
+ ai_accolade_maa_0006_001_attribute_hengchongdu_flavor:1 "ID000241"
+ accolade_maa_0006_002_attribute_hengchongdu:0 "ID000240"
+ accolade_maa_0006_002_attribute_hengchongdu_flavor:1 "ID000241"
+
+ dfbz_xinzeng_0007_attribute:0 "ID000246"
+ accolade_dfbz_xinzeng_0007:0 "ID000246"
+ accolade_maa_0007_001_attribute_changjiandu:0 "ID000248"
+ accolade_maa_0007_001_attribute_changjiandu_flavor:1 "[retinue_maa|E]\n#F 手持巨型ID000042的无双悍将，顷刻间斩敌于马下。#!"
+ ai_accolade_maa_0007_001_attribute_changjiandu:0 "ID000248"
+ ai_accolade_maa_0007_001_attribute_changjiandu_flavor:1 "[retinue_maa|E]\n#F 手持巨型ID000042的无双悍将，顷刻间斩敌于马下。#!"
+ accolade_maa_0007_002_attribute_changjiandu:0 "ID000248"
+ accolade_maa_0007_002_attribute_changjiandu_flavor:1 "[retinue_maa|E]\n#F 手持巨型ID000042的无双悍将，顷刻间斩敌于马下。#!"
+ accolade_maa_0007_003_attribute_changjiandu:0 "ID000248"
+ accolade_maa_0007_003_attribute_changjiandu_flavor:1 "[retinue_maa|E]\n#F 手持巨型ID000042的无双悍将，顷刻间斩敌于马下。#!"
+
+ dfbz_xinzeng_0008_attribute:0 "ID000256"
+ accolade_dfbz_xinzeng_0008:0 "ID000256"
+ yajiang_xunhao_xiaoguo_001:0 "$EFFECT_LIST_BULLET$解锁#V 部分#!ID000256任务[decision|E]\n$EFFECT_LIST_BULLET$小幅提升任务完成度"
+ yajiang_xunhao_xiaoguo_002:0 "$EFFECT_LIST_BULLET$解锁#V 多数#!ID000256任务[decision|E]\n$EFFECT_LIST_BULLET$中幅提升任务完成度"
+ yajiang_xunhao_xiaoguo_003:0 "$EFFECT_LIST_BULLET$解锁#V 全部#!ID000256任务[decision|E]\n$EFFECT_LIST_BULLET$大幅提升任务完成度"
+
+
+ world_steppe_cathay:0 "ID000261"
+
+ culture_parameter_unlock_maa_nvzhen_mouke:0 "ID000262"
+ culture_parameter_menganmouke_shouyutouxian_xiaoguo:0 "ID000263" 
+# [GetPlayer.Custom( 'KnightCulture' )]
+ nvzhen_mouke:0 "ID000264"
+ nvzhen_mouke_flavor:0 "ID000265"
+ nvzhen_mouke_ai:0 "ID000264"
+ nvzhen_mouke_ai_flavor:0 "ID000265"
+ must_be_feudal:0 "ID000268"
+ culture_parameter_silafukuozhangzhuyi_cbs:0 "ID000269"
+ culture_parameter_minfengbiaohan_cbs:0 "ID000269"
+
+ sudanweidui:0 "ID000271"
+ sudanweidui_flavor:0 "ID000272"
+
+
+
+ innovation_qishichuantong:0 "ID000273"
+ innovation_qishichuantong_desc:0 "ID000274"
+
+ innovation_sudanweidui:0 "ID000275"
+ innovation_sudanweidui_desc:0 "强大的统治者往往需要一支可靠的ID000275应对各种突发状况，并且这些人最好值得信赖。"
+ alabo_chifu_jinwei:0 "ID000277"
+ alabo_chifu_jinwei_flavor:0 "ID000278"
+
+ innovation_futejia:0 "ID000279"
+ innovation_futejia_desc:0 "ID000280"
+ innovation_minfengbiaohan:0 "ID000281"
+ innovation_minfengbiaohan_desc:0 "文明蒙昧，ID000281，原始的欲望充斥在每个人心中"
+
+ innovation_houzijia:0 "ID000283"
+ innovation_houzijia_desc:0 "羌人善锻甲，凡锻甲之法，其始甚厚，不用火，冷锻之，比元厚三分减二乃成。其末留箸头许不锻，隐然如瘊子，欲以验未锻时厚薄，如浚河留土笋也，谓之“ID000283”。强弩射之，不能入."
+ innovation_hengshanqiang:0 "ID000285"
+ innovation_hengshanqiang_desc:0 "ID000286"
+ innovation_dangxiangma:0 "ID000287"
+ innovation_dangxiangma_desc:0 "党项族居住的地斤泽、横山、天都山一带都是著名产马地区。马多而品种优良，唐代诗人元稹有“北买ID000287，西擒吐蕃鹦”之句。宋人更是称誉ID000287为天下之最。"
+ innovation_lengduangang:0 "ID000289"
+ innovation_lengduangang_desc:0 "ID000290"
+
+ innovation_langren:0 "ID000291"
+ innovation_langren_desc:0 "ID000292"
+ innovation_shenbigong:0 "ID000293"
+ innovation_shenbigong_desc:0 "ID000293一人可开,最大射程达四百米,能贯重甲。"
+ innovation_mazhengfeichi:0 "ID000295"
+ innovation_mazhengfeichi_desc:0 "ID000296"
+ innovation_baomafa:0 "ID000297"
+ innovation_baomafa_desc:0 "ID000298"
+
+ innovation_shangyeminzu:0 "ID000299"
+ innovation_shangyeminzu_desc:0 "ID000300"
+ innovation_hegong:0 "ID000301"
+ innovation_hegong_desc:0 "日本弓道所使用的一类长弓。标准的ID000301长度约为七尺三寸。"
+ innovation_tidao:0 "ID000303"
+ innovation_tidao_desc:0 "ID000303是古代日本使用的一种长柄兵器，其刀幅较宽，刀刃部分有很大弧度。"
+
+ innovation_zhanchengdao:0 "ID000305"
+ innovation_zhanchengdao_desc:0 "ID000306"
+
+ innovation_yinjinzhanchengdao:0 "引进ID000305"
+ innovation_yinjinzhanchengdao_desc:0 "引进出产于中南半岛高产、早熟、耐旱的ID000305，造福天下百姓。"
+
+ innovation_didawubo:0 "ID000309"
+ innovation_didawubo_desc:0 "ID000310"
+
+ innovation_heshuoqingqi:0 "ID000311"
+ innovation_heshuoqingqi_desc:0 "ID000312"
+
+ innovation_xinanma:0 "ID000313"
+ innovation_xinanma_desc:0 "ID000313性情灵敏而温驯，善于爬山，适于山地驮运，为高原山地的重要运输工具。"
+
+
+
+ baibaoxianbeiqi:0 "ID000315"
+ baibaoxianbeiqi_flavor:0 "#F ID000226中的佼佼者，常以少敌多而取得大胜，其战斗力之强悍冠古绝今，由以一当百的鲜卑武士组成#。"
+ yanyunshibaqi:0 "ID000317"
+ yanyunshibaqi_flavor:0 "ID000318"
+ xiliangtieqi:0 "ID000319"
+ xiliangtieqi_flavor:0 "#F ID000319作战彪悍凶狠，尤其适合沙漠戈壁的长距离持久奔袭作战。#。"
+ wengniute:0 "ID000321"
+ wengniute_flavor:0 "#F ID000321意为“有王之民”，是铁木哥斡赤斤的直属部落。#。"
+ wuliangha:0 "ID000323"
+ wuliangha_flavor:0 "#F ID000323是成吉思汗的名将者勒篾的后裔所率之部。#。"
+ wuyejite:0 "ID000325"
+ wuyejite_flavor:0 "#F ID000325的起源可能是蒙古化的女真人。#。"
+ qiexue:0 "ID000327"
+ qiexue_flavor:0 "ID000328"
+
+
+ guaizima:0 "ID000329"
+ guaizima_flavor:0 "#F ID000329通常布置在两翼，利用其高度的机动性、以及集团冲锋时所产生的巨大冲击力，用以对敌军迂回包抄，而后突击。#。"
+ guaizima_ai:0 "ID000329"
+ guaizima_ai_flavor:0 "#F ID000329通常布置在两翼，利用其高度的机动性、以及集团冲锋时所产生的巨大冲击力，用以对敌军迂回包抄，而后突击。#。"
+
+
+ tiefutu:0 "ID000333"
+ tiefutu_flavor:0 "#F ID000333人马俱着重甲，堵墙而进，除长枪外身背长刀，铁棍，下马力战不落下风。#。"
+ tiefutu_ai:0 "ID000333"
+ tiefutu_ai_flavor:0 "#F ID000333人马俱着重甲，堵墙而进，除长枪外身背长刀，铁棍，下马力战不落下风。#。"
+ dajin_hubuwei:0 "ID000337"
+ dajin_hubuwei_flavor:0 "#F 精挑细选的ID000333战士，他们身披重甲手持骨朵，步战时亦不落下风。#。"
+
+ tieyaozi:0 "ID000339"
+ tieyaozi_flavor:0 "#F ID000339最初是西夏开国皇帝李元昊的亲兵部队，由近亲贵族子弟组成，乘善马，着重甲，对步兵杀伤极强。#。"
+ tieyaozi_ai_01:0 "ID000339"
+ tieyaozi_ai_01_flavor:0 "#F ID000339最初是西夏开国皇帝李元昊的亲兵部队，由近亲贵族子弟组成，乘善马，着重甲，对步兵杀伤极强。#。"
+ tieyaozi_ai_02:0 "ID000339"
+ tieyaozi_ai_02_flavor:0 "#F ID000339最初是西夏开国皇帝李元昊的亲兵部队，由近亲贵族子弟组成，乘善马，着重甲，对步兵杀伤极强。#。"
+ tieyaozi_ai_01_01:0 "ID000339"
+ tieyaozi_ai_01_01_flavor:0 "#F ID000339最初是西夏开国皇帝李元昊的亲兵部队，由近亲贵族子弟组成，乘善马，着重甲，对步兵杀伤极强。#。"
+
+
+ bubazi:0 "ID000347"
+ bubazi_flavor:0 "#F 以ID000285人为主力的步跋子，耐力相比于同时期的汉人更强，抗寒能力更佳。广泛活跃于溪涧、山谷等高低起伏不平不利于骑兵机动的特定区域。在这些作战区域内，他们机动性极高，可以快速腾挪于战场各处。#。"
+ bubazi_ai_01:0 "ID000347"
+ bubazi_ai_01_flavor:0 "#F 以ID000285人为主力的步跋子，耐力相比于同时期的汉人更强，抗寒能力更佳。广泛活跃于溪涧、山谷等高低起伏不平不利于骑兵机动的特定区域。在这些作战区域内，他们机动性极高，可以快速腾挪于战场各处。#。"
+ bubazi_ai_02:0 "ID000347"
+ bubazi_ai_02_flavor:0 "#F 以ID000285人为主力的步跋子，耐力相比于同时期的汉人更强，抗寒能力更佳。广泛活跃于溪涧、山谷等高低起伏不平不利于骑兵机动的特定区域。在这些作战区域内，他们机动性极高，可以快速腾挪于战场各处。#。"
+ bubazi_ai_01_01:0 "ID000347"
+ bubazi_ai_01_01_flavor:0 "#F 以ID000285人为主力的步跋子，耐力相比于同时期的汉人更强，抗寒能力更佳。广泛活跃于溪涧、山谷等高低起伏不平不利于骑兵机动的特定区域。在这些作战区域内，他们机动性极高，可以快速腾挪于战场各处。#。"
+ dangxiangwushi:0 "ID000355"
+ dangxiangwushi_flavor:0 "#F 身批重装ID000283的ID000355，武艺高强，刀枪难入。#。"
+ dangxiangwushi_ai:0 "ID000355"
+ dangxiangwushi_ai_flavor:0 "#F 身批重装ID000283的ID000355，武艺高强，刀枪难入。#。"
+ dangxiangwushi_ai_01:0 "ID000355"
+ dangxiangwushi_ai_01_flavor:0 "#F 身批重装ID000283的ID000355，武艺高强，刀枪难入。#。"
+
+ xixia_yuweinei_001:0 "ID000361"
+ xixia_yuweinei_001_flavor:0 "ID000362"
+ xixia_jinnushi:0 "ID000363"
+ xixia_jinnushi_flavor:0 "ID000364"
+
+
+ mengguzhongqibing:0 "ID000365"
+ mengguzhongqibing_flavor:0 "ID000366"
+ mengguzhongqibing_ai:0 "ID000365"
+ mengguzhongqibing_ai_flavor:0 "ID000366"
+ manggudai:0 "ID000369"
+ manggudai_flavor:0 "ID000370"
+ shenbigongshou:0 "ID000293手"
+ shenbigongshou_flavor:0 "#F 装备有ID000293的精锐弓手部队，予以重甲敌军痛击。#。"
+ qindihanzu:0 "ID000373"
+ qindihanzu_flavor:0 "ID000374"
+ baierbing:0 "ID000375"
+ baierbing_flavor:0 "ID000376"
+
+
+ guiyilapbing:0 "ID000377"
+ anxijun:0 "ID000378"
+ anxijun_flavor:0 "ID000379"
+ yabing:0 "ID000380"
+ yabing_flavor:0 "#F ID000380,又称衙兵，藩镇之最亲兵，极为精锐，负责保卫衙城和藩帅，是藩镇军的核心力量。#。"
+ liangjiazi_yabing:0 "良家子ID000380"
+ liangjiazi_yabing_flavor:0 "ID000383"
+ shijian_yabing:0 "ID000380"
+ shijian_yabing_flavor:0 "#F ID000380,又称衙兵，藩镇之最亲兵，极为精锐，负责保卫衙城和藩帅，是藩镇军的核心力量。#。"
+ yabing_tang:0 "ID000380"
+ yabing_tang_flavor:0 "#F ID000380,又称衙兵，藩镇之最亲兵，极为精锐，负责保卫衙城和藩帅，是藩镇军的核心力量。#。"
+ yabing_tang_ai:0 "ID000380"
+ yabing_tang_ai_flavor:0 "#F ID000380,又称衙兵，藩镇之最亲兵，极为精锐，负责保卫衙城和藩帅，是藩镇军的核心力量。#。"
+ majun:0 "ID000390"
+ majun_flavor:0 "ID000391"
+ majun_ai:0 "ID000390"
+ majun_ai_flavor:0 "ID000391"
+ majun_ai_shijian:0 "ID000390"
+ majun_ai_shijian_flavor:0 "ID000391"
+ podaoshou:0 "ID000396"
+ podaoshou_flavor:0 "ID000397"
+ dasong_daopaishou:0 "ID000398"
+ dasong_daopaishou_flavor:0 "ID000399"
+
+ heshuoqingqi:0 "ID000311"
+ heshuoqingqi_flavor:0 "ID000401"
+ baimayicong:0 "ID000402"
+ baimayicong_flavor:0 "#F 久居边塞的军民不堪外族年年袭扰，幽燕豪族振臂高呼，于是重建ID000402，扬汉儿威风。#。"
+
+ burenjia:0 "ID000404"
+ burenjia_flavor:0 "#F 身披重甲手持重斧的精锐步兵部队，防御力惊人，有效的规避抛射物伤害的同时还能发起猛烈的反冲锋。但ID000404的成建制装备需要大量时间与金钱#。"
+ jingsaitieqi:0 "ID000406"
+ jingsaitieqi_flavor:0 "ID000407"
+
+ beiwei_zhongqibing:0 "ID000408"
+ beiwei_zhongqibing_flavor:0 "ID000409"
+
+
+ langren:0 "ID000291"
+ langren_flavor:0 "ID000411"
+ yixiangyikui:0 "ID000412"
+ yixiangyikui_flavor:0 "#F 难以控制的ID000412众，发疯的僧团武装会毁灭遇到的所有事物。#。"
+
+
+ chu_ko_nu_ai:0 "ID000414"
+ chu_ko_nu_ai_flavor:0 "ID000415"
+ chu_ko_nu_ai_song:0 "ID000414"
+ chu_ko_nu_ai_song_flavor:0 "ID000415"
+
+ conglinlieshou:0 "ID000418"
+ conglinlieshou_flavor:0 "ID000419"
+
+ yinqiangxiaojiedu:0 "ID000420"
+ yinqiangxiaojiedu_flavor:0 "ID000421"
+
+ yaerjun:0 "ID000422"
+ yaerjun_flavor:0 "ID000423"
+
+ qidanwushi:0 "ID000261武士"
+ qidanwushi_flavor:0 "#F 从青壮年ID000261战士中精挑细选出来的步战精英，个个都是身经百战的破阵好手#。"
+
+ suteyabing:0 "粟特ID000380"
+ suteyabing_flavor:0 "ID000427"
+
+
+nvzhen_zhanzheng_01_decision:0 "ID000428"
+nvzhen_zhanzheng_01_decision_tooltip:0 " "
+nvzhen_zhanzheng_01_decision_confirm:0 " "
+ xinzeng_dajin:0 "ID000429"
+ NEW_CREATED_TITLE_DAJIN_NAME:0 "[old_title.GetBaseNameNoTierNoTooltip]"
+ tongyinvzhen.0001.t:0 "ID000430"
+ tongyinvzhen.0001.desc:0 "氏族首领们聚拢在我身边，ID000333，ID000329，所有强者都为我的大业欢呼。\n\n战士们向我致意，让我们冲出森林，将世界牢牢纂于掌中。"
+ tongyinvzhen.0001.a:0 "ID000432"
+
+ tongyinvzhen_decision:0 "ID000430"
+ tongyinvzhen_decision_desc:0 "ID000434"
+ tongyinvzhen_decision_confirm:0 "ID000435"
+ tongyinvzhen_decision_tooltip:0 "ID000430准备征服世界"
+ nvzhendajun:0 "ID000437"
+
+
+ ai_nvzhenzhengfuzhe_erdai_decision:0 "ID000438"
+ ai_nvzhenzhengfuzhe_erdai_decision_confirm:0 " "
+ ai_nvzhenzhengfuzhe_erdai_decision_tooltip:0 " "
+
+ ai_yichuqizhi_decision:0 "ID000439"
+ ai_yichuqizhi_decision_confirm:0 " "
+ ai_yichuqizhi_decision_tooltip:0 " "
+
+ ai_nvzhenzhengfuzhanzheng_01_decision:0 "ID000440"
+ ai_nvzhenzhengfuzhanzheng_decision_desc:0 "ID000441"
+ ai_nvzhenzhengfuzhanzheng_01_decision_confirm:0 " "
+ ai_nvzhenzhengfuzhanzheng_01_decision_tooltip:0 " "
+
+ ai_nvzhenzhengfuzhanzheng_02_decision:0 "ID000441（二阶段）"
+ ai_nvzhenzhengfuzhanzheng_02_decision_confirm:0 " "
+ ai_nvzhenzhengfuzhanzheng_02_decision_tooltip:0 " "
+
+ ai_nvzhenzhengfuzhanzheng_03_decision:0 "ID000441（三阶段）"
+ ai_nvzhenzhengfuzhanzheng_03_decision_confirm:0 " "
+ ai_nvzhenzhengfuzhanzheng_03_decision_tooltip:0 " "
+
+ nvzhenzhengfuzhanzheng.0001.t:0 "ID000444"
+ nvzhenzhengfuzhanzheng.0001.d:0 "ID000445"
+ nvzhenzhengfuzhanzheng.0001.a:0 "ID000446"
+ chenfuyu_nvzhenzhengfuzhe_tooltip:0 "ID000447"
+ fankang_nvzhenzhengfuzhe_tooltip:0 "ID000448"
+ nvzhenzhengfuzhe_kaizhan_tooltip:0 "ID000449"
+ nvzhenzhengfuzhanzheng.0001.b:0 "ID000450"
+
+ nvzhenzhengfuzhanzheng.0003:0 "ID000451"
+ nvzhenzhengfuzhanzheng.0003.desc:0 "ID000452"
+ nvzhenzhengfuzhanzheng.0003.a:0 "ID000453"
+
+ nvzhenzhengfuzhanzheng.0002.t:0 "ID000454"
+ nvzhenzhengfuzhanzheng.0002.desc:0 "ID000455"
+ nvzhenzhengfuzhanzheng.0002.a:0 "ID000456"
+
+ NVZHEN_CONQUEST_WAR_NAME:1 "ID000457"
+ nvzhenzhengfuzhanzheng_defeat_defender_desc:0 "ID000458"
+ nvzhenzhengfuzhanzheng_defeat_attacker_desc:0 "ID000459"
+ nvzhenzhengfuzhanzheng_defeat_desc:0 "ID000459"
+
+ xinzeng_wanjia_zengjia_dichangezi_decision:0 "ID000461"
+ xinzeng_wanjia_zengjia_dichangezi_decision_desc:0 "#F ID000461"
+ xinzeng_wanjia_zengjia_dichangezi_decision_confirm:0 " "
+ xinzeng_wanjia_zengjia_dichangezi_decision_tooltip:0 " "
+
+ 

@@ -1,0 +1,105 @@
+Chunk 2 received from API:
+ID000112 Fully adapted to the dense forests of Northeast Asia, mounted archers are more suited to the local warfare environment than other nomadic forces on the grasslands.
+ID000113 Mounted Archer
+ID000115 Defender
+ID000116 Temporary troops recruited from rural border areas to defend against threats from neighboring countries.
+ID000117 Warrior
+ID000118 A warrior is one who kills, robs, and pillages.
+ID000120 Usually engaged in labor, they become infantry during wartime.
+ID000121 Northern Samurai
+ID000122 Samurai stationed beneath the northern side of the imperial residence, guarding the emperor and attending to imperial affairs.
+ID000123 Archers
+ID000124 The continuation of traditional archery from the Yamato people on the battlefield.
+ID000125 Naginata Warriors
+ID000126 Utilizing long and sharp naginatas as weapons, they pose a significant challenge on the battlefield, either forming ranks to resist the enemy or dispersing to ambush them.
+ID000128 Skilled archers and hunters navigate through the complex mountainous forests of the Korean Peninsula, delivering painful strikes to the enemy with their superior shooting skills.
+ID000129 Left Folio
+ID000130 Expert shielded infantry who know how to dodge the rain of arrows.
+ID000132 Elite heavy infantry created to combat the Jurchens; they are skilled against cavalry.
+ID000133 Hwarang
+ID000134 Young nobles of Goryeo who have practiced martial arts since childhood; not only are they exceptional in archery, but their appearance and manners are also admired by all.
+ID000135 Imperial Guard
+ID000136 An army specially dedicated to the emperor, responsible for guarding the palace and the emperor himself, selected through rigorous criteria and possessing exceptional martial skills.
+ID000138 Elite troops guarding the capital.
+ID000139 Palace Guard
+ID000140 An army directly under the emperor, responsible for the protection of the emperor or the palace, and the defense of the capital.
+ID000141 Auxiliary Troops
+ID000143 Provincial Troops
+ID000144 Provincial army led by governors and military commanders in various regions.
+ID000145 Border Troops
+ID000146 Recruited from various border towns to prevent foreign enemies.
+ID000147 Local Army
+ID000148 Soldiers recruited locally, with varying quality.
+ID000151 Militia
+ID000152 Temporarily recruited local soldiers who camp and defend together.
+ID000153 Miao Warrior
+ID000155 Water Infantry
+ID000156 Composed of southern infantry skilled in naval battles, responsible for ensuring water and land movement, and guarding river traffic. They can infiltrate through river networks to strike at the enemy unexpectedly when necessary.
+ID000157 Elephant Armored Warriors
+ID000158 Elite warriors clad in heavy elephant hide armor, unafraid of the enemy's rain of arrows.
+ID000159 Urumi Sword
+ID000160 One of the traditional martial arts from India, known for its swift speed and exceptional technique.
+ID000161 Urumi Swordsman
+ID000162 Darvish warriors proficient with the soft sword, rapidly penetrating enemy formations to deal massive damage to enemies in the area.
+ID000163 Rajput Warrior
+ID000164 Cavalry warriors of the Kshatriya class, their curved swords strike accurately at their enemies.
+ID000165 Nayyar Infantry
+ID000166 Darvish warriors from India who have long practiced Kalaripayattu martial arts, wielding spears and cooperating seamlessly.
+ID000167 Sinhalese Guard
+ID000169 Claws of the Jungle
+ID000170 We have made this powerful weapon—the claw blade—by imitating the claws of the king of the jungle, the tiger.
+ID000171 Claw Blade Warrior
+ID000172 A phantom lurking in the dense jungles of the Southern Islands, using swift claw blades to cut open the throats of their enemies.
+ID000173 Grassland Horse Archer
+ID000174 #F Hungry pastoralists travel in groups, seizing every opportunity to fill their bellies#.
+ID000178 #F Cavalry unit composed of Uighur warriors, skilled in archery and horsemanship#.
+ID000179 Zampu Guard Unit
+ID000180 #F The elite guard unit of the Zampu, composed of high-ranking subjects from Tibet performing military tasks#.
+ID000183 Wuru Gui Cavalry
+ID000184 #F Composed of high-ranking subjects from Tibet performing military tasks, well-equipped and armored elite Tibetan heavy cavalry. They roam the plateau, always ready to deliver fierce blows to their enemies#.
+ID000185 Yongdong Dai Protection
+ID000186 #F Light infantry composed of "Yong," who primarily engage in agriculture and are of low status. They are adept at using spears and slings, employing a strategy of harassment and ambush#.
+ID000187 You can recruit [GetMaA('wushi').GetName] as [men_at_arms|E]
+ID000188 You can recruit [GetMaA('zuqing').GetName] as [men_at_arms|E]
+ID000189 Brave and Fearless
+ID000190 Only the strong deserve to live.
+ID000191 [GetTrait('brave').GetName(GetNullCharacter)][trait|E] more common
+ID000192 [GetTrait('strong').GetName(GetNullCharacter)][trait|E] more common
+ID000193 [GetTrait('blademaster_1').GetName(GetNullCharacter)][trait|E] more common
+ID000194 [GetTrait('blademaster_2').GetName(GetNullCharacter)][trait|E] more common
+ID000195 [GetTrait('blademaster_3').GetName(GetNullCharacter)][trait|E] more common
+ID000196 [GetTrait('physique_good_1').GetName(GetNullCharacter)][trait|E] more common
+ID000197 [GetTrait('physique_good_2').GetName(GetNullCharacter)][trait|E] more common
+ID000198 [GetTrait('physique_good_3').GetName(GetNullCharacter)][trait|E] more common
+ID000199 [GetTrait('content').GetName(GetNullCharacter)][trait|E] more common
+ID000200 [GetTrait('ambitious').GetName(GetNullCharacter)][trait|E] more common
+ID000201 The Art of War
+ID000202 War is an art; the winner takes all, while the loser has nothing.
+ID000203 Peaceful and Content
+ID000204 Life is important, but happiness is more important.
+ID000205 The [culture|E] should have $ethos_courtly_name$ as its [ethos|E]
+ID000206 Knightly Refuge
+ID000207 Proud knights often struggle with managing their estates and choose to completely depend on wealthier rulers.
+ID000208 Fallen Knight
+ID000209 A feudal knight who has fallen so low that they have nothing but martial power, leading a small retinue of followers while hoping for the day they rise again under a wealthy ruler.
+ID000210 You can recruit [GetMaA('luopoqishi').GetName] as [men_at_arms|E]
+ID000211 The [culture|E] lacks $ethos_spiritual_name$ as its [ethos|E]
+ID000212 Land Caravan
+ID000213 The sound of camel bells echoes as time flows, the connectivity of land routes has given rise to a large number of merchants who traverse the desolate sands, bringing countless exotic treasures.
+ID000216 Ice Sea Warriors
+ID000217 The icy ocean churns, bringing forth terrifying destroyers.
+ID000218 You can recruit [GetMaA('lushangshangdui').GetName] as [men_at_arms|E]
+ID000219 You can recruit [GetMaA('binghaizhanshi').GetName] as [men_at_arms|E]
+ID000220 Slavic Expansionism
+ID000221 The unique pioneering spirit of the Slavs, situated in harsh cold, longs for warmth, and its inherent contradictions necessitate expansion.
+ID000222 Songs of Blood and Ice
+ID000223 A hymn of blood and ice, the icy sea endures.
+ID000224 Meng'an Moke
+ID000225 These military leaders, established in the later stages of primitive society for raids and hunting needs, gradually developed into a fixed military organization over time.
+ID000226 Armored Cavalry
+ID000227 Cavalry warriors equipped with armor are the masters of war, sweeping everything away with their overwhelming force.
+ID000228 You can recruit [GetMaA('jiaqijuzhuang').GetName] as [men_at_arms|E]
+
+===DIAGNOSTIC===
+All lines were correctly translated. No issues encountered during the translation process.
+

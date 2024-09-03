@@ -26,7 +26,7 @@ initial_wait_time = 5  # Initial wait time before retrying (in seconds)
 
 # Paths
 file_path = r"./keys.env"
-translation_directory = r"D:\Documents\Self help websites and data for games etc\paradox\ck3\Auto-translator-for-paradox-localisations\Translate Chinese only type 3\to be translated2"
+translation_directory = r"C:\Users\samue\Desktop\New folder\Auto-translator-for-paradox-localisations\Translate Chinese only type 3\to be translated2"
 
 # Load environment variables and API key
 debug_load_dotenv(file_path)
@@ -95,6 +95,8 @@ def replace_with_ids(file_content, phrases, cleaned_file_path):
 
         # Replace the stripped phrase with the unique ID
         if stripped_phrase in file_content:
+            # Replacing Found chinese phrases with the "ID0000XX" string
+            #THIS NEEDS TO BE CHANGED TO ACTUALLY REPLACE THE ONLY THE FOUND CHINESE PHRASE, NOT EVERY INSTANCE OF IT, ALTTERNATIVEL,Y REPLACE ONLY FIRST INSTANCE FOUND
             file_content = file_content.replace(stripped_phrase, unique_id)
             id_map[unique_id] = stripped_phrase
         else:

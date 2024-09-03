@@ -1,0 +1,40 @@
+Chunk 4 received from API:
+ID000418 Jungle Hunter  
+ID000419 #F A seasoned hunter who has roamed the jungle for years, well-versed in everything within the jungle.#  
+ID000420 Silver Lance Corps  
+ID000421 #F The most elite force of Weibo, named for their uniform use of long spears.#  
+ID000422 Crow Army  
+ID000423 #F The main elite force under Li Keyong, mainly composed of brave young Shato cavalry.#  
+ID000427 #F The Sogdian group has complex relationships, with various factions intertwined, forming numerous private armed groups.#  
+ID000428 Jurchen Conquest (AI)  
+ID000429 Great Jin  
+ID000430 Unified Jurchen Tribes  
+ID000432 My conquest begins here.  
+ID000434 #F Years of effort have finally borne fruit; all the tribal leaders are willing to support my rule.\n\nFrom this moment on, the world will tremble beneath my feet.#  
+ID000435 Prepare the entire army!  
+ID000437 Great Jurchen Army  
+ID000438 AI Jurchen Conqueror (II)  
+ID000439 AI Automatically Remove Flag (Anti-Bug)  
+ID000440 Jurchen Conquest War (Phase One)  
+ID000441 Jurchen Conquest War  
+ID000444 Hand over your lands!  
+ID000445 Your decayed rule is coming to an end. I, [nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName], give you three days to surrender your territory, or face the consequences!  
+ID000446 My lord, I am willing to give up my lands and submit to you...  
+ID000447 Submit to [nvzhenzhengfuzhe.GetTitledFirstName]  
+ID000448 Go to war with [nvzhenzhengfuzhe.GetTitledFirstName]  
+ID000449 Go to war with [demand_recipient.GetTitledFirstName]  
+ID000450 Get lost!  
+ID000451 To the foolish [nvzhenzhengfuzhe.GetFirstName]  
+ID000452 Take back your threats! Foolish [nvzhenzhengfuzhe.GetFirstName]! \n\nYour threats are weaker than a three-year-old child’s. Who do you think you are? You pig who fantasizes about touching my territory.  
+ID000453 Dog! I will crush you into dust!  
+ID000454 Beginning of the Conquest  
+ID000455 I and my tribesmen were summoned before [nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName], where every clan leader and vassal of the Jurchen gathered. We all knew why and engaged in an all-night discussion within the smoky tent, during which no doubts arose.\n\n[nvzhenzhengfuzhe.GetFirstName] shouted the names of our ancestors loudly, walking past each Jurchen warrior and communicating warmly with them. I could feel the warriors' blood boiling. \n\nFrom now on, the world will tremble beneath Conqueror [nvzhenzhengfuzhe.GetFirstName]!  
+ID000456 For the glory of the Jurchens! For [nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName]!  
+ID000457 Great Conquest War of the $jurchen$  
+ID000458 You repelled [attacker.GetShortUIName|U], but what about next time...  
+ID000459 [defender.GetShortUIName|U] held onto the contested title, temporarily...  
+ID000461 Player Gains Property Tile  
+
+===DIAGNOSTIC===  
+- All translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.
+

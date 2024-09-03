@@ -1,0 +1,105 @@
+Chunk 3 received from API:
+ID000229 The [culture|E]'s [knights|E] are eligible for [GetAccoladeType('dfbz_xinzeng_0005_attribute').GetName][accolades|E]  
+ID000230 Armored Cavalry Commander  
+ID000233 [retinue_maa|E]\n#F Elite armored cavalry that follow the commander into battle, striking directly at the enemy's vital points.#!  
+ID000237 [retinue_maa|E]\n#F Elite armored cavalry that protects the core of the battle formation and can deliver devastating blows to the enemy if necessary.#!  
+ID000238 Frontal Charge Commander  
+ID000240 Frontal Charge  
+ID000241 [retinue_maa|E]\n#F Heavy cavalry that exploits fleeting weaknesses in the enemy's line to launch fierce charges, achieving decisive victories in single strikes.#!  
+ID000246 Longsword Commander  
+ID000248 Longsword  
+ID000256 Tooth General  
+ID000261 Khitan  
+ID000262 You can recruit [GetMaA('nvzhen_mouke').GetName] as [men_at_arms|E]  
+ID000263 Granting land to your $jurchen$ [knights|E] will significantly boost their combat will, \nbut a prolonged life of comfort will also quickly corrupt them.  
+ID000264 Strategist  
+ID000265 Elite soldiers selected through rigorous processes, all of whom are skilled raiders and hunters from various tribes.  
+ID000268 You must have [feudal|E][government|E]  
+ID000269 [casus_belli|E] cost: [prestige_i]#P -40%#!  
+ID000271 Sultan's Guard  
+ID000272 A reliable guard composed of the Sultan's confidants, also doing some shady work for the Sultan in daily life.  
+ID000273 Knightly Traditions  
+ID000274 The vast plains of France serve as the main battlefield for knights, where the fiercest knightly companies of the medieval period were nurtured.  
+ID000275 Honor Guard  
+ID000277 Axe-wielding Guards  
+ID000278 #F The long axe is a symbol of power and strength. This guard unit belongs to a powerful ruler.#  
+ID000279 Vodka  
+ID000280 The water of life, the pride of the Ross people.  
+ID000281 Fierce Folk  
+ID000283 Wart-covered Armor  
+ID000285 Highland Qiang  
+ID000286 The Qiang tribes, widely found in the northwest mountainous regions, excel in off-road abilities and navigate the mountains effortlessly.  
+ID000287 Tangut Horse  
+ID000289 Cold-forged Steel  
+ID000290 The Tangut people's steel forging technology is unparalleled, and possessing a sword from the Xia Kingdom is considered an immense honor. The sword carried by Song Qinzong himself was the 'Xia Kingdom Sword.' Su Dongpo once received a Western Xia sword and wrote: ‘Red makeup gathers at the flower, while green reeds draw the blade in the hall, a spiral root raises the waves, a white dragon clasps three dragons.’  
+ID000291 Ronin  
+ID000292 Madly risking everything to restore past authority, claiming to be the Emperor's personal troops, appearing everywhere as a "patriot," wielding an extraordinary skill.  
+ID000293 Divine Bow  
+ID000295 Horse Management Neglected  
+ID000296 The upper rulers' neglect combined with the lower officials' poor governance has plunged the Central Plains horse management into an irreversible predicament.  
+ID000297 Horse Protection Law  
+ID000298 The situation of having no horses available in the Central Plains has officially reversed, effective horse management policies have been implemented, and if the entire system operates smoothly, it will benefit generations to come.  
+ID000299 Commercial Nation  
+ID000300 The Sogdian people frequently traveled along the long Silk Road between Central Asia and China, reaping immense wealth from medieval East-West trade.  
+ID000301 Peace Bow  
+ID000303 Naginata  
+ID000305 Champa Rice  
+ID000306 A high-yield, early-maturing, drought-resistant rice variety produced in the Southeast Asian Peninsula, benefiting a wide range.  
+ID000309 Vast Land and Rich Resources  
+ID000310 Born from Yandi and Huangdi, nurturing Huaxia. When treated well, they will surely repay China.  
+ID000311 He-Shuo Light Cavalry  
+ID000312 Since ancient times, Yan has produced many warriors, and with its location at the border, horse trading has been plentiful. Long-term interactions between Hu and Han have enabled everyone from good families to ride.  
+ID000313 Southwestern Horses  
+ID000315 Baibaoxianbei Cavalry  
+ID000317 Yanyun Eighteen Cavalries  
+ID000318 #F Legend has it that the troops led by Suiju general Luo Yi charged deep into the Turkic center across the desert, annihilating twenty thousand Turks overnight.#  
+ID000319 Xiliang Iron Cavalry  
+ID000321 Wengniute  
+ID000323 Wulanghai  
+ID000325 Wujieyete  
+ID000327 Kesheng Army  
+ID000328 #F The Imperial Guard personally appointed by Genghis Khan, evolving from a hundred personal guards to a valiant army of ten thousand, including one thousand veterans, one thousand archers, and eight thousand foot soldiers.#  
+ID000329 Curved Horse  
+ID000333 Iron Pagoda  
+ID000337 Tiger Step Guard  
+ID000339 Iron Hawk  
+ID000347 Highland Foot Soldiers  
+ID000355 Tangut Warriors  
+ID000361 The Six Classes of Fully Equipped Guards within the Royal Arena  
+ID000362 #F The fully equipped personal soldiers defending the center of Western Xia.#  
+ID000363 Crossbow Soldiers  
+ID000364 #F It is crucial to build defense lines with skilled archers when facing harassment from nomadic forces outside the passes.#  
+ID000365 Mongolian Heavy Cavalry  
+ID000366 #F The Sulukht of the world conquerors is a terrifying beast that has destroyed countless civilizations.#  
+ID000369 Mangudai  
+ID000370 #F Unmatched Mongolian heavy armored cavalry.#  
+ID000373 Qin Territory Brave Soldiers  
+ID000374 #F The Qin land is fierce, densely populated with brave warriors who can form battle units.#  
+ID000375 White Felt Troops  
+ID000376 #F An elite unit organized during the Three Kingdoms period by the Shu Kingdom, mainly consisting of Miao and other tribes active in the mountainous forests of Shu.#  
+ID000377 Guoyi Veterans  
+ID000378 Anxi Army  
+ID000379 #F “Looking up to see the sun but not seeing Chang'an." The sharp sword of the Tang Dynasty, and also the final glory of the Empire.#  
+ID000380 Tooth Soldiers  
+ID000383 #F High-quality armored infantry without worries or concerns.#  
+ID000390 Cavalry  
+ID000391 #F Elite cavalry troops of the agricultural civilization.#  
+ID000396 Pukou Soldier  
+ID000397 #F Each person wields a long-handle Pukou knife, specializing in breaking cavalry charges.#  
+ID000398 Saber and Shield Soldiers  
+ID000399 #F Fierce warriors holding a knife in one hand and a shield in the other.#  
+ID000401 #F Since ancient times, Yan has produced many warriors, and with its location at the border, horse trading has been plentiful. Long-term interactions between Hu and Han have enabled everyone from good families to ride.#  
+ID000402 White Horse Yizong  
+ID000404 Infantry Armor  
+ID000406 Jing塞 Iron Cavalry  
+ID000407 #F Each soldier of the Jing塞 army has five horses. The knights are all from the northern region of Yizhou and can draw a bow weighing 200 jin, known for their ferocity. All horses are high-quality steeds, fully armored with heavy armor, and apart from bows and arrows, all are equipped with hooked long spears.#  
+ID000408 Beihou Heavy Cavalry  
+ID000409 #F Shaking the mountain is easy, shaking the Yue Family Army is hard!#  
+ID000411 #F Dispossessed warriors wandering without a master after losing their fief, fierce and bloodthirsty, extraordinarily brutal.#  
+ID000412 Monk Soldiers  
+ID000414 Repeating Crossbow Soldiers  
+ID000415 #F These crossbowmen equipped with Zhuge's repeating crossbow can shoot bolts with devastating speed.#  
+
+===DIAGNOSTIC===  
+All translations are consistent and preserve the identifiers and formatting as required. No issues were encountered during the translation.
+

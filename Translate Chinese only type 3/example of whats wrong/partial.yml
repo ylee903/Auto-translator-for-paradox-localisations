@@ -1,0 +1,610 @@
+﻿l_simp_chinese:
+
+ #NEW
+ tradition_yues_name:0 "Baiyue Ambition"
+ tradition_yues_desc:0 "Baiyue generally refers to the coastal regions of East Asia, specifically the groups that inhabit the banks of major rivers; they were among the earliest settlers of the East Asian continent."
+
+ tradition_java_warriors_name:0 "King of the Islands"
+ tradition_java_warriors_desc:0 "translation was performed accurately based on the provided Chinese text. No issues were encountered during the translation process. Austronesian tribes traverse countless islands, accompanied by tides and storms, dominating the seas under the sun."
+ 
+ tradition_tunguse_name:0 "White Mountains and Black Waters"
+ tradition_tunguse_desc:0 "translation was performed accurately based on the provided Chinese text. No issues were encountered during the translation process. regions of the Xing'an Range, Changbai Mountain, Nen River, and Heilong River nurture many tribes; under the protection of the willow goddess, they thrive and emerge from the forests in waves."
+
+ innovation_nanman_group:0 "Lord of the Jungle"
+ innovation_nanman_group_desc:0 "From Ailao Mountain to Wuyi Mountain, brave hunting tribes scatter across the landscape; tales of Chi You vying for supremacy in the Central Plains have become legend, yet they never abandon their glory."
+
+ tradition_yamato_name:0 "Prosperity of Martial Arts"
+ tradition_yamato_desc:0 "translation was performed accurately based on the provided Chinese text. No issues were encountered during the translation process. Yamato people firmly believe that since the mythological times, they are ordained by heaven; in the fleeting moments of falling flowers, there is joy and sorrow; after playing the zither for a thousand days, their hearts align with the sword."
+
+ innovation_goryeo_group:0 "High Mountains and Beautiful Waters"
+ innovation_goryeo_group_desc:0 "Unlike the Malgal ethnicity recognized by historians of the Central Plains, the tribes of Goryeo claim descent from Dangun and were once revived by the descendants of Buyeo."
+ 
+ innovation_mongolic_group:0 "Grey Wolf and White Deer"
+ innovation_mongolic_group_desc:0 "In the Chileen River Valley, under the Yin Mountain. translation was performed accurately based on the provided Chinese text. No issues were encountered during the translation process. sky resembles a yurt, covering all around. translation was performed accurately based on the provided Chinese text. No issues were encountered during the translation process. sky is blue, the wilderness vast. translation was performed accurately based on the provided Chinese text. No issues were encountered during the translation process. wind blows low over the grass, revealing cattle and sheep."
+ 
+ tradition_chinese_succession_name:0 "ClanAll translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.Based Tradition"
+ tradition_chinese_succession_desc:0 "For intensive labor, people gather in clans, increasing life and decreasing death; they live under the constraints of the clan, where fathers hold supreme authority, adhering to a system of hereditary succession for the eldest son, prohibited from injury to the body, first respecting parents and then extending that respect to others, and those who violate the clan laws are considered despicable by all."
+ culture_parameter_can_have_tradition_succession_law:0 "Implementing a hereditary system for identifiable heirs based on the eldest son"
+
+ innovation_centralization_of_authority:0 "Thousands of Miles of Carriages and Books"
+ innovation_centralization_of_authority_desc:0 "With the same tracks for carriages, same script for writing, and same ethics for conduct. translation was performed accurately based on the provided Chinese text. No issues were encountered during the translation process. early fully unified centralized system can organize mass production, while the supreme imperial power possesses and disposes of everything."
+ 
+ culture_parameter_unlock_maa_mangudai:0 "Recruitable [GetMaA('mangudai').GetName][men_at_arms|E]"
+ culture_parameter_unlock_maa_asia_tunguse_ss:0 "Recruitable [GetMaA('asia_tunguse_ss').GetName][men_at_arms|E]"
+ culture_parameter_unlock_maa_samurai:0 "Recruitable [GetMaA('samurai').GetName][men_at_arms|E]"
+ culture_parameter_unlock_maa_java_warrior:0 "Recruitable [GetMaA('java_warrior').GetName][men_at_arms|E]"
+ culture_parameter_unlock_maa_china_east_ms:0 "Recruitable [GetMaA('china_east_ms').GetName][men_at_arms|E]"
+ culture_parameter_unlock_maa_china_south_wd:0 "Recruitable [GetMaA('china_south_wd').GetName][men_at_arms|E]"
+
+
+ innovation_world_cathay:0 "Khitan Military System"
+ innovation_world_cathay_desc:0 "Emperor Taizong selected 300,000 armored troops from across the realm to form the Pishi Army. Initially, Emperor Taizu used the mobile camp as his palace, selecting over a thousand strong men from various tribes to create the core division... thus, the Pishi army has existed since Emperor Taizu’s time, and the core division is this; Taizong increased its size to 300,000."
+
+ innovation_battleships:0 "Warships and Battle Boats"
+ innovation_battleships_desc:0 "千寻铁锁沉江底，一片降幡出石头。"
+
+ innovation_outrigger_boats:0 "Canoes"
+ innovation_battleships_desc:0 "When the Dao does not function, one floats on a wooden raft at sea."
+ 
+
+ innovation_target_region_liangjing:0 "Imperial Guards of the Two Capitals"
+ innovation_target_region_liangjing_desc:0 "Temporarily leave the liturgy to visit Taichang, carrying only poetry to Gan Tang."
+
+
+ innovation_china_east:0 "Wu Hook"
+ innovation_china_east_desc:0 "汉鼎不烹曹操肉，Wu Hook空断伍员头。"
+ innovation_china_north:0 "translation was performed accurately based on the provided Chinese text. No issues were encountered during the translation process. crafty chieftains lure cavalry with grammar, quickly following with silver falcons and bows."
+ innovation_china_north_desc:0 "Goryeo Hunters"
+ innovation_world_asia_korea:0 "In Goryeo, where the mountains are wide and the forests rich; the people excel at making hunting tools and are particularly skilled at making bows, used primarily for military purposes, with many excellent bowmen."
+ innovation_world_asia_korea_desc:0 "Western Sichuan Repeating Crossbow"
+ innovation_china_south:0 "Long ago, I heard that celestial troops entered Western Sichuan, pounding drums and causing rocks to shatter in the valleys."
+ innovation_china_south_desc:0 "Military System of the Central Plains"
+ innovation_china_centre:0 "Drunk and resting on the battlefield, how can the ruler not laugh; since ancient times, how many have returned from war?"
+ innovation_china_centre_desc:0 "Desolate Blade"
+ innovation_china_west:0 "Frost Spear and Snow Armor are as cold as water; how can the soldiers know the head and tail?"
+ innovation_china_west_desc:0 "Downward Challenge"
+
+
+
+ innovation_xiakeshang:0 "Using various means under the current system to replace one's superior."
+ innovation_xiakeshang_desc:0 "Rise of the Samurai"
+ innovation_wushijueqi:0 "translation was performed accurately based on the provided Chinese text. No issues were encountered during the translation process. samurai emerged amidst social chaos and the decline of imperial power."
+ innovation_wushijueqi_desc:0 "Ashigaru"
+ innovation_zuqing:0 "ID000048"
+ innovation_zuqing_desc:0 "ID000048是日本古代最低等的步兵之称呼，他们Usually engaged in labor, they become infantry during wartime."
+ innovation_gaolishen:0 "Goryeo Ginseng"
+ innovation_gaolishen_desc:0 "A great tonic for revitalizing energy, producing saliva, and calming the mind, favored by the upper country."
+ innovation_gaoligong:0 "Goryeo Bow"
+ innovation_gaoligong_desc:0 "translation was performed accurately based on the provided Chinese text. No issues were encountered during the translation process. strongest military force of ancient Goryeo, one of the few bright spots."
+ innovation_biebanwu:0 "Biaban Wu"
+ innovation_biebanwu_desc:0 "Carefully crafted by Goryeo to counter the Jurchen invasions for cavalry units."
+ archers_pursuit_add:0 "[archers|E][pursuit|E]"
+ innovation_mengguma:0 "Mongolian Horse"
+ innovation_mengguma_desc:0 "Mongolian Horse体形矮小，其貌不扬，头大颈短，体魄强健，胸宽鬃长，皮厚毛粗，能吃苦，适应能力强，能抵御西伯利亚暴雪；能扬蹄踢碎狐狼的脑袋。"
+ innovation_huihuqingqi:0 "Uyghur Light Cavalry"
+ innovation_huihuqingqi_desc:0 "Though the Uyghurs have disputes with various Turkic tribes, they still maintain a traditional pastoral lifestyle; utilizing horses produced locally (Kazakh horses), they formed a strong cavalry unit to protect the safety of land caravans."
+ innovation_hasakema:0 "Kazakh Horse"
+ innovation_hasakema_desc:0 "A horse breed originating from the northern slopes of the Tianshan Mountains, western areas of the Dzungarian Basin, and western parts of the Altai Mountains. With sturdy bones and thick skins, their manes and tails are dense, and their build is relatively heavy. translation was performed accurately based on the provided Chinese text. No issues were encountered during the translation process.y have a balanced appearance and a good functional structure, developed under extensive herding conditions."
+
+ innovation_ximalayazhanshi:0 "Himalayan Warriors"
+ innovation_ximalayazhanshi_desc:0 "We have long adapted to the rugged terrain and thin air of the highland mountains, making it difficult for outsiders to endure the environment here, let alone pose a threat to us. Our warriors move between the mountains, watching as each invader falls. translation was performed accurately based on the provided Chinese text. No issues were encountered during the translation process. plateau serves as a divine barrier, making it hard for outsiders to enter Tibet, but simultaneously, our warriors also suffer severe negative reactions when descending to lower areas."
+
+ innovation_hequma:0 "Hequ Horse"
+ innovation_hequma_desc:0 "Hequ Horse是一个古老而优良的地方马种，体形高大，背脊平坦，挽乘兼顾，持久耐劳，并且适应当地地理与生态环境和抗病能力强，早在秦汉时期就被作为战马使用，在历史上常用它作为贡礼。"
+ innovation_xianbeitieqi:0 "Xianbei Iron Cavalry"
+ innovation_xianbeitieqi_desc:0 "One of the traditional Xianbei practices preserved by the Tuyuhun since the Northern Wei period under Emperor Xiaowen, every ruler has carefully formed heavy cavalry units to intimidate neighboring small and petty powers."
+ tuyuhunjiaqijuzhuang:0 "Tuyuhun Armored Cavalry"
+ tuyuhunjiaqijuzhuang_flavor:0 "Armored Tuyuhun warriors retain good Xianbei traditions, being skilled in charging into battle and defeating enemies."
+
+ jiaqijuzhuang:0 "Armored Cavalry"
+ jiaqijuzhuang_flavor:0 "Heavy infantry and cavalry don armor, charging in battle according to ancient combat traditions."
+
+ tujuezhongqibing:0 "Turkic Heavy Cavalry"
+ tujuezhongqibing_flavor:0 "translation was performed accurately based on the provided Chinese text. No issues were encountered during the translation process. Western Turks are a horseback nation; the iron smelting and casting techniques preserved since the rise of the Turks, combined with the abundant iron resources of Central Asia, created this formidable heavy cavalry unit that became notorious; they are the wolves of the steppe, nightmares for surrounding civilizations."
+ ai_tujuezhongqibing:0 "Turkic Heavy Cavalry"
+ ai_tujuezhongqibing_flavor:0 "translation was performed accurately based on the provided Chinese text. No issues were encountered during the translation process. Western Turks are a horseback nation; the iron smelting and casting techniques preserved since the rise of the Turks, combined with the abundant iron resources of Central Asia, created this formidable heavy cavalry unit that became notorious; they are the wolves of the steppe, nightmares for surrounding civilizations."
+
+ innovation_kuman_buluo:0 "Kuman Tribe"
+ innovation_kuman_buluo_desc:0 "translation was performed accurately based on the provided Chinese text. No issues were encountered during the translation process. unification of the Kumans is incredibly strong, and the powerful cavalry of each tribe is at my disposal."
+ kuman_jipuqieke:0 "Kuman Kipchaks"
+ kuman_jipuqieke_flavor:0 "Light Kuman cavalry from various tribes, renowned for their high mobility."
+
+ innovation_muzhi_weilan:0 "Wooden Fence"
+ innovation_muzhi_weilan_desc:0 "我们就地取材在定居点附近大量部署Wooden Fence，这能很好的阻拦入侵者的步伐。"
+
+ akesu:0 "AkhAll translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.Sukh"
+ akesu_flavor:0 "Armored Bulgarian warriors charge in a dense formation, maximizing their strength and speed."
+
+ mazhaer_qingqi:0 "Kunno" #（马扎尔轻骑）
+ mazhaer_qingqi_flavor:0 "Lightly armored Hungarian warriors; when they arrive on horseback, all of Pannonia trembles."
+ xiongyali_luowoshi:0 "Lowsosh"
+ xiongyali_luowoshi_flavor:0 "Brave armored Hungarian knights, capable of coordinating with light cavalry to unleash a rain of arrows from afar, and also charge in close battles when necessary."
+ xiongyali_wuzhuang_minbing:0 "Armed Militia"
+ xiongyali_wuzhuang_minbing_flavor:0 "Slightly trained militia possessing simple weaponry, mixed with a few archers, yet still lacking in combat effectiveness."
+ xiongyali_saikaiyi_gongqibing:0 "Sekei Bow Cavalry"
+ xiongyali_saikaiyi_gongqibing_flavor:0 "久居潘诺尼亚的Sekei Bow Cavalry，是侧翼扰敌和追杀溃军的好手。"
+
+
+ jiaseni_war_elephant:0 "Gharasan War Elephants"
+ jiaseni_war_elephant_flavor:0 "War giants introduced from India, having adapted over long periods of domestication to the noise and spear of the battlefield; with robust elephant skin paired with fullAll translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.body iron armor, they can ignore fierce attacks and charge through enemy lines with immense force."
+ ai_jiaseni_war_elephant:0 "Gharasan War Elephants"
+ ai_jiaseni_war_elephant_flavor:0 "War giants introduced from India, having adapted over long periods of domestication to the noise and spear of the battlefield; with robust elephant skin paired with fullAll translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.body iron armor, they can ignore fierce attacks and charge through enemy lines with immense force."
+ ai_01_jiaseni_war_elephant:0 "Gharasan War Elephants"
+ ai_01_jiaseni_war_elephant_flavor:0 "War giants introduced from India, having adapted over long periods of domestication to the noise and spear of the battlefield; with robust elephant skin paired with fullAll translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.body iron armor, they can ignore fierce attacks and charge through enemy lines with immense force."
+
+ innovation_wushidao:0 "Bushido"
+ innovation_wushidao_desc:0 "Unreserved death, careless death, and unhesitating death."
+ innovation_yulie:0 "Fishing and Hunting"
+ innovation_yulie_desc:0 "From catching small fish, shrimp, turtles, and crabs, to hunting whales and sea monsters, this is an ancient trade."
+ innovation_zhucaoerju:0 "Pastoral Lifestyle"
+ innovation_zhucaoerju_desc:0 "One of the main characteristics of the ancient nomadic lifestyle, spending a lifetime chasing the grasslands and knowing everything about them."
+# zhucaoerju_miaoshu:1 "[army|E][commander|E]拥有该[innovations|E]，且途经#V $草原$#!地区时，行军速度将大幅提升"
+ zhucaoerju_miaoshu:1 "When this [culture|E] character leads [army|E] through #V $grasslands$#! or #V $plains$#!, marching speed will significantly increase."
+
+ innovation_miaojiangwugu:0 "Miaojiang Witchcraft"
+ innovation_miaojiangwugu_desc:0 "translation was performed accurately based on the provided Chinese text. No issues were encountered during the translation process. great wisdom of the ancestors."
+ innovation_dfwc_chiyouxuemai:0 "Chi You Bloodline"
+ innovation_dfwc_chiyouxuemai_desc:0 "translation was performed accurately based on the provided Chinese text. No issues were encountered during the translation process. legendary creator of weapons, also known as the god of war, along with the Yellow Emperor and the Flame Emperor, revered as the three ancestral founders of China, regarded as ancestors by many Miao people. translation was performed accurately based on the provided Chinese text. No issues were encountered during the translation process. fierce and united spirit derived from the Miao people is admired worldwide."
+
+ ayinubuzuzhanshi:0 "Ainu Tribe Warriors"
+ ayinubuzuzhanshi_flavor:0 "translation was performed accurately based on the provided Chinese text. No issues were encountered during the translation process. Ainu people refer to themselves as "Utari," meaning "partners"; they cherish their tribesmen who fight side by side and struggle to survive amidst numerous conflicts in the Japanese archipelago."
+
+
+ innovation_dongbeiya_qisheshou:0 "Northeast Asian Horse Archers"
+ innovation_dongbeiya_qisheshou_desc:0 "Fully adapted to the dense forests of Northeast Asia, mounted archers are more suited to the local warfare environment than other nomadic forces on the grasslands."
+
+ dongbeiya_qisheshou:0 "Mounted Archer"
+ dongbeiya_qisheshou_flavor:0 "Fully adapted to the dense forests of Northeast Asia, mounted archers are more suited to the local warfare environment than other nomadic forces on the grasslands."
+
+ 
+ fangren:0 "Defender"
+ fangren_flavor:0 "Temporary troops recruited from rural border areas to defend against threats from neighboring countries."
+ wushi:0 "Warrior"
+ wushi_flavor:0 "A warrior is one who kills, robs, and pillages."
+ zuqing:0 "枪ID000048"
+ zuqing_flavor:0 "Usually engaged in labor, they become infantry during wartime."
+ tianhuangweidui:0 "Northern Samurai"
+ tianhuangweidui_flavor:0 "Samurai stationed beneath the northern side of the imperial residence, guarding the emperor and attending to imperial affairs."
+ hegongshou:0 "Archers"
+ hegongshou_flavor:0 "The continuation of traditional archery from the Yamato people on the battlefield."
+ tidaodui:0 "Naginata Warriors"
+ tidaodui_flavor:0 "Utilizing long and sharp naginatas as weapons, they pose a significant challenge on the battlefield, either forming ranks to resist the enemy or dispersing to ambush them."
+
+
+ tieyuanliehu:0 "Goryeo Bow手"
+ tieyuanliehu_flavor:0 "Skilled archers and hunters navigate through the complex mountainous forests of the Korean Peninsula, delivering painful strikes to the enemy with their superior shooting skills."
+ gaoli_zuobiechao:0 "Left Folio"
+ gaoli_zuobiechao_flavor:0 "Expert shielded infantry who know how to dodge the rain of arrows."
+
+ biebanwu:0 "Biaban Wu"
+ biebanwu_flavor:0 "Elite heavy infantry created to combat the Jurchens; they are skilled against cavalry."
+ hualang:0 "Hwarang"
+ hualang_flavor:0 "Young nobles of Goryeo who have practiced martial arts since childhood; not only are they exceptional in archery, but their appearance and manners are also admired by all."
+
+ jinjun:0 "Imperial Guard"
+ jinjun_flavor:0 "An army specially dedicated to the emperor, responsible for guarding the palace and the emperor himself, selected through rigorous criteria and possessing exceptional martial skills."
+ tang_beiya_jinjun:0 "北衙Imperial Guard"
+ tang_beiya_jinjun_flavor:0 "Elite troops guarding the capital."
+ yulinjun:0 "Palace Guard"
+ yulinjun_flavor:0 "An army directly under the emperor, responsible for the protection of the emperor or the palace, and the defense of the capital."
+ xiangjun:0 "Auxiliary Troops"
+ xiangjun_flavor:0 "属地方常备军，是Imperial Guard主要的来源之一。"
+ fanzhenjun:0 "Provincial Troops"
+ fanzhenjun_flavor:0 "Provincial army led by governors and military commanders in various regions."
+ bianjun:0 "Border Troops"
+ bianjun_flavor:0 "Recruited from various border towns to prevent foreign enemies."
+ difangjun:0 "Local Army"
+ difangjun_flavor:0 "Soldiers recruited locally, with varying quality."
+ china_modao_ai:0 "Frost Spear and Snow Armor are as cold as water; how can the soldiers know the head and tail?队"
+ china_modao_ai_flavor:0 "Frost Spear and Snow Armor are as cold as water; how can the soldiers know the head and tail?队。"
+
+ xiangyong:0 "Militia"
+ xiangyong_flavor:0 "Temporarily recruited local soldiers who camp and defend together."
+
+ miaorenwushi:0 "Miao Warrior"
+ miaorenwushi_flavor:0 "苗人全民皆兵，遇到突发的战事，Miao Warrior便会自发携带武器粮食在他们的“老虎汉”（武士首领）的率领下奔赴战场。"
+
+ shuibu_shi:0 "Water Infantry"
+ shuibu_shi_flavor:0 "Composed of southern infantry skilled in naval battles, responsible for ensuring water and land movement, and guarding river traffic. They can infiltrate through river networks to strike at the enemy unexpectedly when necessary."
+
+ xiang_jiashi:0 "Elephant Armored Warriors"
+ xiang_jiashi_flavor:0 "Elite warriors clad in heavy elephant hide armor, unafraid of the enemy's rain of arrows."
+
+ innovation_wulumi_ruanjian:0 "Urumi Sword"
+ innovation_wulumi_ruanjian_desc:0 "One of the traditional martial arts from India, known for its swift speed and exceptional technique."
+ wulumi_jianshi:0 "Urumi Swordsman"
+ wulumi_jianshi_flavor:0 "Darvish warriors proficient with the soft sword, rapidly penetrating enemy formations to deal massive damage to enemies in the area."
+
+ laqipute_zhanshi:0 "Rajput Warrior"
+ laqipute_zhanshi_flavor:0 "Cavalry warriors of the Kshatriya class, their curved swords strike accurately at their enemies."
+ nayaer_bubing:0 "Nayyar Infantry"
+ nayaer_bubing_flavor:0 "Darvish warriors from India who have long practiced Kalaripayattu martial arts, wielding spears and cooperating seamlessly." #卡拉里帕亚特武术：Kalarippayat
+
+ sengjialuo_jinweijun:0 "Sinhalese Guard"
+ sengjialuo_jinweijun_flavor:0 "忠勇无畏的Sinhalese Guard团，竭力护卫领主周全。"
+
+ innovation_conglinzhizhua:0 "Claws of the Jungle"
+ innovation_conglinzhizhua_desc:0 "We have made this powerful weapon—the claw blade—by imitating the claws of the king of the jungle, the tiger."
+ zhuaren_zhanshi:0 "Claw Blade Warrior"
+ zhuaren_zhanshi_flavor:0 "A phantom lurking in the dense jungles of the Southern Islands, using swift claw blades to cut open the throats of their enemies."
+
+ caoyuanyoumumin:0 "Grassland Horse Archer"
+ caoyuanyoumumin_flavor:0 "#F Hungry pastoralists travel in groups, seizing every opportunity to fill their bellies#."
+ caoyuanyoumumin_shijian:0 "Grassland Horse Archer"
+ caoyuanyoumumin_shijian_flavor:0 "#F Hungry pastoralists travel in groups, seizing every opportunity to fill their bellies#."
+
+ huihuqingqi:0 "Uyghur Light Cavalry"
+ huihuqingqi_flavor:0 "#F Cavalry unit composed of Uighur warriors, skilled in archery and horsemanship#."
+
+ zanpuweishubu:0 "Zampu Guard Unit"
+ zanpuweishubu_flavor:0 "#F The elite guard unit of the Zampu, composed of highAll translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.ranking subjects from Tibet performing military tasks#."
+ zanpuweishubu_ai:0 "Zampu Guard Unit"
+ zanpuweishubu_ai_flavor:0 "#F The elite guard unit of the Zampu, composed of highAll translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.ranking subjects from Tibet performing military tasks#."
+ wuruguiqibing:0 "Wuru Gui Cavalry"
+ wuruguiqibing_flavor:0 "#F Composed of highAll translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.ranking subjects from Tibet performing military tasks, wellAll translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.equipped and armored elite Tibetan heavy cavalry. They roam the plateau, always ready to deliver fierce blows to their enemies#."
+ yongdongdaihuchi:0 "Yongdong Dai Protection"
+ yongdongdaihuchi_flavor:0 "#F Light infantry composed of "Yong," who primarily engage in agriculture and are of low status. They are adept at using spears and slings, employing a strategy of harassment and ambush#."
+
+ culture_parameter_unlock_maa_wushi:0 "You can recruit [GetMaA('wushi').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_zuqing:0 "You can recruit [GetMaA('zuqing').GetName] as [men_at_arms|E]"
+
+
+
+
+ tradition_hanyongwushuang_name:0 "Brave and Fearless"
+ tradition_hanyongwushuang_desc:1 "Only the strong deserve to live."
+ culture_parameter_brave_trait_more_common:0 "[GetTrait('brave').GetName(GetNullCharacter)][trait|E] more common"
+ culture_parameter_strong_trait_more_common:0 "[GetTrait('strong').GetName(GetNullCharacter)][trait|E] more common"
+ culture_parameter_blademaster_1_trait_more_common:0 "[GetTrait('blademaster_1').GetName(GetNullCharacter)][trait|E] more common"
+ culture_parameter_blademaster_2_trait_more_common:0 "[GetTrait('blademaster_2').GetName(GetNullCharacter)][trait|E] more common"
+ culture_parameter_blademaster_3_trait_more_common:0 "[GetTrait('blademaster_3').GetName(GetNullCharacter)][trait|E] more common"
+ culture_parameter_physique_good_1_trait_more_common:0 "[GetTrait('physique_good_1').GetName(GetNullCharacter)][trait|E] more common"
+ culture_parameter_physique_good_2_trait_more_common:0 "[GetTrait('physique_good_2').GetName(GetNullCharacter)][trait|E] more common"
+ culture_parameter_physique_good_3_trait_more_common:0 "[GetTrait('physique_good_3').GetName(GetNullCharacter)][trait|E] more common"
+ culture_parameter_content_trait_more_common:0 "[GetTrait('content').GetName(GetNullCharacter)][trait|E] more common"
+ culture_parameter_ambitious_trait_more_common:0 "[GetTrait('ambitious').GetName(GetNullCharacter)][trait|E] more common"
+ tradition_zhanzhengyishu_name:0 "The Art of War"
+ tradition_zhanzhengyishu_desc:1 "War is an art; the winner takes all, while the loser has nothing."
+ tradition_anxianzide_name:0 "Peaceful and Content"
+ tradition_anxianzide_desc:1 "Life is important, but happiness is more important."
+ culture_have_courtly:1 "The [culture|E] should have $ethos_courtly_name$ as its [ethos|E]"
+ tradition_qishishourong_name:0 "Knightly Refuge"
+ tradition_qishishourong_desc:1 "Proud knights often struggle with managing their estates and choose to completely depend on wealthier rulers."
+ luopoqishi:0 "Fallen Knight"
+ luopoqishi_flavor:0 "A feudal knight who has fallen so low that they have nothing but martial power, leading a small retinue of followers while hoping for the day they rise again under a wealthy ruler."
+ culture_parameter_unlock_maa_luopoqishi:0 "You can recruit [GetMaA('luopoqishi').GetName] as [men_at_arms|E]"
+ not_spiritual_desc:0 "The [culture|E] lacks $ethos_spiritual_name$ as its [ethos|E]"
+ lushangshangdui:0 "Land Caravan"
+ lushangshangdui_flavor:0 "The sound of camel bells echoes as time flows, the connectivity of land routes has given rise to a large number of merchants who traverse the desolate sands, bringing countless exotic treasures."
+ lushangshangdui_ai:0 "Land Caravan"
+ lushangshangdui_ai_flavor:0 "The sound of camel bells echoes as time flows, the connectivity of land routes has given rise to a large number of merchants who traverse the desolate sands, bringing countless exotic treasures."
+
+ binghaizhanshi:0 "Ice Sea Warriors"
+ binghaizhanshi_flavor:0 "The icy ocean churns, bringing forth terrifying destroyers."
+ culture_parameter_unlock_maa_lushangshangdui:0 "You can recruit [GetMaA('lushangshangdui').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_binghaizhanshi:0 "You can recruit [GetMaA('binghaizhanshi').GetName] as [men_at_arms|E]"
+ tradition_silafukuozhangzhuyi_name:0 "Slavic Expansionism"
+ tradition_silafukuozhangzhuyi_desc:1 "The unique pioneering spirit of the Slavs, situated in harsh cold, longs for warmth, and its inherent contradictions necessitate expansion."
+ tradition_binghaizhanji_name:0 "Songs of Blood and Ice"
+ tradition_binghaizhanji_desc:1 "A hymn of blood and ice, the icy sea endures."
+
+ tradition_menganmouke_name:0 "Meng'an Moke"
+ tradition_menganmouke_desc:1 "These military leaders, established in the later stages of primitive society for raids and hunting needs, gradually developed into a fixed military organization over time."
+ culture_parameter_menganmouke_cbs: "[casus_belli|E]花费：[prestige_i]#P All translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.30%#!
+
+ tradition_jiaqijuzhuang_name:0 "Armored Cavalry"
+ tradition_jiaqijuzhuang_desc:1 "Cavalry warriors equipped with armor are the masters of war, sweeping everything away with their overwhelming force."
+ culture_parameter_unlock_maa_jiaqijuzhuang: "You can recruit [GetMaA('jiaqijuzhuang').GetName] as [men_at_arms|E]"
+ culture_parameter_jiesuo_xunhao_jiaqi_juntou:0 "The [culture|E]'s [knights|E] are eligible for [GetAccoladeType('dfbz_xinzeng_0005_attribute').GetName][accolades|E]" 
+ dfbz_xinzeng_0005_attribute:0 "Armored Cavalry Commander"
+ accolade_dfbz_xinzeng_0005:0 "Armored Cavalry Commander"
+ accolade_maa_0005_001_attribute_jiaqijuzhuang:0 "先锋Armored Cavalry"
+ accolade_maa_0005_001_attribute_jiaqijuzhuang_flavor:1 "[retinue_maa|E]\n#F Elite armored cavalry that follow the commander into battle, striking directly at the enemy's vital points.#!"
+ ai_accolade_maa_0005_001_attribute_jiaqijuzhuang:0 "先锋Armored Cavalry"
+ ai_accolade_maa_0005_001_attribute_jiaqijuzhuang_flavor:1 "[retinue_maa|E]\n#F Elite armored cavalry that follow the commander into battle, striking directly at the enemy's vital points.#!"
+ accolade_maa_0005_002_attribute_jiaqijuzhuang:0 "亲卫Armored Cavalry"
+ accolade_maa_0005_002_attribute_jiaqijuzhuang_flavor:1 "[retinue_maa|E]\n#F Elite armored cavalry that protects the core of the battle formation and can deliver devastating blows to the enemy if necessary.#!"
+
+ dfbz_xinzeng_0006_attribute:0 "Frontal Charge Commander"
+ accolade_dfbz_xinzeng_0006:0 "Frontal Charge Commander"
+ accolade_maa_0006_001_attribute_hengchongdu:0 "Frontal Charge"
+ accolade_maa_0006_001_attribute_hengchongdu_flavor:1 "[retinue_maa|E]\n#F Heavy cavalry that exploits fleeting weaknesses in the enemy's line to launch fierce charges, achieving decisive victories in single strikes.#!"
+ ai_accolade_maa_0006_001_attribute_hengchongdu:0 "Frontal Charge"
+ ai_accolade_maa_0006_001_attribute_hengchongdu_flavor:1 "[retinue_maa|E]\n#F Heavy cavalry that exploits fleeting weaknesses in the enemy's line to launch fierce charges, achieving decisive victories in single strikes.#!"
+ accolade_maa_0006_002_attribute_hengchongdu:0 "Frontal Charge"
+ accolade_maa_0006_002_attribute_hengchongdu_flavor:1 "[retinue_maa|E]\n#F Heavy cavalry that exploits fleeting weaknesses in the enemy's line to launch fierce charges, achieving decisive victories in single strikes.#!"
+
+ dfbz_xinzeng_0007_attribute:0 "Longsword Commander"
+ accolade_dfbz_xinzeng_0007:0 "Longsword Commander"
+ accolade_maa_0007_001_attribute_changjiandu:0 "Longsword"
+ accolade_maa_0007_001_attribute_changjiandu_flavor:1 "[retinue_maa|E]\n#F 手持巨型Frost Spear and Snow Armor are as cold as water; how can the soldiers know the head and tail?的无双悍将，顷刻间斩敌于马下。#!"
+ ai_accolade_maa_0007_001_attribute_changjiandu:0 "Longsword"
+ ai_accolade_maa_0007_001_attribute_changjiandu_flavor:1 "[retinue_maa|E]\n#F 手持巨型Frost Spear and Snow Armor are as cold as water; how can the soldiers know the head and tail?的无双悍将，顷刻间斩敌于马下。#!"
+ accolade_maa_0007_002_attribute_changjiandu:0 "Longsword"
+ accolade_maa_0007_002_attribute_changjiandu_flavor:1 "[retinue_maa|E]\n#F 手持巨型Frost Spear and Snow Armor are as cold as water; how can the soldiers know the head and tail?的无双悍将，顷刻间斩敌于马下。#!"
+ accolade_maa_0007_003_attribute_changjiandu:0 "Longsword"
+ accolade_maa_0007_003_attribute_changjiandu_flavor:1 "[retinue_maa|E]\n#F 手持巨型Frost Spear and Snow Armor are as cold as water; how can the soldiers know the head and tail?的无双悍将，顷刻间斩敌于马下。#!"
+
+ dfbz_xinzeng_0008_attribute:0 "Tooth General"
+ accolade_dfbz_xinzeng_0008:0 "Tooth General"
+ yajiang_xunhao_xiaoguo_001:0 "$EFFECT_LIST_BULLET$解锁#V 部分#!Tooth General任务[decision|E]\n$EFFECT_LIST_BULLET$小幅提升任务完成度"
+ yajiang_xunhao_xiaoguo_002:0 "$EFFECT_LIST_BULLET$解锁#V 多数#!Tooth General任务[decision|E]\n$EFFECT_LIST_BULLET$中幅提升任务完成度"
+ yajiang_xunhao_xiaoguo_003:0 "$EFFECT_LIST_BULLET$解锁#V 全部#!Tooth General任务[decision|E]\n$EFFECT_LIST_BULLET$大幅提升任务完成度"
+
+
+ world_steppe_cathay:0 "Khitan"
+
+ culture_parameter_unlock_maa_nvzhen_mouke:0 "You can recruit [GetMaA('nvzhen_mouke').GetName] as [men_at_arms|E]"
+ culture_parameter_menganmouke_shouyutouxian_xiaoguo:0 "Granting land to your $jurchen$ [knights|E] will significantly boost their combat will, \nbut a prolonged life of comfort will also quickly corrupt them." 
+# [GetPlayer.Custom( 'KnightCulture' )]
+ nvzhen_mouke:0 "Strategist"
+ nvzhen_mouke_flavor:0 "Elite soldiers selected through rigorous processes, all of whom are skilled raiders and hunters from various tribes."
+ nvzhen_mouke_ai:0 "Strategist"
+ nvzhen_mouke_ai_flavor:0 "Elite soldiers selected through rigorous processes, all of whom are skilled raiders and hunters from various tribes."
+ must_be_feudal:0 "You must have [feudal|E][government|E]"
+ culture_parameter_silafukuozhangzhuyi_cbs:0 "[casus_belli|E] cost: [prestige_i]#P All translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.40%#!"
+ culture_parameter_minfengbiaohan_cbs:0 "[casus_belli|E] cost: [prestige_i]#P All translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.40%#!"
+
+ sudanweidui:0 "Sultan's Guard"
+ sudanweidui_flavor:0 "A reliable guard composed of the Sultan's confidants, also doing some shady work for the Sultan in daily life."
+
+
+
+ innovation_qishichuantong:0 "Knightly Traditions"
+ innovation_qishichuantong_desc:0 "The vast plains of France serve as the main battlefield for knights, where the fiercest knightly companies of the medieval period were nurtured."
+
+ innovation_sudanweidui:0 "Honor Guard"
+ innovation_sudanweidui_desc:0 "强大的统治者往往需要一支可靠的Honor Guard应对各种突发状况，并且这些人最好值得信赖。"
+ alabo_chifu_jinwei:0 "AxeAll translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.wielding Guards"
+ alabo_chifu_jinwei_flavor:0 "#F The long axe is a symbol of power and strength. This guard unit belongs to a powerful ruler.#"
+
+ innovation_futejia:0 "Vodka"
+ innovation_futejia_desc:0 "The water of life, the pride of the Ross people."
+ innovation_minfengbiaohan:0 "Fierce Folk"
+ innovation_minfengbiaohan_desc:0 "文明蒙昧，Fierce Folk，原始的欲望充斥在每个人心中"
+
+ innovation_houzijia:0 "WartAll translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.covered Armor"
+ innovation_houzijia_desc:0 "羌人善锻甲，凡锻甲之法，其始甚厚，不用火，冷锻之，比元厚三分减二乃成。其末留箸头许不锻，隐然如瘊子，欲以验未锻时厚薄，如浚河留土笋也，谓之“WartAll translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.covered Armor”。强弩射之，不能入."
+ innovation_hengshanqiang:0 "Highland Qiang"
+ innovation_hengshanqiang_desc:0 "The Qiang tribes, widely found in the northwest mountainous regions, excel in offAll translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.road abilities and navigate the mountains effortlessly."
+ innovation_dangxiangma:0 "Tangut Horse"
+ innovation_dangxiangma_desc:0 "党项族居住的地斤泽、横山、天都山一带都是著名产马地区。马多而品种优良，唐代诗人元稹有“北买Tangut Horse，西擒吐蕃鹦”之句。宋人更是称誉Tangut Horse为天下之最。"
+ innovation_lengduangang:0 "ColdAll translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.forged Steel"
+ innovation_lengduangang_desc:0 "The Tangut people's steel forging technology is unparalleled, and possessing a sword from the Xia Kingdom is considered an immense honor. The sword carried by Song Qinzong himself was the 'Xia Kingdom Sword.' Su Dongpo once received a Western Xia sword and wrote: ‘Red makeup gathers at the flower, while green reeds draw the blade in the hall, a spiral root raises the waves, a white dragon clasps three dragons.’"
+
+ innovation_langren:0 "Ronin"
+ innovation_langren_desc:0 "Madly risking everything to restore past authority, claiming to be the Emperor's personal troops, appearing everywhere as a "patriot," wielding an extraordinary skill."
+ innovation_shenbigong:0 "Divine Bow"
+ innovation_shenbigong_desc:0 "Divine Bow一人可开,最大射程达四百米,能贯重甲。"
+ innovation_mazhengfeichi:0 "Horse Management Neglected"
+ innovation_mazhengfeichi_desc:0 "The upper rulers' neglect combined with the lower officials' poor governance has plunged the Central Plains horse management into an irreversible predicament."
+ innovation_baomafa:0 "Horse Protection Law"
+ innovation_baomafa_desc:0 "The situation of having no horses available in the Central Plains has officially reversed, effective horse management policies have been implemented, and if the entire system operates smoothly, it will benefit generations to come."
+
+ innovation_shangyeminzu:0 "Commercial Nation"
+ innovation_shangyeminzu_desc:0 "The Sogdian people frequently traveled along the long Silk Road between Central Asia and China, reaping immense wealth from medieval EastAll translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.West trade."
+ innovation_hegong:0 "Peace Bow"
+ innovation_hegong_desc:0 "日本弓道所使用的一类长弓。标准的Peace Bow长度约为七尺三寸。"
+ innovation_tidao:0 "Naginata"
+ innovation_tidao_desc:0 "Naginata是古代日本使用的一种长柄兵器，其刀幅较宽，刀刃部分有很大弧度。"
+
+ innovation_zhanchengdao:0 "Champa Rice"
+ innovation_zhanchengdao_desc:0 "A highAll translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.yield, earlyAll translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.maturing, droughtAll translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.resistant rice variety produced in the Southeast Asian Peninsula, benefiting a wide range."
+
+ innovation_yinjinzhanchengdao:0 "引进Champa Rice"
+ innovation_yinjinzhanchengdao_desc:0 "引进出产于中南半岛高产、早熟、耐旱的Champa Rice，造福天下百姓。"
+
+ innovation_didawubo:0 "Vast Land and Rich Resources"
+ innovation_didawubo_desc:0 "Born from Yandi and Huangdi, nurturing Huaxia. When treated well, they will surely repay China."
+
+ innovation_heshuoqingqi:0 "HeAll translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.Shuo Light Cavalry"
+ innovation_heshuoqingqi_desc:0 "Since ancient times, Yan has produced many warriors, and with its location at the border, horse trading has been plentiful. LongAll translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.term interactions between Hu and Han have enabled everyone from good families to ride."
+
+ innovation_xinanma:0 "Southwestern Horses"
+ innovation_xinanma_desc:0 "Southwestern Horses性情灵敏而温驯，善于爬山，适于山地驮运，为高原山地的重要运输工具。"
+
+
+
+ baibaoxianbeiqi:0 "Baibaoxianbei Cavalry"
+ baibaoxianbeiqi_flavor:0 "#F Armored Cavalry中的佼佼者，常以少敌多而取得大胜，其战斗力之强悍冠古绝今，由以一当百的鲜卑武士组成#。"
+ yanyunshibaqi:0 "Yanyun Eighteen Cavalries"
+ yanyunshibaqi_flavor:0 "#F Legend has it that the troops led by Suiju general Luo Yi charged deep into the Turkic center across the desert, annihilating twenty thousand Turks overnight.#"
+ xiliangtieqi:0 "Xiliang Iron Cavalry"
+ xiliangtieqi_flavor:0 "#F Xiliang Iron Cavalry作战彪悍凶狠，尤其适合沙漠戈壁的长距离持久奔袭作战。#。"
+ wengniute:0 "Wengniute"
+ wengniute_flavor:0 "#F Wengniute意为“有王之民”，是铁木哥斡赤斤的直属部落。#。"
+ wuliangha:0 "Wulanghai"
+ wuliangha_flavor:0 "#F Wulanghai是成吉思汗的名将者勒篾的后裔所率之部。#。"
+ wuyejite:0 "Wujieyete"
+ wuyejite_flavor:0 "#F Wujieyete的起源可能是蒙古化的女真人。#。"
+ qiexue:0 "Kesheng Army"
+ qiexue_flavor:0 "#F The Imperial Guard personally appointed by Genghis Khan, evolving from a hundred personal guards to a valiant army of ten thousand, including one thousand veterans, one thousand archers, and eight thousand foot soldiers.#"
+
+
+ guaizima:0 "Curved Horse"
+ guaizima_flavor:0 "#F Curved Horse通常布置在两翼，利用其高度的机动性、以及集团冲锋时所产生的巨大冲击力，用以对敌军迂回包抄，而后突击。#。"
+ guaizima_ai:0 "Curved Horse"
+ guaizima_ai_flavor:0 "#F Curved Horse通常布置在两翼，利用其高度的机动性、以及集团冲锋时所产生的巨大冲击力，用以对敌军迂回包抄，而后突击。#。"
+
+
+ tiefutu:0 "Iron Pagoda"
+ tiefutu_flavor:0 "#F Iron Pagoda人马俱着重甲，堵墙而进，除长枪外身背长刀，铁棍，下马力战不落下风。#。"
+ tiefutu_ai:0 "Iron Pagoda"
+ tiefutu_ai_flavor:0 "#F Iron Pagoda人马俱着重甲，堵墙而进，除长枪外身背长刀，铁棍，下马力战不落下风。#。"
+ dajin_hubuwei:0 "Tiger Step Guard"
+ dajin_hubuwei_flavor:0 "#F 精挑细选的Iron Pagoda战士，他们身披重甲手持骨朵，步战时亦不落下风。#。"
+
+ tieyaozi:0 "Iron Hawk"
+ tieyaozi_flavor:0 "#F Iron Hawk最初是西夏开国皇帝李元昊的亲兵部队，由近亲贵族子弟组成，乘善马，着重甲，对步兵杀伤极强。#。"
+ tieyaozi_ai_01:0 "Iron Hawk"
+ tieyaozi_ai_01_flavor:0 "#F Iron Hawk最初是西夏开国皇帝李元昊的亲兵部队，由近亲贵族子弟组成，乘善马，着重甲，对步兵杀伤极强。#。"
+ tieyaozi_ai_02:0 "Iron Hawk"
+ tieyaozi_ai_02_flavor:0 "#F Iron Hawk最初是西夏开国皇帝李元昊的亲兵部队，由近亲贵族子弟组成，乘善马，着重甲，对步兵杀伤极强。#。"
+ tieyaozi_ai_01_01:0 "Iron Hawk"
+ tieyaozi_ai_01_01_flavor:0 "#F Iron Hawk最初是西夏开国皇帝李元昊的亲兵部队，由近亲贵族子弟组成，乘善马，着重甲，对步兵杀伤极强。#。"
+
+
+ bubazi:0 "Highland Foot Soldiers"
+ bubazi_flavor:0 "#F 以Highland Qiang人为主力的步跋子，耐力相比于同时期的汉人更强，抗寒能力更佳。广泛活跃于溪涧、山谷等高低起伏不平不利于骑兵机动的特定区域。在这些作战区域内，他们机动性极高，可以快速腾挪于战场各处。#。"
+ bubazi_ai_01:0 "Highland Foot Soldiers"
+ bubazi_ai_01_flavor:0 "#F 以Highland Qiang人为主力的步跋子，耐力相比于同时期的汉人更强，抗寒能力更佳。广泛活跃于溪涧、山谷等高低起伏不平不利于骑兵机动的特定区域。在这些作战区域内，他们机动性极高，可以快速腾挪于战场各处。#。"
+ bubazi_ai_02:0 "Highland Foot Soldiers"
+ bubazi_ai_02_flavor:0 "#F 以Highland Qiang人为主力的步跋子，耐力相比于同时期的汉人更强，抗寒能力更佳。广泛活跃于溪涧、山谷等高低起伏不平不利于骑兵机动的特定区域。在这些作战区域内，他们机动性极高，可以快速腾挪于战场各处。#。"
+ bubazi_ai_01_01:0 "Highland Foot Soldiers"
+ bubazi_ai_01_01_flavor:0 "#F 以Highland Qiang人为主力的步跋子，耐力相比于同时期的汉人更强，抗寒能力更佳。广泛活跃于溪涧、山谷等高低起伏不平不利于骑兵机动的特定区域。在这些作战区域内，他们机动性极高，可以快速腾挪于战场各处。#。"
+ dangxiangwushi:0 "Tangut Warriors"
+ dangxiangwushi_flavor:0 "#F 身批重装WartAll translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.covered Armor的Tangut Warriors，武艺高强，刀枪难入。#。"
+ dangxiangwushi_ai:0 "Tangut Warriors"
+ dangxiangwushi_ai_flavor:0 "#F 身批重装WartAll translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.covered Armor的Tangut Warriors，武艺高强，刀枪难入。#。"
+ dangxiangwushi_ai_01:0 "Tangut Warriors"
+ dangxiangwushi_ai_01_flavor:0 "#F 身批重装WartAll translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.covered Armor的Tangut Warriors，武艺高强，刀枪难入。#。"
+
+ xixia_yuweinei_001:0 "The Six Classes of Fully Equipped Guards within the Royal Arena"
+ xixia_yuweinei_001_flavor:0 "#F The fully equipped personal soldiers defending the center of Western Xia.#"
+ xixia_jinnushi:0 "Crossbow Soldiers"
+ xixia_jinnushi_flavor:0 "#F It is crucial to build defense lines with skilled archers when facing harassment from nomadic forces outside the passes.#"
+
+
+ mengguzhongqibing:0 "Mongolian Heavy Cavalry"
+ mengguzhongqibing_flavor:0 "#F The Sulukht of the world conquerors is a terrifying beast that has destroyed countless civilizations.#"
+ mengguzhongqibing_ai:0 "Mongolian Heavy Cavalry"
+ mengguzhongqibing_ai_flavor:0 "#F The Sulukht of the world conquerors is a terrifying beast that has destroyed countless civilizations.#"
+ manggudai:0 "Mangudai"
+ manggudai_flavor:0 "#F Unmatched Mongolian heavy armored cavalry.#"
+ shenbigongshou:0 "Divine Bow手"
+ shenbigongshou_flavor:0 "#F 装备有Divine Bow的精锐弓手部队，予以重甲敌军痛击。#。"
+ qindihanzu:0 "Qin Territory Brave Soldiers"
+ qindihanzu_flavor:0 "#F The Qin land is fierce, densely populated with brave warriors who can form battle units.#"
+ baierbing:0 "White Felt Troops"
+ baierbing_flavor:0 "#F An elite unit organized during the Three Kingdoms period by the Shu Kingdom, mainly consisting of Miao and other tribes active in the mountainous forests of Shu.#"
+
+
+ guiyilapbing:0 "Guoyi Veterans"
+ anxijun:0 "Anxi Army"
+ anxijun_flavor:0 "#F “Looking up to see the sun but not seeing Chang'an." The sharp sword of the Tang Dynasty, and also the final glory of the Empire.#"
+ yabing:0 "Tooth Soldiers"
+ yabing_flavor:0 "#F Tooth Soldiers,又称衙兵，藩镇之最亲兵，极为精锐，负责保卫衙城和藩帅，是藩镇军的核心力量。#。"
+ liangjiazi_yabing:0 "良家子Tooth Soldiers"
+ liangjiazi_yabing_flavor:0 "#F HighAll translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.quality armored infantry without worries or concerns.#"
+ shijian_yabing:0 "Tooth Soldiers"
+ shijian_yabing_flavor:0 "#F Tooth Soldiers,又称衙兵，藩镇之最亲兵，极为精锐，负责保卫衙城和藩帅，是藩镇军的核心力量。#。"
+ yabing_tang:0 "Tooth Soldiers"
+ yabing_tang_flavor:0 "#F Tooth Soldiers,又称衙兵，藩镇之最亲兵，极为精锐，负责保卫衙城和藩帅，是藩镇军的核心力量。#。"
+ yabing_tang_ai:0 "Tooth Soldiers"
+ yabing_tang_ai_flavor:0 "#F Tooth Soldiers,又称衙兵，藩镇之最亲兵，极为精锐，负责保卫衙城和藩帅，是藩镇军的核心力量。#。"
+ majun:0 "Cavalry"
+ majun_flavor:0 "#F Elite cavalry troops of the agricultural civilization.#"
+ majun_ai:0 "Cavalry"
+ majun_ai_flavor:0 "#F Elite cavalry troops of the agricultural civilization.#"
+ majun_ai_shijian:0 "Cavalry"
+ majun_ai_shijian_flavor:0 "#F Elite cavalry troops of the agricultural civilization.#"
+ podaoshou:0 "Pukou Soldier"
+ podaoshou_flavor:0 "#F Each person wields a longAll translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.handle Pukou knife, specializing in breaking cavalry charges.#"
+ dasong_daopaishou:0 "Saber and Shield Soldiers"
+ dasong_daopaishou_flavor:0 "#F Fierce warriors holding a knife in one hand and a shield in the other.#"
+
+ heshuoqingqi:0 "HeAll translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.Shuo Light Cavalry"
+ heshuoqingqi_flavor:0 "#F Since ancient times, Yan has produced many warriors, and with its location at the border, horse trading has been plentiful. LongAll translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.term interactions between Hu and Han have enabled everyone from good families to ride.#"
+ baimayicong:0 "White Horse Yizong"
+ baimayicong_flavor:0 "#F 久居边塞的军民不堪外族年年袭扰，幽燕豪族振臂高呼，于是重建White Horse Yizong，扬汉儿威风。#。"
+
+ burenjia:0 "Infantry Armor"
+ burenjia_flavor:0 "#F 身披重甲手持重斧的精锐步兵部队，防御力惊人，有效的规避抛射物伤害的同时还能发起猛烈的反冲锋。但Infantry Armor的成建制装备需要大量时间与金钱#。"
+ jingsaitieqi:0 "Jing塞 Iron Cavalry"
+ jingsaitieqi_flavor:0 "#F Each soldier of the Jing塞 army has five horses. The knights are all from the northern region of Yizhou and can draw a bow weighing 200 jin, known for their ferocity. All horses are highAll translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.quality steeds, fully armored with heavy armor, and apart from bows and arrows, all are equipped with hooked long spears.#"
+
+ beiwei_zhongqibing:0 "Beihou Heavy Cavalry"
+ beiwei_zhongqibing_flavor:0 "#F Shaking the mountain is easy, shaking the Yue Family Army is hard!#"
+
+
+ langren:0 "Ronin"
+ langren_flavor:0 "#F Dispossessed warriors wandering without a master after losing their fief, fierce and bloodthirsty, extraordinarily brutal.#"
+ yixiangyikui:0 "Monk Soldiers"
+ yixiangyikui_flavor:0 "#F 难以控制的Monk Soldiers众，发疯的僧团武装会毁灭遇到的所有事物。#。"
+
+
+ chu_ko_nu_ai:0 "Repeating Crossbow Soldiers"
+ chu_ko_nu_ai_flavor:0 "#F These crossbowmen equipped with Zhuge's repeating crossbow can shoot bolts with devastating speed.#"
+ chu_ko_nu_ai_song:0 "Repeating Crossbow Soldiers"
+ chu_ko_nu_ai_song_flavor:0 "#F These crossbowmen equipped with Zhuge's repeating crossbow can shoot bolts with devastating speed.#"
+
+ conglinlieshou:0 "Jungle Hunter"
+ conglinlieshou_flavor:0 "#F A seasoned hunter who has roamed the jungle for years, wellAll translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.versed in everything within the jungle.#"
+
+ yinqiangxiaojiedu:0 "Silver Lance Corps"
+ yinqiangxiaojiedu_flavor:0 "#F The most elite force of Weibo, named for their uniform use of long spears.#"
+
+ yaerjun:0 "Crow Army"
+ yaerjun_flavor:0 "#F The main elite force under Li Keyong, mainly composed of brave young Shato cavalry.#"
+
+ qidanwushi:0 "Khitan武士"
+ qidanwushi_flavor:0 "#F 从青壮年Khitan战士中精挑细选出来的步战精英，个个都是身经百战的破阵好手#。"
+
+ suteyabing:0 "粟特Tooth Soldiers"
+ suteyabing_flavor:0 "#F The Sogdian group has complex relationships, with various factions intertwined, forming numerous private armed groups.#"
+
+
+nvzhen_zhanzheng_01_decision:0 "Jurchen Conquest (AI)"
+nvzhen_zhanzheng_01_decision_tooltip:0 " "
+nvzhen_zhanzheng_01_decision_confirm:0 " "
+ xinzeng_dajin:0 "Great Jin"
+ NEW_CREATED_TITLE_DAJIN_NAME:0 "[old_title.GetBaseNameNoTierNoTooltip]"
+ tongyinvzhen.0001.t:0 "Unified Jurchen Tribes"
+ tongyinvzhen.0001.desc:0 "氏族首领们聚拢在我身边，Iron Pagoda，Curved Horse，所有强者都为我的大业欢呼。\n\n战士们向我致意，让我们冲出森林，将世界牢牢纂于掌中。"
+ tongyinvzhen.0001.a:0 "My conquest begins here."
+
+ tongyinvzhen_decision:0 "Unified Jurchen Tribes"
+ tongyinvzhen_decision_desc:0 "#F Years of effort have finally borne fruit; all the tribal leaders are willing to support my rule.\n\nFrom this moment on, the world will tremble beneath my feet.#"
+ tongyinvzhen_decision_confirm:0 "Prepare the entire army!"
+ tongyinvzhen_decision_tooltip:0 "Unified Jurchen Tribes准备征服世界"
+ nvzhendajun:0 "Great Jurchen Army"
+
+
+ ai_nvzhenzhengfuzhe_erdai_decision:0 "AI Jurchen Conqueror (II)"
+ ai_nvzhenzhengfuzhe_erdai_decision_confirm:0 " "
+ ai_nvzhenzhengfuzhe_erdai_decision_tooltip:0 " "
+
+ ai_yichuqizhi_decision:0 "AI Automatically Remove Flag (AntiAll translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.Bug)"
+ ai_yichuqizhi_decision_confirm:0 " "
+ ai_yichuqizhi_decision_tooltip:0 " "
+
+ ai_nvzhenzhengfuzhanzheng_01_decision:0 "Jurchen Conquest War (Phase One)"
+ ai_nvzhenzhengfuzhanzheng_decision_desc:0 "Jurchen Conquest War"
+ ai_nvzhenzhengfuzhanzheng_01_decision_confirm:0 " "
+ ai_nvzhenzhengfuzhanzheng_01_decision_tooltip:0 " "
+
+ ai_nvzhenzhengfuzhanzheng_02_decision:0 "Jurchen Conquest War（二阶段）"
+ ai_nvzhenzhengfuzhanzheng_02_decision_confirm:0 " "
+ ai_nvzhenzhengfuzhanzheng_02_decision_tooltip:0 " "
+
+ ai_nvzhenzhengfuzhanzheng_03_decision:0 "Jurchen Conquest War（三阶段）"
+ ai_nvzhenzhengfuzhanzheng_03_decision_confirm:0 " "
+ ai_nvzhenzhengfuzhanzheng_03_decision_tooltip:0 " "
+
+ nvzhenzhengfuzhanzheng.0001.t:0 "Hand over your lands!"
+ nvzhenzhengfuzhanzheng.0001.d:0 "Your decayed rule is coming to an end. I, [nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName], give you three days to surrender your territory, or face the consequences!"
+ nvzhenzhengfuzhanzheng.0001.a:0 "My lord, I am willing to give up my lands and submit to you..."
+ chenfuyu_nvzhenzhengfuzhe_tooltip:0 "Submit to [nvzhenzhengfuzhe.GetTitledFirstName]"
+ fankang_nvzhenzhengfuzhe_tooltip:0 "Go to war with [nvzhenzhengfuzhe.GetTitledFirstName]"
+ nvzhenzhengfuzhe_kaizhan_tooltip:0 "Go to war with [demand_recipient.GetTitledFirstName]"
+ nvzhenzhengfuzhanzheng.0001.b:0 "Get lost!"
+
+ nvzhenzhengfuzhanzheng.0003:0 "To the foolish [nvzhenzhengfuzhe.GetFirstName]"
+ nvzhenzhengfuzhanzheng.0003.desc:0 "Take back your threats! Foolish [nvzhenzhengfuzhe.GetFirstName]! \n\nYour threats are weaker than a threeAll translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.yearAll translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.old child’s. Who do you think you are? You pig who fantasizes about touching my territory."
+ nvzhenzhengfuzhanzheng.0003.a:0 "Dog! I will crush you into dust!"
+
+ nvzhenzhengfuzhanzheng.0002.t:0 "Beginning of the Conquest"
+ nvzhenzhengfuzhanzheng.0002.desc:0 "I and my tribesmen were summoned before [nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName], where every clan leader and vassal of the Jurchen gathered. We all knew why and engaged in an allAll translation was completed without issues. Identifiers and formatting were preserved. No context issues were detected.night discussion within the smoky tent, during which no doubts arose.\n\n[nvzhenzhengfuzhe.GetFirstName] shouted the names of our ancestors loudly, walking past each Jurchen warrior and communicating warmly with them. I could feel the warriors' blood boiling. \n\nFrom now on, the world will tremble beneath Conqueror [nvzhenzhengfuzhe.GetFirstName]!"
+ nvzhenzhengfuzhanzheng.0002.a:0 "For the glory of the Jurchens! For [nvzhenzhengfuzhe.GetDynastyName]·[nvzhenzhengfuzhe.GetFirstName]!"
+
+ NVZHEN_CONQUEST_WAR_NAME:1 "Great Conquest War of the $jurchen$"
+ nvzhenzhengfuzhanzheng_defeat_defender_desc:0 "You repelled [attacker.GetShortUIName|U], but what about next time..."
+ nvzhenzhengfuzhanzheng_defeat_attacker_desc:0 "[defender.GetShortUIName|U] held onto the contested title, temporarily..."
+ nvzhenzhengfuzhanzheng_defeat_desc:0 "[defender.GetShortUIName|U] held onto the contested title, temporarily..."
+
+ xinzeng_wanjia_zengjia_dichangezi_decision:0 "Player Gains Property Tile"
+ xinzeng_wanjia_zengjia_dichangezi_decision_desc:0 "#F Player Gains Property Tile"
+ xinzeng_wanjia_zengjia_dichangezi_decision_confirm:0 " "
+ xinzeng_wanjia_zengjia_dichangezi_decision_tooltip:0 " "
+
+ 
