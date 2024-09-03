@@ -101,7 +101,8 @@ async def translate_chunk_async(chunk, session, chunk_index, semaphore, log_dir)
                                 "content": (
                                     "You are a professional translator with expertise in translating video game localization files. "
                                     "You are given cut up localizations from a chinese CK3 mod localization file. This is beiong translated asynchrously. "
-                                    "Translate only the Chinese text into English while preserving the identifiers and formatting, and pass through any text remaining text. "
+                                    "Translate only the Chinese text into English while preserving the identifiers and formatting and Indents, whilst passing throughother texts. "
+                                    "It is critical to preserve formatting and indents, else the reassmbled file will not work. "
                                     "Do not add any other elements. "
                                 ),
                             },
