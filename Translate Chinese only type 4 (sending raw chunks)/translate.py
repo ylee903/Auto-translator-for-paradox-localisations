@@ -167,7 +167,7 @@ def save_translated_chunks(translated_chunks, file_path, overwrite_original):
         else file_path.replace(".yml", "_translated.yml")
     )
 
-    with open(output_file_path, "w", encoding="utf-8") as file:
+    with open(output_file_path, "w", encoding="utf-8-sig") as file:
         file.write("\n".join(translated_chunks))
 
     print(f"Translated file saved as {output_file_path}")
@@ -176,7 +176,7 @@ def save_translated_chunks(translated_chunks, file_path, overwrite_original):
 
 async def translate_yaml_file(file_path):
     print(f"Processing file: {file_path}")
-    with open(file_path, "r", encoding="utf-8") as file:
+    with open(file_path, "r", encoding="utf-8-sig") as file:
         file_content = file.read()
 
     # Split the file into chunks
