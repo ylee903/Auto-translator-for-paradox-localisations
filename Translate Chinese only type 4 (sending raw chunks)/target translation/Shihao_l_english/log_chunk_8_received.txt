@@ -1,0 +1,176 @@
+shihao_ruizong_yuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Achievements without struggle, stabilizing chaos, revered as "Yekena Yan", posthumously titled Ren Sheng Jing Xiang\n\n(Möngke Khan posthumously honored him as the Martial Emperor. Yuan Shizu changed his posthumous title to Jing Xiang Emperor, temple name Ruizong. Yuan Wuzong added the posthumous title of Ren Sheng Jing Xiang Emperor.)"
+shihao_taizong_yuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Wise and broad-minded, measuring the heavens and the earth, honored as "Mu Yijian Khan", posthumously titled Yongwen\n\n(Posthumously honored by Yuan Shizu.)"
+shihao_dingzong_yuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Reigning with great virtue, establishing laws and governance, posthumously titled Jian Ping\n\n(Posthumously honored by Yuan Shizu.)"
+shihao_xianzong1_yuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Martial achievements in all directions, integrity makes people submit, posthumously titled Huan Su\n\n(Posthumously honored by Yuan Shizu.)"
+shihao_shizu_yuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Measuring the heavens and the earth, virtue covering all things, honored as "Xue Chan Khan", posthumously titled Sheng De Shen Gong Wen Wu."
+shihao_yuzong_yuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Kindness and benevolence gained popularity, virtue and compassion widespread, posthumously titled Wen Hui Ming Xiao\n\n(Posthumously honored by Yuan Chengzong.)"
+shihao_chengzong_yuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Stabilizing the populace and establishing governance, possessing pure inner virtue, honored as "Wan Ze Du Khan", posthumously titled Qin Ming Guang Xiao."
+shihao_shunzong_yuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Compassionate and kind, virtue as gentle as jade, posthumously titled Zhao Sheng Yan Xiao\n\n(Posthumously honored by Yuan Wuzong.)"
+shihao_wuzong_yuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Strong and upright, majestic and wise in virtue, posthumously titled Qu Lv Khan, Ren Hui Xuan Xiao."
+shihao_renzong_yuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Compassionate to the people and love for all, embodying the source and laying the foundation, posthumously titled Pu Yan Du Khan, Sheng Wen Qin Xiao."
+shihao_yingzong_yuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Virtue splendid and brilliant, wise and broad-minded, posthumously titled Ge Jian Khan, Rui Sheng Wen Xiao."
+shihao_xianzong_yuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Holy virtue shines upon, receiving blessings from heaven, posthumously titled Guang Sheng Ren Xiao\n\n(Posthumously honored by Yuan Tai Ding Emperor, later revoked during Yuan Wen Zong's reign.)"
+shihao_wenzong_yuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Pitying the people and bestowing kindness, the virtue of the emperor widespread, posthumously titled Zha Ya Du Khan, Sheng Ming Yuan Xiao."
+shihao_mingzong_yuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Shining upon all directions, appointing the worthy, posthumously titled Hu Du Du Khan, Yi Xian Jing Xiao."
+shihao_ningzong_yuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Abounding in peace and stability, with a profound heart, posthumously titled Chong Sheng Si Xiao."
+shihao_huizong_yuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Compassionate and kind to the people, wise and supportive to the ruler, honored as "Wu Ha Du Khan", posthumously titled Shun\n\n(Posthumously honored by Ming Taizu.)"
+
+hongnonghuaiwang:0 "Hongnong Huai Wang"
+hongnonghuaiwang_desc:0 "Deposed by Dong Zhuo, assassinated the following year."
+
+anlesigong:0 "An Le Si Gong"
+
+shaolingligong:0 "Shaoling Li Gong"
+shaolingligong_desc:0 "Sima Shi deposed Cao Fang, establishing him as King of Qi. After the establishment of the Western Jin, conferred the title of Duke of Shaoling County. Posthumously titled 'Li.'"
+
+gaoguixianggong:0 "Deposed"
+gaoguixianggong_desc:0 "Gao Gu Xiang Gong, same as Chen Si, a martial ancestor. Alas, alas."
+
+yuandichenliuwang:0 "Yuan"
+yuandichenliuwang_desc:0 "Reduced to Duke of Chen Liu. Died at the age of fifty-eight in the first year of Da'an, posthumously titled Yuan Emperor.\n\nHuan Zhang's knowledge of Ding's fate had changed, enduring longing and ascending, forever ending the heavenly blessings, willingly accepting extinction, a tragic descent indeed."
+
+haixigong:0 "Hai Xi Gong"
+haixigong_desc:0 "Deposed by Grand Marshal Huan Wen, reduced to Duke of Dong Hai, later further reduced to Duke of Hai Xi County."
+
+yulinwang:0 "Deposed"               #Yu Lin Wang Xiao Zhao Ye
+yulinwang_desc:0 "After being assassinated, Xiao Luan issued an edict under the name of the Empress Dowager, demoting Xiao Zhao Ye to Duke of Yu Ling.\n\nIn the event of ten errors, none lose their state. Yu Lin bears burdens, abandons rites, forgets laws."
+
+hailinggongwang:0 "Deposed"            #Hai Ling Wang Xiao Zhao Wen
+hailinggongwang_desc:0 "A puppet established by Xiao Luan, later reduced to Duke of Hai Ling.\n\nMu Mu Hai Ling, risen from ruin. Neither ahead nor behind, one misfortune besets the other."
+
+donghunhou:0 "Deposed"              #Dong Hun Hou Xiao Bao Juan
+donghunhou_desc:0 "After Xiao Yan took power, stripped of the imperial title, degraded to Duke of Fu Ling, later demoted to Dong Hun Hou following the tale of Han Hai Hun Hou.\n\nDong Hun is slow, using paces of Gui and Xing. Thus, breaking conventions, discarding traditions, engaging in military fury, ultimately leading to self-immolation."
+
+huaiyinwang:0 "Huai Yin Wang"
+huaiyinwang_desc:0 "Hou Jing deposed Xiao Gang, establishing Xiao Dong as emperor. Later accepted abdication, reducing Xiao Dong to Huai Yin Wang."
+
+jiananwang:0 "Jian An Wang"
+jiananwang_desc:1 "Chen Baxian was deposed, reduced to Jian An Wang, Xiao Zhuang posthumously titled 'Min'!"
+
+jiangyinwang:0 "Respect"          #Xiao Fang Zhi
+jiangyinwang_desc:1 "Emperor Jing was not established by family, Shao Zhi stationed at the transport, engagement there was due to self, governance and punishment not attributed to oneself, and lacked the support of Yi and Huo, how could one not defer to Gao?"
+
+yingyangwang:0 "Few"
+yingyangwang_desc:0 "Deposed by powerful ministers Xu Xianzhi, Xie Hui, and others, reduced to Duke of Ying Yang.\n\nThe state is about to fall, how can one continue to guard the great enterprise and command the myriad states? Now deposed to Duke of Ying Yang, thus following the stories of Han Chang Yi and Jin Hai Xi."
+
+yuanxiong:0 "False"
+yuanxiong_desc:1 "The real culprit Shao 'desperately killed and reversed, unsung of the opening.'"
+
+liuziye:0 "Deposed"
+liuziye_desc:0 "The pre-Song deposed emperor insulted the ancestors, acted wickedly like a beast. King Wu several times pointed out the outrages of Yin and Zhou; he could not compare to even one ten-thousandth."
+
+liuyu:0 "Deposed"
+liuyu_desc:0 "The post-Song deposed emperor was brutal and cruel, hoarding seals and ribbons, wearing fish garments and forgetting to rebel, corrupting the people's religion and pollution of the palace temple."
+
+shundiruyinwang:0 "Shun"        #Song Shun Emperor Liu Zhun
+shundiruyinwang_desc:0 "King Qi usurped power, conferred as Duke of Ru Yin, treated with unfilial rites. Later passed away in Danyang Palace, at the age of thirteen. Posthumously titled Shun Emperor."
+
+linhaiwang:0 "Deposed"                  #Chen Lin Hai Wang
+linhaiwang_desc:0 "Lin Hai was weak, similar to Emperor Zhi, though literary figures may not wish to discern the propriety of the Yin path; is that also attainable?"
+
+chenshubao:0 "Chang Cheng Yang Gong"
+chenshubao_desc:0 "Li Yu fragrant forest faces the high pavilion, the new dress's brilliant quality originally moves the city.\nThe beams reflect and faintly tease not to enter, lifting the veil, full of smiles to welcome.\nThe demon princess's face is like a flower holding dew, the jade tree's flowing light shining the back garden."
+
+beixianghou:0 "Few"#Han Shao Emperor Liu Yi
+beixianghou_desc:0 "After Han Shun Emperor ascended the throne, he did not acknowledge Liu Yi's legitimacy, burying him with the rites of a vassal. Therefore, some historians do not count Liu Yi among the Eastern Han emperors, calling him Duke of Jibei."
+
+bawang1:0 "Usurpation"
+bawang2:0 "Duke of Ru Nan"
+bawang3:0 "Duke of Chu"
+bawang4:0 "Duke of Qi"
+bawang5:0 "Duke of Chang Sha"
+bawang6:0 "Duke of Cheng Du"
+bawang7:0 "Duke of He Jian"
+bawang8:0 "Duke of Dong Hai"
+bawang1_desc:1 "Zhao Wang Sima Lun was truly foolish, daring to steal the dragon chart, disrupting the common order and reaching the harshest punishment."
+bawang2_desc:1 "Undoubtedly, [CHARACTER.GetShortUINameNoTooltipNoFormat] should be the true master of the Jin dynasty!"
+bawang3_desc:1 "Undoubtedly, [CHARACTER.GetShortUINameNoTooltipNoFormat] should be the true master of the Jin dynasty!"
+bawang4_desc:1 "Undoubtedly, [CHARACTER.GetShortUINameNoTooltipNoFormat] should be the true master of the Jin dynasty!"
+bawang5_desc:1 "Undoubtedly, [CHARACTER.GetShortUINameNoTooltipNoFormat] should be the true master of the Jin dynasty!"
+bawang6_desc:1 "Undoubtedly, [CHARACTER.GetShortUINameNoTooltipNoFormat] should be the true master of the Jin dynasty!"
+bawang7_desc:1 "Undoubtedly, [CHARACTER.GetShortUINameNoTooltipNoFormat] should be the true master of the Jin dynasty!"
+bawang8_desc:1 "Undoubtedly, [CHARACTER.GetShortUINameNoTooltipNoFormat] should be the true master of the Jin dynasty!"
+
+sunce:0 "Chang Sha Huan Wang"
+
+liaodongxianggong:0 "Liao Dong Xiang Gong"
+
+yueliwang:0 "Yue Li Wang"
+yueliwang_desc:0 "Fu Jian ascended, proclaiming himself the Heavenly King of the Great Qin. Deposed Fu Sheng to be the King of Yue, posthumously titled 'Li.'"
+
+daiwang:0 "Dai Wang"
+
+nananyinwang:0 "Deposed"
+nananyinwang_desc:0 "Southern An Yin Wang"
+
+yuanqin:0 "Deposed"
+yuanqin_desc:0 "Yuan Qin plotted against Yu Wen Tai, and upon the leak, was deposed."
+
+gaoyin:0 "Ji Nan Min Dao Wang"
+gaoyin:0 "Chang Shan Wang Gao Yan staged a coup, Empress Lou issued an edict reducing Gao Yin to Ji Nan Wang."
+
+wuchoutianzi:0 "Wu Chou Tian Zi"
+wuchoutianzi_desc:0 "With a witty smile, challenging tens of thousands, the fairest city wears military attire.\nJin Yang has fallen, do not look back, further requesting Your Majesty to hunt a circle."
+
+wenguogong:0 "Wen Guo Gong"
+
+zhuyougui:0 "Fake"        #Zhu You Gui
+zhuyougui_desc:0 "Patricide and self-establishing, behaving lawlessly, with no following from subjects."
+
+zhuyouzhen:0 "Final"                           #Zhu You Zhen
+
+licongke:0 "Final"                                  #Li Cong Ke
+
+xiangyingong:0 "Xiang Yin Gong"
+
+wangyan:0 "Later Ruler"                     #Later Ruler Wang Yan
+
+mengchang:0 "Later Ruler"                 #Later Ruler Meng Chang
+
+fuyihou:0 "Betrayal Marquis"
+fuyihou_desc:0 "Post-reduction, was titled Betrayal Marquis."
+
+nanhanhouzhu:0 "Later Ruler"            #Later Ruler of Southern Han
+
+sunliang:0 "Hui Ji Wang"
+
+sunhao:0 "Return to Submission Marquis"
+sunhao_desc:0 "Hao was extremely evil, ultimately falling from his enterprise, this is no misfortune."
+
+weiminghou:0 "Defy Command Marquis"                                                        #Li Yu
+weiminghou_desc:0 "Silently ascending the western tower, the moon like a hook. Lonely wutong locks the clear autumn deeply. Unable to cut, entangled, is separation's sorrow. A different flavor lingers in heart."
+
+yuanyitaizi:0 "Yuan Yi Crown Prince"
+
+songgongdi:0 "Respect"
+songgongdi_desc:0 "After the reduction of the Yuan, conferred as Duke of Ying Guo. Song Duan Zong conferred the title of filial Respect and Eminent Sacred Emperor. After death, the Yuan dynasty posthumously honored him as Emperor of Respect, Han Lin'er posthumously honored him as the Law Sacred Chapter Textual Martial Wise Filial Emperor."
+
+xiaoyanyan:0 "Holy Divine Declared Empress"
+xiaoyanyan_desc:0 "Initially posthumously titled Holy Divine Declared Empress, later changed to Wise Empress by Liao Xing Zong."
+
+hailingwang:0 "Deposed"
+hailingwang_desc:0 "After being assassinated, was reduced to Duke of Hai Ling, posthumously titled Yang. Later further deposed to a commoner of Hai Ling.\n\nTen thousand miles of car letters in confusion, how can Jiang Nan avoid separate feudal titles? Leading an army of millions on Xihu, establishing the peak of Wushan! — Hai Ling Wang Wanyan Liang"
+
+weishaowang:0 "Deposed"
+weishaowang_desc:0 "After being assassinated, was reduced to Duke of Dong Hai, later restored as Wei Wang, posthumously titled Shao.\n\nI say the emperor of the Central Plains is a celestial person; are these mundane cowards also among them?! — Borjigin Teemo"
+
+dewang:0 "De Wang"
+liangwuzhaowang:0 "Liang Wu Zhao Wang"
+xilianghouzhu:0 "Liang Later Ruler"
+
+###########################
+########################彩蛋
+###########################
+
+shengping:0 "Sheng Ping"
+pingyang:0 "Ping Yang"
+taipinggongzhu:0 "Tai Ping"
+yanglihua:0 "Le Ping"
+
+huangchao:0 "General Charging to the Sky"
+huangchao_desc:0 "When autumn comes on the eighth of September, my flowers bloom, killing all other flowers. The fragrant array penetrates Chang'an, the whole city adorned with golden armor."
+
+dazhongzai:0 "Great Chancellor"
+dazhongzai_desc:0 "There was the beginning of Zhou's appointment, Yu Wen Hu actually faced difficulties. After Wen's demise, the various sons were youthful; many nobility harbored hostility, intent on leaving the world, eventually transforming Wei into Zhou, defending righteousness by their efforts. However, Hu was deficient in scholarship, associating with lesser individuals, wielding power for himself; rebellion arose without sovereigns, of rudeness not befitting a lord, and ultimately met with execution, body and head severed; that was indeed his fate."
+
+lanlingwang:0 "Lan Ling Wang"

@@ -1,0 +1,103 @@
+shihao_liuzhiyuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 有功安民，威德克就，谥曰睿文圣武昭肃孝"                              #刘知远
+shihao_yin_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 隐拂不成，不明误国，谥曰隐"
+shihao_guowei_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 德覆万物，夙夜敬事，谥曰圣神恭肃文武孝"                          #郭威
+shihao_chairong_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 继志成事，威疆叡德，谥曰睿武孝文"                                 #柴荣
+shihao_ruihe_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 虑周事表，敦睦九族，谥曰睿和"
+
+shihao_mingxian:0 "明宪"
+shihao_yishun:0 "翼顺"
+shihao_zhangsu:0 "章肃"
+shihao_wangjian:0 "神武圣文孝德明惠"
+shihao_xiaojing2:0 "孝景"
+
+shihao_mingxian_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 思虑果远，懿行可纪，谥曰明宪"
+shihao_yishun_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 思虑深远，德容如玉，谥曰翼顺"
+shihao_zhangsu_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 温克令仪，好德不怠，谥曰章肃"
+shihao_wangjian_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 内治和理，能绥四方，谥曰神武圣文孝德明惠"                 #前蜀王建
+shihao_xiaojing2_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 践修世德，布义行刚，谥曰孝景"
+
+shihao_mengzhixiang:0 "文武圣德英烈明孝"
+shihao_xiaode:0 "孝德"
+shihao_xuzhigao:0 "光文肃武孝高皇帝"
+shihao_nantanglijing:0 "明道崇德文宣孝"
+shihao_shengwu:0 "圣武"
+
+shihao_mengzhixiang_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 业成无兢，五宗安之，谥曰文武圣德英烈明孝"                              #孟知祥
+shihao_xiaode_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 博施被物，贵而好礼，谥曰孝德"
+shihao_xuzhigao_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 能绍前业，经邦定誉，谥曰光文肃武孝高皇帝"                                     #徐知诰
+shihao_nantanglijing_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 浚达有德，善政养民，谥曰明道崇德文宣孝"
+shihao_shengwu_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 睿智天纵，威强恢远，谥曰圣武"
+
+shihao_tianhuangda:0 "天皇大"
+shihao_nanhanzhongzong:0 "文武光圣明孝"#南汉中宗刘晟
+shihao_wuzetian:0 "则天大圣"
+shihao_wulie:0 "武烈"
+shihao_da:0 "大"
+
+shihao_tianhuangda_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 靖民则法，则天法尧，谥曰天皇大"
+shihao_nanhanzhongzong_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 通达先知，照临四方，谥曰文武光圣明孝"             #南汉中宗刘晟
+shihao_wuzetian_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 德象天地，行道化民，谥曰则天大圣\n\n谥曰则天大圣皇后。唐隆元年（710），改为天后；景云元年（710），改为大圣天后；延和元年（712），改为天后圣帝，未几，改为圣后；开元四年（716），改为则天皇后；天宝八载（749），加谥则天顺圣皇后。"                                    #武则天
+shihao_wulie_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 克定祸乱，戎业有光，谥曰武烈"                                                                        #孙坚
+shihao_da_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 则天法尧，德象天地，谥曰大"
+
+shihao_zhaoxiaowu:0 "昭孝武"
+shihao_minguowangxi:0 "睿文广武明圣元德隆道大孝"
+shihao_minguowangchang:0 "圣神英睿文明广武应道大弘孝"
+
+shihao_zhaoxiaowu_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 德业升闻，践修世德，谥曰昭孝武"
+shihao_minguowangxi_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 致志大图，明照旁周，谥曰睿文广武明圣元德隆道大孝"
+shihao_minguowangchang_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 能安兆民，务德不争，谥曰圣神英睿文明广武应道大弘孝"
+
+shihao_xizu_song:0 "立道肇基积德起功懿文宪武睿和至孝"
+shihao_shunzu_song:0 "惠元睿明"
+shihao_yizu2_song:0 "简恭睿德"
+shihao_xuanzu_song:0 "昭武睿德"
+shihao_zhenzong_song:0 "膺符稽古神功让德文明武定章圣元孝"
+shihao_renzong_song:0 "体天法道极功全德神文圣武睿哲明孝"
+shihao_yingzong_song:0 "体乾应历隆功盛德宪文肃武睿圣宣孝"
+shihao_shenzong_song:0 "绍天法古运德建功英文烈武钦仁圣孝"
+shihao_zhezong_song:0 "宪元继道显德定功钦文睿武齐圣昭孝"
+shihao_huizong_song:0 "体神合道骏烈逊功圣文仁德宪慈显孝"
+shihao_qinzong_song:0 "恭文顺德仁孝皇帝"
+shihao_gaozong_song:0 "受命中兴全功至德圣神武文昭仁宪孝"
+shihao_xiaozong_song:0 "绍统同道冠德昭功哲文神武明圣成孝"
+shihao_guangzong_song:0 "循道宪仁明功茂德温文顺武圣哲慈孝"
+shihao_ningzong_song:0 "法天备道纯德茂功仁文哲武圣睿恭孝"
+shihao_lizong_song:0 "建道备德大功复兴烈文仁武圣明安孝"
+shihao_duzong_song:0 "端文明武景孝"
+shihao_duanzong_song:0 "裕文昭武愍孝"
+shihao_modi_song:0 "怀宗恭文宁武哀孝"
+
+shihao_xizu_song_desc:0 "宋太祖称帝追谥立道肇基积德起功懿文宪武睿和至孝皇帝，庙号僖祖"
+shihao_shunzu_song_desc:0 "宋太祖称帝追谥惠元睿明皇帝，庙号顺祖"
+shihao_yizu2_song_desc:0 "宋太祖称帝追谥简恭睿德皇帝，庙号翼祖"
+shihao_xuanzu_song_desc:0 "宋太祖称帝追谥昭武睿德皇帝，庙号宣祖"
+shihao_zhenzong_song_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 肇敏行成，至善行德，谥曰膺符稽古神功让德文明武定章圣元孝\n\n初谥文明武定章圣元孝皇帝，庆历七年（1047），加谥为“ 膺符稽古神功让德文明武定章圣元孝皇帝"
+shihao_renzong_song_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 克己复礼，慈民爱物，谥曰体天法道极功全德神文圣武睿哲明孝\n\n初谥神文圣武明孝皇帝，元丰六年（1083），加谥为“体天法道极功全德神文圣武睿哲明孝皇帝"
+shihao_yingzong_song_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 德华茂著，明识大略，谥曰体乾应历隆功盛德宪文肃武睿圣宣孝\n\n初谥宪文肃武宣孝，后加谥为“体乾应历隆功盛德宪文肃武睿圣宣孝皇帝”"
+shihao_shenzong_song_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 安仁立政，创制垂法，谥曰绍天法古运德建功英文烈武钦仁圣孝\n\n初谥英文烈武圣孝皇帝，后加谥为“绍天法古运德建功英文烈武钦仁圣孝皇帝”"
+shihao_zhezong_song_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 知能辨物，兆民宁赖，谥曰宪元继道显德定功钦文睿武齐圣昭孝\n\n初谥宪元显德钦文睿武齐圣昭孝皇帝，崇宁三年（1104），加谥为宪元继道世德扬功钦文睿武齐圣昭孝皇帝。政和三年（1113年），改谥为宪元继道显德定功钦文睿武齐圣昭孝皇帝。"
+shihao_huizong_song_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 刚强直理，元德充美，谥曰体神合道骏烈逊功圣文仁德宪慈显孝\n\n初谥圣文仁德显孝皇帝。绍兴十三年，加谥号为体神合道骏烈逊功圣文仁德宪慈显孝皇帝"
+shihao_qinzong_song_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 威仪悉备，德之不建，谥曰恭文顺德仁孝皇帝\n\n宋高宗赵构追谥"
+shihao_gaozong_song_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 能绍前业，创制垂法，谥曰受命中兴全功至德圣神武文昭仁宪孝\n\n初谥圣神武文宪孝皇帝。绍熙二年（1191）加谥“受命中兴全功至德圣神武文昭仁宪孝皇帝”"
+shihao_xiaozong_song_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 五宗安之，德加百姓，谥曰绍统同道冠德昭功哲文神武明圣成孝\n\n初谥哲文神武成孝皇帝，后累谥为绍统同道冠德昭功哲文神武明圣成孝皇帝"
+shihao_guangzong_song_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 居上能谦，博施被物，谥曰循道宪仁明功茂德温文顺武圣哲慈孝\n\n初谥宪仁圣哲慈孝皇帝，嘉泰三年（1203 ），加谥号为循道宪仁明功茂德温文顺武圣哲慈孝皇帝。"
+shihao_ningzong_song_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 裕以安民，尊贤贵义，谥曰法天备道纯德茂功仁文哲武圣睿恭孝\n\n初谥仁文哲武恭孝皇帝。宝庆三年（1227），加谥号为法天备道纯德茂功仁文哲武圣睿恭孝皇帝"
+shihao_lizong_song_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 措正施行，治繁不扰，谥曰建道备德大功复兴烈文仁武圣明安孝"
+shihao_duzong_song_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 守法纬民，宽裕有容，谥曰端文明武景孝"
+shihao_duanzong_song_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 守礼执义，秉心贞静，谥曰裕文昭武愍孝"
+shihao_modi_song_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 早孤短折，在国遭忧，谥曰怀宗恭文宁武哀孝\n\n韩林儿追谥怀宗恭文宁武哀孝皇帝。"
+
+
+shihao_zhuangjing:0 "庄敬"
+shihao_jianxian:0 "简献"
+shihao_xuanjian:0 "宣简"
+shihao_taizu_liao:0 "大圣大明神烈天"
+shihao_taizong_liao:0 "孝武惠文"
+shihao_yizong_liao:0 "文献钦义"
+shihao_shizong_liao:0 "孝和庄宪"
+shihao_lihu_liao:0 "章肃"                             #耶律李胡
+shihao_muzong_liao:0 "孝安敬正"
+shihao_jingzong_liao:0 "孝成康靖"
+shihao_shengzong_liao:0 "文武大孝宣"
+shihao_xingzong_liao:0 "神圣孝章"

@@ -1,0 +1,163 @@
+shihao_xiaohuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 尊仁爱义，克敬勤民，谥曰孝桓"
+
+shihao_xiaoling:0 "孝灵"
+shihao_xiaoxian:0 "孝献"
+shihao_xiaomu:0 "孝穆"
+shihao_xiaowu:0 "孝武"
+shihao_zhaolie:0 "昭烈"
+
+shihao_xiaoling_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 姻睦其党，乱而不损，谥曰孝灵"
+shihao_xiaoxian_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 能奉祭祀，智能翼君，谥曰孝献"
+shihao_xiaomu_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 继志成事，布德执义，谥曰孝穆"
+shihao_xiaowu_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 教刑四海，克定祸乱，谥曰孝武"
+shihao_zhaolie_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 德辉内蕴，业成无兢，谥曰昭烈！"
+
+shihao_xiaohui:0 "孝惠"
+shihao_xiaohuai:0 "孝怀"
+shihao_xiaomin:0 "孝愍"
+shihao_jianwen:0 "简文"
+shihao_xiaoyuan:0 "孝元"
+
+shihao_xiaohui_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 敬慎所安，施勤无私，谥曰孝惠"
+shihao_xiaohuai_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 慈惠爱亲，慈仁知节，谥曰孝怀"
+shihao_xiaomin_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 从命不违，在国逢艰，谥曰孝愍"
+shihao_jianwen_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 一德不懈，绍修圣绪，谥曰简文"
+shihao_xiaoyuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 尊仁爱义，道德纯一，谥曰孝元"
+
+shihao_he:0 "和"
+shihao_xiaoxuan:0 "孝宣"
+shihao_wuyuan:0 "武元"
+shihao_xiaocheng:0 "孝成"
+shihao_guangwen:0 "光文"
+
+shihao_he_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 温厚无苛，推贤让能，谥曰和！"
+shihao_xiaoxuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 博施被物，能布令德，谥曰孝宣"
+shihao_wuyuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 刚强直理，体干启祚，谥曰武元"
+shihao_xiaocheng_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 慈爱忘劳，安民立政，谥曰孝成"
+shihao_guangwen_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 能绍前业，经纬天地，谥曰光文"
+
+shihao_zhaowu:0 "昭武"
+shihao_yin:0 "隐"
+shihao_wenming:0 "文明"
+shihao_jingzhao:0 "景昭"
+shihao_you:0 "幽"
+
+shihao_zhaowu_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 威仪恭明，威强恢远，谥曰昭武"
+shihao_yin_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 隐括不成，不尸其位，谥曰隐"
+shihao_wenming_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 道德博闻，思虑果远，谥曰文明"
+shihao_jingzhao_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 布义行刚，柔德有光，谥曰景昭"
+shihao_you_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 壅遏不通，暴民残义，谥曰幽"
+
+shihao_chengwu:0 "成武"
+shihao_huimin:0 "惠愍"
+shihao_zhaowen:0 "昭文"
+shihao_xianwu:0 "献武"
+shihao_huiwu:0 "惠武"
+
+shihao_chengwu_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 礼乐明具，威疆叡德，谥曰成武"
+shihao_huimin_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 慈哲远识，在国遭忧，谥曰惠愍"
+shihao_zhaowen_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 德业升闻，慈惠爱民，谥曰昭文"
+shihao_xianwu_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 惠而内德，刚强直理，谥曰献武"
+shihao_huiwu_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 恩能及下，辟土斥境，谥曰惠武"
+
+shihao_wenhuan:0 "文桓"
+shihao_jingming:0 "景明"
+shihao_xuanzhao:0 "宣昭"
+shihao_aiping:0 "哀平"
+shihao_shenyuan:0 "神元"                        #拓跋力微
+
+shihao_wenhuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 刚柔相济，武定四方，谥曰文桓"
+shihao_jingming_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 布义行刚，保民耆艾，谥曰景明"
+shihao_xuanzhao_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 施而不成，声闻宣远，谥曰宣昭"
+shihao_aiping_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 无常无偏，遭难已甚，谥曰哀平"
+shihao_shenyuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 能妙万物，仁明道合，谥曰神元"  
+
+shihao_pingwen:0 "平文"
+shihao_zhaocheng:0 "昭成"
+shihao_xianming:0 "献明"
+shihao_daowu:0 "道武"
+shihao_mingyuan:0 "明元"
+
+shihao_pingwen_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 执事有制，帝德运广，谥曰平文"
+shihao_zhaocheng_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 德业升闻，礼乐明具，谥曰昭成"
+shihao_xianming_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 惠而内德，照临四方，谥曰献明"
+shihao_daowu_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 以德化民，克有天下，谥曰道武。\n\n初谥宣武，庙号烈祖。后（拓跋嗣）改谥号为道武，（元宏）改庙号为太祖"
+shihao_mingyuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 思虑果远，主义行德，谥曰明元"
+
+shihao_taiwu:0 "太武"
+shihao_wencheng:0 "文成"
+shihao_xianwen:0 "献文"
+shihao_xiaowen:0 "孝文"
+shihao_xuanwu:0 "宣武"
+
+shihao_taiwu_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 克启行禩，威强睿德，谥曰太武"
+shihao_wencheng_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 帝德运广，内德纯备，谥曰文成"
+shihao_xianwen_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 聪明睿智，刚柔相济，谥曰献文"
+shihao_xiaowen_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 德通神明，经纬天地，谥曰孝文"
+shihao_xuanwu_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 圣善周闻，威强恢远，谥曰宣武"
+
+shihao_beiweixiaozhuang:0 "孝庄"
+shihao_jiemin:0 "节闵"
+shihao_xiaojing:0 "孝静"
+shihao_shenwu:0 "神武"
+shihao_wenxiang:0 "文襄"
+
+shihao_beiweixiaozhuang_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 继志成事，胜敌志强，谥曰孝庄。\n\n初谥武怀。后（元修）改谥号为孝庄！\n\n“吾宁为高贵乡公死，不为常道乡公生”"
+shihao_jiemin_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 好廉自克，慈仁不寿，谥曰节闵"
+shihao_xiaojing_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 五宗安之，柔德考众，谥曰孝静"
+shihao_shenwu_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 能妙万物，克定祸乱，谥曰神武"
+shihao_wenxiang_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 博闻多见，辟地有德，谥曰文襄"
+
+shihao_wenxuan:0 "文宣"
+shihao_xiaozhao:0 "孝昭"
+shihao_wucheng:0 "武成"
+shihao_xiaomin2:0 "孝闵"
+shihao_jing2:0 "静"
+
+shihao_wenxuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 经纬天地，施而不成，谥曰文宣"
+shihao_xiaozhao_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 慈惠爱亲，威仪恭明，谥曰孝昭"
+shihao_wucheng_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 克定祸乱，内德纯备，谥曰武成"
+shihao_xiaomin2_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 尊仁爱义，慈仁不寿，谥曰孝闵"
+shihao_jing2_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 厚德安贞，柔德考众，谥曰静"
+
+shihao_liangzhuwen:0 "神武元圣孝"
+shihao_xuanyuan:0 "宣元"
+shihao_guangxian:0 "光献"
+shihao_wenmu:0 "文穆"
+shihao_licunxu:0 "光圣神闵孝"
+
+shihao_liangzhuwen_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 戎业有光，始建国都，谥曰神武元圣孝"      李存勖
+shihao_xuanyuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 重光丽日，至善行德，谥曰宣元"
+shihao_guangxian_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 功烈耿著，博闻多能，谥曰光献"
+shihao_wenmu_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 刚柔相济，德政应和，谥曰文穆"
+shihao_licunxu_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 继志成事，好内怠政，谥曰光圣神闵孝"       #朱温
+
+shihao_xiaogong:0 "孝恭"
+shihao_xiaojing1:0 "孝靖"
+shihao_lisiyuan:0 "圣德和武钦孝"
+shihao_min:0 "愍"
+shihao_xiaojian:0 "孝简"
+
+shihao_xiaogong_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 尊仁爱义，尊贤贵义，谥曰孝恭"
+shihao_xiaojing1_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 德通神明，宽乐令终，谥曰孝靖"
+shihao_lisiyuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 行道化民，克定祸乱，谥曰圣德和武钦孝"                      #李嗣源
+shihao_min_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 在国遭忧，慈仁知节，谥曰愍"
+shihao_xiaojian_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 慈惠爱民，能行直道，谥曰孝简"
+
+shihao_xiaoping:0 "孝平"
+shihao_shijingtang:0 "圣文章武明德孝"#石敬瑭
+shihao_gongxi:0 "恭僖"
+shihao_zhaoxian:0 "昭宪"
+shihao_zhangsheng:0 "章圣"
+
+shihao_xiaoping_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 德加百姓，无常无偏，谥曰孝平"
+shihao_shijingtang_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 胜敌志强，博施济众，谥曰圣文章武明德孝"      #石敬瑭
+shihao_gongxi_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 尊长让善，慈惠爱亲，谥曰恭僖"
+shihao_zhaoxian_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 声闻宣远，行善可记，谥曰昭宪"
+shihao_zhangsheng_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 温克令仪，敬祀亨礼，谥曰章圣"
+
+shihao_liuzhiyuan:0 "睿文圣武昭肃孝"
+shihao_yin:0 "隐"
+shihao_guowei:0 "圣神恭肃文武孝"
+shihao_chairong:0 "睿武孝文"
+shihao_ruihe:0 "睿和"

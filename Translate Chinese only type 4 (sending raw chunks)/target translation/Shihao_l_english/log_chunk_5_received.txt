@@ -1,0 +1,163 @@
+shihao_xiaohuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Respecting benevolence, loving the people, posthumously titled Xiao Huan"
+
+shihao_xiaoling:0 "Xiao Ling"
+shihao_xiaoxian:0 "Xiao Xian"
+shihao_xiaomu:0 "Xiao Mu"
+shihao_xiaowu:0 "Xiao Wu"
+shihao_zhaolie:0 "Zhao Lie"
+
+shihao_xiaoling_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Harmony among his party, stable amidst chaos, posthumously titled Xiao Ling"
+shihao_xiaoxian_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Capable of offering sacrifices, intelligent in assisting the ruler, posthumously titled Xiao Xian"
+shihao_xiaomu_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Continuing the will and achieving results, spreading virtue and upholding justice, posthumously titled Xiao Mu"
+shihao_xiaowu_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Educating and enforcing throughout the land, restoring order, posthumously titled Xiao Wu"
+shihao_zhaolie_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Inherent virtue shining, achievements without hesitation, posthumously titled Zhao Lie!"
+
+shihao_xiaohui:0 "Xiao Hui"
+shihao_xiaohuai:0 "Xiao Huai"
+shihao_xiaomin:0 "Xiao Min"
+shihao_jianwen:0 "Jian Wen"
+shihao_xiaoyuan:0 "Xiao Yuan"
+
+shihao_xiaohui_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Respectful and cautious, diligent and selfless, posthumously titled Xiao Hui"
+shihao_xiaohuai_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Kind and loving to relatives, benevolent and knowing restraint, posthumously titled Xiao Huai"
+shihao_xiaomin_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Obedient and faithful, facing difficulties in the state, posthumously titled Xiao Min"
+shihao_jianwen_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Unwavering in virtue, continuing the sacred legacy, posthumously titled Jian Wen"
+shihao_xiaoyuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Respecting benevolence, loving righteousness, with pure morals, posthumously titled Xiao Yuan"
+
+shihao_he:0 "He"
+shihao_xiaoxuan:0 "Xiao Xuan"
+shihao_wuyuan:0 "Wu Yuan"
+shihao_xiaocheng:0 "Xiao Cheng"
+shihao_guangwen:0 "Guang Wen"
+
+shihao_he_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Warm and gentle without harshness, promoting the worthy and yielding to the capable, posthumously titled He!"
+shihao_xiaoxuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Generous and giving, able to spread virtues and promote order, posthumously titled Xiao Xuan"
+shihao_wuyuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Resolute and principled, assisting the dynasty's establishment, posthumously titled Wu Yuan"
+shihao_xiaocheng_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Kind and loving, establishing governance for the people, posthumously titled Xiao Cheng"
+shihao_guangwen_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Capable of continuing previous works, weaving heaven and earth, posthumously titled Guang Wen"
+
+shihao_zhaowu:0 "Zhao Wu"
+shihao_yin:0 "Yin"
+shihao_wenming:0 "Wen Ming"
+shihao_jingzhao:0 "Jing Zhao"
+shihao_you:0 "You"
+
+shihao_zhaowu_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Majestic and respectful, strong and far-reaching, posthumously titled Zhao Wu"
+shihao_yin_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Hidden and reclusive, not grotesque in position, posthumously titled Yin"
+shihao_wenming_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Broad in morality and knowledge, far-sighted in thoughts, posthumously titled Wen Ming"
+shihao_jingzhao_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Spreading righteousness with firmness, soft virtue shining brightly, posthumously titled Jing Zhao"
+shihao_you_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Blocked and uncommunicative, violent toward the nobility, posthumously titled You"
+
+shihao_chengwu:0 "Cheng Wu"
+shihao_huimin:0 "Hui Min"
+shihao_zhaowen:0 "Zhao Wen"
+shihao_xianwu:0 "Xian Wu"
+shihao_huiwu:0 "Hui Wu"
+
+shihao_chengwu_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Rites and music well-established, respected and strong in virtue, posthumously titled Cheng Wu"
+shihao_huimin_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Compassionate and wise, experiencing sorrow in the state, posthumously titled Hui Min"
+shihao_zhaowen_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Achievements in virtue renowned, kind and loving to the people, posthumously titled Zhao Wen"
+shihao_xianwu_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Benevolent and virtuous within, strong and principled, posthumously titled Xian Wu"
+shihao_huiwu_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Benevolence benefiting all, clearing land and banishing oppression, posthumously titled Hui Wu"
+
+shihao_wenhuan:0 "Wen Huan"
+shihao_jingming:0 "Jing Ming"
+shihao_xuanzhao:0 "Xuan Zhao"
+shihao_aiping:0 "Ai Ping"
+shihao_shenyuan:0 "Shen Yuan"                        #拓跋力微
+
+shihao_wenhuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Combining strength and gentleness, subduing all directions, posthumously titled Wen Huan"
+shihao_jingming_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Spreading righteousness with firmness, protecting the elderly, posthumously titled Jing Ming"
+shihao_xuanzhao_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Performing but not achieving, their fame spread far, posthumously titled Xuan Zhao"
+shihao_aiping_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Unchanging and impartial, facing severe difficulties, posthumously titled Ai Ping"
+shihao_shenyuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Capable of comprehending all things, benevolent and wise in governance, posthumously titled Shen Yuan"  
+
+shihao_pingwen:0 "Ping Wen"
+shihao_zhaocheng:0 "Zhao Cheng"
+shihao_xianming:0 "Xian Ming"
+shihao_daowu:0 "Dao Wu"
+shihao_mingyuan:0 "Ming Yuan"
+
+shihao_pingwen_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Holding affairs with regulation, the emperor’s virtue is widely exercised, posthumously titled Ping Wen"
+shihao_zhaocheng_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Achievements in virtue renowned, rites and music well-established, posthumously titled Zhao Cheng"
+shihao_xianming_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Benevolent and internally virtuous, illuminating all directions, posthumously titled Xian Ming"
+shihao_daowu_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Using virtue to transform the people, conquering the world, posthumously titled Dao Wu.\n\nOriginally titled Xuan Wu, temple name Lie Zu. Later (Tuoba Si) changed the posthumous title to Dao Wu, and (Yuan Hong) changed the temple name to Tai Zu."
+shihao_mingyuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Far-sighted in thought, pursuing virtue in actions, posthumously titled Ming Yuan"
+
+shihao_taiwu:0 "Tai Wu"
+shihao_wencheng:0 "Wen Cheng"
+shihao_xianwen:0 "Xian Wen"
+shihao_xiaowen:0 "Xiao Wen"
+shihao_xuanwu:0 "Xuan Wu"
+
+shihao_taiwu_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Capable of initiating ceremonies, strong and wise in virtue, posthumously titled Tai Wu"
+shihao_wencheng_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] The emperor's virtue is widely exercised, with complete internal virtue, posthumously titled Wen Cheng"
+shihao_xianwen_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Clever and wise, combining strength with gentleness, posthumously titled Xian Wen"
+shihao_xiaowen_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Virtue communicated with divine clarity, regulating heaven and earth, posthumously titled Xiao Wen"
+shihao_xuanwu_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Holy goodness spreading widely, strong and far-reaching, posthumously titled Xuan Wu"
+
+shihao_beiweixiaozhuang:0 "Xiao Zhuang"
+shihao_jiemin:0 "Jie Min"
+shihao_xiaojing:0 "Xiao Jing"
+shihao_shenwu:0 "Shen Wu"
+shihao_wenxiang:0 "Wen Xiang"
+
+shihao_beiweixiaozhuang_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Continuing the will and achieving results, overcoming enemies’ ambitions, posthumously titled Xiao Zhuang.\n\nOriginally titled Wu Huai. Later (Yuan Xiu) changed the posthumous title to Xiao Zhuang!\n\n'I would rather die as a noble county lord than live as a common county lord.'"
+shihao_jiemin_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Having integrity and self-discipline, benevolent but not long-lived, posthumously titled Jie Min"
+shihao_xiaojing_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Supporting the five ancestors, soft virtue testing the masses, posthumously titled Xiao Jing"
+shihao_shenwu_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Capable of comprehending all things, restoring peace from chaos, posthumously titled Shen Wu"
+shihao_wenxiang_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Well-read and experienced, spreading virtue in the land, posthumously titled Wen Xiang"
+
+shihao_wenxuan:0 "Wen Xuan"
+shihao_xiaozhao:0 "Xiao Zhao"
+shihao_wucheng:0 "Wu Cheng"
+shihao_xiaomin2:0 "Xiao Min"
+shihao_jing2:0 "Jing"
+
+shihao_wenxuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Regulating heaven and earth, yet not achieving, posthumously titled Wen Xuan"
+shihao_xiaozhao_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Kind and loving to relatives, majestic and respectful, posthumously titled Xiao Zhao"
+shihao_wucheng_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Restoring order amidst chaos, with complete internal virtue, posthumously titled Wu Cheng"
+shihao_xiaomin2_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Respectful of benevolence and loving righteousness, benevolent but not long-lived, posthumously titled Xiao Min"
+shihao_jing2_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Abundant virtue brings stability, soft virtue testing the masses, posthumously titled Jing"
+
+shihao_liangzhuwen:0 "Shen Wu Yuan Sheng Xiao"
+shihao_xuanyuan:0 "Xuan Yuan"
+shihao_guangxian:0 "Guang Xian"
+shihao_wenmu:0 "Wen Mu"
+shihao_licunxu:0 "Guang Sheng Shen Min Xiao"
+
+shihao_liangzhuwen_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Military achievements are illustrious, beginning the establishment of the capital, posthumously titled Shen Wu Yuan Sheng Xiao"      Li Cunxiu
+shihao_xuanyuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Brilliant as the shining sun, utmost good in practicing virtue, posthumously titled Xuan Yuan"
+shihao_guangxian_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Achievements are renowned, well-versed and multi-talented, posthumously titled Guang Xian"
+shihao_wenmu_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Combining strength and gentleness, virtue in governance harmonizes, posthumously titled Wen Mu"
+shihao_licunxu_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Continuing the will and achieving results, fond of complacency in governance, posthumously titled Guang Sheng Shen Min Xiao"       #朱温
+
+shihao_xiaogong:0 "Xiao Gong"
+shihao_xiaojing1:0 "Xiao Jing"
+shihao_lisiyuan:0 "Sheng De He Wu Qin Xiao"
+shihao_min:0 "Min"
+shihao_xiaojian:0 "Xiao Jian"
+
+shihao_xiaogong_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Respecting benevolence and loving righteousness, valuing the worthy and honorable, posthumously titled Xiao Gong"
+shihao_xiaojing1_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Virtuous with divine clarity, broad and joyful in commands, posthumously titled Xiao Jing"
+shihao_lisiyuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Following the way to transform the people, restoring order from chaos, posthumously titled Sheng De He Wu Qin Xiao"                      #李嗣源
+shihao_min_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Facing difficulties in the state, benevolent and knowing restraint, posthumously titled Min"
+shihao_xiaojian_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Kind and loving to the people, capable of undertaking the right path, posthumously titled Xiao Jian"
+
+shihao_xiaoping:0 "Xiao Ping"
+shihao_shijingtang:0 "Sheng Wen Zhang Wu Ming De Xiao"#石敬瑭
+shihao_gongxi:0 "Gong Xi"
+shihao_zhaoxian:0 "Zhao Xian"
+shihao_zhangsheng:0 "Zhang Sheng"
+
+shihao_xiaoping_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Virtue added to the people, unchanging and impartial, posthumously titled Xiao Ping"
+shihao_shijingtang_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Strong in ambition against enemies, generous toward the masses, posthumously titled Sheng Wen Zhang Wu Ming De Xiao"      #石敬瑭
+shihao_gongxi_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Respecting elders and cultivating good, kind and loving to relatives, posthumously titled Gong Xi"
+shihao_zhaoxian_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Fame spreads far, good deeds remembered, posthumously titled Zhao Xian"
+shihao_zhangsheng_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Gentle and respectful in ceremonial commands, honoring the sacrifices and maintaining rites, posthumously titled Zhang Sheng"
+
+shihao_liuzhiyuan:0 "Rui Wen Sheng Wu Zhao Su Xiao"
+shihao_yin:0 "Yin"
+shihao_guowei:0 "Sheng Shen Gong Su Wen Wu Xiao"
+shihao_chairong:0 "Rui Wu Xiao Wen"
+shihao_ruihe:0 "Rui He"

@@ -1,0 +1,40 @@
+lanlingwang_desc:0 "The sons of Wenxiang all possess character. Although there are elegant scholars like Xie (Xiao) and (Chen) Ping, their martial arts prowess is also capable of enduring humiliation. Even if the sword was bestowed in Xianyang (by Bai Qi), the victory would surely follow. If Lanling were to remain whole, it would be incalculable. Yet, in the end, they were seen decimated, leading to a collapse of the land, which is indeed a cause for lament. ————“Beishi”"
+
+chendaotan:0 "King Zhaolie of Shixing"              #Chen Daotan (Elder Brother of Chen Baxian)
+
+yuzhoudajiangjun:0 "General of the Universe"
+yuzhoudajiangjun_desc:0 "General of the Universe, Commander-in-Chief of All Military Affairs"
+
+wudaotianwang:0 "King Wudao of Heaven"
+wudaotianwang_desc:0 "In a world of great chaos, you barbarians, with human faces and beastly hearts, still wish to rebel. In this moment of heroes, why should it be impossible for us to become kings!"
+
+guzhiyiai:0 "Ancient Benevolence"
+guzhiyiai_desc:0 "“Murong Xuan is indeed a remarkable figure. He can be said to be the benevolence of ancient times!” — Wang Meng"
+
+zunhao_1:0 "Emperor of the Opening of the Yuan Tiandi Great Treasure, Holy Text, Divine Military, Responding to the Way"                #751 Script Li Longji
+zunhao_2:0 "Emperor of Enlightened Civilization, Holy Filial and Virtuous"                #867 Script Li Fuzhu
+zunhao_3:0 "Emperor of Holy Wisdom, Kindness, Philosophy, Clarity, and Filial Piety"                #882 Script Li Xuanzhen
+zunhao_4:0 "Emperor of Responding to Heaven, Expanding Good Fortune, Holy Text, Divine Military, Clear Way"                #975 Script Zhao Kuangyin
+zunhao_5:0 "Emperor of Jingyou, Body of Heaven, Law of Dao, Revered Literature, Clever Martial"                #1032 Script Zhao Zhen
+zunhao_6:0 "Emperor of the Taoist Lord"                #1121 Script Zhao Ji
+zunhao_7:0 "Emperor of Successor Saint"                #936 Ye Liu Deguang
+zunhao_8:0 "Emperor of Heavenly Order"                #956 Script Ye Liu Jing
+zunhao_9:0 "Emperor of Heavenly Praise"                #975 Script Ye Liu Xian
+zunhao_10:0 "Emperor of Heavenly Blessing"                #1121 Ye Liu Yanxi
+zunhao_11:0 "Emperor of Great Saint"                #1121 Script Wan Yan Aguda
+zunhao_12:0 "Emperor of Clear Literature, Wise Military, Supreme Virtue, Radiant Filial Piety"                #925 Script Li Cunxu
+zunhao_13:0 "Emperor of Responding to Heaven, Fortuitous Beginnings, Enlightened, Civil, and Martial"                #882 Script Huang Chao
+
+zunhao_1_desc:0 "In the eighth year of Tianbao, in April, the ministers presented the title to be 'Emperor of the Opening of the Yuan Tiandi Great Treasure, Holy Text, Divine Military, Responding to the Way.'"
+zunhao_2_desc:0 "In the third year of Xiantong, on the first month and the day of Gengwu, the ministers presented the title to be 'Emperor of Enlightened Civilization, Holy Filial and Virtuous.'"
+zunhao_3_desc:0 "On the day of Gengyin in November, the era was changed to Qianfu. The ministers presented the title to be 'Emperor of Holy Wisdom, Kindness, Philosophy, Clarity, and Filial Piety.'"
+zunhao_4_desc:0 "In the first year of Kaibao, in November, the added title became 'Emperor of Responding to Heaven, Expanding Good Fortune, Holy Text, Divine Military, Clear Way.'"
+zunhao_5_desc:0 "In the second year of Jingyou, in November, the officials presented the title to be 'Emperor of Jingyou, Body of Heaven, Law of Dao, Revered Literature, Clever Martial.'"
+zunhao_6_desc:0 "During the Zhenghe period, he proclaimed himself 'Emperor of the Taoist Lord.'"
+zunhao_7_desc:0 "In the second year of Tianxian, in November, he ascended to the throne, and the ministers presented the title of 'Successor Saint Emperor.'"
+zunhao_8_desc:0 "He ascended to the throne, and the ministers presented the title of 'Heavenly Order Emperor.'"
+zunhao_9_desc:0 "He ascended to the throne, and the ministers presented the title of 'Heavenly Praise Emperor.'"
+zunhao_10_desc:0 "He ascended to the throne, and the ministers presented the title of 'Heavenly Blessing Emperor.'"
+zunhao_11_desc:0 "In the second year of Shouguo, in December, the ministers presented the title of 'Great Saint Emperor.'"
+zunhao_12_desc:0 "In the second month of the second year of Tongguang, on the day of Guiyou, the Chancellor Doulu Ge led the officials to present the title, naming him 'Emperor of Clear Literature, Wise Military, Supreme Virtue, Radiant Filial Piety.'"
+zunhao_13_desc:0 "In the first year of Zhonghe, in April, on the day of Gengyin, the bandit leader Huang Chao presented the title naming him 'Emperor of Responding to Heaven, Fortuitous Beginnings, Enlightened, Civil, and Martial.'"

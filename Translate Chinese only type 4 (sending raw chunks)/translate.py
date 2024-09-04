@@ -14,7 +14,7 @@ from api_key_loader import debug_load_dotenv, debug_get_api_key
 delay_time = 1  # Delay between requests (in seconds)
 log_chunks = True  # Log chunks sent/received for debugging
 overwrite_original = True  # Overwrite original YAML files
-max_concurrent_requests = 3  # Control concurrency of asynchronous requests
+max_concurrent_requests = 5  # Control concurrency of asynchronous requests
 model_name = "gpt-4o-mini"  # Model for both tokenization and API calls
 ignore_mismatch = (
     True  # Ignore mismatches in line counts between sent and received chunks
@@ -199,6 +199,21 @@ async def translate_yaml_file(file_path):
     pause_for_input_or_time(mode, delay_time)
 
     return translated_file_path
+
+
+def pause_for_input_or_time(mode, delay_time):
+    if mode == "input":
+        input("Press Enter to continue...")
+    elif mode == "pause":
+        time.sleep(delay_time)
+    elif mode == "pause_on_input":
+        try:
+            print(
+                f"Pausing for {delay_time} seconds... Press Enter to resume immediately."
+            )
+            time.sleep(delay_time)
+        except KeyboardInterrupt:
+            input("Paused. Press Enter to resume...")
 
 
 async def translate_all_files_in_subdirectory():

@@ -1,0 +1,82 @@
+shihao_liuzhiyuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Accomplishments benefit the people, with power and virtue prevailing, posthumously titled Weiwen Shengwu Zhaosu Xiao"                              #刘知远
+shihao_yin_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Hidden and unsuccessful, causing misunderstandings that harm the nation, posthumously titled Yin"
+shihao_guowei_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Virtue covers all things, diligent in service day and night, posthumously titled Shengshen Gongsu Wenwu Xiao"                          #郭威
+shihao_chairong_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Continuing the ambition to accomplish, with great power and distinguished virtue, posthumously titled Ruiwu Xiaowen"                                 #柴荣
+shihao_ruihe_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Contemplating matters thoroughly, fostering unity among clans, posthumously titled Ruihe"
+
+shihao_mingxian:0 "Mingxian"
+shihao_yishun:0 "Yishun"
+shihao_zhangsu:0 "Zhangsu"
+shihao_wangjian:0 "Shenwu Shengwen Xiao De Minghui"
+shihao_xiaojing2:0 "Xiao Jing"
+
+shihao_mingxian_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Thoughtful and far-sighted, commendable conduct, posthumously titled Mingxian"
+shihao_yishun_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Deeply thoughtful, virtuous and gracious as jade, posthumously titled Yishun"
+shihao_zhangsu_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Gentle yet dignified, diligent in virtue, posthumously titled Zhangsu"
+shihao_wangjian_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Governing internally with harmony, able to pacify all, posthumously titled Shenwu Shengwen Xiao De Minghui"                 #前蜀王建
+shihao_xiaojing2_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Practicing and cultivating worldly virtue, spreading righteousness with integrity, posthumously titled Xiao Jing"
+
+shihao_mengzhixiang:0 "Wenwu Shengde Yinglie Mingxiao"
+shihao_xiaode:0 "Xiao De"
+shihao_xuzhigao:0 "Guangwen Suwu Xiao Gao Huangdi"
+shihao_nantanglijing:0 "Mingdao Chongde Wen Xuan Xiao"
+shihao_shengwu:0 "Shengwu"
+
+shihao_mengzhixiang_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Achievements without concern, securing the five clans, posthumously titled Wenwu Shengde Yinglie Mingxiao"                              #孟知祥
+shihao_xiaode_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Generous and kind, wealthy yet fond of ritual, posthumously titled Xiao De"
+shihao_xuzhigao_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Able to continue past achievements, governing the state and establishing a reputation, posthumously titled Guangwen Suwu Xiao Gao Huangdi"                                     #徐知诰
+shihao_nantanglijing_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Broad-minded and virtuous, good governance benefiting the populace, posthumously titled Mingdao Chongde Wen Xuan Xiao"
+shihao_shengwu_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Wisdom and virtue lofty, strength with far-reaching influence, posthumously titled Shengwu"
+
+shihao_tianhuangda:0 "Tianhuang Da"
+shihao_nanhanzhongzong:0 "Wenwu Guangsheng Mingxiao" #南汉中宗刘晟
+shihao_wuzetian:0 "Zetian Dasheng"
+shihao_wulie:0 "Wulie"
+shihao_da:0 "Da"
+
+shihao_tianhuangda_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Stabilizing the people by law, following the example of Yao, posthumously titled Tianhuang Da"
+shihao_nanhanzhongzong_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Understanding the precedents, illuminating all directions, posthumously titled Wenwu Guangsheng Mingxiao"             #南汉中宗刘晟
+shihao_wuzetian_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Virtue resembling heaven and earth, practicing the way and transforming the people, posthumously titled Zetian Dasheng\n\nPosthumously titled Zetian Dasheng Empress. In the first year of the Tang Long period (710), it was changed to Empress Tian; in the first year of the Jingyun period (710), it was changed to Dasheng Empress Tian; in the first year of the Yanhe period (712), it was changed to Tianhou Shengdi; after a short while, it was changed to Shenghou; in the fourth year of Kaiyuan (716), it was changed to Zetian Empress; in the eighth year of Tianbao (749), the title Zetian Shunsheng Empress was added."                                    #武则天
+shihao_wulie_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Pacifying chaos and disorder, shining glory in military achievements, posthumously titled Wulie"                                                                        #孙坚
+shihao_da_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Following the law of heaven, virtue resembling heaven and earth, posthumously titled Da"
+
+shihao_zhaoxiaowu:0 "Zhaoxiaowu"
+shihao_minguowangxi:0 "Ruiwen Guangwu Ming Sheng Yuan De Long Dao Da Xiao"
+shihao_minguowangchang:0 "Shengshen Yingrui Wenming Guangwu Ying Dao Da Hong Xiao"
+
+shihao_zhaoxiaowu_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Virtue and achievements shining bright, cultivating worldly virtue, posthumously titled Zhaoxiaowu"
+shihao_minguowangxi_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Committed to great aspirations, illuminating all around, posthumously titled Ruiwen Guangwu Ming Sheng Yuan De Long Dao Da Xiao"
+shihao_minguowangchang_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] Able to pacify the populace, focusing on virtue without contention, posthumously titled Shengshen Yingrui Wenming Guangwu Ying Dao Da Hong Xiao"
+
+shihao_xizu_song:0 "Establishing the Way and laying the foundation, accumulating virtue and achieving merit, admirable in literature, constitutional in warfare, wise and harmonious to deep filial piety"
+shihao_shunzu_song:0 "Huiyuan Rui Ming"
+shihao_yizu2_song:0 "Jian Gong Rui De"
+shihao_xuanzu_song:0 "Zhaowu Rui De"
+shihao_zhenzong_song:0 "Ying Fu Ji Gu Shen Gong Rang De Wenming Wu Ding Zhang Sheng Yuan Xiao"
+shihao_renzong_song:0 "Practicing the way of heaven, achieving utmost virtue in all endeavors, documented in holy literature, Shengwu Rui Zhe Ming Xiao"
+shihao_yingzong_song:0 "Applying the principles of the universe, achieving great accomplishments and vast virtue, documented in literature, Wu Sheng Zhen Xiao"
+shihao_shenzong_song:0 "Inheriting the way of heaven, practicing ancient virtues, achieving successes in the sacred and martial, with diligent kindness and filial piety"
+shihao_zhezong_song:0 "Constitutional virtue succeeding the way, demonstrating achievements with excellence, ordinary in literature, wise and authoritative"
+shihao_huizong_song:0 "Inheriting divine principles, structured virtue, documented great achievements, gentle and virtuous, showing filial piety"
+shihao_qinzong_song:0 "Respectful literature and compliant virtue, kind and filial emperor"
+shihao_gaozong_song:0 "Authorized revival, perfecting great virtue, sacred, martial, literary, and dignified"
+shihao_xiaozong_song:0 "Inheriting unity, upholding the way, crowned virtue, achieving merit through wisdom, martial and saintly, achieving filial piety"
+shihao_guangzong_song:0 "Following the way, constitutional kindness, declaring brilliance through virtue, warm and gentle, holding to civiil dignity"
+shihao_ningzong_song:0 "Law of heaven providing for the people, honoring the virtuous and valuing righteousness"
+shihao_lizong_song:0 "Establishing principles in implementation, treating complexity without disturbance, achieving great deeds and restoration"
+shihao_duzong_song:0 "Maintaining laws, caring for the people with tolerance, documenting civic and martial brilliance"
+shihao_duanzong_song:0 "Holding to etiquette and justice, resolute and pure of heart"
+shihao_modi_song:0 "In solitude early, facing trials in the state, posthumously titled Huizong Gong Wen Ning Wu Ai Xiao\n\nHan Lin’er posthumously honored him as Huizong Gong Wen Ning Wu Ai Xiao Emperor."
+
+shihao_zhuangjing:0 "Zhuangjing"
+shihao_jianxian:0 "Jianxian"
+shihao_xuanjian:0 "Xuanjian"
+shihao_taizu_liao:0 "Dasheng Daming Shenlie Tian"
+shihao_taizong_liao:0 "Xiao Wu Hui Wen"
+shihao_yizong_liao:0 "Wenxian Qin Yi"
+shihao_shizong_liao:0 "Xiao He Zhuang Xian"
+shihao_lihu_liao:0 "Zhangsu"                             #耶律李胡
+shihao_muzong_liao:0 "Xiao An Jing Zheng"
+shihao_jingzong_liao:0 "Xiao Cheng Kang Jing"
+shihao_shengzong_liao:0 "Wenwu Da Xiao Xuan"
+shihao_xingzong_liao:0 "Shengsheng Xiao Zhang"

@@ -1,0 +1,183 @@
+shihao_ruizong_yuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 业成无兢，克定祸乱，被尊称“也可那颜”，谥曰仁圣景襄\n\n（蒙哥汗追谥为英武皇帝。元世祖改谥景襄皇帝，庙号睿宗。元武宗增谥为仁圣景襄皇帝）"
+shihao_taizong_yuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 明识大略，经纬天地，尊号“木亦坚汗”，谥曰英文\n\n（元世祖追谥）"
+shihao_dingzong_yuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 至德临下，布纲治纪，谥曰简平\n\n（元世祖追谥）"
+shihao_xianzong1_yuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 武定四方，身正人服，谥曰桓肃\n\n（元世祖追谥）"
+shihao_shizu_yuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 经纬天地，德覆万物，尊号“薛禅汗”，谥曰圣德神功文武"
+shihao_yuzong_yuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 宽仁得众，仁惠克广，谥曰文惠明孝\n\n（元成宗追谥）"
+shihao_chengzong_yuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 安民立政，内德纯备，尊号“完泽笃汗”，谥曰钦明广孝"
+shihao_shunzong_yuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 慈和遍服，德容如玉，谥曰昭圣衍孝\n\n（元武宗追谥）"
+shihao_wuzong_yuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 刚强直理，威强睿德，谥曰曲律汗、仁惠宣孝"
+shihao_renzong_yuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 慈民爱物，体元立极，谥曰普颜笃汗、圣文钦孝"
+shihao_yingzong_yuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 德华茂著，明识大略，谥曰格坚汗、睿圣文孝"
+shihao_xianzong_yuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 圣德昭临，受禄于天，谥曰光圣仁孝\n\n（元泰定帝追谥，元文宗时剥夺）"
+shihao_wenzong_yuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 愍民惠礼，帝德运广，谥曰札牙笃汗、圣明元孝"
+shihao_mingzong_yuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 照临四方，任贤致远，谥曰忽都笃汗、翼献景孝"
+shihao_ningzong_yuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 裕以安民，渊衷湛一，谥曰冲圣嗣孝"
+shihao_huizong_yuan_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 慈仁和民，智能翼君，尊号“乌哈笃汗”，谥曰顺\n\n（明太祖追谥）"
+
+
+
+
+hongnonghuaiwang:0 "弘农怀王"
+hongnonghuaiwang_desc:0 "被董卓废黜，次年被害"
+
+anlesigong:0 "安乐思公"
+
+shaolingligong:0 "邵陵厉公"
+shaolingligong_desc:0 "司马师废曹芳为齐王。西晋建立后，册封邵陵县公。死后谥号“厉”"
+
+gaoguixianggong:0 "废"
+gaoguixianggong_desc:0 "高贵乡公才同陈思，武类太祖。哀哉，哀哉。"
+
+yuandichenliuwang:0 "元"
+yuandichenliuwang_desc:0 "降封为陈留王。年五十八，大安元年崩，谥曰元皇帝。\n\n奂知鼎命已移，垂拱仰成，永终天禄，甘于亡灭，孝献之流尔。"
+
+haixigong:0 "海西公"
+haixigong_desc:0 "大司马桓温所废，降封东海王，后又降封海西县公"
+
+yulinwang:0 "废"               #郁林王萧昭业
+yulinwang_desc:0 "遇害后，萧鸾以皇太后名义下诏，追贬萧昭业为郁陵王。\n\n十愆有一，无国不失。郁林负荷，弃礼亡律。"
+
+hailinggongwang:0 "废"            #海陵王萧昭文
+hailinggongwang_desc:0 "萧鸾拥立的傀儡，后降封海陵王\n\n穆穆海陵，因亡代兴。不先不后，遭命是膺。"
+
+donghunhou:0 "废"              #东昏侯萧宝卷
+donghunhou_desc:0 "萧衍掌权后，褫夺萧宝卷帝号，贬为涪陵王，后依汉海昏侯故事再贬为东昏侯\n\n东昏慢道，匹癸方辛。乃隳典则，乃弃彝伦，玩习兵火，终用焚身。"
+
+huaiyinwang:0 "淮阴王"
+huaiyinwang_desc:0 "侯景废萧纲，立萧栋为帝。后接受禅让，降封萧栋为淮阴王"
+
+jiananwang:0 "建安王"
+jiananwang_desc:1 "陈霸先废黜，降为建安王，萧庄追谥“闵”！"
+
+jiangyinwang:0 "敬"          #萧方智
+jiangyinwang_desc:1 "敬帝遭家不造，绍兹屯运，征伐有所自出，政刑不由于己，时无伊、霍之辅，焉得不为高让欤？"
+
+yingyangwang:0 "少"
+yingyangwang_desc:0 "被权臣徐羡之、谢晦等人所废，降为营阳王。\n\n社稷将坠，岂可复嗣守洪业，君临万邦。今废为营阳王，一依汉昌邑、晋海西故事。 "
+
+yuanxiong:0 "伪"
+yuanxiong_desc:1 "元凶邵“穷弑极逆，开辟未闻”"
+
+liuziye:0 "废"
+liuziye_desc:0 "宋前废帝詈辱祖考，行秽禽兽。武王数殷纣之衅，不能挂其万一。"
+
+liuyu:0 "废"
+liuyu_desc:0 "宋后废帝暴戾酷虐，藏玺怀绂，鱼服忘反，霣社残宗，污宫潴庙。"
+
+shundiruyinwang:0 "顺"        #宋顺帝刘准
+shundiruyinwang_desc:0 "齐王践阼，封为汝阴王，待以不臣之礼。后殂于丹阳宫，时年十三。谥曰顺帝。"
+
+linhaiwang:0 "废"                  #陈临海王
+linhaiwang_desc:0 "临海懦弱，有同于帝挚，文后虽欲不鉴殷道，盖亦其可得邪？"
+
+chenshubao:0 "长城炀公"
+chenshubao_desc:0 "丽宇芳林对高阁，新装艳质本倾城。\n映户凝娇乍不进，出帷含态笑相迎。\n妖姬脸似花含露，玉树流光照后庭。"
+
+beixianghou:0 "少"#汉少帝刘懿
+beixianghou_desc:0 "汉顺帝继位后不承认刘懿的正统性，以诸侯之礼下葬。因此也有史家不将刘懿计入东汉皇帝，称济北王。"
+
+bawang1:0 "僭"
+bawang2:0 "汝南王"
+bawang3:0 "楚王"
+bawang4:0 "齐王"
+bawang5:0 "长沙王"
+bawang6:0 "成都王"
+bawang7:0 "河间王"
+bawang8:0 "东海王"
+bawang1_desc:1 "赵王司马伦实下愚，敢窃龙图，乱常奸位，遄及严诛。"
+bawang2_desc:1 "毋庸置疑，[CHARACTER.GetShortUINameNoTooltipNoFormat] 才应该是晋朝真正的主人！"
+bawang3_desc:1 "毋庸置疑，[CHARACTER.GetShortUINameNoTooltipNoFormat] 才应该是晋朝真正的主人！"
+bawang4_desc:1 "毋庸置疑，[CHARACTER.GetShortUINameNoTooltipNoFormat] 才应该是晋朝真正的主人！"
+bawang5_desc:1 "毋庸置疑，[CHARACTER.GetShortUINameNoTooltipNoFormat] 才应该是晋朝真正的主人！"
+bawang6_desc:1 "毋庸置疑，[CHARACTER.GetShortUINameNoTooltipNoFormat] 才应该是晋朝真正的主人！"
+bawang7_desc:1 "毋庸置疑，[CHARACTER.GetShortUINameNoTooltipNoFormat] 才应该是晋朝真正的主人！"
+bawang8_desc:1 "毋庸置疑，[CHARACTER.GetShortUINameNoTooltipNoFormat] 才应该是晋朝真正的主人！"
+
+sunce:0 "长沙桓王"
+
+liaodongxianggong:0 "辽东襄公"
+
+yueliwang:0 "越厉王"
+yueliwang_desc:0 "苻坚即位，称大秦天王。废苻生为越王，死后谥“厉”"
+
+daiwang:0 "代王"
+
+nananyinwang:0 "废"
+nananyinwang_desc:0 "南安隐王"
+
+yuanqin:0 "废"
+yuanqin_desc:0 "元钦谋宇文泰，事泄被废"
+
+gaoyin:0 "济南闵悼王"
+gaoyin:0 "常山王高演兵变篡位，娄太后下旨废高殷为济南王"
+
+wuchoutianzi:0 "无愁天子"
+wuchoutianzi_desc:0 "巧笑知堪敌万几，倾城最在著戎衣。\n晋阳已陷休回顾，更请君王猎一围。"
+
+wenguogong:0 "温国公"
+
+zhuyougui:0 "伪"        #朱友珪
+zhuyougui_desc:0 "弑父自立，行道无度，臣民不附"
+
+zhuyouzhen:0 "末"                           #朱友贞
+
+licongke:0 "末"                                  #李从珂
+
+xiangyingong:0 "湘阴公"
+
+wangyan:0 "后主"                     #后主王衍
+
+mengchang:0 "后主"                 #后主孟昶
+
+fuyihou:0 "负义侯"
+fuyihou_desc:0 "降辽后被封为负义侯"
+
+nanhanhouzhu:0 "后主"            #南汉后主
+
+sunliang:0 "会稽王"
+
+sunhao:0 "归命侯"
+sunhao_desc:0 "皓穷凶极恶，卒陨其业，非不幸也。"
+
+weiminghou:0 "违命侯"                                                        #李煜
+weiminghou_desc:0 "无言独上西楼，月如钩。 寂寞梧桐深院锁清秋。剪不断，理还乱，是离愁。别是一般滋味在心头。"
+
+yuanyitaizi:0 "元懿太子"
+
+songgongdi:0 "恭"
+songgongdi_desc:0 "降元后降封瀛国公。宋端宗上尊号孝恭懿圣皇帝。死后元朝上谥号恭皇帝，韩林儿上谥号法宗章文敬武睿孝皇帝。"
+
+
+xiaoyanyan:0 "圣神宣献皇后"
+xiaoyanyan_desc:0 "初谥圣神宣献皇后，后辽兴宗更谥为睿智皇后"
+
+hailingwang:0 "废"
+hailingwang_desc:0 "被弑后降封为海陵郡王，谥号为炀。后又废为海陵庶人。\n\n万里车书一混同，江南岂有别疆封？提兵百万西湖上，立马吴山第一峰！——海陵王完颜亮"
+
+weishaowang:0 "废"
+weishaowang_desc:0 "被弑后降封为东海郡侯，后又追复为卫王，谥曰绍\n\n我谓中原皇帝是天上人做，此等庸懦亦为之耶？！——孛儿只斤·铁木真"
+
+
+dewang:0 "德王"
+liangwuzhaowang:0 "凉武昭王"
+xilianghouzhu:0 "凉后主"
+
+
+###########################
+########################彩蛋
+###########################
+
+
+shengping:0 "升平"
+pingyang:0 "平阳"
+taipinggongzhu:0 "太平"
+yanglihua:0 "乐平"
+
+huangchao:0 "冲天大将军"
+huangchao_desc:0 "待到秋来九月八，我花开尽百花杀。冲天香阵透长安，满城尽带黄金甲。"
+
+dazhongzai:0 "大冢宰"
+dazhongzai_desc:0 "有周受命之始，宇文护实预艰难。及文后崩殂，诸子冲幼，群公怀等夷之士，天下有去就之心，卒能变魏为周，捍危获义者，护之力也。然护寡于学术，昵近群小，威福在已，征伐自出，有人臣无君之心，为人主不堪之事，终于妻子为戮，身首横分，盖其宜也。"
+
+lanlingwang:0 "兰陵王"
